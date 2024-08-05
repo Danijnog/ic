@@ -1,0 +1,96 @@
+"message_id","message","message_utc","from_id","date","time"
+"534361","Veja está instalado o totem, gstreamer e o ffmpegthumbnailer","2023-01-18 00:06:46","883083059","2023-01-18","00:06:46"
+"534374","instalei a ultima iso do manjaro","2023-01-18 00:37:11","1586531589","2023-01-18","00:37:11"
+"534375","está dizendo: falha ao sincronizar a base de dados","2023-01-18 00:37:46","1586531589","2023-01-18","00:37:46"
+"534376","impossível travar base de dados.","2023-01-18 00:38:00","1586531589","2023-01-18","00:38:00"
+"534377","A base de dados pode estar sendo usada por alguma outra coisa","2023-01-18 00:46:15","883083059","2023-01-18","00:46:15"
+"534386","Show, bacana!","2023-01-18 00:49:31","883083059","2023-01-18","00:49:31"
+"534387","Por que o LibreWolf não está nos pacotes?","2023-01-18 02:38:42","5132661108","2023-01-18","02:38:42"
+"534388","Instalei por .AppImage","2023-01-18 02:38:58","5132661108","2023-01-18","02:38:58"
+"534407","Desktop notebook","2023-01-18 15:16:56","25962582","2023-01-18","15:16:56"
+"534408","Ambiente Desktop","2023-01-18 15:17:02","25962582","2023-01-18","15:17:02"
+"534409","Configurações do pc","2023-01-18 15:17:09","25962582","2023-01-18","15:17:09"
+"534410","Cabo que tá usando","2023-01-18 15:17:17","25962582","2023-01-18","15:17:17"
+"534411","https://t.me/manjarobrasiloficial/527732/527737","2023-01-18 15:17:40","25962582","2023-01-18","15:17:40"
+"534362","Conseguiu? Porque eu tô com a versão completa e está funcionando, se for a versão minimal provavelmente está faltando alguma coisa","2023-01-18 00:18:24","883083059","2023-01-18","00:18:24"
+"534363","Como não ligo pra esses detalhes eu não sei dizer ao certo o que faz aparecer a thumbnail de vídeo tirando os pacotes que enviei","2023-01-18 00:19:47","883083059","2023-01-18","00:19:47"
+"534364","O ffmpegthumbnailer","2023-01-18 00:25:15","25962582","2023-01-18","00:25:15"
+"534365","Caramba, acertaram em cheio","2023-01-18 00:25:21","5132661108","2023-01-18","00:25:21"
+"534366","Esse mermo","2023-01-18 00:25:49","883083059","2023-01-18","00:25:49"
+"534367","Baixei a versão Minimal.
+Com a dica de vocês, rodei:
+pacman -S ffmpegthumbnailer totem gstreamer
+Agora a thumbnail nos vídeos voltou a fucionar","2023-01-18 00:26:25","5132661108","2023-01-18","00:26:25"
+"534368","Agradecimentos!","2023-01-18 00:26:35","5132661108","2023-01-18","00:26:35"
+"534369","Manjaro em modo mínimo não me faz muito sentido economizar em pacotes que são essenciais","2023-01-18 00:27:25","25962582","2023-01-18","00:27:25"
+"534370","Modo mínimo podia ser a base + DE pura","2023-01-18 00:27:55","25962582","2023-01-18","00:27:55"
+"534371","Eu não considero esse em especial essencial","2023-01-18 00:33:18","883083059","2023-01-18","00:33:18"
+"534372","Tem uns que realmente não fazem sentido","2023-01-18 00:33:27","883083059","2023-01-18","00:33:27"
+"534373","boa noite","2023-01-18 00:37:02","1586531589","2023-01-18","00:37:02"
+"534379","No2 [5852575405] para participar neste grupo, defina, nas configurações do Telegram, um nome de usuário e clique em ""Feito!"". 
+Ação: Silenciado 🔇","2023-01-18 00:46:36","5298578702","2023-01-18","00:46:36"
+"534380","Tenta removendo o banco de dados","2023-01-18 00:46:40","883083059","2023-01-18","00:46:40"
+"534381"," sudo rm /var/lib/pacman/db.lock
+e atualiza","2023-01-18 00:47:24","883083059","2023-01-18","00:47:24"
+"534382","Obrigado","2023-01-18 00:47:37","1586531589","2023-01-18","00:47:37"
+"534383","Agradece só se funcionar kkkkkkj as vezes é outra coisa","2023-01-18 00:49:14","883083059","2023-01-18","00:49:14"
+"534384","Deu certo","2023-01-18 00:49:16","1586531589","2023-01-18","00:49:16"
+"534385","Obrigado","2023-01-18 00:49:23","1586531589","2023-01-18","00:49:23"
+"534391","Henry [5659224679] para participar neste grupo, defina, nas configurações do Telegram, um nome de usuário e clique em ""Feito!"". 
+Ação: Silenciado 🔇","2023-01-18 08:16:47","5298578702","2023-01-18","08:16:47"
+"534392","🌒 MODO NOTURNO ENCERRADO
+
+✅ De agora em diante, os usuários podem enviar novamente mídia (fotos, vídeos, arquivos...) e links no grupo.","2023-01-18 09:00:11","5298578702","2023-01-18","09:00:11"
+"534397","🆔 ID: 780882332
+👱 Nome: Warlxton Maia
+🌐 Username: @Wxmaia
+👀 Situação: Membro silenciado
+❕ Advertência: 0/3
+⤵️ Entrada: 10/01/23 11:40
+🇵🇹 Idioma: Portuguese
+💬 Mensagens: 449
+💭 Última Mensagem: 
+18/01/23 10:19
+
+~ User não esta silenciado","2023-01-18 13:28:39","5298578702","2023-01-18","13:28:39"
+"534398","bom dia","2023-01-18 13:31:50","780882332","2023-01-18","13:31:50"
+"534399","Bom dia Pessoal","2023-01-18 13:32:38","780882332","2023-01-18","13:32:38"
+"534395","✅ Processo de Remover contas apagadas (4) concluído.","2023-01-18 13:27:51","5298578702","2023-01-18","13:27:51"
+"534406","Tá faltando informações","2023-01-18 15:16:48","25962582","2023-01-18","15:16:48"
+"534400","pessoal, estou usndo m monitor de 15 pol como secundário e uma tv de 43 pol como monitor principal, se colocar uma resolução acima dee 800 x 600 a tv fica piscando  muito não dá pra usar, nessa resolução ela demora mais pra piscar. Se eu usar ( como pretendo) só a TV, desconectar o monitor fica piscando muito não dá pra usar. Para resolver isso teria que ter algum drive? ou seria memória ram?","2023-01-18 13:33:56","780882332","2023-01-18","13:33:56"
+"534401","bom dia, aqui é para assuntos que spmente envolve o ambiente de desktop Plasma, coisas relacionadas ao manjaro de modo geral, no tópido geral","2023-01-18 13:34:02","25962582","2023-01-18","13:34:02"
+"534402","tá certo, obrigado","2023-01-18 13:35:50","780882332","2023-01-18","13:35:50"
+"534403","Dragon Age Inquisition em AppImage 64bits. SE estiver com uma distro para users iniciantes tipo ubuntu,fedora,manjaro,opensuse tw e derivados é só baixar e jogar.","2023-01-18 13:45:09","1586531589","2023-01-18","13:45:09"
+"534404","Pessoal, bom dia.
+Existe alguma forma de fazer o Alt+F2 reconhecer um ALIAS do bashrc?","2023-01-18 13:57:28","682848142","2023-01-18","13:57:28"
+"534405","Olha as regras de pedir ajuda","2023-01-18 15:16:43","25962582","2023-01-18","15:16:43"
+"534421","Ssh","2023-01-18 20:28:30","25962582","2023-01-18","20:28:30"
+"534430","Mas acredito que seja parecido com o unzip","2023-01-18 20:36:18","650985146","2023-01-18","20:36:18"
+"534431","Tenso","2023-01-18 20:36:38","682848142","2023-01-18","20:36:38"
+"534432","🤔","2023-01-18 20:38:50","650985146","2023-01-18","20:38:50"
+"534442","A primeira vez que instalei o manjaro tbm foi a Full se não me engano, não conhecia o sistema então achei melhor","2023-01-18 21:32:30","883083059","2023-01-18","21:32:30"
+"534443","Depois fui pra minimal porque já conhecia os software que queria instalar e como configurar","2023-01-18 21:33:02","883083059","2023-01-18","21:33:02"
+"534444","Entendi amigo, vou fazer um teste instalando ela. Ele tá até rápido na minha máquina, mas tem um atraso na hora de abrir os aplicativos apenas isso!","2023-01-18 21:33:37","147705440","2023-01-18","21:33:37"
+"534418","Pessoal, que programa posso usar para Acessar o Manjaro de outro Linux??","2023-01-18 19:18:59","682848142","2023-01-18","19:18:59"
+"534414","Obrigado campeão","2023-01-18 16:38:32","682848142","2023-01-18","16:38:32"
+"534412","Obrigado pelas regras.  😄","2023-01-18 15:56:53","780882332","2023-01-18","15:56:53"
+"534413","Procure por gnome command dialog, mas já vou dizendo que o intuito desse atalho não é pra executar qualquer tipo de comando, ela é bem diferente de um dmenu ou rofi","2023-01-18 16:21:14","883083059","2023-01-18","16:21:14"
+"534420","Digita no tópico geral, aqui é exclusivamente para tópicos do ambiente KDE Plasma","2023-01-18 20:28:08","25962582","2023-01-18","20:28:08"
+"534422","@jose_rafael , tu postou no grupo dos ADMs um link do Github com as ISOs mais atualizadas do Manjaro. Eu baixei e não consegui descompactar.
+
+Tu chegou a testar?
+
+(Escrevi aqui pq não dá pra escrever lá)","2023-01-18 20:29:13","25962582","2023-01-18","20:29:13"
+"534424","Eric, sua mensagem foi deletada, pois: tópico errado.","2023-01-18 20:29:24","5298578702","2023-01-18","20:29:24"
+"534425","@ericlppz vc vai ter que usar um programa chamado peaZip","2023-01-18 20:29:48","25962582","2023-01-18","20:29:48"
+"534426","Pra extrair são 2 arquivos o .zip e o .zip.z01","2023-01-18 20:30:06","25962582","2023-01-18","20:30:06"
+"534427","👍","2023-01-18 20:34:40","650985146","2023-01-18","20:34:40"
+"534428","Amigos boa tarde, a versão minimal do Manjaro q tem no site. O q vem a menos da ISO full ?","2023-01-18 20:35:33","147705440","2023-01-18","20:35:33"
+"534429","Neste link que tu enviou não tem essas instruções.","2023-01-18 20:36:02","650985146","2023-01-18","20:36:02"
+"534434","Treasure [5939670989] para participar neste grupo, defina, nas configurações do Telegram, um nome de usuário e clique em ""Feito!"". 
+Ação: Silenciado 🔇","2023-01-18 20:40:18","5298578702","2023-01-18","20:40:18"
+"534437","Não tem mesmo não,  tu teria que usar terminal pra descompactar, tô dando opção usando uma gui","2023-01-18 21:04:09","25962582","2023-01-18","21:04:09"
+"534438","A versão minimal vem com menos pacotes incluídos na ISO em relação a Full. Os pacotes padrões do manjaro vem nas duas, como o manjaro-settings e outros.","2023-01-18 21:25:52","883083059","2023-01-18","21:25:52"
+"534439","Entendi, acha q pode ter um ganho em desempenho na mínima ?","2023-01-18 21:26:31","147705440","2023-01-18","21:26:31"
+"534440","Vai ter menos serviços logo você pode ter um boot mais rápido, como tem menos software menos espaço vai ocupar. A escolha vai depender do seu uso.","2023-01-18 21:30:31","883083059","2023-01-18","21:30:31"
+"534441","Quando eu crio a máquina virtual pra ajudar a galera geralmente uso a Full pra não faltar nada","2023-01-18 21:31:05","883083059","2023-01-18","21:31:05"

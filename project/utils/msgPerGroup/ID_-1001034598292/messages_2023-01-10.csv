@@ -1,0 +1,38 @@
+"message_id","message","message_utc","from_id","date","time"
+"533542","Wut?","2023-01-10 02:27:20","1408704513","2023-01-10","02:27:20"
+"533539","Jameskie [5523787654] para participar neste grupo, defina, nas configurações do Telegram, um nome de usuário e clique em ""Feito!"". 
+Ação: Silenciado 🔇","2023-01-10 01:04:14","5298578702","2023-01-10","01:04:14"
+"533543","Sim, mas da pra migrar c poucos comandos, fiquei chocado o quao simples é, e como nao deu problema, trocando uma parte fundamental do sistema, tudo funcionar exatamente como tava, configurado antes sem ter os problemas de antes, tipo bluetooth por exemplo.","2023-01-10 02:30:45","1408704513","2023-01-10","02:30:45"
+"533544","🌒 MODO NOTURNO INICIADO
+
+❌ A partir deste momento, até 6 NENHUM USUÁRIO poderá enviar mídia (fotos, vídeos, arquivos...) e links no grupo.","2023-01-10 04:00:22","5298578702","2023-01-10","04:00:22"
+"533545","E quais comandos vc usou?","2023-01-10 04:48:00","137548578","2023-01-10","04:48:00"
+"533546","🌒 MODO NOTURNO ENCERRADO
+
+✅ De agora em diante, os usuários podem enviar novamente mídia (fotos, vídeos, arquivos...) e links no grupo.","2023-01-10 09:00:11","5298578702","2023-01-10","09:00:11"
+"533547","pamac install manjaro-pipewire wireplumber
+reboot","2023-01-10 10:04:44","1408704513","2023-01-10","10:04:44"
+"533551","apenas i3","2023-01-10 15:00:53","137548578","2023-01-10","15:00:53"
+"533552","Boa Tarde a todos, Tudo bem? Pessoal, Não sei se esse é o topico certo para perguntar mas: Uso o manjaro no Meu Notebook, tem alguma forma/metodo para Configurar a placa Onboard que tenho nela no Linux (No caso, gerenciar a placa de video, saber o quanto de VRAM ele tem, etc, igual no Windows, Uso Intel UHD Graphics)","2023-01-10 15:47:10","1033403007","2023-01-10","15:47:10"
+"533553","Boa tarde galera, como faço pra abrir um editor de texto no terminal da tela de login?","2023-01-10 16:41:21","420749386","2023-01-10","16:41:21"
+"533556","Boa tarde
+Alguém pode me ajudar com a instalação do driver Nvidia no meu notebook modelo Asus vivobook? Alguém tem um tutorial bacana para me passar","2023-01-10 17:23:39","2057905342","2023-01-10","17:23:39"
+"533564","sim, mas eu uso esse ambiente","2023-01-10 19:46:59","5891613102","2023-01-10","19:46:59"
+"533562","agradeço a ajuda desde já","2023-01-10 19:43:52","5891613102","2023-01-10","19:43:52"
+"533565","por isso vim especificamente aqui","2023-01-10 19:47:07","5891613102","2023-01-10","19:47:07"
+"533566","mas tudo bem, irei lá","2023-01-10 19:47:14","5891613102","2023-01-10","19:47:14"
+"533563","por favor, use o topico geral, aqui é exclusivamente para topicos relacionado ao ambiente KDE Plasma","2023-01-10 19:44:06","25962582","2023-01-10","19:44:06"
+"533559","boa tarde, meus amigos e amigas","2023-01-10 19:41:45","5891613102","2023-01-10","19:41:45"
+"533560","me tirem uma dúvida, quae sempre quando abro o pamac e vou pesquisar algum programa, o pc dá uns legs","2023-01-10 19:42:45","5891613102","2023-01-10","19:42:45"
+"533561","alguém sabe oq poderia ser isso?","2023-01-10 19:42:56","5891613102","2023-01-10","19:42:56"
+"533567","O pamac é o gerenciador de pacote do manjaro independente do ambiente que vc use","2023-01-10 20:00:03","25962582","2023-01-10","20:00:03"
+"533569","Atualize o sistema primeiro","2023-01-10 20:01:22","25962582","2023-01-10","20:01:22"
+"533570","Use um kernel LTS, 5.15 ou 6.1 de preferência","2023-01-10 20:01:46","25962582","2023-01-10","20:01:46"
+"533571","E instale o driver pelo gerenciador de driver do manjaro","2023-01-10 20:01:59","25962582","2023-01-10","20:01:59"
+"533572","eu sei, a questão é q algumas vezes o pc dá um minuto d leg quando eu abro o pamac com a interface kde e o msm n ocorria no gnome","2023-01-10 20:05:43","5891613102","2023-01-10","20:05:43"
+"533574","O plasma é mais leve que o Gnome, a questão aí, com certeza não é a interface gráfica. Eu uso i3wm,  e o pamac, embora eu não use com frequência, se eu começar a pesquisar programas ele trava e só consigo fechar com xkill. Prefiro usar pamac search via terminal","2023-01-10 23:12:12","137548578","2023-01-10","23:12:12"
+"533575","Obrigado pela ajuda, fiquei realmente sem entender oq tava ocorrendo","2023-01-10 23:13:42","5891613102","2023-01-10","23:13:42"
+"533576","@romeurqj no plasma a loja própria (Discover) não funciona?","2023-01-10 23:22:08","137548578","2023-01-10","23:22:08"
+"533577","Instalei ontem, ainda n tive tempo d mexer","2023-01-10 23:22:50","5891613102","2023-01-10","23:22:50"
+"533578","Mas vou olhar agora","2023-01-10 23:22:56","5891613102","2023-01-10","23:22:56"
+"533579","Muito obrigado pessoal, pela ajuda","2023-01-10 23:31:47","5891613102","2023-01-10","23:31:47"

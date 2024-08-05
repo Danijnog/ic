@@ -1,0 +1,54 @@
+"message_id","message","message_utc","from_id","date","time"
+"533195","Só depois ir na rede","2023-01-03 17:11:00","982242695","2023-01-03","17:11:00"
+"533180","Alguém poderia me ensinar a instalação da nvdia no manjaro? Meu computador foi pra assistência e agora fui tentar por um monitor e não deu saída de vídeo, nas configurações mostra que os drivers da placa não tão instalados e eu não manjo quais são os certos...","2023-01-03 01:45:46","599287980","2023-01-03","01:45:46"
+"533181","clica pra instalar na primeira opção hibrid","2023-01-03 01:48:04","25962582","2023-01-03","01:48:04"
+"533182","Só isso?","2023-01-03 02:07:46","599287980","2023-01-03","02:07:46"
+"533183","É","2023-01-03 02:13:22","25962582","2023-01-03","02:13:22"
+"533184","Queria algo mirabolante?","2023-01-03 02:13:33","25962582","2023-01-03","02:13:33"
+"533185","Não kkkkkk talvez
+Uma vez foram me explicar e tinha uma porrada de comandos que eu até tinha salvo num pdf, mas perdi o arquivo","2023-01-03 03:01:41","599287980","2023-01-03","03:01:41"
+"533190","Não consigo mais conectar o Plasma com a conta do Google para sincronizar o Drive, começou após a última atualização, alguém sabe como resolver ?","2023-01-03 15:22:21","982242695","2023-01-03","15:22:21"
+"533191","Nunca usei isso não","2023-01-03 15:26:26","25962582","2023-01-03","15:26:26"
+"533192","Não é difícil","2023-01-03 15:28:41","25962582","2023-01-03","15:28:41"
+"533193","Uma dúvida é possível que uma interface no Manjaro funcione melhor com drivers de impressora do que a outra? Porque eu usava o Manjaro XFCE (iso full) e a minha impressora via WIFI funcionava numa boa. Fui tentar usar o Manjaro KDE (iso full) Plasma e ele não reconheceu minha impressora na rede. Usei o Kubuntu e a impressoa funcionou.","2023-01-03 16:54:16","1996608824","2023-01-03","16:54:16"
+"533194","Tem que instalar os drivers específicos da impressora","2023-01-03 17:10:49","982242695","2023-01-03","17:10:49"
+"533196","Eu fiz isso","2023-01-03 17:59:20","1996608824","2023-01-03","17:59:20"
+"533197","Só no XFCE funcionou","2023-01-03 17:59:42","1996608824","2023-01-03","17:59:42"
+"533198","Fiz pelo PAMAC","2023-01-03 18:00:04","1996608824","2023-01-03","18:00:04"
+"533199","eu nao sei o pq, esse problema da impressora é antigo com ambiente plasma aqui no manjaro","2023-01-03 18:36:07","25962582","2023-01-03","18:36:07"
+"533200","Agr está conectando a conta, mas dá esse erro","2023-01-03 18:58:08","982242695","2023-01-03","18:58:08"
+"533201","Instalei um monte de pacote KDE Telephaty","2023-01-03 18:58:20","982242695","2023-01-03","18:58:20"
+"533202","Essa atualização só trouxe bug","2023-01-03 18:58:30","982242695","2023-01-03","18:58:30"
+"533203","Antes estava funcionando normalmente","2023-01-03 18:58:38","982242695","2023-01-03","18:58:38"
+"533206","boa noite.","2023-01-03 22:14:05","1586531589","2023-01-03","22:14:05"
+"533207","alguém saberia explicar o porque o zenity foi removido do manjaro?","2023-01-03 22:14:59","1586531589","2023-01-03","22:14:59"
+"533208","eu distribuo muitos appimages e eles tem um gráfico simples de configuração . agora eles não funcionam mais e o user tem que manualmente instalar o zenity.","2023-01-03 22:15:59","1586531589","2023-01-03","22:15:59"
+"533209","parece que trocaram pelo o yad que na minha opinião foi uma decisão acertada mas agora terei que atualizar mais de 300 appimages de jogos de windows dentro.","2023-01-03 22:16:58","1586531589","2023-01-03","22:16:58"
+"533210","podem dizer se isso é passageiro e vai voltar em uma próxima versão ou atualização ou isso é permanente?","2023-01-03 22:17:34","1586531589","2023-01-03","22:17:34"
+"533211","estou meio desesperado. kk","2023-01-03 22:17:40","1586531589","2023-01-03","22:17:40"
+"533212","bom","2023-01-03 22:18:36","1586531589","2023-01-03","22:18:36"
+"533213","o problema deve estar nas dependências","2023-01-03 22:18:52","1586531589","2023-01-03","22:18:52"
+"533214","Eu empacoto jogos de windows em AppImage para Linux mas e tenho suportar debian/ubuntu/manjaro  (não recentemente porque removeram o zenity). quando é um jogo de 64bits , executa direto. Quando é um jogo de 32bits tem que instalar as Dependências de 32bits para rodar os jogos e programas de 32bits.","2023-01-03 22:20:37","1586531589","2023-01-03","22:20:37"
+"533215","o jeito mais fácil de instalar as dependências para jogos é instalar o wine. Mas como meus appimages já tem o wine dentro eu só passo os comandos de selecionar as dependências uma por uma sem o wine.","2023-01-03 22:21:16","1586531589","2023-01-03","22:21:16"
+"533216","Aqui deixarei o comando de adicionar dependência por dependência sem o wine. Os jogos nativos de Linux que são de 32bits usam as mesmas dependências que o wine usa então é de boa. depois de instaladas ele vai ficar como no windows, 2 arquiteturas sendo a principal 64bits e a secundária de 32bits e assim poderá rodar jogos das duas arquiteturas.","2023-01-03 22:21:46","1586531589","2023-01-03","22:21:46"
+"533217","sudo pacman -Sy --asdeps --needed zenity faudio lib32-faudio libpulse lib32-libpulse alsa-plugins lib32-alsa-plugins lib32-gst-plugins-base-libs gst-plugins-base-libs lib32-v4l-utils v4l-utils lib32-vkd3d vkd3d lib32-ocl-icd ocl-icd lib32-glu glu acl lib32-acl lib32-attr attr gettext lib32-gettext lib32-libnl libnl lib32-libpcap libcap lib32-sdl2_image sdl2_image lib32-sdl2_ttf sdl2_ttf lib32-sdl2_mixer sdl_mixer sdl2_net lib32-libidn11 libidn11 lib32-libva libva lib32-libxslt libxslt lib32-libxss libxss lib32-openal openal lib32-vulkan-intel vulkan-intel lib32-vulkan-radeon vulkan-radeon lib32-vulkan-validation-layers vulkan-validation-layers","2023-01-03 22:21:53","1586531589","2023-01-03","22:21:53"
+"533218","Essa dependências são  também dependem de outras e quando forem instaladas puxarão tudo que precisa","2023-01-03 22:22:06","1586531589","2023-01-03","22:22:06"
+"533219","sobre isso queria perguntar algo porque estou meio desesperado aqui.","2023-01-03 22:25:22","1586531589","2023-01-03","22:25:22"
+"533220","alguém saberia explicar o porque o zenity foi removido do manjaro?
+
+eu distribuo muitos appimages e eles tem um gráfico simples de configuração . agora eles não funcionam mais e o user tem que manualmente instalar o zenity.
+
+parece que trocaram pelo o yad que na minha opinião foi uma decisão acertada mas agora terei que atualizar mais de 300 appimages de jogos de windows dentro.
+
+podem dizer se isso é passageiro e vai voltar em uma próxima versão ou atualização ou isso é permanente?","2023-01-03 22:26:09","1586531589","2023-01-03","22:26:09"
+"533221","geralmente isso não tem haver com a interface diretamente e sim com uma ou outra dependência que essa interface demanda. o XFCE deve ter alguma dependência que ""Colaborou"" com sua impressora que a outra interface gráfica não tinha. o negócio é estudar as dependências do xfce e as instalar na outra interface. lembrando que as dependências são compartilhadas então todas elas independente da interface devem estar no repositório.","2023-01-03 22:29:28","1586531589","2023-01-03","22:29:28"
+"533222","Eu não faço ideia pois não uso esses pacotes","2023-01-03 23:06:32","883083059","2023-01-03","23:06:32"
+"533223","Mas não era pra dar problema já que um é fork do outro","2023-01-03 23:06:49","883083059","2023-01-03","23:06:49"
+"533224","Boa noite
+
+Normalmente, e em todos os sistemas, quando é feito uma troca de aplicativo por algum motivo, o antigo não volta mais.
+Pô menos eu, nunca vi alguém voltar atrás nisso.
+
+Então ou tu instala o aplicativo antigo ou faz adaptação do que tu usa pro novo","2023-01-03 23:09:45","465789308","2023-01-03","23:09:45"
+"533227","Martha Hamilton [5823897822] para participar neste grupo, defina, nas configurações do Telegram, um nome de usuário e clique em ""Feito!"". 
+Ação: Silenciado 🔇","2023-01-03 23:48:21","5298578702","2023-01-03","23:48:21"

@@ -1,0 +1,184 @@
+"message_id","message","message_utc","from_id","date","time"
+"534281","E na instalação, coloco btfrs e swap ( sem hibernação )","2023-01-17 14:51:49","147705440","2023-01-17","14:51:49"
+"534307","Sera q é esse o problema?","2023-01-17 15:19:58","147705440","2023-01-17","15:19:58"
+"534308","Manjaro não tem como manter secure boot por conta de roling relase","2023-01-17 15:20:24","25962582","2023-01-17","15:20:24"
+"534309","Era pra ter desativado a anos kkkkkkj","2023-01-17 15:20:38","883083059","2023-01-17","15:20:38"
+"534328","Driver da nvidia do windows 10 é o mesmo do 11","2023-01-17 17:49:50","883083059","2023-01-17","17:49:50"
+"534353","Ou seja não tem Hibernação com zram","2023-01-17 21:04:41","25962582","2023-01-17","21:04:41"
+"534354","Ah","2023-01-17 21:04:57","883083059","2023-01-17","21:04:57"
+"534355","Faz sentido","2023-01-17 21:05:00","883083059","2023-01-17","21:05:00"
+"534356","Boiei","2023-01-17 21:05:02","883083059","2023-01-17","21:05:02"
+"534359","Alguém aqui já teve problema com thumbnail?","2023-01-17 23:21:40","5132661108","2023-01-17","23:21:40"
+"534360","Com vídeo simplesmente não aparece","2023-01-17 23:21:50","5132661108","2023-01-17","23:21:50"
+"534200","Tenho dessas meia boca mas n vale a pena","2023-01-17 00:05:21","883083059","2023-01-17","00:05:21"
+"534201","Eu tento trocar de 6 em 6 meses que é quando eu dou uma limpezinha melhor no note","2023-01-17 00:06:08","883083059","2023-01-17","00:06:08"
+"534202","Que alias já está no momento","2023-01-17 00:06:51","883083059","2023-01-17","00:06:51"
+"534203","O amigo logo acima parece que estava com problema similar, durante a instalação reiniciava, mas ele  conseguiu instalar","2023-01-17 00:10:27","883083059","2023-01-17","00:10:27"
+"534204","Eu peguei e instalei recentemente e não tive problemas","2023-01-17 00:11:13","883083059","2023-01-17","00:11:13"
+"534205","Será q ele ficou tentando até dar certo ?","2023-01-17 00:13:30","147705440","2023-01-17","00:13:30"
+"534199","Verdade, eu paguei na minha 120","2023-01-17 00:05:00","883083059","2023-01-17","00:05:00"
+"534207","Amy Wallace [5525034540] para participar neste grupo, defina, nas configurações do Telegram, um nome de usuário e clique em ""Feito!"". 
+Ação: Silenciado 🔇","2023-01-17 00:13:40","5298578702","2023-01-17","00:13:40"
+"534208","Ele disse que após remover o Ubuntu deu certo","2023-01-17 00:14:12","883083059","2023-01-17","00:14:12"
+"534209","Sinceramente não da pra dizer o que foi","2023-01-17 00:14:22","883083059","2023-01-17","00:14:22"
+"534222","Tive que instalar o mint pra depois instalar o Manjaro, negócio trabalhoso","2023-01-17 00:46:16","676423297","2023-01-17","00:46:16"
+"534300","Não disse isso","2023-01-17 14:58:05","549617518","2023-01-17","14:58:05"
+"534297","E o Arch/Manjaro é muito específico","2023-01-17 14:57:25","549617518","2023-01-17","14:57:25"
+"534298","No Linux é bom não usar o boot seguro?","2023-01-17 14:57:51","147705440","2023-01-17","14:57:51"
+"534299","Por isso ele é rápido e maleável","2023-01-17 14:57:57","549617518","2023-01-17","14:57:57"
+"534263","Quando coloco pra instalar o Manjaro, mas essas ISOS mais atuais do site. No final do processo, quando clico em instalar. Ele fecha o calamares!","2023-01-17 14:42:43","147705440","2023-01-17","14:42:43"
+"534264","Aconteceu isso comigo, você instala com internet conectada ou off?","2023-01-17 14:43:55","549617518","2023-01-17","14:43:55"
+"534273","O engraçado, q é apenas com a iso do gnome","2023-01-17 14:47:31","147705440","2023-01-17","14:47:31"
+"534253","emma [5858532067] para participar neste grupo, defina, nas configurações do Telegram, um nome de usuário e clique em ""Feito!"". 
+Ação: Silenciado 🔇","2023-01-17 12:30:26","5298578702","2023-01-17","12:30:26"
+"534256","Bom dia pessoal, espero que estejam todos bem. 
+Instalei recentemente do Manjaro Plasma e o 'tema' do terminal mudou depois da instalação.","2023-01-17 13:28:31","178551380","2023-01-17","13:28:31"
+"534257","Como faço pra ativar esse tema no meu terminal?","2023-01-17 13:28:56","178551380","2023-01-17","13:28:56"
+"534261","Regras para pedir ajuda no Grupo Manjaro Linux Brasil
+
+👉 - Não pergunte se alguém pode ajudar, fale qual o seu problema e/ou dificuldade e faça a pergunta direta, sem rodeios.
+
+👉 - Quando pedir suporte, esteja com seu equipamento em mãos e disposição para resolver o teu problema. Mande screenshots ou fotos (de preferencia modo horizontal de qualidade visível) e informações do problema.
+- Abra o terminal e digite o comando inxi -b e mande print das informações
+- Descreva (com o máximo de detalhes possíveis) o teu problema
+-Se estiver seguindo algum tutorial, mande o link;
+
+👉 - Descreva as tentativas que por ventura tenha realizado para tentar resolver esse problema.","2023-01-17 13:58:06","5298578702","2023-01-17","13:58:06"
+"534262","Não tive este problema com a nova imagem e uso o Gnome+Nvidia (proprietária.
+Qual erro que lhe apresentou?","2023-01-17 14:40:19","549617518","2023-01-17","14:40:19"
+"534267","Sua máquina é Bios ou EFI?","2023-01-17 14:46:21","549617518","2023-01-17","14:46:21"
+"534268","Conectada pelo wifi!","2023-01-17 14:46:37","147705440","2023-01-17","14:46:37"
+"534269","Bios","2023-01-17 14:46:47","147705440","2023-01-17","14:46:47"
+"534270","A minha é bios também","2023-01-17 14:46:55","549617518","2023-01-17","14:46:55"
+"534271","É um notebook da Lenovo","2023-01-17 14:47:00","147705440","2023-01-17","14:47:00"
+"534272","deixa eu ver uma coisa","2023-01-17 14:47:02","549617518","2023-01-17","14:47:02"
+"534274","Meu particionamento é assim.","2023-01-17 14:48:21","549617518","2023-01-17","14:48:21"
+"534275","Quando o calamares iniciava (depois dos erros anteriores) eu fechava ele e dava update e depois abria novamente e instalava. Foi a forma que encontrei","2023-01-17 14:49:09","549617518","2023-01-17","14:49:09"
+"534276","Então, tentei diversas vezes. Sempre acontece a mesma coisa, independente da ISO q eu baixe ( gnome )","2023-01-17 14:49:55","147705440","2023-01-17","14:49:55"
+"534277","Entendi, mas uma ISO mais antiga tipo a versão 21 instala normal!","2023-01-17 14:50:36","147705440","2023-01-17","14:50:36"
+"534278","Mesmo sendo bios, eu coloco a partição em GPT","2023-01-17 14:50:46","549617518","2023-01-17","14:50:46"
+"534279","Sim eu tbm","2023-01-17 14:50:56","147705440","2023-01-17","14:50:56"
+"534280","Então... mesmo a iso sendo antiga usa ela, a distro é Rolling Release mesmo. Só vai ter mais updates","2023-01-17 14:51:46","549617518","2023-01-17","14:51:46"
+"534282","É que eu uso Hibernar demais","2023-01-17 14:52:43","549617518","2023-01-17","14:52:43"
+"534283","É, vou ir usando assim mesmo. Eu notei, q ele leva um tempo pra abrir as coisas as vezes!","2023-01-17 14:52:44","147705440","2023-01-17","14:52:44"
+"534284","Ahh sim","2023-01-17 14:52:59","147705440","2023-01-17","14:52:59"
+"534285","Não é o normal","2023-01-17 14:53:00","549617518","2023-01-17","14:53:00"
+"534286","Pode ser hardware ?","2023-01-17 14:53:19","147705440","2023-01-17","14:53:19"
+"534287","Tô usando ele no Xorg","2023-01-17 14:53:36","147705440","2023-01-17","14:53:36"
+"534288","Talvez sim.... tente dar uma olhada em suas configurações na bios do seu equipamento","2023-01-17 14:54:00","549617518","2023-01-17","14:54:00"
+"534289","Tá, deixo ativado aquele requisito q a Microsoft pediu pra utilizar o windows 11 esqueci o nome agora!","2023-01-17 14:54:54","147705440","2023-01-17","14:54:54"
+"534290","Pode ser isso ?","2023-01-17 14:55:02","147705440","2023-01-17","14:55:02"
+"534291","TPM 2.0","2023-01-17 14:55:26","147705440","2023-01-17","14:55:26"
+"534292","Acho que não","2023-01-17 14:56:07","549617518","2023-01-17","14:56:07"
+"534293","Vc deixa habilitado o boot seguro ?","2023-01-17 14:56:27","549617518","2023-01-17","14:56:27"
+"534294","O lance é que problemas acontecem de forma diferentes para hardwares diferentes","2023-01-17 14:57:07","549617518","2023-01-17","14:57:07"
+"534295","Acho q tá sim","2023-01-17 14:57:15","147705440","2023-01-17","14:57:15"
+"534296","Verdade!","2023-01-17 14:57:20","147705440","2023-01-17","14:57:20"
+"534301","Se você for determinado/teimoso, tente fazer de várias formas.... Eu levei o dia todo ontem, so consegui hoje de manhã","2023-01-17 14:58:58","549617518","2023-01-17","14:58:58"
+"534302","Pior q sou teimoso viu kkk","2023-01-17 14:59:15","147705440","2023-01-17","14:59:15"
+"534303","É ISSO!!!!!!!","2023-01-17 14:59:37","549617518","2023-01-17","14:59:37"
+"534304","Obrigado viu amigo","2023-01-17 15:00:29","147705440","2023-01-17","15:00:29"
+"534306","Cara, manjaro não tem suporte a secure boot","2023-01-17 15:19:14","883083059","2023-01-17","15:19:14"
+"534310","Vou fazer um teste, desativando e depois instalar a ISO atual pra ver se vai kkkk. Vlw mano","2023-01-17 15:22:43","147705440","2023-01-17","15:22:43"
+"534311","@CrowlKeyn uma pergunta, no Linux é bom não usar o boot seguro então independente da distro?","2023-01-17 15:23:29","147705440","2023-01-17","15:23:29"
+"534312","Ele pode não inicializar alguns programas por causa de assinatura","2023-01-17 15:26:32","883083059","2023-01-17","15:26:32"
+"534313","Caramba tem isso ainda!","2023-01-17 15:26:50","147705440","2023-01-17","15:26:50"
+"534314","Pesquisa por secure boot na internet","2023-01-17 15:27:24","883083059","2023-01-17","15:27:24"
+"534315","Vou dar uma olhada mais tarde, agora estou no trabalho kk. Mas obrigado novamente!","2023-01-17 15:27:51","147705440","2023-01-17","15:27:51"
+"534316","Se a distro tem suporte, nenhum problema de usar","2023-01-17 15:33:42","25962582","2023-01-17","15:33:42"
+"534320","Regras para pedir ajuda no Grupo Manjaro Linux Brasil
+
+👉 - Não pergunte se alguém pode ajudar, fale qual o seu problema e/ou dificuldade e faça a pergunta direta, sem rodeios.
+
+👉 - Quando pedir suporte, esteja com seu equipamento em mãos e disposição para resolver o teu problema. Mande screenshots ou fotos (de preferencia modo horizontal de qualidade visível) e informações do problema.
+- Abra o terminal e digite o comando inxi -b e mande print das informações
+- Descreva (com o máximo de detalhes possíveis) o teu problema
+-Se estiver seguindo algum tutorial, mande o link;
+
+👉 - Descreva as tentativas que por ventura tenha realizado para tentar resolver esse problema.","2023-01-17 15:45:39","5298578702","2023-01-17","15:45:39"
+"534321","Conseguiu fazer funcionar bem? Aqui eu venho tentando fazer com que reconheça na placa híbrida a resolução do meu monitor lg que é 2560x1080 mas consigo apenas pelo windows (Dual boot), ele chega apenas a 1920x1080. Tentei seguir alguns tutoriais do forum oficial mas não consegui um bom resultado. É um laptop dell Inspiron","2023-01-17 15:49:17","5023108418","2023-01-17","15:49:17"
+"534327","No windows 10 não funcionava, ai ontem atualizou para o windows 11 e então eu vi que não era limitação de hardware e sim de drive, pois logo após a atualização no windows aceitou aumentar a resolução.","2023-01-17 17:41:59","5023108418","2023-01-17","17:41:59"
+"534322","xrandr mostra a resolução que você quer?","2023-01-17 17:34:56","883083059","2023-01-17","17:34:56"
+"534323","Não mostra","2023-01-17 17:36:28","5023108418","2023-01-17","17:36:28"
+"534324","Tenso","2023-01-17 17:37:24","883083059","2023-01-17","17:37:24"
+"534325","É Intel+nvidia?","2023-01-17 17:37:54","883083059","2023-01-17","17:37:54"
+"534329","Só se você não atualiza seus drivers no windows 10 e quando mudou atualizou junto","2023-01-17 17:52:49","883083059","2023-01-17","17:52:49"
+"534332","boa tarde","2023-01-17 18:56:21","1299971408","2023-01-17","18:56:21"
+"534333","alguem poderia ajudar a ajustar a hora no manjaro","2023-01-17 18:56:34","1299971408","2023-01-17","18:56:34"
+"534334","já defini o tz para america sao paulo mas o comando date ainda retorna a data errada","2023-01-17 18:57:00","1299971408","2023-01-17","18:57:00"
+"534336","😎 Olá, Janet! Seja bem-vindo(a) ao grupo Manjaro Brasil Oficial.
+
+👉Esse grupo é para ideias, sugestões e ajuda sobre o Manjaro. Os membros e admins do grupo não são suporte técnico 24/7
+ 
+👉 Viu algo ofensivo? Responda à mensagem infratora com @admin e os admins serão notificados.
+
+👉Leia as regras com comando /rules
+
+👉Para pedir ajuda, veja com comando /ajuda
+
+👉 Sinta-se à vontade.","2023-01-17 19:05:59","5298578702","2023-01-17","19:05:59"
+"534223","Oloko?","2023-01-17 00:46:49","25962582","2023-01-17","00:46:49"
+"534224","Importante que tá funcionando perfeitamente","2023-01-17 00:49:30","676423297","2023-01-17","00:49:30"
+"534225","mas nao faz sentido nenhum isso ai","2023-01-17 00:49:48","25962582","2023-01-17","00:49:48"
+"534233","Outras DE, não ocorreu o problema","2023-01-17 01:02:07","147705440","2023-01-17","01:02:07"
+"534212","Vi o vídeo que vc mandou, no caso do outro maluco reiniciava durante a instalação já, depois da etapa que vc está agarrado","2023-01-17 00:23:02","883083059","2023-01-17","00:23:02"
+"534213","Não apenas o Manjaro","2023-01-17 00:28:56","147705440","2023-01-17","00:28:56"
+"534214","Tenho várias ISOS no pendrive","2023-01-17 00:29:31","147705440","2023-01-17","00:29:31"
+"534215","Entendi","2023-01-17 00:29:45","147705440","2023-01-17","00:29:45"
+"534235","Caramba","2023-01-17 01:06:51","676423297","2023-01-17","01:06:51"
+"534236","Só uma pergunta qual é o seu Pc?","2023-01-17 01:07:00","676423297","2023-01-17","01:07:00"
+"534216","Eu instalei a 21.3.7 do Manjaro gnome, essa vai normal. Agora outros ambientes, tipo KDE, XFCE do Manjaro instala. O problema é apenas nas ISOS atuais do gnome!","2023-01-17 00:32:50","147705440","2023-01-17","00:32:50"
+"534217","Tipo qualquer iso do site oficial, vai certinho. Mas se baixo o gnome, dá o problema!","2023-01-17 00:36:15","147705440","2023-01-17","00:36:15"
+"534218","Ai já está além da minha compreensão","2023-01-17 00:40:09","883083059","2023-01-17","00:40:09"
+"534219","Tbm não entendo","2023-01-17 00:40:39","147705440","2023-01-17","00:40:39"
+"534220","Diga","2023-01-17 00:41:18","25962582","2023-01-17","00:41:18"
+"534221","O que vc pode fazer é procurar por erros no journalctl","2023-01-17 00:44:46","883083059","2023-01-17","00:44:46"
+"534210","Mano, teu pc já tem outra distro além do manjaro que vc está tentando instalar?","2023-01-17 00:17:46","883083059","2023-01-17","00:17:46"
+"534211","Outra pergunta, de qual SO vc está fazendo o ventoy? (incluindo o download e a copia da iso)","2023-01-17 00:18:38","883083059","2023-01-17","00:18:38"
+"534226","Eu sei,mas foi a única forma que funcionou pois o Ubuntu meio que tava impedindo a instalação, tive refazer várias o pendrive bootavel,as vezes nem reconhecia o pendrive","2023-01-17 00:52:59","676423297","2023-01-17","00:52:59"
+"534227","Que estranho, eu estava usando o BigLinux quando fui pro Manjaro e deu esse problema!","2023-01-17 00:56:00","147705440","2023-01-17","00:56:00"
+"534228","What's?","2023-01-17 00:57:25","676423297","2023-01-17","00:57:25"
+"534229","Comentei, pq tbm estou tendo um problema com a instalação!","2023-01-17 00:58:32","147705440","2023-01-17","00:58:32"
+"534230","Já conseguiu solucionar?","2023-01-17 01:00:36","676423297","2023-01-17","01:00:36"
+"534231","Só instalando uma versão anterior a do site, a 22 mais atual do Manjaro. Ele fecha o gerenciador da instalação no final quando clico em instalar!","2023-01-17 01:01:35","147705440","2023-01-17","01:01:35"
+"534232","Mas o problema é apenas no gnome!","2023-01-17 01:01:48","147705440","2023-01-17","01:01:48"
+"534237","É um Celeron 10° 2.8ghz , 4gb ddr4 2400mhz, ssd nvme m.2 128gb, ssd Kingston 240gb","2023-01-17 01:08:15","147705440","2023-01-17","01:08:15"
+"534238","Mas hardware acredito q não seja o problema, pq eu instalo o gnome 21.3.7. Depois atualizo ele pra última versão e fica de boa.","2023-01-17 01:20:25","147705440","2023-01-17","01:20:25"
+"534241","Albert C. Hall [5358457592] para participar neste grupo, defina, nas configurações do Telegram, um nome de usuário e clique em ""Feito!"". 
+Ação: Silenciado 🔇","2023-01-17 01:43:55","5298578702","2023-01-17","01:43:55"
+"534242","Enfim, tô usando o gnome com Xorg. Tá legal agora, só queria matar a charada de não instalar direto as mais atuais!","2023-01-17 01:47:36","147705440","2023-01-17","01:47:36"
+"534245","Acho em breve deve aparecer alguma coisa nos fóruns","2023-01-17 02:01:20","676423297","2023-01-17","02:01:20"
+"534247","Laura Santos [5776916036] para participar neste grupo, defina, nas configurações do Telegram, um nome de usuário e clique em ""Feito!"". 
+Ação: Silenciado 🔇","2023-01-17 02:39:47","5298578702","2023-01-17","02:39:47"
+"534249","🌒 MODO NOTURNO ENCERRADO
+
+✅ De agora em diante, os usuários podem enviar novamente mídia (fotos, vídeos, arquivos...) e links no grupo.","2023-01-17 09:00:09","5298578702","2023-01-17","09:00:09"
+"534251","😎 Olá, ROBERTA! Seja bem-vindo(a) ao grupo Manjaro Brasil Oficial.
+
+👉Esse grupo é para ideias, sugestões e ajuda sobre o Manjaro. Os membros e admins do grupo não são suporte técnico 24/7
+ 
+👉 Viu algo ofensivo? Responda à mensagem infratora com @admin e os admins serão notificados.
+
+👉Leia as regras com comando /rules
+
+👉Para pedir ajuda, veja com comando /ajuda
+
+👉 Sinta-se à vontade.","2023-01-17 11:43:35","5298578702","2023-01-17","11:43:35"
+"534352","Hibernação desliga a ram e zram é swap dentro da ram compactada","2023-01-17 21:04:30","25962582","2023-01-17","21:04:30"
+"534342","da uma olhada sobre zsh + powerlevel10K","2023-01-17 19:54:53","25962582","2023-01-17","19:54:53"
+"534343","Eu sei, tava falando que o driver da nvidia do w10 e w11 são os mesmos","2023-01-17 20:04:06","883083059","2023-01-17","20:04:06"
+"534344","Boa tarde! Uma dúvida aqui:","2023-01-17 20:51:39","599287980","2023-01-17","20:51:39"
+"534337","Você consegue me mandar a tela de hardware mostrando quais drivers vocês está usando ?","2023-01-17 19:37:11","5023108418","2023-01-17","19:37:11"
+"534338","e a versão do kernel","2023-01-17 19:37:42","5023108418","2023-01-17","19:37:42"
+"534339","no meu tempos atrás resolvi assim: https://www.manjaro-linux.com.br/forum/a=144.html","2023-01-17 19:51:49","5023108418","2023-01-17","19:51:49"
+"534340","driver hibrido ai, resolução é por conta da intel","2023-01-17 19:54:11","25962582","2023-01-17","19:54:11"
+"534341","Meu driver e kernel vão ser diferentes do manjaro porque eu estou usando arch então estou com versões mais a frente","2023-01-17 19:54:24","883083059","2023-01-17","19:54:24"
+"534351","Só curiosidade","2023-01-17 21:04:07","883083059","2023-01-17","21:04:07"
+"534345","Tô formatando por falta de espaço no SSD, e nunca me atentei que eu não sei o que significa nenhuma dessas opções, alguém me explica? KKKKKKK","2023-01-17 20:52:39","599287980","2023-01-17","20:52:39"
+"534346","Swap é área de troca","2023-01-17 21:01:10","25962582","2023-01-17","21:01:10"
+"534347","Quarta informações que não estão sendo usadas na memória ram","2023-01-17 21:01:32","25962582","2023-01-17","21:01:32"
+"534348","Tem essa opção de usar hibernação com zram?","2023-01-17 21:03:56","883083059","2023-01-17","21:03:56"
+"534349","KDE Plasma 5.27: principais novos recursos e detalhes da versão
+
+https://www.debugpoint.com/kde-plasma-5-27/","2023-01-17 21:03:58","25962582","2023-01-17","21:03:58"
+"534350","Não que eu vá precisar usar hibernação","2023-01-17 21:04:03","883083059","2023-01-17","21:04:03"

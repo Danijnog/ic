@@ -1,0 +1,83 @@
+"message_id","message","message_utc","from_id","date","time"
+"533113","Amigos boa noite, vcs já perceberam um certo engasgo no manjaro?","2023-01-02 03:28:27","147705440","2023-01-02","03:28:27"
+"533115","Vi comentários no YouTube, q o Manjaro quebra fácil é verdade ? Eu mesmo, uso ele pra coisas básicas acho q assim não tem tanto risco né ?","2023-01-02 05:37:59","147705440","2023-01-02","05:37:59"
+"533116","Eu não tenho informações do seu hardware, mas você pode tentar trocar entre xorg e wayland pra ver se isso é o engasgo, a opção fica em uma engrenagem na parte inferior direita no login, selecione a opção gnome ou gnome com xorg pra ver se é isso.","2023-01-02 05:56:07","883083059","2023-01-02","05:56:07"
+"533117","Vou testar pra ver, obrigado!","2023-01-02 05:56:42","147705440","2023-01-02","05:56:42"
+"533118","Tem outras coisas que você pode fazer tbm como trocar o kernel","2023-01-02 06:01:09","883083059","2023-01-02","06:01:09"
+"533119","Se for nvidia ver qual driver você está usando","2023-01-02 06:01:40","883083059","2023-01-02","06:01:40"
+"533120","O kernel está no 6.1, é vídeo integrado. É um note Celeron 10° 4gb ddr4 2400mhz, ssd nvme m.2","2023-01-02 06:02:27","147705440","2023-01-02","06:02:27"
+"533121","Quem dita isso é o usuário já que é ele que escolhe o que vai instalar, o que vai atualizar, quando vai atualizar e etc.","2023-01-02 06:02:29","883083059","2023-01-02","06:02:29"
+"533122","Verdade","2023-01-02 06:02:54","147705440","2023-01-02","06:02:54"
+"533123","Sistema Rolling Release você precisa ficar sempre atento as atualizações","2023-01-02 06:05:40","883083059","2023-01-02","06:05:40"
+"533124","Ahh tá","2023-01-02 06:07:31","147705440","2023-01-02","06:07:31"
+"533125","Vc usa o gnome tbm?","2023-01-02 06:07:45","147705440","2023-01-02","06:07:45"
+"533126","No tópico de notícias costumamos mandar as atualizações que saem no Manjaro Updates da branch stable, você consegue entrando lá ir para o fórum do Manjaro e saber o que o pessoal tá reportando sobre a atualização.","2023-01-02 06:10:06","883083059","2023-01-02","06:10:06"
+"533127","Sim","2023-01-02 06:10:38","883083059","2023-01-02","06:10:38"
+"533128","Depois vou fazer um cadastro no fórum!","2023-01-02 06:12:07","147705440","2023-01-02","06:12:07"
+"533129","Faz tempo ? De ir usando normal já teve algum problema? Normal q eu digo, é não ficar fuçando kk","2023-01-02 06:14:27","147705440","2023-01-02","06:14:27"
+"533130","Vejo bastante gente falando bem do Manjaro, por isso resolvi testar!","2023-01-02 06:15:11","147705440","2023-01-02","06:15:11"
+"533131","Meu sistema principal hoje é o arch, se não for a nvidia geralmente sou eu que faço alguma coisa de errado, no manjaro é a mesma coisa. O gnome manjaro que tenho não dá muito problema, mas tbm n tem nada instalado já que é mais pra ajudar o pessoal.","2023-01-02 06:19:46","883083059","2023-01-02","06:19:46"
+"533132","Último problema que tive foi em uma atualização do driver da nvidia","2023-01-02 06:20:14","883083059","2023-01-02","06:20:14"
+"533133","Nvidia não colabora muito","2023-01-02 06:20:32","883083059","2023-01-02","06:20:32"
+"533136","Dan Galvan [5502299749] para participar neste grupo, defina, nas configurações do Telegram, um nome de usuário e clique em ""Feito!"". 
+Ação: Silenciado 🔇","2023-01-02 09:49:40","5298578702","2023-01-02","09:49:40"
+"533137","Arch Gnome? Dizem ser top né","2023-01-02 11:08:18","147705440","2023-01-02","11:08:18"
+"533138","Sim","2023-01-02 11:39:18","883083059","2023-01-02","11:39:18"
+"533139","Pena ser difícil instalar ele!","2023-01-02 11:39:48","147705440","2023-01-02","11:39:48"
+"533141","Adilson [5414453060] para participar neste grupo, defina, nas configurações do Telegram, um nome de usuário e clique em ""Feito!"". 
+Ação: Silenciado 🔇","2023-01-02 11:49:41","5298578702","2023-01-02","11:49:41"
+"533146","Regras para pedir ajuda no Grupo Manjaro Linux Brasil
+
+👉 - Não pergunte se alguém pode ajudar, fale qual o seu problema e/ou dificuldade e faça a pergunta direta, sem rodeios.
+
+👉 - Quando pedir suporte, esteja com seu equipamento em mãos e disposição para resolver o teu problema. Mande screenshots ou fotos (de preferencia modo horizontal de qualidade visível) e informações do problema.
+- Abra o terminal e digite o comando inxi -b e mande print das informações
+- Descreva (com o máximo de detalhes possíveis) o teu problema
+-Se estiver seguindo algum tutorial, mande o link;
+
+👉 - Descreva as tentativas que por ventura tenha realizado para tentar resolver esse problema.","2023-01-02 15:42:30","5298578702","2023-01-02","15:42:30"
+"533147","Eu preciso de uma ajuda urgentemente para instalar o retroarch","2023-01-02 15:43:01","1856780573","2023-01-02","15:43:01"
+"533148","Oi","2023-01-02 16:53:39","1856780573","2023-01-02","16:53:39"
+"533149","Alguém está online??????","2023-01-02 16:53:51","1856780573","2023-01-02","16:53:51"
+"533150","@jose_rafael boa tarde,
+Consegue me ajudar com isso?
+Estou com Docker e fiz pacman -S mysql e me retorna esse erro.
+Skipped: Current root is not booted. o_O'","2023-01-02 17:43:04","682848142","2023-01-02","17:43:04"
+"533151","consigo nao","2023-01-02 17:48:48","25962582","2023-01-02","17:48:48"
+"533152","Isso não é um erro","2023-01-02 17:54:48","883083059","2023-01-02","17:54:48"
+"533153","Cara, ninguém consegue te ajudar se você não disser o problema. Se alguém tiver tempo e souber te ajudar vai ajudar você.","2023-01-02 18:02:59","883083059","2023-01-02","18:02:59"
+"533156","Ué","2023-01-02 18:03:30","883083059","2023-01-02","18:03:30"
+"533157","Regras para pedir ajuda no Grupo Manjaro Linux Brasil
+
+👉 - Não pergunte se alguém pode ajudar, fale qual o seu problema e/ou dificuldade e faça a pergunta direta, sem rodeios.
+
+👉 - Quando pedir suporte, esteja com seu equipamento em mãos e disposição para resolver o teu problema. Mande screenshots ou fotos (de preferencia modo horizontal de qualidade visível) e informações do problema.
+- Abra o terminal e digite o comando inxi -b e mande print das informações
+- Descreva (com o máximo de detalhes possíveis) o teu problema
+-Se estiver seguindo algum tutorial, mande o link;
+
+👉 - Descreva as tentativas que por ventura tenha realizado para tentar resolver esse problema.","2023-01-02 18:12:02","883083059","2023-01-02","18:12:02"
+"533158","não consigo instalar o mega","2023-01-02 19:20:33","1856780573","2023-01-02","19:20:33"
+"533159","Não?","2023-01-02 19:44:29","682848142","2023-01-02","19:44:29"
+"533160","@Alexandre2005B","2023-01-02 19:45:56","25962582","2023-01-02","19:45:56"
+"533161","tem image official do mysql no dockerhub, pq vc ta querendo montar uma?","2023-01-02 19:47:30","36899061","2023-01-02","19:47:30"
+"533162","Skipped =/= Error","2023-01-02 19:47:46","883083059","2023-01-02","19:47:46"
+"533170","@jose_rafael","2023-01-02 20:08:32","1856780573","2023-01-02","20:08:32"
+"533163","Se fosse erro tinha falado que era erro e não teria instalado falando a causa do erro","2023-01-02 19:48:26","883083059","2023-01-02","19:48:26"
+"533164","como se a baixa o retroarch????","2023-01-02 20:03:40","1856780573","2023-01-02","20:03:40"
+"533165","eu nao seo como se abaixa o retroarch","2023-01-02 20:04:15","1856780573","2023-01-02","20:04:15"
+"533166","Ja olhou na loja?","2023-01-02 20:04:41","25962582","2023-01-02","20:04:41"
+"533167","não","2023-01-02 20:04:50","1856780573","2023-01-02","20:04:50"
+"533168","qual é?????","2023-01-02 20:06:18","1856780573","2023-01-02","20:06:18"
+"533169","@jose_rafael","2023-01-02 20:07:17","1856780573","2023-01-02","20:07:17"
+"533171","Cara olha as regras, ajudamos quando podemos, não fica marcando","2023-01-02 20:10:06","25962582","2023-01-02","20:10:06"
+"533172","okay desculpa","2023-01-02 20:10:22","1856780573","2023-01-02","20:10:22"
+"533173","Se vc usar a versão flatpak pode vim todas as dependências necessárias","2023-01-02 20:10:40","25962582","2023-01-02","20:10:40"
+"533174","Vai por ela","2023-01-02 20:10:42","25962582","2023-01-02","20:10:42"
+"533175","alguem me pode me ajudar-me a configurar o retoarch????","2023-01-02 20:11:45","1856780573","2023-01-02","20:11:45"
+"533176","Opa tudo bom?
+Precisava do serviço gogs,
+Aí criei um container gogs e outro do  Mysql, consegui conectar um ao outro. Obrigado","2023-01-02 21:24:54","682848142","2023-01-02","21:24:54"
+"533177","Desculpa, jurava que era um erro","2023-01-02 21:25:10","682848142","2023-01-02","21:25:10"
+"533178","tem container pronto do gogs tb, mas como dizia meu pai:
+""pra que simplificar, se podemos complicar? ""","2023-01-02 21:40:38","36899061","2023-01-02","21:40:38"

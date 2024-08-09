@@ -1,6 +1,6 @@
 import os
 
-from data.db_processing import clear_messages
+from connection.db_processing import clear_messages
 from .tokens import num_tokens_from_string, truncate_text_tokens_decode
 
 def maritalk_response(input_text, max_tokens, APIclient):
@@ -17,7 +17,7 @@ def maritalk_response(input_text, max_tokens, APIclient):
 
 def group_summary_maritalk(group_id, text_encoding, APIclient, max_tokens) -> list:
     '''Gera o sumário para um grupo de mensagens através da API Maritalk'''
-    group_dir = f'utils/msgPerGroup/ID_{group_id}'
+    group_dir = f'data/msgPerGroup/ID_{group_id}'
     csv_files = os.listdir(group_dir)
     csv_files.sort()
     summaries = []

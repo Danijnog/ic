@@ -1,7 +1,7 @@
 import os
 import pandas as pd
 
-from data.db_processing import clear_messages
+from connection.db_processing import clear_messages
 from .tokens import num_tokens_from_string, truncate_text_tokens_decode
 
 def generate_summary(input_text, max_tokens, model, APIclient) -> str:
@@ -24,7 +24,7 @@ def generate_summary(input_text, max_tokens, model, APIclient) -> str:
 
 # Summary from a group of messages
 def group_summary(group_id, text_encoding, text_model, max_tokens, min_number_of_messages, APIclient) -> list:
-    group_dir = f'utils/msgPerGroup/ID_{group_id}'
+    group_dir = f'data/msgPerGroup/ID_{group_id}'
     csv_files = os.listdir(group_dir)
     csv_files.sort()
     summaries = []

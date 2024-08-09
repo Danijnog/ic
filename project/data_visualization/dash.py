@@ -5,7 +5,7 @@ import dash
 from dash import dcc, html
 from dash.dependencies import Input, Output
 
-def dash_app(fig, trajectory_scatter_plot,  df) -> dash.Dash:
+def dash_app(fig, fig_kmeans, trajectory_scatter_plot,  df) -> dash.Dash:
   """Inicializa o Dash App com o layout."""
   app = dash.Dash(__name__)
 
@@ -15,8 +15,8 @@ def dash_app(fig, trajectory_scatter_plot,  df) -> dash.Dash:
       rel = "stylesheet"
     ),
     
-    html.H1(
-      "Comparação de grupos: Pró-Lula e Pró-Bolsonaro", 
+    html.H2(
+      "Embedding dos sumários de todos os grupos", 
       style = {'textAlign': 'center', 'fontFamily': 'Roboto'}
       ),
     
@@ -49,7 +49,37 @@ def dash_app(fig, trajectory_scatter_plot,  df) -> dash.Dash:
     html.Div(
       id = "output-div", 
       children = [],
-      style = {'fontFamily': 'Roboto'}
+      style = {'fontFamily': 'Roboto', 'margin-left': '2vw'}
+    ),
+
+    html.Br(),
+
+    html.Hr(style={'margin': '40px', 'color': '#F1F1F1'}),
+
+    html.H2(
+      "Comparação de Clusterização: HDBScan x K-Means",
+      style = {'textAlign': 'center', 'fontFamily': 'Roboto'}
+    ),
+
+    html.Div([
+      dcc.Graph(
+        id = "scatter-plot-hdbscan",
+        figure = fig
+      ),
+
+      dcc.Graph(
+        id = "scatter-plot-kmeans",
+        figure = fig_kmeans
+      )
+    ], style = {'display': 'flex', 'justify-content': 'space-between'}),
+
+    html.Br(),
+
+    html.Hr(style={'margin': '40px', 'color': '#F1F1F1'}),
+
+    html.H2(
+      "Trajetória dos grupos na evolução dos dias",
+      style = {'textAlign': 'center', 'fontFamily': 'Roboto'}
     ),
 
     dcc.Graph(
@@ -81,7 +111,7 @@ def dash_callback(app, df) -> None:
                      hover_name = filtered_df['label']
                      .apply(lambda x: '<br>'
                      .join(x[i:i + 50] for i in range(0, len(x), 50))),
-                     hover_data = {'date'}, color = 'ID', title = 'Embedding Summary')
+                     hover_data = {'date', 'ID'}, color = 'clusters', title = 'Embedding Summary')
     
     return fig
   

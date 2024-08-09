@@ -1,7 +1,7 @@
 import os
 
 from .tokens import num_tokens_from_string, truncate_text_tokens_decode
-from data.db_processing import clear_messages
+from connection.db_processing import clear_messages
 
 def c4_ai_response(input_text, max_tokens, model, client):
     response = client.chat(
@@ -19,7 +19,7 @@ Faça um pequeno sumário de no máximo 50 palavras a partir da seguinte convers
 
 # Summary from a group of messages
 def group_summary_C4AI(group_id, text_encoding, text_model, max_tokens, APIclient) -> list:
-    group_dir = f'utils/msgPerGroup/ID_{group_id}'
+    group_dir = f'data/msgPerGroup/ID_{group_id}'
     csv_files = os.listdir(group_dir)
     csv_files.sort()
     summaries = []

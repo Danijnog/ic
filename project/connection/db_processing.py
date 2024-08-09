@@ -15,7 +15,7 @@ def separate_messages_in_days(df_messages, group_id) -> None:
 
         # Salvar as mensagens em arquivos csv separados por dia
         for date in df_messages['date'].unique():
-            csv_path = f'utils/msgPerGroup/ID_{group_id}/messages_{date}.csv'
+            csv_path = f'data/msgPerGroup/ID_{group_id}/messages_{date}.csv'
             df_messages_date = df_messages[df_messages['date'] == date]
             df_messages_date.to_csv(csv_path, header = 'True', index = False, quoting = csv.QUOTE_ALL)
             print(f"Mensagens do dia {date} salvas com sucesso em {csv_path}")
@@ -32,7 +32,7 @@ def get_separated_messages(groups) -> None:
         group_id = row['channel_id']
 
         # Criar diretórios para cada grupo
-        group_dir = f'utils/msgPerGroup/ID_{group_id}'
+        group_dir = f'data/msgPerGroup/ID_{group_id}'
         os.makedirs(group_dir, exist_ok = True)
 
         df_retrieval = retrieved_db(group_id)

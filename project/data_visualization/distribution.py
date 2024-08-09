@@ -9,7 +9,7 @@ def get_df_for_distribution_function(groups):
 
     for index, row in groups.iterrows():
         group_id = row['channel_id']
-        group_dir = f'utils/msgPerGroup/ID_{group_id}'
+        group_dir = f'data/msgPerGroup/ID_{group_id}'
         csv_files = os.listdir(group_dir)
         csv_files.sort()
 
@@ -32,20 +32,10 @@ def get_df_for_distribution_function(groups):
 def cumulative_distribution_function(df):
     """ Retorna os gráficos de distribuição acumulada da quantidade de mensagens de cada dia por grupo, e a quantidade de usuários ativos de cada dia por grupo."""
     df_cdf = pd.DataFrame(df)
-    df_cdf = df_cdf.sort_values(by = 'quantidade_mensagens')
-    df_cdf['messages_cumulative_distribution'] = np.cumsum(df_cdf['quantidade_mensagens']) / np.sum(df_cdf['quantidade_mensagens'])
-
-    dff_cdf = pd.DataFrame(df)
-    dff_cdf = dff_cdf.sort_values(by = 'active_users')
-    dff_cdf['active_users_cumulative_distribution'] = np.cumsum(dff_cdf['active_users']) / np.sum(dff_cdf['active_users'])
-
-
-    messages_distribution_fig = px.line(df_cdf, x = 'quantidade_mensagens', y = 'messages_cumulative_distribution', title = 'Distribuição acumulada de mensagens')
-    messages_distribution_fig.update_layout(xaxis_title = 'quantidade de mensagens', yaxis_title = 'P(X <= x)')
-
-    active_users_distribution_fig = px.line(dff_cdf, x = 'active_users', y = 'active_users_cumulative_distribution', title = 'Distribuição acumulada de usuários ativos')
-    active_users_distribution_fig.update_layout(xaxis_title = 'quantidade de usuários ativos', yaxis_title = 'P(X <= x)')
+ 
+    messages_distribution_fig = px.ecdf(df_cdf, x = 'quantidade_mensagens')
+    active_users_distribution_fig = px.ecdf(df_cdf, x = 'active_users')
+    messages_distribution_fig.update_layout(yaxis_title = 'P(X <= x)')
+    active_users_distribution_fig.update_layout(yaxis_title = 'P(X <= x)')
 
     return messages_distribution_fig, active_users_distribution_fig
-
-

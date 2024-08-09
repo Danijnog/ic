@@ -2,13 +2,13 @@ import unittest
 from unittest.mock import patch, MagicMock
 import pandas as pd
 
-from data import db_connection
+from connection import db_connection
 
-class testDataBaseFunctions(unittest.TestCase):
+class TestDataBaseFunctions(unittest.TestCase):
 
-    @patch('data.db_connection.create_engine') # Decorador para evitar uma conexão real com o banco de dados
+    @patch('connection.db_connection.create_engine') # Decorador para evitar uma conexão real com o banco de dados
     def test_success_connection(self, mock_create_engine):
-        # Mock the create_engine function to simulate a successful connection
+        # Mocka a função create_engine para simular uma conecção de sucesso
         mock_engine = MagicMock()
         mock_create_engine.return_value = mock_engine
 
@@ -17,7 +17,7 @@ class testDataBaseFunctions(unittest.TestCase):
         self.assertEqual(con, mock_engine)
         mock_create_engine.assert_called_once()
     
-    @patch('data.db_connection.pd.read_sql')
+    @patch('connection.db_connection.pd.read_sql')
     def test_retrieved_db(self, mock_read_sql):
         # Mock the pd.read_sql function to simulate
         mock_df = pd.DataFrame({
@@ -32,11 +32,12 @@ class testDataBaseFunctions(unittest.TestCase):
         result_df = db_connection.retrieved_db(group_id) # Como a função 'pd.read_sql' foi mockada, essa linha retorna o mock_df em vez de acessar o banco de dados
 
         self.assertEqual(len(result_df), 2)
+        self.assertEqual(result_df['message_id'][0], 1)
         self.assertNotIn(None, result_df['message'].values)
         self.assertIn('Mensagem de teste', result_df['message'].values)
         mock_read_sql.assert_called_once()
     
-    @patch('data.db_connection.pd.read_sql')
+    @patch('connection.db_connection.pd.read_sql')
     def test_get_groups(self, mock_read_sql):
         mock_df = pd.DataFrame({
             'channel_id': [19283841, -123941, 1],
@@ -49,6 +50,3 @@ class testDataBaseFunctions(unittest.TestCase):
         self.assertEqual(len(result_df), 3)
         self.assertTrue((result_df['channel_id'][0] == [19283841]))
         mock_read_sql.assert_called_once()
-
-if __name__ == '__main__':
-    unittest.main()

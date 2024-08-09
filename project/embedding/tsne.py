@@ -32,7 +32,7 @@ def get_date_labels(groups, text_encoding, max_tokens, min_number_of_messages):
 
     for index, row in groups.iterrows():
         group_id = row['channel_id']
-        group_dir = f'utils/msgPerGroup/ID_{group_id}' # Diretório que está organizado os arquivos de mensagens separados por grupos
+        group_dir = f'data/msgPerGroup/ID_{group_id}' # Diretório que está organizado os arquivos de mensagens separados por grupos
         csv_files = os.listdir(group_dir)
         csv_files.sort()
 

@@ -5,7 +5,7 @@ import dash
 from dash import dcc, html
 from dash.dependencies import Input, Output
 
-def dash_app(fig, fig_kmeans, trajectory_scatter_plot,  df) -> dash.Dash:
+def dash_app(fig, fig_hdbscan, trajectory_scatter_plot,  df) -> dash.Dash:
   """Inicializa o Dash App com o layout."""
   app = dash.Dash(__name__)
 
@@ -57,19 +57,19 @@ def dash_app(fig, fig_kmeans, trajectory_scatter_plot,  df) -> dash.Dash:
     html.Hr(style={'margin': '40px', 'color': '#F1F1F1'}),
 
     html.H2(
-      "Comparação de Clusterização: HDBScan x K-Means",
+      "Comparação de Clusterização: K-Means x HDBScan",
       style = {'textAlign': 'center', 'fontFamily': 'Roboto'}
     ),
 
     html.Div([
       dcc.Graph(
-        id = "scatter-plot-hdbscan",
+        id = "scatter-plot-kmeans",
         figure = fig
       ),
 
       dcc.Graph(
-        id = "scatter-plot-kmeans",
-        figure = fig_kmeans
+        id = "scatter-plot-hdbscan",
+        figure = fig_hdbscan
       )
     ], style = {'display': 'flex', 'justify-content': 'space-between'}),
 

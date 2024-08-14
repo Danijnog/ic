@@ -23,14 +23,16 @@ def get_silhouette_score_kmeans(high_dim_embeddigs, max_clusters):
 
     return df, best_k
 
-def get_silhouette_score_hdbscan(high_dim_embeddigs, max_clusters):
+def get_silhouette_score_hdbscan(high_dim_embeddigs, min_cluster_size):
+    """Calcula o coeficiente de silhueta para cada parâmetro de 'min_cluster_size' do algoritmo HDBSCAN.
+     'min_cluster_size' é o número mínimo de amostras em um grupo para esse grupo ser considerado um cluster."""
     silhouette_scores = []
-    clusters_values = []
+    min_cluster_size_values = []
 
-    for i in range(2, max_clusters + 1):
+    for i in range(2, min_cluster_size + 1):
         clusterer = HDBSCAN(i)
         labels = clusterer.fit_predict(high_dim_embeddigs)
-        clusters_values.append(i)
+        min_cluster_size_values.append(i)
 
         if len(set(labels)) > 1:
             valid_labels = labels[labels != -1]
@@ -42,12 +44,12 @@ def get_silhouette_score_hdbscan(high_dim_embeddigs, max_clusters):
             silhouette_scores.append(-1) # Se houver apenas um cluster ou outliers
 
     data = ({
-    'num_clusters': clusters_values,
+    'min_cluster_size': min_cluster_size_values,
     'silhouette_score': silhouette_scores
     })
     
     df = pd.DataFrame(data)
-    best_hdbscan_cluster = clusters_values[np.argmax(silhouette_scores)]
+    best_hdbscan_cluster = min_cluster_size_values[np.argmax(silhouette_scores)]
 
     return df, best_hdbscan_cluster
 

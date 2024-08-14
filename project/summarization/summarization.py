@@ -57,7 +57,7 @@ def group_summary(group_id, text_encoding, text_model, max_tokens, min_number_of
                 print("/n")
         
         else:
-            print(f"Arquivo {file_path} não entrou para a sumarização. Quantidade de mensagens do arquivo é menor que 100.")
+            print(f"Arquivo {file_path} não entrou para a sumarização. Quantidade de mensagens do arquivo é menor que {min_number_of_messages}.")
 
     return summaries
 

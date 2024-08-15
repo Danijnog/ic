@@ -32,8 +32,10 @@ def get_all_groups_trajectories(df):
 
     for group_id in groups:
         trajectory = get_group_trajectory(group_id, df)
-        trajectory_mean = np.mean(trajectory)
-        trajectory_std = np.std(trajectory)
+        
+        # Calcular a média e o desvio padrão da trajetória e verificar exceções
+        trajectory_mean = 0 if len(trajectory) == 0 else np.mean(trajectory)
+        trajectory_std = 0 if len(trajectory) == 1 | 0 else np.std(trajectory) # Se tivermos apenas uma trajetória (2 pontos) o desvio padrão é 0
         trajectories.append({
             'ID': group_id,
             'Trajetoria': trajectory,

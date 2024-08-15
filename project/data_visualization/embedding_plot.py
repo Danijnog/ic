@@ -19,6 +19,16 @@ def get_df_for_plot(low_dim_embeddings, labels, date_labels, clusters_labels) ->
 
     return df
 
+def filter_df(df, days):
+   """Filtrar o DataFrame para conter apenas os dias que queremos analisar.
+   Dias 4, 6, 8, 10, 12."""
+   filtered_df = df.copy()
+   filtered_df['date'] = pd.to_datetime(filtered_df['date'])
+   filtered_df = filtered_df[filtered_df['date'].dt.day.isin(days)] # Contém apenas os dias que queremos analisar.
+   filtered_df['date'] = filtered_df['date'].dt.strftime('%Y-%m-%d') # Converte a data de volta pra string para remover o tempo que estava incluso na data.
+
+   return filtered_df
+
 def embedding_scatter_plot(df) -> Tuple[px.scatter, pd.DataFrame]:
   """Cria um Scatter Plot com os embeddings de baixa dimensão."""
   fig = px.scatter(df, x = 'x', y = 'y', 

@@ -80,6 +80,10 @@ def get_summaries_for_groups(groups, text_encoding, text_model, max_tokens, min_
 def get_date_from_summary(file_name):
     date = file_name.split('_')[-1].split('.')[0]
 
-    # Formatar a data
-    #date = pd.to_datetime(date).date()
     return date
+
+def remove_item_from_summaries(id_list, summaries):
+    '''Remove um item da lista de dicionários com o ID desejado.'''
+    new_summaries = [item for item in summaries if item['ID'] not in id_list]
+
+    return new_summaries

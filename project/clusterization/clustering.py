@@ -66,3 +66,4 @@ def hdbscan_clustering(high_dim_embeddings, min_cluster_size):
     cluster_labels = clusterer.fit_predict(high_dim_embeddings)
 
     return clusterer, cluster_labels
+

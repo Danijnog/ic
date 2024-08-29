@@ -1,0 +1,10 @@
+Prompt inicial:
+Resuma a seguinte conversa do Telegram em até 50 palavras. O sumário deve capturar os pontos-chave e destacar as informações mais relevantes. Forneça apenas o texto do sumário, sem introduções ou conclusões adicionais.
+- Não conseguiu discriminar bem as dicussões e os clusters, não conseguimos rotular os clusters, coeficiente de silhueta foi baixissimo após remoção de outliers (< 0.3 p/ 2 clusters)
+
+Prompt testado:
+Resuma a seguinte conversa do Telegram em até 90 palavras, identificando e destacando os principais tópicos discutidos. Separe os tópicos utilizando um ponto final. Forneça apenas o texto dos tópicos, sem introduções ou conclusões adicionais e sem enumerar ou utilizar símbolos de divisão como hífens ou números.
+- Melhorou a discriminação entre as dicussões, coeficiente de silhueta melhorou após remoção de outliers mas não está ideal. (0.37 p/ 2 clusters).
+
+Prompt testado:
+Resuma a seguinte conversa do Telegram em até 200 palavras, identificando e focando nos diferentes tópicos discutidos. Separe os tópicos utilizando um ponto final. Forneça apenas o texto dos tópicos, sem introduções ou conclusões adicionais e sem enumerar ou utilizar símbolos de divisão como hífens ou números.

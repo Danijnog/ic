@@ -42,7 +42,12 @@ def word_cloud(df):
                     "todos", "ou", "ma", "mai", "mas", "sim", "ele", "mais",
                     "tudo", "se", "tem", "até", "não", "você", "aí", "já", "q",
                     "vc", "pq", "assim", "foi", "já", "pois", "cara", "em", "como",
-                    "depois", "esse", "por", "está", "eles", "ela", "pra"]
+                    "depois", "esse", "por", "está", "eles", "ela", "pra", "conversa",
+                    "aborda", "um", "à", "Há", "na", "uma", "sobre", "Brasil", "Brasília",
+                    "contra", "necessidade", "entre", "além", "Também", "também", "grupo",
+                    "discute", "ao", "política", "menciona", "crítica", "críticas", "governo",
+                    "ações", "atual", "protesto", "Discussão", "situação", "dos", "Bolsonaro",
+                    "Lula", "após", "apoio", "manifestações"]
     
     stopwords.update(stop_words)
     wordcloud = WordCloud(stopwords = stopwords, background_color = 'black', max_words = 100,
@@ -57,3 +62,15 @@ def plot_wordcloud(wordcloud):
     ax.set_axis_off()
 
     plt.savefig('wordcloud.png')
+
+def get_wordcloud_for_cluster(df, cluster):
+    df_copy = df.copy()
+    df_copy = df_copy.rename(columns = {'label': 'message'})
+
+    df_copy['clusters'] = df_copy['clusters'].astype(int)
+    df_copy = df_copy[df_copy['clusters'].isin([cluster])]
+
+    wordcloud = word_cloud(df_copy)
+
+    return wordcloud
+

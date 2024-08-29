@@ -1,0 +1,15 @@
+GPT-4o-mini:
+Na escolha de 3 clusters:
+Cluster 0: 'Categoria: Análise Política e Mobilização\n\nDescrição: Os sumários abrangem uma discussão intensiva sobre a situação política atual no Brasil, envolvendo críticas a líderes políticos como Lula e Bolsonaro, menções a teorias da conspiração, a mobilização popular para manifestações, e a importância da resistência contra ações percebidas como opressivas. Os participantes trocam informações sobre eventos políticos, alertam sobre infiltrações em grupos e discutem questões éticas, sociais e ideológicas que impactam a sociedade, manifestando tanto descontentamento quanto a busca por soluções coletivas.
+
+Cluster 1: 'Categoria: Mobilização e Resistência Patrimonial\n\nDescrição: O conjunto de sumários apresenta um forte apelo à mobilização popular contra o governo atual, enfatizando intervenções militares, protestos em massa e desobediência civil como formas de resistência ao que é percebido como um regime tirânico e corrupto. Há um foco na necessidade de unir forças patrióticas, expor infiltrações em grupos de protesto e agir coletivamente para reivindicar direitos e mudanças políticas. Além disso, as mensagens incluem denúncias sobre abusos de poder, violação de direitos humanos e condições desumanas enfrentadas por manifestantes e prisioneiros políticos, destacando um clima geral de descontentamento social e desejo de reverter a situação atual.'
+
+Cluster 2: 'Categoria: Crise Política e Social no Brasil\n\nDescrição: Os sumários apresentam uma análise abrangente da turbulência política e social no Brasil, abordando as invasões e manifestações ocorridas, a polarização entre grupos de direita e esquerda, as acusações de autoritarismo e a situação dos direitos humanos. Destacam-se os conflitos entre o governo de Luiz Inácio Lula da Silva e seus opositores, assim como as repercussões internacionais dos eventos, denúncias de corrupção, e os impactos sobre a economia e a sociedade brasileira. A narrativa reflete um clima de incerteza e polarização, marcado por apelos à ação e mobilização social.'
+
+Cluster 0: 'Política e Sociedade'
+
+Cluster 1: 'Mobilização e Resistência Política'
+
+Cluster 2: 'Politica e Conflito Social'
+
+Na escolha de 2 clusters

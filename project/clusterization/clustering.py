@@ -68,20 +68,21 @@ def hdbscan_clustering(high_dim_embeddings, min_cluster_size):
 
     return clusterer, cluster_labels
 
-def get_cluster_labels(df, cluster, model, max_tokens, APIclient):
-    df_copy = df.copy()
-    df_copy['clusters'] = df_copy['clusters'].astype(int)
-    df_copy = df_copy[df_copy['clusters'].isin([cluster])]
 
-    text = "\n".join(df_copy['label'].tolist())
+def get_cluster_labels(df, model, max_tokens, APIclient):
+    df_copy = df.copy()
+    dict_summaries_clusters = df_copy.groupby('clusters')['label'].apply(list).to_dict()
+
+    # Converte o dicionário para uma string formatada
+    dict_as_string = "\n".join([f"Cluster {cluster}: {labels}" for cluster, labels in dict_summaries_clusters.items()])
 
     try:
         response = APIclient.chat.completions.create(
-            model = model,
-            max_tokens = max_tokens,
-            messages = [
-                {"role": "system", "content": "Analise e classifique os sumários abaixo em uma categoria. Forneça apenas o texto da categoria e nenhuma informação a mais."},
-                {"role": "user", "content": text}
+            model=model,
+            max_tokens=max_tokens,
+            messages=[
+                {"role": "system", "content": "Você é um especialista em análise de texto e vai classificar grupos de mensagens (clusters) com base em seus temas. Sua tarefa é identificar as características mais distintivas de cada cluster e fornecer uma categorização clara que discrimine ao máximo um cluster do outro."},
+                {"role": "user", "content": f"A seguir está um dicionário com <chave>: <valor>, onde a chave é um cluster e o valor é uma lista de sumários de texto associadas a esse cluster.\n\n{dict_as_string}\n\nPara cada cluster, forneça:\n1. Um título ou rótulo curto de até 10 palavras que resume o cluster."}
             ]
         )
         

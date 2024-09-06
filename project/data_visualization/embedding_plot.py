@@ -36,12 +36,13 @@ def remove_groups(df, group_list):
 
     return new_group_df
 
-def get_df_for_recluster(df, cluster_list, group_list, days) -> pd.DataFrame:
+def get_df_for_recluster(df, cluster_labels, cluster_list, group_list, days) -> pd.DataFrame:
     new_df = df.copy()
     new_df = remove_cluster(new_df, cluster_list)
     new_df = remove_groups(new_df, group_list)
     new_df = filter_df(new_df, days)
 
+    new_df['clusters'] = cluster_labels
     new_df['clusters'] = new_df['clusters'].astype(str)
 
     return new_df

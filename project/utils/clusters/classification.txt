@@ -12,4 +12,19 @@ Cluster 1: 'Mobilização e Resistência Política'
 
 Cluster 2: 'Politica e Conflito Social'
 
-Na escolha de 2 clusters
+GPT-4o-mini: nova sumarização de limide de 150 palavras.
+Divisão em 4 clusters com o parâmetro do_lower_case = True do embedding:
+Cluster 0: 'Análise Política e Socioeconômica'
+
+Cluster 1: 'Atividades e Mobilizações Políticas'
+
+Cluster 2: 'Discussões Políticas e Sociais Controversas'
+
+Cluster 3: 'Movimento Patriótico e Crítica ao Governo'
+
+Divisão em 3 clusters com o parâmetro do_lower_case = False do embedding:
+Cluster 0: 'Mobilização e apoio a manifestações.'
+
+Cluster 1: 'Patriotismo e resistência militar.'
+
+Cluster 2: 'Tensão política e sociais no Brasil.'

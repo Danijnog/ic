@@ -7,4 +7,11 @@ Resuma a seguinte conversa do Telegram em até 90 palavras, identificando e dest
 - Melhorou a discriminação entre as dicussões, coeficiente de silhueta melhorou após remoção de outliers mas não está ideal. (0.37 p/ 2 clusters).
 
 Prompt testado:
-Resuma a seguinte conversa do Telegram em até 200 palavras, identificando e focando nos diferentes tópicos discutidos. Separe os tópicos utilizando um ponto final. Forneça apenas o texto dos tópicos, sem introduções ou conclusões adicionais e sem enumerar ou utilizar símbolos de divisão como hífens ou números.
+Resuma a seguinte conversa do Telegram em até 150 palavras, identificando e focando nos diferentes tópicos discutidos. Separe os tópicos utilizando um ponto final. Forneça apenas o texto dos tópicos, sem introduções ou conclusões adicionais e sem enumerar ou utilizar símbolos de divisão como hífens ou números.
+- Coeficiente de silhuetta melhorou, porém tem alguns tópicos que não fazem muito sentido de alguns sumários.
+
+Prompt testado:
+Resuma a seguinte conversa do Telegram em até 150 palavras. O sumário deve capturar os pontos-chave e destacar as informações mais relevantes. Comece diretamente com os detalhes mais importantes ou únicos, evitando qualquer frase de introdução genérica como 'A conversa aborda...' ou 'A conversa gira em torno de...'. Forneça apenas o texto do sumário, sem introduções ou conclusões adicionais.
+
+Prompt testado:
+Resuma a seguinte conversa do Telegram em até 170 palavras. O sumário deve capturar os pontos-chave e destacar as informações mais relevantes. Comece o sumário de forma objetiva, com os detalhes mais importantes ou únicos, evitando qualquer frase de introdução genérica como 'A conversa aborda...' ou 'A conversa no Telegram...'. Forneça apenas o texto do sumário, sem introduções ou conclusões adicionais.

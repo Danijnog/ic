@@ -10,7 +10,7 @@ def generate_summary(input_text, max_tokens, model, APIclient) -> str:
             model = model,
             max_tokens = max_tokens,
             messages = [
-                {"role": "system", "content": "Resuma a seguinte conversa do Telegram em até 150 palavras, identificando e focando nos diferentes tópicos discutidos. Separe os tópicos utilizando um ponto final. Forneça apenas o texto dos tópicos, sem introduções ou conclusões adicionais e sem enumerar ou utilizar símbolos de divisão como hífens ou números."},
+                {"role": "system", "content": "Resuma a seguinte conversa do Telegram em até 170 palavras. O sumário deve capturar os pontos-chave e destacar as informações mais relevantes. Comece o sumário de forma objetiva, com os detalhes mais importantes ou únicos, evitando qualquer frase de introdução genérica como 'A conversa aborda...' ou 'A conversa no Telegram...'. Forneça apenas o texto do sumário, sem introduções ou conclusões adicionais."},
                 {"role": "user", "content": input_text}
             ]
         )

@@ -54,7 +54,7 @@ def get_groups() -> pd.DataFrame:
                 f"IN (SELECT channel_id FROM messages GROUP BY channel_id HAVING COUNT(DISTINCT from_id) > 1) AND message_utc BETWEEN '{INITIAL_DATE}' AND '{END_DATE}' " \
                 f"GROUP BY m.channel_id) " \
                 f"ORDER BY quantidade_mensagens DESC " \
-                #f"LIMIT 5 " \
+                f"LIMIT 5 " \
         
         df_groups = pd.read_sql(query, conn)
 

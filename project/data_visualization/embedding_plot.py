@@ -12,10 +12,10 @@ def get_df_for_plot(low_dim_embeddings, labels, date_labels, clusters_labels) ->
     df['label'] = [groups["Sumário"] for groups in labels]
     df['ID'] = [groups["ID"] for groups in labels]
     df['date'] = date_labels
-    df['clusters'] = clusters_labels
+    df['cluster'] = clusters_labels
 
     # Transformar o ID em string para fazer a legenda
-    df['clusters'] = df['clusters'].astype(str)
+    df['cluster'] = df['cluster'].astype(str)
     df['ID'] = df['ID'].astype(str)
 
     return df
@@ -23,8 +23,8 @@ def get_df_for_plot(low_dim_embeddings, labels, date_labels, clusters_labels) ->
 def remove_cluster(df, cluster_list):
     df_copy = df.copy()
 
-    df_copy['clusters'] = df_copy['clusters'].astype(int)
-    new_cluster_df = df_copy[~df_copy['clusters'].isin(cluster_list)]
+    df_copy['cluster'] = df_copy['cluster'].astype(int)
+    new_cluster_df = df_copy[~df_copy['cluster'].isin(cluster_list)]
     
     return new_cluster_df 
 
@@ -42,8 +42,8 @@ def get_df_for_recluster(df, cluster_labels, cluster_list, group_list, days) -> 
     new_df = remove_groups(new_df, group_list)
     new_df = filter_df(new_df, days)
 
-    new_df['clusters'] = cluster_labels
-    new_df['clusters'] = new_df['clusters'].astype(str)
+    new_df['cluster'] = cluster_labels
+    new_df['cluster'] = new_df['cluster'].astype(str)
 
     return new_df
 
@@ -56,10 +56,10 @@ def get_new_high_dim_embedding(high_dim_embeddings, labels, date_labels, cluster
     df['label'] = [groups["Sumário"] for groups in labels]
     df['ID'] = [groups["ID"] for groups in labels]
     df['date'] = date_labels
-    df['clusters'] = clusters_labels
+    df['cluster'] = clusters_labels
 
     # Transformar o ID e clusters em string
-    df['clusters'] = df['clusters'].astype(str)
+    df['cluster'] = df['cluster'].astype(str)
     df['ID'] = df['ID'].astype(str)
 
     df_for_recluster = remove_cluster(df, cluster_list)
@@ -70,7 +70,7 @@ def get_new_high_dim_embedding(high_dim_embeddings, labels, date_labels, cluster
 
     return new_high_dim_embeddings_umap
 
-def filter_df(df, days):
+def filter_df(df, days) -> pd.DataFrame:
    """Filtrar o DataFrame para conter apenas os dias que queremos analisar.
    Dias 4, 6, 8, 10, 12."""
    filtered_df = df.copy()
@@ -86,7 +86,7 @@ def embedding_scatter_plot(df) -> Tuple[px.scatter, pd.DataFrame]:
                    hover_name = df['label']
                    .apply(lambda x: '<br>'
                    .join(x[i:i + 50] for i in range(0, len(x), 50))),
-                   hover_data = {'date', 'ID'}, color = 'clusters', title = 'Embedding Summary',
+                   hover_data = {'date', 'ID'}, color = 'cluster', title = 'Embedding Summary',
                    width = 800, height = 600)
 
   return fig, df

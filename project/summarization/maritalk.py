@@ -8,7 +8,7 @@ def maritalk_response(input_text, max_tokens, APIclient):
     response = APIclient.generate(
         max_tokens = max_tokens,
         messages = [
-            {"role": "system", "content": "Resuma a seguinte conversa do Telegram em até 50 palavras. O sumário deve capturar os pontos-chave e destacar as informações mais relevantes. Forneça apenas o texto do sumário, sem introduções ou conclusões adicionais."},
+            {"role": "system", "content": "Resuma a seguinte conversa do Telegram em até 150 palavras, identificando e focando nos diferentes tópicos discutidos. Separe os tópicos utilizando um ponto final. Forneça apenas o texto dos tópicos, sem introduções ou conclusões adicionais e sem enumerar ou utilizar símbolos de divisão como hífens ou números."},
             {"role": "user", "content": input_text}
         ]
     )
@@ -53,13 +53,13 @@ def group_summary_maritalk(group_id, text_encoding, max_tokens, min_number_of_me
 
     return summaries
 
-def get_summaries_for_groups_maritalk(groups, text_encoding, APIclient, max_tokens) -> list:
+def get_summaries_for_groups_maritalk(groups, text_encoding, max_tokens, min_number_of_messages, APIclient) -> list:
     ''' Gera o sumário para todos os grupos através da API Maritalk'''
     summaries = []
     
     for index, row in groups.iterrows():
         group_id = row['channel_id']
-        group_summaries = group_summary_maritalk(group_id, text_encoding, APIclient, max_tokens)
+        group_summaries = group_summary_maritalk(group_id, text_encoding, max_tokens, min_number_of_messages, APIclient)
 
         # Guardar o id do grupo e o sumário do grupo em uma lista de dicionários
         summaries.append({

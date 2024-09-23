@@ -1,5 +1,29 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
 * {
     font-family: 'Roboto', sans-serif;
+    color: #343434;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+a {
+    text-decoration: none;
+    color: #3865C7;
+    font-weight: 500;
+}
+
+a:hover {
+    color: #22407e !important;
+}
+
+.dash-dropdown {
+    width: 20vw;
+    margin-right: 16px;
+}
+
+.Select-menu-outer {
+    overflow: auto;
 }

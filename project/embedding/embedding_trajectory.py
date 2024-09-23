@@ -3,7 +3,7 @@ import pandas as pd
 
 def get_df_for_trajectory(high_dim_embeddings, labels, date_labels):
     """Cria um DataFrame dos Embeddings de 10 dimensões para ser usado para calcular a trajetória dos pontos."""
-    df = pd.DataFrame(high_dim_embeddings, columns = [f"dim{i}" for i in range(10)])
+    df = pd.DataFrame(high_dim_embeddings, columns = [f"dim{i}" for i in range(high_dim_embeddings.shape[1])])
     df['label'] = [groups["Sumário"] for groups in labels]
     df['ID'] = [groups["ID"] for groups in labels]
     df['date'] = date_labels

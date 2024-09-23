@@ -4,7 +4,7 @@ import numpy as np
 from summarization.summarization import clear_messages, truncate_text_tokens_decode, num_tokens_from_string
 
 def tsne_reduce_dim(embeddings, summaries):
-    perplexity = min(5, len(summaries) - 1)  # Definindo perplexidade como 3 ou n_samples-1, o que for menor
+    perplexity = 20
     tsne = TSNE(n_components = 2, perplexity = perplexity)
     low_dim_embeddings = tsne.fit_transform(embeddings)
 

@@ -1,0 +1,21 @@
+digraph {
+	0 [label="Cluster 0" fontsize=12]
+	1 [label="Cluster 1" fontsize=12]
+	2 [label="Cluster 2" fontsize=12]
+	3 [label="Cluster 3" fontsize=12]
+	4 [label="Cluster 4" fontsize=12]
+	0 -> 0 [label="62.50%" fontsize=10]
+	0 -> 2 [label="25.00%" fontsize=10]
+	0 -> 3 [label="12.50%" fontsize=10]
+	1 -> 1 [label="100.00%" fontsize=10]
+	2 -> 0 [label="4.00%" fontsize=10]
+	2 -> 2 [label="56.00%" fontsize=10]
+	2 -> 3 [label="40.00%" fontsize=10]
+	3 -> 0 [label="19.05%" fontsize=10]
+	3 -> 2 [label="42.86%" fontsize=10]
+	3 -> 3 [label="38.10%" fontsize=10]
+	4 -> 0 [label="33.33%" fontsize=10]
+	4 -> 4 [label="66.67%" fontsize=10]
+	label="Transição entre 2023-01-06 e 2023-01-07"
+	labelloc=top
+}

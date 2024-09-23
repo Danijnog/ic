@@ -37,19 +37,20 @@ def get_df_for_word_cloud(groups, min_number_of_messages):
     return df
 
 def get_sentences_from_clusters(df) -> dict:
-    sentences = df.groupby('clusters')['label'].apply(list).to_dict()
+    sentences = df.groupby('cluster')['label'].apply(list).to_dict()
 
     return sentences
 
 def generate_wordcloud(words, title):
     wordcloud = WordCloud(width = 800, height = 400, background_color = 'black').generate(' '.join(words))
+    path = f"utils/wordclouds/wordcloud_{title}.png"
 
     plt.figure(figsize = (8, 4))
     plt.imshow(wordcloud, interpolation = 'bilinear')
     plt.title(title)
     plt.axis('off')
+    plt.savefig(path)
     plt.show()
-    plt.savefig(f"wordcloud_{title}")
 
 def word_cloud(sentences):
     """Gera as nuvens de palavras de todos os clusters a partir do dicionário sentences passado como parâmetro."""

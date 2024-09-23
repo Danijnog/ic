@@ -111,7 +111,7 @@ def dash_callback(app, df) -> None:
                      hover_name = filtered_df['label']
                      .apply(lambda x: '<br>'
                      .join(x[i:i + 50] for i in range(0, len(x), 50))),
-                     hover_data = {'date', 'ID'}, color = 'clusters', title = 'Embedding Summary')
+                     hover_data = {'date', 'ID'}, color = 'cluster', title = 'Embedding Summary')
     
     return fig
   

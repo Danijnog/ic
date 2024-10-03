@@ -1,8 +1,6 @@
 from sklearn.manifold import TSNE
 import numpy as np
 
-from summarization.summarization import clear_messages, truncate_text_tokens_decode, num_tokens_from_string
-
 def tsne_reduce_dim(embeddings, summaries):
     perplexity = 20
     tsne = TSNE(n_components = 2, perplexity = perplexity)

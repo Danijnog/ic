@@ -2,6 +2,7 @@ import torch
 import pickle
 import pandas as pd
 import os
+import numpy as np
 
 def embedding(text, tokenizer, model):
     inputs_ids = tokenizer.encode(str(text), return_tensors = 'pt', truncation = True, max_length = 512)   # 512 é o limite máximo de max_length para garantir que o texto extraído não ultrapasse a quantidade de tokens que o modelo é capaz de lidar
@@ -31,6 +32,43 @@ def get_embeddings(summaries, tokenizer, model):
     
     all_embeddings = torch.cat(all_embeddings, dim = 0)
     return all_embeddings
+
+def gpt_embedding(text, model, client):
+    response = client.embeddings.create(
+        input = text,
+        model = model,
+    )
+
+    return response.data[0].embedding
+
+def get_gpt_embeddings(summaries, model, client):
+    all_embeddings = []
+
+    for group in summaries:
+        group_id = group["ID"]
+        group_summaries = group["Sumário"]
+
+        if group_summaries:
+            embeddings = [gpt_embedding(text, model, client) for text in group_summaries]
+            all_embeddings.extend(embeddings)
+        
+        else:
+            print(f"O grupo {group_id} não possui sumários. " \
+                  f"Isso se deve ao fato do grupo não possuir mensagens no período analisado de fato, ou " \
+                  f"as mensagens terem sido limpas e não haver informação útil para sumarizar.")
+        
+    return all_embeddings
+
+def normalize_l2(embeddings):
+    embeddings = np.array(embeddings)
+
+    if embeddings.ndim == 1:
+        l2_norm = np.linalg.norm(embeddings)
+        return np.where(l2_norm == 0, embeddings, embeddings / l2_norm) # Se o valor da norma for 0, retorna o valor do embedding, se não retorna o valor normalizado
+
+    l2_norm = np.linalg.norm(embeddings, ord = 2, axis = 1, keepdims = True) # Para uma matriz (array 2D), a normalização tem de ser feita linha a linha (cada vetor individualmente) (axis = 1)
+
+    return np.where(l2_norm == 0, embeddings, embeddings / l2_norm)
 
 def save_embedding(embeddings, file_name):
     """ Salva o embedding em um arquivo binário através do Pickle, que converte objetos Python em um fluxo de bytes."""

@@ -23,6 +23,13 @@ from groq import Groq
 APIclient_llama3 = Groq(api_key = API_KEY_LLAMA3)
 Cerca de 43h para fazer o sumário de todos os grupos
 
+
+
+Através do replicate
+REPLICATE_API_TOKEN = "r8_IKUvDsTbNZQFpU3MkDg2mvTcr1yB7SF3r2S0j"
+APIClient = replicate.Client(api_token = REPLICATE_API_TOKEN)
+model = "meta/meta-llama-3.1-405b-instruct"
+
 Maritalk Setup
 import maritalk
 API_KEY_MARITALK = "114784108350362647579$2fc4910d7c5aab63"

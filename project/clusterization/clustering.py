@@ -8,7 +8,7 @@ import numpy as np
 def get_silhouette_score_kmeans(high_dim_embeddigs, max_clusters):
     silhouette_scores = []
     k_values = []
-    wcss = [] # Within-Cluster Sum of Squares. Soma dos quadrados das distâncias entre cada ponto no cluster e o centróide do cluster. Portanto, menores valores significa que os pontos estão mais próximos ao centróide do cluster.
+    wcss = [] # Within-Cluster Sum of Squares. Soma dos quadrados das distâncias entre cada ponto no cluster e o centróide do cluster. Portanto, menores valores significam que os pontos estão mais próximos ao centróide do cluster.
 
     for i in range(2, max_clusters + 1):
         kmeans = KMeans(n_clusters = i).fit(high_dim_embeddigs)
@@ -19,7 +19,7 @@ def get_silhouette_score_kmeans(high_dim_embeddigs, max_clusters):
     data = ({
     'num_clusters': k_values,
     'silhouette_score': silhouette_scores,
-    'wcss': wcss
+    'within_cluster_sum_of_squares': wcss
     })
     
     df = pd.DataFrame(data)

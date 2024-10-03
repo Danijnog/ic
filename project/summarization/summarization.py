@@ -4,13 +4,12 @@ import pandas as pd
 from connection.db_processing import clear_messages
 from .tokens import num_tokens_from_string, truncate_text_tokens_decode
 
-def generate_summary(input_text, max_tokens, model, APIclient) -> str:
+def generate_summary(input_text, model, APIclient) -> str:
     try:
         response = APIclient.chat.completions.create(
             model = model,
-            max_tokens = max_tokens,
             messages = [
-                {"role": "system", "content": "Resuma a seguinte conversa do Telegram em até 150 palavras, identificando e focando nos diferentes tópicos discutidos. Separe os tópicos utilizando um ponto final. Forneça apenas o texto dos tópicos, sem introduções ou conclusões adicionais e sem enumerar ou utilizar símbolos de divisão como hífens ou números."},
+                {"role": "system", "content": "Você receberá mensagens de conversas do Telegram, e sua tarefa é gerar um sumário conciso de no máximo 150 palavras das mensagens."},
                 {"role": "user", "content": input_text}
             ]
         )
@@ -48,7 +47,7 @@ def group_summary(group_id, text_encoding, text_model, max_tokens, min_number_of
 
             try:
                 # Append each summary to a list
-                generated_summary = generate_summary(truncated_messages, max_tokens, text_model, APIclient)
+                generated_summary = generate_summary(truncated_messages, text_model, APIclient)
                 summaries.append(generated_summary)
                 print(contagem)
             

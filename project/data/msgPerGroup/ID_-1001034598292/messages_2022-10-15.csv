@@ -1,0 +1,76 @@
+"message_id","message","message_utc","from_id","date","time"
+"524723","Sim","2022-10-15 22:21:36","25962582","2022-10-15","22:21:36"
+"524724","É pq vc não tem receita pronta","2022-10-15 22:21:52","25962582","2022-10-15","22:21:52"
+"524686","Pessoal, uma dúvida, que talvez seja besta:
+
+O pamac verifica atualizações assim que a gente loga ou tem que configurar?","2022-10-15 01:53:33","465789308","2022-10-15","01:53:33"
+"524687","pacman -S plasma sddm","2022-10-15 01:56:00","25962582","2022-10-15","01:56:00"
+"524689","Verifica.","2022-10-15 07:52:08","887840764","2022-10-15","07:52:08"
+"524690","Obviamente dá pra configurar isso.","2022-10-15 07:52:20","887840764","2022-10-15","07:52:20"
+"524692","Já verifiquei","2022-10-15 10:45:05","465789308","2022-10-15","10:45:05"
+"524693","É mesmo? Nossa!","2022-10-15 10:45:27","465789308","2022-10-15","10:45:27"
+"524696","Se no pamac-gtk  (GUI) tiver habilitado o AUR e, para buscar atualizações deste, não precisa de mais nada agora se está assim 👆🏽tem que buscar atualizações manualmente com pamac update, mas isso apenas do repositório AUR","2022-10-15 13:38:39","5792928941","2022-10-15","13:38:39"
+"524697","Bom dia, tudo bem com você?
+
+Eu configurei, mas na hora que fui testar não tinha nada a ser atualizado... hauhau
+Então queria ver, se logo após fazer o login, a primeira coisa a ser feita quando é iniciado o pamac no Systray, é verificar se tem atualizações.
+Como agora de manhã vi que já tinha alguma atualização, loguei na VM pra testar e realmente o pamac o faz.
+Meu próximo teste vai ser quando tiver atualização em algum pacote do AUR, se também aparece na lista. Então vou ter que esperar um bocado.
+
+Muito obrigado pela resposta, fou MUITO MAIS ÚTIL do que a resposta anterior.","2022-10-15 14:03:42","465789308","2022-10-15","14:03:42"
+"524725","Eu já tenho","2022-10-15 22:21:55","25962582","2022-10-15","22:21:55"
+"524700","Olá, obrigado e como o Barnabé mostrou ai acima as atualizações do repositório ""oficial"" (não AUR) são configuradas como mostra acima 👆🏽","2022-10-15 14:09:21","5792928941","2022-10-15","14:09:21"
+"524701","Sim, eu vi.
+O que quer dizer que, assim que é feito o Login, é verificado se há atualizações e após isto, é verificado as atualizações a cada ""N"" tempo de acordo com a configuração.
+No caso aí, verificar a cada 6 horas já tá muito bom.","2022-10-15 14:11:51","465789308","2022-10-15","14:11:51"
+"524702","Pode diminuir, ou aumentar como também o companheiro acima mostra","2022-10-15 14:14:53","5792928941","2022-10-15","14:14:53"
+"524703","Exato,
+Vou prosseguir com os testes usando estas bases.
+Valeu @fwicd e @Barnabe_di_Kartola","2022-10-15 14:21:50","465789308","2022-10-15","14:21:50"
+"524704","Parece que sim. 
+Instalei o  Manjaro KDE Plasma, e tudo funcionou bem ate agora.
+Gosto de gerenciadores leves, mas como eh pra jogos, vou deixar assim.","2022-10-15 14:25:05","827439518","2022-10-15","14:25:05"
+"524722","aja corragem, fui brincar de instalar arch puro aki, affff me senti nos idos que usava debian minimal, tem que ficar cassando pacotes e configurações pra todo lado..... hehehehehe","2022-10-15 22:21:18","36899061","2022-10-15","22:21:18"
+"524705","INTEL code LEAKS, Ubuntu Pro goes free, Nextcloud takes on Google and Apple - Linux + FOSS News — The Linux Experiment
+https://youtu.be/om7-QhWHwYk 16:20","2022-10-15 16:25:10","155836063","2022-10-15","16:25:10"
+"524717","Regras do Grupo 
+
+Bem-vindo  ao grupo Manjaro Brasil
+
+Antes de mais nada, atente a esse aviso:
+
+🗣 - Esse grupo é para ideias, sugestões e ajuda sobre o Manjaro. Os membros e admins do grupo não são suporte técnico 24/7 
+
+Regras do Grupo
+👉 - Não tratar os membros do grupo como otários ou idiotas
+👉 - Não pedir dinheiro ou dar dicas de investimento em Cripto moedas aos membros do grupo
+👉 - Não divulgar redes sociais sem permissão de um ADM
+👉 - Não dar ""spoiler"" de filmes, séries e animes
+👉 - Nesse grupo são permitidos e incentivados assuntos ""Off Topic"" porém não serão tolerados assuntos contendo religião, política, pornografia, orientação e preferências sexuais bem como palavras de baixo calão
+👉 - Não entrar no PV de alguém sem a autorização prévia do membro do grupo
+👉 - Quando pedir suporte, esteja com seu equipamento em mãos, pra que você possa mandar screenshots e informações do problema.","2022-10-15 21:31:38","5298578702","2022-10-15","21:31:38"
+"524718","Uma hora chego aqui..., palma, palma não criem cânico","2022-10-15 22:13:40","702350574","2022-10-15","22:13:40"
+"524719","Criando coragem pra formatar o notebook hoje","2022-10-15 22:18:48","25962582","2022-10-15","22:18:48"
+"524721","Muita necessidade de se fazer?","2022-10-15 22:20:27","702350574","2022-10-15","22:20:27"
+"524726","Então é só copiar e colar","2022-10-15 22:22:00","25962582","2022-10-15","22:22:00"
+"524727","😅😅😅😅😅","2022-10-15 22:22:07","5689850437","2022-10-15","22:22:07"
+"524728","tenho sim, se chama biglinux, KKKKKKKKKKKKKKKKKKK","2022-10-15 22:22:10","36899061","2022-10-15","22:22:10"
+"524729","Ô o que posso dizer: uma garrafa de café","2022-10-15 22:22:11","702350574","2022-10-15","22:22:11"
+"524730","Tbm to querendo","2022-10-15 22:22:57","883083059","2022-10-15","22:22:57"
+"524731","Queria lançar com um i3gaps ou algo assim","2022-10-15 22:23:54","883083059","2022-10-15","22:23:54"
+"524732","Tô dando uma revirada pra fazer isso","2022-10-15 22:24:06","883083059","2022-10-15","22:24:06"
+"524744","Queria fazer com btrfs send receive porém não tenho HD disponível","2022-10-15 23:00:54","25962582","2022-10-15","23:00:54"
+"524733","Já faz algum tempo, acho que mais de 2 anos que fiz minha instalação Arch, se tivesse que refazê-la..., talvez a deixaria de lado.
+
+Está em um PC bem velhinho que quase não uso, hoje o tempo é o maior inimigo","2022-10-15 22:39:03","702350574","2022-10-15","22:39:03"
+"524734","Tenho que refazer pq a instalação mkfs do btrfs é antiga","2022-10-15 22:40:42","25962582","2022-10-15","22:40:42"
+"524735","E a minha instalação do arch tá começando a estragar por conta dos subvolumes mal feito que eu fiz","2022-10-15 22:41:06","25962582","2022-10-15","22:41:06"
+"524741","Ihhh kedê o Matheus se foi?","2022-10-15 22:53:10","702350574","2022-10-15","22:53:10"
+"524742","se vc fizer um backup full, tipo com um rsync ou similar para outra partição, formatar a partição, criar a nova direitinho e tals, e voltar o backup sera que rola?","2022-10-15 22:54:46","36899061","2022-10-15","22:54:46"
+"524743","Já fiz backup rsync","2022-10-15 23:00:40","25962582","2022-10-15","23:00:40"
+"524745","Agora que você falou em btrfs vou deixar essa formatação pra uma próxima","2022-10-15 23:32:07","883083059","2022-10-15","23:32:07"
+"524746","Queria organizar melhor e colocar snapper","2022-10-15 23:32:36","883083059","2022-10-15","23:32:36"
+"524747","segue meu tutorial","2022-10-15 23:32:45","25962582","2022-10-15","23:32:45"
+"524748","ele é focado pra quem usa muitos snapshots","2022-10-15 23:33:01","25962582","2022-10-15","23:33:01"
+"524749","e vou revisar aqui ele pra ver se nao tem nada faltando","2022-10-15 23:33:22","25962582","2022-10-15","23:33:22"
+"524750","Vou dar uma olhada depois","2022-10-15 23:33:30","883083059","2022-10-15","23:33:30"

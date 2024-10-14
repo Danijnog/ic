@@ -1,0 +1,150 @@
+"message_id","message","message_utc","from_id","date","time"
+"532514","pamac update","2022-12-20 17:06:01","25962582","2022-12-20","17:06:01"
+"532549","paru -Syua","2022-12-20 17:27:00","25962582","2022-12-20","17:27:00"
+"532472","900 h pra desenhar o trem Kk","2022-12-20 03:37:48","132373020","2022-12-20","03:37:48"
+"532473","Sorte que eu adiantei Kk","2022-12-20 03:38:01","132373020","2022-12-20","03:38:01"
+"532482","Parabéns por ser profissional, eu faço garranchos a anos mas ainda continuam garranchos bem amadores","2022-12-20 10:30:11","702350574","2022-12-20","10:30:11"
+"532505","Te marquei no geral","2022-12-20 16:53:50","25962582","2022-12-20","16:53:50"
+"532485","Galera, dá uma conferida no Clássico que eu coloquei no tópico Músicas","2022-12-20 13:24:27","5468496994","2022-12-20","13:24:27"
+"532486","⬆️ Stable Update ⬆️
+[Stable Update] 2022-12-20 - Kernels, XFCE 4.18, KDE Frameworks, Kde Gear, Mesa, Plasma-Mobile, Thunderbird, Firefox
+
+✏️ Note ✏️
+Do not ask for help or support in Arch Linux related groups or forums.
+Manjaro is not Arch Linux.
+Learn more…
+💬 Groups on Telegram 💬
+Manjaro Community [en] · Manjaro Official [en]
+Manjaro Brasil Oficial [br] · Manjaro [ru]
+Manjaro en Español [es] · Manjaro Linux CN [ch]
+Manjaro Linux Italia [it] · Manjaro Indonesia [idn]
+知乎 Manjaro圈 [ch]","2022-12-20 13:32:18","25962582","2022-12-20","13:32:18"
+"532491","Kk ok","2022-12-20 16:31:47","132373020","2022-12-20","16:31:47"
+"532492","Tópico geral tá fechado pra vcs?","2022-12-20 16:37:08","25962582","2022-12-20","16:37:08"
+"532493","Pra mim está","2022-12-20 16:38:44","955593176","2022-12-20","16:38:44"
+"532494","Ué","2022-12-20 16:38:58","25962582","2022-12-20","16:38:58"
+"532496","Não entendi pq tava fechado","2022-12-20 16:39:10","25962582","2022-12-20","16:39:10"
+"532497","O sistema bugando 😅","2022-12-20 16:40:21","955593176","2022-12-20","16:40:21"
+"532499","Vai para o tópico geral","2022-12-20 16:50:14","25962582","2022-12-20","16:50:14"
+"532500","blz","2022-12-20 16:50:24","591686123","2022-12-20","16:50:24"
+"532501","não to achando","2022-12-20 16:51:10","591686123","2022-12-20","16:51:10"
+"532502","Off-Topic?","2022-12-20 16:51:41","591686123","2022-12-20","16:51:41"
+"532503","Ue","2022-12-20 16:53:18","25962582","2022-12-20","16:53:18"
+"532504","@Momotaros_666","2022-12-20 16:53:28","25962582","2022-12-20","16:53:28"
+"532506","Glr ao tentar instalar o chrome aparece a mensagem: falha ao sincronizar a base de dados AUR, o que devo fazer?","2022-12-20 16:56:52","591686123","2022-12-20","16:56:52"
+"532507","e logo em seguida sai essa mensagem","2022-12-20 16:58:32","591686123","2022-12-20","16:58:32"
+"532508","Vc ativou o Aur nas configurações?","2022-12-20 17:03:48","25962582","2022-12-20","17:03:48"
+"532509","sim","2022-12-20 17:03:59","591686123","2022-12-20","17:03:59"
+"532511","Eduardo, sua mensagem foi deletada, pois: tópico errado.","2022-12-20 17:04:11","5298578702","2022-12-20","17:04:11"
+"532512","Vai no terminal e atualiza","2022-12-20 17:04:42","25962582","2022-12-20","17:04:42"
+"532513","com qual comando?","2022-12-20 17:04:59","591686123","2022-12-20","17:04:59"
+"532515","   ~  pamac update                                                                                                                                                                                                                 ✔️ 
+Preparando...
+Sincronizando banco de dados de pacotes...
+https://aur.manjaro.org/packages-meta-ext-v1.json.gz: Certificado TLS inaceitável
+Falha ao sincronizar a base de dados AUR
+Nada para fazer.
+Transação finalizada com êxito.
+    ~ ","2022-12-20 17:06:55","591686123","2022-12-20","17:06:55"
+"532516","saiu isso","2022-12-20 17:07:01","591686123","2022-12-20","17:07:01"
+"532517","vc tem outro gerenciador de pacotes?","2022-12-20 17:08:27","25962582","2022-12-20","17:08:27"
+"532518","paru ou yay por exemplo?","2022-12-20 17:08:34","25962582","2022-12-20","17:08:34"
+"532519","não","2022-12-20 17:08:37","591686123","2022-12-20","17:08:37"
+"532520","pois instala","2022-12-20 17:08:59","25962582","2022-12-20","17:08:59"
+"532521","https://joserafael.notion.site/Instala-o-do-AUR-Helper-PARU-0e06aeb19dc54baa9713a0c8900363c8","2022-12-20 17:09:10","25962582","2022-12-20","17:09:10"
+"532522","[sudo] senha para eduardo: 
+atenção: archlinux-keyring-20221213-1 está atualizado -- ignorando
+atenção: autoconf-2.71-1 está atualizado -- ignorando
+atenção: automake-1.16.5-1 está atualizado -- ignorando
+atenção: binutils-2.39-4 está atualizado -- ignorando
+atenção: bison-3.8.2-4 está atualizado -- ignorando
+atenção: debugedit-5.0-4 está atualizado -- ignorando
+atenção: fakeroot-1.30.1-1 está atualizado -- ignorando
+atenção: file-5.43-1 está atualizado -- ignorando
+atenção: findutils-4.9.0-1 está atualizado -- ignorando
+atenção: flex-2.6.4-3 está atualizado -- ignorando
+atenção: gawk-5.2.1-1 está atualizado -- ignorando
+atenção: gcc-12.2.0-1 está atualizado -- ignorando
+atenção: gettext-0.21.1-2 está atualizado -- ignorando
+atenção: grep-3.8-2 está atualizado -- ignorando
+atenção: groff-1.22.4-7 está atualizado -- ignorando
+atenção: gzip-1.12-1 está atualizado -- ignorando
+atenção: libtool-2.4.7-5 está atualizado -- ignorando
+atenção: m4-1.4.19-1 está atualizado -- ignorando
+atenção: make-4.3-5 está atualizado -- ignorando
+atenção: manjaro-keyring-20221028-4 está atualizado -- ignorando
+atenção: pacman-6.0.2-5 está atualizado -- ignorando
+atenção: patch-2.7.6-8 está atualizado -- ignorando
+atenção: pkgconf-1.8.0-1 está atualizado -- ignorando
+atenção: sed-4.9-1 está atualizado -- ignorando
+atenção: sudo-1.9.12.p1-1 está atualizado -- ignorando
+atenção: texinfo-7.0.1-1 está atualizado -- ignorando
+atenção: which-2.21-5 está atualizado -- ignorando
+nada para fazer","2022-12-20 17:10:34","591686123","2022-12-20","17:10:34"
+"532523","   ~  git clone https://aur.archlinux.org/paru.git                                                                                                                                                                          ✔️  7s  
+Cloning into 'paru'...
+remote: Enumerating objects: 166, done.
+remote: Counting objects: 100% (166/166), done.
+remote: Compressing objects: 100% (116/116), done.
+remote: Total 166 (delta 50), reused 166 (delta 50), pack-reused 0
+Receiving objects: 100% (166/166), 50.56 KiB | 153.00 KiB/s, done.
+Resolving deltas: 100% (50/50), done.","2022-12-20 17:11:04","591686123","2022-12-20","17:11:04"
+"532524","fiz os passos","2022-12-20 17:11:43","591686123","2022-12-20","17:11:43"
+"532525","e agora?","2022-12-20 17:11:51","591686123","2022-12-20","17:11:51"
+"532526","fez o makepkg?","2022-12-20 17:12:08","25962582","2022-12-20","17:12:08"
+"532527","não","2022-12-20 17:14:54","591686123","2022-12-20","17:14:54"
+"532528","então nao fez","2022-12-20 17:15:00","25962582","2022-12-20","17:15:00"
+"532529","como faz?","2022-12-20 17:15:04","591686123","2022-12-20","17:15:04"
+"532530","como faz oq? olha o link do meu tutorial e segue oq tá lá","2022-12-20 17:15:59","25962582","2022-12-20","17:15:59"
+"532531","blz","2022-12-20 17:16:31","591686123","2022-12-20","17:16:31"
+"532532","saiu esse erro:
+    ~  git clone https://aur.archlinux.org/paru.git                                                                                                                                                                          ✔️  7s  
+fatal: destination path 'paru' already exists and is not an empty directory.","2022-12-20 17:16:44","591686123","2022-12-20","17:16:44"
+"532533","sim vc ja fez essa parte","2022-12-20 17:17:23","25962582","2022-12-20","17:17:23"
+"532534","faz o resto","2022-12-20 17:17:25","25962582","2022-12-20","17:17:25"
+"532535","blz","2022-12-20 17:18:43","591686123","2022-12-20","17:18:43"
+"532536","parece que acabou","2022-12-20 17:23:11","591686123","2022-12-20","17:23:11"
+"532537","paru --version","2022-12-20 17:23:51","25962582","2022-12-20","17:23:51"
+"532538","   ~/paru    master ?4    paru --version                                                                                                                                                                             ✔️  5m 48s  
+zsh: correct 'paru' to 'ptar' [nyae]?","2022-12-20 17:24:28","591686123","2022-12-20","17:24:28"
+"532539","diabo ta acontecendo ai","2022-12-20 17:25:00","25962582","2022-12-20","17:25:00"
+"532540","mah","2022-12-20 17:25:09","25962582","2022-12-20","17:25:09"
+"532541","não sei","2022-12-20 17:25:10","591686123","2022-12-20","17:25:10"
+"532542","faz assim","2022-12-20 17:25:10","25962582","2022-12-20","17:25:10"
+"532543","sudo pacman -Syyu","2022-12-20 17:25:15","25962582","2022-12-20","17:25:15"
+"532544","blz","2022-12-20 17:25:22","591686123","2022-12-20","17:25:22"
+"532545","Pessoal, estou tentando usar VMware 
+Retorna um erro ""vmmon""
+Pesquisando vi algumas pessoas dizendo que não tem suporte para Kernel 5.8+","2022-12-20 17:25:53","682848142","2022-12-20","17:25:53"
+"532546","   ~  paru --version                                                                                                                                                                                                               ✔️ 
+paru v1.11.1 - libalpm v13.0.2
+    ~ ","2022-12-20 17:25:58","591686123","2022-12-20","17:25:58"
+"532547","ué","2022-12-20 17:26:19","25962582","2022-12-20","17:26:19"
+"532548","oq vc fez?","2022-12-20 17:26:27","25962582","2022-12-20","17:26:27"
+"532550","ta usando qual kernel?","2022-12-20 17:27:10","36899061","2022-12-20","17:27:10"
+"532551","paru -Syua                                                                                                                                                                                                                   ✔️ 
+:: Looking for AUR upgrades...
+:: Looking for devel upgrades...
+:: pacotes ausentes no AUR: lib32-openssl-1.0  manjaro-documentation-en  manjaro-firmware  noto-fonts-compat  openssl-1.0
+:: marcado como desatualizado: paru
+ nada para fazer","2022-12-20 17:27:43","591686123","2022-12-20","17:27:43"
+"532552","blz","2022-12-20 17:32:30","25962582","2022-12-20","17:32:30"
+"532553","e agora?","2022-12-20 17:32:53","591686123","2022-12-20","17:32:53"
+"532554","digita paru chrome","2022-12-20 17:32:59","25962582","2022-12-20","17:32:59"
+"532555","testei no gerenciador de pacotes e parece que deu certo","2022-12-20 17:34:26","591686123","2022-12-20","17:34:26"
+"532556","saiu uma lista grande","2022-12-20 17:35:26","591686123","2022-12-20","17:35:26"
+"532557","então show","2022-12-20 17:35:37","25962582","2022-12-20","17:35:37"
+"532558","Como descubro isso?","2022-12-20 17:39:39","682848142","2022-12-20","17:39:39"
+"532559","uname -a","2022-12-20 17:40:00","25962582","2022-12-20","17:40:00"
+"532561","@jose_rafael","2022-12-20 17:40:40","682848142","2022-12-20","17:40:40"
+"532562","@jose_rafael achei um material bom, obrigado
+
+ https://wiki.manjaro.org/index.php/VMware","2022-12-20 17:46:38","682848142","2022-12-20","17:46:38"
+"532569","boa noite, estou tendo um problema no manjaro, dns tá danto temporary failure in name resolution","2022-12-20 22:26:44","983180757","2022-12-20","22:26:44"
+"532570","já olhei servidor dns, já olhei ip -a","2022-12-20 22:27:02","983180757","2022-12-20","22:27:02"
+"532571","parece q tá tudo certo","2022-12-20 22:27:08","983180757","2022-12-20","22:27:08"
+"532572","os serviços também estão sem problema","2022-12-20 22:27:22","983180757","2022-12-20","22:27:22"
+"532573","o problema continua mesmo se eu trocar a interface","2022-12-20 22:28:12","983180757","2022-12-20","22:28:12"
+"532574","de cabo eth pra wifi","2022-12-20 22:28:24","983180757","2022-12-20","22:28:24"
+"532577","já resolvi","2022-12-20 23:14:20","983180757","2022-12-20","23:14:20"
+"532578","era o firewall","2022-12-20 23:14:24","983180757","2022-12-20","23:14:24"

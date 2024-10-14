@@ -1,0 +1,84 @@
+"message_id","message","message_utc","from_id","date","time"
+"529334","Precisei mandar meu Pc para o conserto e tirei o SSD antes de enviar, peguei o Pc de volta e recoloque o SSD, eu tinha um dual boot de manjaro e windows 10, o Pc está inciando pelo Windows 10 e não aparece mais a tela para dar o dual boot. Alguém sabe como restaurar a tela de dual boot?","2022-11-13 02:44:38","794038175","2022-11-13","02:44:38"
+"529336","Eu estou conseguindo acessar a tela de dual boot por um pen drive com a ISO do manjaro por essa opcao","2022-11-13 02:46:41","794038175","2022-11-13","02:46:41"
+"529338","entra na bios e troca a ordem de boot pro manjaro","2022-11-13 02:47:52","36899061","2022-11-13","02:47:52"
+"529340","Esse é o problema. Não aparece mais o boot do manjaro","2022-11-13 02:48:29","794038175","2022-11-13","02:48:29"
+"529341","Só aparece esse do windows","2022-11-13 02:48:37","794038175","2022-11-13","02:48:37"
+"529343","O certo seria aparecer essa tela, mas só conseguido chegar nela por um pen drive de instalação do manjaro","2022-11-13 02:50:34","794038175","2022-11-13","02:50:34"
+"529344","acho que vc vai ter que re-instalar o grub ai, mandei um restaurador de grub para manjaro esses dias, 1 seg que vou te marcar.","2022-11-13 02:50:47","36899061","2022-11-13","02:50:47"
+"529345","@FlavioSouza36","2022-11-13 02:51:30","36899061","2022-11-13","02:51:30"
+"529347","Consegui resolver executando esse segundo passo","2022-11-13 03:35:18","794038175","2022-11-13","03:35:18"
+"529348","mas so funciona no site no wine esquece","2022-11-13 03:46:27","248334232","2022-11-13","03:46:27"
+"529355","Usei o SSHPASS + SSH + TAIL, funcionou.
+Obrigado campeão","2022-11-13 12:19:02","682848142","2022-11-13","12:19:02"
+"529350","Se por ventura aparecer o ERRO: ""Certificado TLS inaceitável"" ao atualizar pelo pamac update
+
+Resolve-se dessa forma abaixo:
+https://forum.biglinux.com.br/d/2446-erro-no-pamac-certificado-tls-inaceitavel","2022-11-13 11:11:21","702350574","2022-11-13","11:11:21"
+"529351","Não, óbvio que não, pois, eu não uso Wine e adjacências uso um WebAPP 👆🏽","2022-11-13 11:16:39","702350574","2022-11-13","11:16:39"
+"529352","E office365 é justamente para ser usado no WWW, até parece que eu falo em outro idioma que não o português???","2022-11-13 11:17:53","702350574","2022-11-13","11:17:53"
+"529353","Pessoal, bom dia.
+Eu estou precisando monitorar um arquivo de Log via FTP.
+Tem alguma forma de fazer isso com Shell ou GUI?","2022-11-13 11:36:19","682848142","2022-11-13","11:36:19"
+"529354","https://www.vivaolinux.com.br/dica/Vendo-quem-esta-logado-no-servidor-de-FTP","2022-11-13 11:39:13","702350574","2022-11-13","11:39:13"
+"529356","Eu não fiz foi nada","2022-11-13 12:19:43","702350574","2022-11-13","12:19:43"
+"529357","Obrigado :D","2022-11-13 12:20:03","682848142","2022-11-13","12:20:03"
+"529358","Para instalar pacotes AUR pelo Shell usa ""yay"" ?","2022-11-13 12:20:20","682848142","2022-11-13","12:20:20"
+"529359","ou é yaourt?","2022-11-13 12:20:25","682848142","2022-11-13","12:20:25"
+"529360","Nenhum, nem o outro","2022-11-13 12:30:10","702350574","2022-11-13","12:30:10"
+"529361","ahhh o_O
+como instalo então?","2022-11-13 12:30:24","682848142","2022-11-13","12:30:24"
+"529362","pamac","2022-11-13 12:30:28","702350574","2022-11-13","12:30:28"
+"529376","Estou usando via flatpak
+Calma jovem","2022-11-13 15:14:21","682848142","2022-11-13","15:14:21"
+"529365","Se for UEFI tem que adicionar a entrada lá na bios, se sua bios não tiver essa opção tem que reinstalar o grub denovo","2022-11-13 12:49:34","25962582","2022-11-13","12:49:34"
+"529366","Show","2022-11-13 12:50:31","25962582","2022-11-13","12:50:31"
+"529368","@john_nada_spartan Bom dia campeão, eu instalei o Telegram via Flatpak e não consigo arrastar nada para compartilhar preciso clicar no anexo. Consegue me ajudar?","2022-11-13 12:55:40","682848142","2022-11-13","12:55:40"
+"529377","Que massa esse flatseal, resolveu. Obrigado 😁👌","2022-11-13 15:14:50","682848142","2022-11-13","15:14:50"
+"529369","Isso é questão de permissão. Por padrão o Telegram em Flatpak não tem acesso à todos os seus dados da $HOME, por isso você não consegue arrastar.
+
+Se realmente precisar disso, você pode ir no Flatseal e ligar a opção pra ele ter acesso à sua $HOME.","2022-11-13 13:55:07","1535081036","2022-11-13","13:55:07"
+"529373","telegram.org ; baixa ; 2 cliques no arquivo e a pergunta","2022-11-13 14:34:40","702350574","2022-11-13","14:34:40"
+"529374","o que tem de mal nisso","2022-11-13 14:34:48","702350574","2022-11-13","14:34:48"
+"529378","De nada, jovem","2022-11-13 15:15:05","1535081036","2022-11-13","15:15:05"
+"529381","Mas o nosso colega queria o office 2016 ou 2019 com o wine lol tu isso nao leu","2022-11-13 15:17:11","248334232","2022-11-13","15:17:11"
+"529382","O yaourt ja foi descontinuado","2022-11-13 15:17:50","248334232","2022-11-13","15:17:50"
+"529383","Usa o pamac, que já vem no Manjaro. Sim, ele tem linha de comando também.","2022-11-13 15:18:44","1535081036","2022-11-13","15:18:44"
+"529384","@PCreto eu tinha respondido a este","2022-11-13 15:20:35","248334232","2022-11-13","15:20:35"
+"529385","@PCreto","2022-11-13 15:20:46","248334232","2022-11-13","15:20:46"
+"529387","Blz entendi","2022-11-13 15:50:30","682848142","2022-11-13","15:50:30"
+"529388","Massa 😁","2022-11-13 15:50:38","682848142","2022-11-13","15:50:38"
+"529389","Parece ser muito bom o Office que vem no MJR","2022-11-13 15:50:58","682848142","2022-11-13","15:50:58"
+"529390","Rapazeada, só formatando msm né? Ou ainda há esperança de conseguir bootar?","2022-11-13 17:59:56","26289069","2022-11-13","17:59:56"
+"529391","Uso o VirtualBox no manjaro pra rodar uma VM pro meu TCC. Ontem tive problema pra abrir a VM, falava q os módulos do kernel n eram compatíveis ou coisa assim. Tentei trocar de kernel algumas vezes (todos eram LTS) até q uma hora deu isso e nunca mais bootou","2022-11-13 18:02:45","26289069","2022-11-13","18:02:45"
+"529392","Vesh","2022-11-13 18:22:05","25962582","2022-11-13","18:22:05"
+"529393","Vc usa btrfs ou ext4?","2022-11-13 18:22:14","25962582","2022-11-13","18:22:14"
+"529394","ext4","2022-11-13 18:22:24","26289069","2022-11-13","18:22:24"
+"529395","MJR quer dizer o que?","2022-11-13 18:22:40","248334232","2022-11-13","18:22:40"
+"529397","Vesh","2022-11-13 18:31:28","25962582","2022-11-13","18:31:28"
+"529398","Vc só deixou 1 kernel instalado?","2022-11-13 18:31:28","25962582","2022-11-13","18:31:28"
+"529399","não, tinha 4 instalados","2022-11-13 18:32:31","26289069","2022-11-13","18:32:31"
+"529400","ai tentei bootar com o 4.9 se n me engano e ai deu isso e dps não consegui bootar com mais nenhum","2022-11-13 18:33:41","26289069","2022-11-13","18:33:41"
+"529401","Vesh","2022-11-13 18:33:58","25962582","2022-11-13","18:33:58"
+"529402","Manjaro","2022-11-13 18:35:01","682848142","2022-11-13","18:35:01"
+"529403","Tô sem internet agora","2022-11-13 18:35:21","25962582","2022-11-13","18:35:21"
+"529404","eu uso onlyoffice e compativel com office da microsoft","2022-11-13 18:42:19","248334232","2022-11-13","18:42:19"
+"529405","Tens o office web da microsoft","2022-11-13 18:44:17","248334232","2022-11-13","18:44:17"
+"529406","Web acho tão interessante, onlyoffice atende bem","2022-11-13 18:55:23","682848142","2022-11-13","18:55:23"
+"529407","@nunomgnunes obrigado campeão","2022-11-13 18:55:30","682848142","2022-11-13","18:55:30"
+"529408","Pessoal, tem como abrir um arquivo FTP e ficar salvando ele direto sem precisar copiar o arquivo e jogar ele para upload?","2022-11-13 19:06:07","682848142","2022-11-13","19:06:07"
+"529409","Ai nao tens solucao","2022-11-13 19:08:27","248334232","2022-11-13","19:08:27"
+"529410","teste o gftp ele salva somente quando fecho o arquivo e pergunta se é para reescrever o do servidor.","2022-11-13 19:09:07","682848142","2022-11-13","19:09:07"
+"529411","Sem  problemas, obrigado","2022-11-13 19:09:10","682848142","2022-11-13","19:09:10"
+"529412","talvez com sftp","2022-11-13 19:09:16","36899061","2022-11-13","19:09:16"
+"529413","Hmm, posso tentar :D
+Obrigado Barnabé","2022-11-13 19:09:48","682848142","2022-11-13","19:09:48"
+"529414","Testing Update
+[Testing Update] 2022-11-13 - Bluez, GNOME Shell, Haskell,Python, KDE-git
+✏️ Note ✏️
+Do not ask for help or support in Arch Linux related groups or forums.
+Manjaro is not Arch Linux.
+Learn more…","2022-11-13 19:41:45","25962582","2022-11-13","19:41:45"
+"529415","https://www.phoronix.com/news/KDE-Env-Vars-Vertical-Monitors","2022-11-13 23:32:16","1535081036","2022-11-13","23:32:16"
+"529417","https://www.phoronix.com/news/MPV-0.35-Released","2022-11-13 23:43:12","1535081036","2022-11-13","23:43:12"
+"529419","https://www.phoronix.com/news/wlroots-0.16-Released","2022-11-13 23:45:04","1535081036","2022-11-13","23:45:04"

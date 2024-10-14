@@ -1,0 +1,23 @@
+"message_id","message","message_utc","from_id","date","time"
+"530923","Isso é outra coisa","2022-11-30 01:05:42","25962582","2022-11-30","01:05:42"
+"530927","Pessoal, boa tarde.
+Estou precisando acessar um arquivo de log ""smb://10.0.4.14"" usando ""tail"" mais não estou sabendo fazer, alguém poderia me ajudar?
+
+Como estou fazendo:
+
+tail -f //10.0.4.14/logs/api.log","2022-11-30 17:24:00","682848142","2022-11-30","17:24:00"
+"530928","Tail é pra ler? Acho que vai precisar copiar antes","2022-11-30 22:37:46","25962582","2022-11-30","22:37:46"
+"530929","Isso é para ler","2022-11-30 22:42:59","682848142","2022-11-30","22:42:59"
+"530930","Então melhor copiar antes","2022-11-30 22:48:15","25962582","2022-11-30","22:48:15"
+"530931","Pode ser, mas  o não continua, não  precisa de pacote algum para atualizar e procurar mirrors mais rápidos no Manjaro","2022-11-30 22:54:13","702350574","2022-11-30","22:54:13"
+"530933","No arch tbm n precisa","2022-11-30 23:04:32","883083059","2022-11-30","23:04:32"
+"530934","Só é um pouco mais trabalhoso sem o reflector","2022-11-30 23:04:59","883083059","2022-11-30","23:04:59"
+"530935","E o meu wallpaper mais famoso esse sei já rodou o mundo, quanta modéstia (🤣) mas me deparei com ele em outras paragens","2022-11-30 23:05:52","702350574","2022-11-30","23:05:52"
+"530937","😉","2022-11-30 23:06:58","702350574","2022-11-30","23:06:58"
+"530938","Seria inviável porque a ideia de usar tail é monitorar o log. Vou ver outra forma. Obrigado Rafael 😁","2022-11-30 23:08:34","682848142","2022-11-30","23:08:34"
+"530939","É mas acho que precisa de outro comando pra entrar no samba","2022-11-30 23:09:10","25962582","2022-11-30","23:09:10"
+"530940","Deve ser isso mesmo, faz todo sentido 😱","2022-11-30 23:09:30","682848142","2022-11-30","23:09:30"
+"530941","@jose_rafael provavelmente se eu conseguir chegar via Shell na pasta da rede devo conseguir usar o tail. Obrigado 👌","2022-11-30 23:10:17","682848142","2022-11-30","23:10:17"
+"530942","@EricoRolinski","2022-11-30 23:10:30","25962582","2022-11-30","23:10:30"
+"530943","O certo seria usar ssh","2022-11-30 23:10:37","883083059","2022-11-30","23:10:37"
+"530944","Aliás, o melhor seria usar ssh","2022-11-30 23:10:57","883083059","2022-11-30","23:10:57"

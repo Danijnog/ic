@@ -1,0 +1,74 @@
+"message_id","message","message_utc","from_id","date","time"
+"532881","https://youtu.be/uR4uoXEYmSQ","2022-12-28 15:37:43","25962582","2022-12-28","15:37:43"
+"532865","Reinstalei com a iso nova e voltou ao normal. Só que Não instalei os apps KDE e estou achando até um pouco mais rápido do que era antes da atualização","2022-12-28 00:08:08","1996608824","2022-12-28","00:08:08"
+"532866","É bom formatar depois de muito tempo","2022-12-28 00:19:52","25962582","2022-12-28","00:19:52"
+"532867","Será que esse Kernel 6.1 afeta um pouco desempenho. Achei um pouco mais rápido do que quando eu usava o LTS...","2022-12-28 00:22:19","1996608824","2022-12-28","00:22:19"
+"532868","Sera que afeta?*","2022-12-28 00:22:38","1996608824","2022-12-28","00:22:38"
+"532869","Pode afetar sim","2022-12-28 00:34:37","25962582","2022-12-28","00:34:37"
+"532872","Voltei as origens, fui pro arch, testei todas versões, fui pro kde, não curti o desempenho e voltei pro amado manjaro xfce","2022-12-28 03:18:58","5947032808","2022-12-28","03:18:58"
+"532876","Bom dia! Alguem pode me ajudar? Não estou conseguindo subir o Manjaro no meu notebook. O seguinte erro aparece na instalação:
+
+O carregador de inicialização não pôde ser instalado. O comando de instalação <pre>grub-install –target=i386-pc –recheck –force /dev/sdc</pre> retornou o código de erro 1.","2022-12-28 08:52:16","1489959130","2022-12-28","08:52:16"
+"532878","Pessoal, bom dia.
+
+Estou pesquisando e vi que no Gnome Boxes tem opção de Aceleração Gráfica 3D, segundo uns sites...
+
+Porém quando vou fazer isso no Windows 7 não mostra nada...","2022-12-28 10:59:43","682848142","2022-12-28","10:59:43"
+"532880","Manjaro 22 LANÇADO! Uma Nova opção de Distro Linux com Gnome 43!
+https://youtube.com/watch?v=uR4uoXEYmSQ&feature=share","2022-12-28 15:37:31","25962582","2022-12-28","15:37:31"
+"532882","Como vc instalou?","2022-12-28 15:39:05","25962582","2022-12-28","15:39:05"
+"532883","Manualmente. Primeiro pelo gparted
+E depois no Sikaris, colocando as flags","2022-12-28 15:40:34","1489959130","2022-12-28","15:40:34"
+"532884","Inclusive to tentando de novo","2022-12-28 15:40:45","1489959130","2022-12-28","15:40:45"
+"532885","Top ehn","2022-12-28 15:41:04","760081364","2022-12-28","15:41:04"
+"532886","Desde ontem estou tentando subir a distro nesse notebook. E meus amigos... que saga! Nunca vi nada parecido.","2022-12-28 15:43:26","1489959130","2022-12-28","15:43:26"
+"532887","Gente, não é possível. O que será que estou fazendo de errado?","2022-12-28 15:49:44","1489959130","2022-12-28","15:49:44"
+"532888","Tentou manualmente pelo calamares?","2022-12-28 15:54:59","883083059","2022-12-28","15:54:59"
+"532889","Essa ISO veio com o Sikaris. Como faço para trocar para o calamares?
+
+Apesar que ontem eu estava tentando subir o Big Linux e o instalador dele é calamares. Não consegui também.","2022-12-28 15:58:09","1489959130","2022-12-28","15:58:09"
+"532890","Sikaris?","2022-12-28 16:01:32","883083059","2022-12-28","16:01:32"
+"532891","Sikaris não é o nome dessa versão nova do manjaro?","2022-12-28 16:01:44","883083059","2022-12-28","16:01:44"
+"532892","~.~ é... isso kkkkk desculpa a falha, amigo kkkkk tô acordado desde ontem tentando resolver isso e já nem sei mais o que estou dizendo.","2022-12-28 16:02:29","1489959130","2022-12-28","16:02:29"
+"532893","Então... o notebook é um Compaq cq23
+Lá na bios eu desativei secure boot, fast boot e tpm
+
+na parte de os selection não dá pra selecionar, tem algo travando, aí fica marcado por padrão o windows 10.","2022-12-28 16:04:35","1489959130","2022-12-28","16:04:35"
+"532894","*OS selection","2022-12-28 16:04:50","1489959130","2022-12-28","16:04:50"
+"532895","Manda imagem","2022-12-28 16:05:19","883083059","2022-12-28","16:05:19"
+"532896","Falhou a instalação do grub então não tem nenhum inicializador do manjaro","2022-12-28 16:05:39","883083059","2022-12-28","16:05:39"
+"532897","Se o manjaro já estiver instalado você vai precisar montar as partições e entrar em chroot nelas pra instalar o inicializador","2022-12-28 16:06:20","883083059","2022-12-28","16:06:20"
+"532898","Tem que ver se sua BIOS é lagacy ou uefi tbm","2022-12-28 16:08:17","883083059","2022-12-28","16:08:17"
+"532900","Parece ser UEFI mesmo","2022-12-28 16:09:25","1489959130","2022-12-28","16:09:25"
+"532901","É sim","2022-12-28 16:09:37","883083059","2022-12-28","16:09:37"
+"532902","Coloquei um SSD novo pra instalar o Manjaro","2022-12-28 16:10:12","1489959130","2022-12-28","16:10:12"
+"532903","Como posso corrigir isso?","2022-12-28 16:10:33","1489959130","2022-12-28","16:10:33"
+"532904","Eu tô longe do Pc agora, não consigo mandar os passos pra você seguir","2022-12-28 16:11:07","883083059","2022-12-28","16:11:07"
+"532907","https://youtu.be/7Vnofxjl490","2022-12-28 16:13:39","883083059","2022-12-28","16:13:39"
+"532908","Colocou a flag boot?","2022-12-28 16:43:36","25962582","2022-12-28","16:43:36"
+"532910","Tranquei o tópico sem querer kkkkkkj","2022-12-28 16:46:13","883083059","2022-12-28","16:46:13"
+"532911","Mano","2022-12-28 16:46:42","883083059","2022-12-28","16:46:42"
+"532912","Só arrastei","2022-12-28 16:46:47","883083059","2022-12-28","16:46:47"
+"532913","Inacreditável","2022-12-28 16:46:52","883083059","2022-12-28","16:46:52"
+"532914","😂😂😂 essa funcionalidade do Telegram é um saco","2022-12-28 16:47:12","1489959130","2022-12-28","16:47:12"
+"532915","Aham","2022-12-28 16:47:19","1489959130","2022-12-28","16:47:19"
+"532917","Hdj [5906449978] para participar neste grupo, defina, nas configurações do Telegram, um nome de usuário e clique em ""Feito!"". 
+Ação: Silenciado 🔇","2022-12-28 17:33:48","5298578702","2022-12-28","17:33:48"
+"532927","Ele tem uns 10 anos d vida é antigo","2022-12-28 20:16:53","5947032808","2022-12-28","20:16:53"
+"532919","Muhammad Powar [5753708892] para participar neste grupo, defina, nas configurações do Telegram, um nome de usuário e clique em ""Feito!"". 
+Ação: Silenciado 🔇","2022-12-28 18:16:58","5298578702","2022-12-28","18:16:58"
+"532921","Glr","2022-12-28 19:10:28","5947032808","2022-12-28","19:10:28"
+"532922","Eu uso XFCE e constantemente meu notebook tá desligando usando o sistema manjado xfce","2022-12-28 19:10:28","5947032808","2022-12-28","19:10:28"
+"532923","Manjaro","2022-12-28 19:10:28","5947032808","2022-12-28","19:10:28"
+"532924","Ele desliga do nada","2022-12-28 19:10:28","5947032808","2022-12-28","19:10:28"
+"532925","monitora as temperaturas, todos os computadores atuais tem sistema de proteção contra super aquecimento.","2022-12-28 19:23:29","36899061","2022-12-28","19:23:29"
+"532926","Kkkkk","2022-12-28 19:27:49","25962582","2022-12-28","19:27:49"
+"532928","E também ele acaba de ligar e desliga","2022-12-28 20:17:07","5947032808","2022-12-28","20:17:07"
+"532929","Aí tenho que ligar de novo e esperar pra que não desligue","2022-12-28 20:17:15","5947032808","2022-12-28","20:17:15"
+"532930","Ele não espera nem esquentar pra desligar","2022-12-28 20:17:25","5947032808","2022-12-28","20:17:25"
+"532931","faz quanto tempo que vc limpou e trocou a pasta termica?","2022-12-28 20:21:14","36899061","2022-12-28","20:21:14"
+"532932","a cpu esquenta de 20º para 100º em questão de segundos","2022-12-28 20:21:41","36899061","2022-12-28","20:21:41"
+"532933","já peguei muuuuito notebook com ventoinha estragada que desligava antes de terminar o boot","2022-12-28 20:22:43","36899061","2022-12-28","20:22:43"
+"532934","Musica pra relaxar enquanto programa","2022-12-28 20:24:02","166374266","2022-12-28","20:24:02"
+"532936","Desculpado senhor robô rsrs","2022-12-28 20:24:28","166374266","2022-12-28","20:24:28"
+"532937","Rapaz nunca toquei não, só abro pra limpar mas nunca toquei nem sei uma olhada nessas coisas","2022-12-28 20:51:52","5947032808","2022-12-28","20:51:52"

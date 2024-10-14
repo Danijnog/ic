@@ -1,0 +1,106 @@
+"message_id","message","message_utc","from_id","date","time"
+"530946","Whuwu [5859193440] para participar neste grupo, defina, nas configurações do Telegram, um nome de usuário e clique em ""Feito!"". 
+Ação: Silenciado 🔇","2022-12-01 00:21:18","5298578702","2022-12-01","00:21:18"
+"530947","Esse recurso em smb é o samba ou um compartilhamento windows?
+
+Nos 2 casos seria necessário acessar o recurso com o mount e tipo cifs
+
+Seria próximo a isso
+
+mount -t cifs -o domain=dominio,username=usuario,password=senha //servidor/compartilhamento /home/user/mnt/compartilhado
+
+Depois seria usado o tail no ponto de montagem
+
+tail -f /home/user/mnt/compartilhado/arquivo.log
+
+Nota
+
+Para não passar a senha na linha de comando se for feito e script em como salvar a senha em um arquivo e informar o caminho
+
+mount -t cifs -o credentials=/home/usuario/.cifs_credentials.txt //servidor/compartilhamento /home/user/mnt/compartilhado
+
+Conteúdo do arquivo .cifs_credentials.txt (pode usar qualquer nome)
+username=
+password=
+domain=(opcional)
+
+Remover o valor domain se não tiver domínio
+
+Usar
+chmod 600 .cifs_credentials.txt
+
+Existem mais opções na linha de comando mas pode não ser necessário quando somente leitura","2022-12-01 00:35:22","163329156","2022-12-01","00:35:22"
+"530948","Alguém que usa Manjaro e Windows para dar uma help?","2022-12-01 00:45:33","940162088","2022-12-01","00:45:33"
+"530950","Regras para pedir ajuda no Grupo Manjaro Linux Brasil
+
+👉 - Não pergunte se alguém pode ajudar, fale qual o seu problema e/ou dificuldade e faça a pergunta direta, sem rodeios.
+
+👉 - Quando pedir suporte, esteja com seu equipamento em mãos e disposição para resolver o teu problema. Mande screenshots ou fotos (de preferencia modo horizontal de qualidade visível) e informações do problema.
+- Abra o terminal e digite o comando inxi -b e mande print das informações
+- Descreva (com o máximo de detalhes possíveis) o teu problema
+-Se estiver seguindo algum tutorial, mande o link;
+
+👉 - Descreva as tentativas que por ventura tenha realizado para tentar resolver esse problema.","2022-12-01 00:47:19","5298578702","2022-12-01","00:47:19"
+"530951","Essa pasta está compartilhada pelo Windows Server e acesso pelo Manjaro pelo Samba. Amanhã vou tentar como você falou","2022-12-01 00:59:35","682848142","2022-12-01","00:59:35"
+"530954","Iy Ccgkvjh [5816587489] para participar neste grupo, defina, nas configurações do Telegram, um nome de usuário e clique em ""Feito!"". 
+Ação: Silenciado 🔇","2022-12-01 05:38:22","5298578702","2022-12-01","05:38:22"
+"530956","Pessoal bom dia. Tudo bem ? Vocês sabem como está a situação das das placas híbridas no manjaro? Eu tô querendo voltar para a distro e queria saber se o gerenciamento das placas est amais otimizado","2022-12-01 09:04:04","171952004","2022-12-01","09:04:04"
+"530957","E o bom dia vai com..","2022-12-01 11:43:35","702350574","2022-12-01","11:43:35"
+"530960","Começou o dia bem. Não conhecia essa música mas ela me lembrou bastante a pegada de outra que com certeza você deve conhecer também...","2022-12-01 15:11:22","171155368","2022-12-01","15:11:22"
+"530963","Sempre recomendo manjaro pra híbrida","2022-12-01 15:17:07","25962582","2022-12-01","15:17:07"
+"530964","Mas ele agora consegue gerenciar melhor isso ? Não e mais necessário ficar criando script pra distro entender que jogo deve ser rodado pela vou dedicada ?","2022-12-01 16:11:20","171952004","2022-12-01","16:11:20"
+"530965","Pessoal para jogar na Steam o que é viável xorg ou Wayland? Ou não dá problema em nenhum dos casos?","2022-12-01 16:12:49","682848142","2022-12-01","16:12:49"
+"530966","Qualquer jogo em opengl precisa setar qual placa usar em qualquer distribuição Linux","2022-12-01 16:13:11","25962582","2022-12-01","16:13:11"
+"530967","Agora se for vulkan não precisa fazer nada","2022-12-01 16:13:22","25962582","2022-12-01","16:13:22"
+"530968","Pessoal, boa tarde.
+Tem algo para facilitar divisão da área de trabalho entre os Programas como faz no Windows 10 + PowerToys? 
+Achei o gSnap (Extensão) mais fica tudo zuado a divisão.","2022-12-01 16:46:05","682848142","2022-12-01","16:46:05"
+"530972","Isso se chama tiling, procura cono fazer dependendo do ambiente que vc usa","2022-12-01 17:08:35","25962582","2022-12-01","17:08:35"
+"530974","MRAK-ID","2022-12-01 17:37:26","25962582","2022-12-01","17:37:26"
+"530975","Extensão: gTile
+Resultado: Resolvido","2022-12-01 18:07:40","682848142","2022-12-01","18:07:40"
+"530978","Pessoal, alguém consegue me ajudar a ajustar o Anydesk no Gnome? Fica dando problema com Wayland e mesmo ajustando pelo flatseal (flatpak) informa que não é possível acessar porque não tem suporte para Wayland","2022-12-01 18:31:22","682848142","2022-12-01","18:31:22"
+"530979","Ué","2022-12-01 19:59:09","25962582","2022-12-01","19:59:09"
+"530980","Quando usei no plasma Wayland consegui controlar meu celular de boa","2022-12-01 19:59:30","25962582","2022-12-01","19:59:30"
+"530981","Eu instalei anydesk pelo aur e não funfa 😭 por causa do Wayland","2022-12-01 20:06:15","682848142","2022-12-01","20:06:15"
+"530982","Usei flatpak","2022-12-01 20:06:41","25962582","2022-12-01","20:06:41"
+"530983","Foi 100%","2022-12-01 20:06:49","25962582","2022-12-01","20:06:49"
+"530984","Eu usei aur e flatpak mesmo usando flatseal e marcando Wayland no anydesk não funfa","2022-12-01 20:07:37","682848142","2022-12-01","20:07:37"
+"530986","Não é pra marcar flag de Wayland","2022-12-01 20:18:57","25962582","2022-12-01","20:18:57"
+"530987","Marcar ou não, não resolve entende?
+Só marquei para ver se resolvia","2022-12-01 20:20:34","682848142","2022-12-01","20:20:34"
+"530989","Great [5862876003] para participar neste grupo, defina, nas configurações do Telegram, um nome de usuário e clique em ""Feito!"". 
+Ação: Silenciado 🔇","2022-12-01 20:25:23","5298578702","2022-12-01","20:25:23"
+"530991","poooo [5648294642] para participar neste grupo, defina, nas configurações do Telegram, um nome de usuário e clique em ""Feito!"". 
+Ação: Silenciado 🔇","2022-12-01 20:29:47","5298578702","2022-12-01","20:29:47"
+"530993","Funds [5675482728] para participar neste grupo, defina, nas configurações do Telegram, um nome de usuário e clique em ""Feito!"". 
+Ação: Silenciado 🔇","2022-12-01 20:31:17","5298578702","2022-12-01","20:31:17"
+"530996","Gshsjo [5719395498] para participar neste grupo, defina, nas configurações do Telegram, um nome de usuário e clique em ""Feito!"". 
+Ação: Silenciado 🔇","2022-12-01 20:34:57","5298578702","2022-12-01","20:34:57"
+"530997","Das músicas boas eu devo ter visto meu pai escutando quase todas 😉","2022-12-01 20:38:16","702350574","2022-12-01","20:38:16"
+"530999","@Felipe_Aires nos altos ou baixos dos meus 5.0 eu conheço a maioria dessas músicas que eram músicas, atualmente está ficando cada vez mais difícil fazer seleções","2022-12-01 20:41:05","702350574","2022-12-01","20:41:05"
+"531000","@sidyatos 👆🏽","2022-12-01 20:43:43","702350574","2022-12-01","20:43:43"
+"531007","Carlos [1099134646] para participar neste grupo, defina, nas configurações do Telegram, um nome de usuário e clique em ""Feito!"". 
+Ação: Silenciado 🔇","2022-12-01 21:46:34","5298578702","2022-12-01","21:46:34"
+"531008","Você tem certeza que está usando wayland? Da última vez você estava usando xorg e falando que estava no wayland.","2022-12-01 22:03:14","883083059","2022-12-01","22:03:14"
+"531009","Ótima pergunta. No trabalho é Wayland, em casa é xorg","2022-12-01 22:12:23","682848142","2022-12-01","22:12:23"
+"531010","Já conferi 😁","2022-12-01 22:12:32","682848142","2022-12-01","22:12:32"
+"531011","Essa que você está agora é do trampo?","2022-12-01 22:14:32","883083059","2022-12-01","22:14:32"
+"531012","Sim exatamente","2022-12-01 22:14:45","682848142","2022-12-01","22:14:45"
+"531013","No trabalho é Intel i5 com Wayland.
+Em casa é um amd + Geforce e em xorg sei lá o motivo","2022-12-01 22:15:29","682848142","2022-12-01","22:15:29"
+"531015","Wayland não tem um bom suporte a nvidia","2022-12-01 22:15:55","883083059","2022-12-01","22:15:55"
+"531016","Da pra fazer funcionar mas não fica tão legal","2022-12-01 22:16:17","883083059","2022-12-01","22:16:17"
+"531017","Hmm","2022-12-01 22:16:29","682848142","2022-12-01","22:16:29"
+"531019","Bxbsbzbsbabh42033 [5684741991] para participar neste grupo, defina, nas configurações do Telegram, um nome de usuário e clique em ""Feito!"". 
+Ação: Silenciado 🔇","2022-12-01 22:37:57","5298578702","2022-12-01","22:37:57"
+"531020","Mas aí faz uma vez só e pronto ou tem que fazer pra cada jogo ?","2022-12-01 22:38:40","171952004","2022-12-01","22:38:40"
+"531021","Na steam pra cada jogo, no lutres tem uma opção pra ativar isso pra todos os jogos","2022-12-01 22:39:16","25962582","2022-12-01","22:39:16"
+"531022","O brabo tbm é identificar quais são os jogos que usam opengl","2022-12-01 22:39:23","171952004","2022-12-01","22:39:23"
+"531023","Ah legal. O lutris tbm roda jogo steam , então funcionaria de boa","2022-12-01 22:40:07","171952004","2022-12-01","22:40:07"
+"531024","Literalmente todos que são nativos linux","2022-12-01 22:41:20","25962582","2022-12-01","22:41:20"
+"531026","Jayson [5275535964] para participar neste grupo, defina, nas configurações do Telegram, um nome de usuário e clique em ""Feito!"". 
+Ação: Silenciado 🔇","2022-12-01 22:42:50","5298578702","2022-12-01","22:42:50"
+"531029","Ah blz já ajuda kkk","2022-12-01 23:29:48","171952004","2022-12-01","23:29:48"
+"531031","Feito a punho","2022-12-01 23:41:53","702350574","2022-12-01","23:41:53"
+"531032","É o contrário","2022-12-01 23:56:23","25962582","2022-12-01","23:56:23"

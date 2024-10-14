@@ -1,0 +1,553 @@
+"message_id","message","message_utc","from_id","date","time"
+"523906","Pretendo formatar no kernel 6.1","2022-10-12 00:04:08","25962582","2022-10-12","00:04:08"
+"523907","e quando sai? tem ideia?","2022-10-12 00:05:04","258555872","2022-10-12","00:05:04"
+"523908","Saiu 6.0 agora","2022-10-12 00:23:02","25962582","2022-10-12","00:23:02"
+"523909","Acho que só próximo ano","2022-10-12 00:23:28","25962582","2022-10-12","00:23:28"
+"523910","ahhhhh, aqui no arch nem chegou ainda","2022-10-12 00:24:59","258555872","2022-10-12","00:24:59"
+"523911","6.0 não vai chegar no arch stable","2022-10-12 00:26:18","25962582","2022-10-12","00:26:18"
+"523912","ixi","2022-10-12 00:28:23","258555872","2022-10-12","00:28:23"
+"523913","Última vez que fizeram isso deu buxa grande","2022-10-12 00:28:57","25962582","2022-10-12","00:28:57"
+"523914","Eu fiquei sem arch nesse dia","2022-10-12 00:29:11","25962582","2022-10-12","00:29:11"
+"523915","e o snapshot ?","2022-10-12 00:29:30","36899061","2022-10-12","00:29:30"
+"523916","Na época não usava btrfs","2022-10-12 00:29:49","25962582","2022-10-12","00:29:49"
+"523917","Da época do kernel 4.20","2022-10-12 00:30:16","25962582","2022-10-12","00:30:16"
+"523918","imagino que tenha dado uma bronca enorme, os devs devem ter ficado só aquele meme do cebolinha","2022-10-12 00:30:22","258555872","2022-10-12","00:30:22"
+"523919","Que mudaram pro 5.0","2022-10-12 00:30:43","25962582","2022-10-12","00:30:43"
+"523920","nessa época eu já tava me aventurando pelo btrfs, mas ainda era meio bugado.","2022-10-12 00:30:53","36899061","2022-10-12","00:30:53"
+"523922","Acho que eu nem sabia dele","2022-10-12 00:31:08","25962582","2022-10-12","00:31:08"
+"523923","os devs do arch no dia da buxa que o @jose_rafael  mencionou","2022-10-12 00:32:30","258555872","2022-10-12","00:32:30"
+"523924","Eu era o cascão","2022-10-12 00:33:26","25962582","2022-10-12","00:33:26"
+"523925","Já explico o motivo","2022-10-12 00:33:53","25962582","2022-10-12","00:33:53"
+"523926","O motivo dessa buxa é que o arch lançou o kernel 4.20 parcialmente","2022-10-12 00:37:23","25962582","2022-10-12","00:37:23"
+"523927","Por conta que mudaram o número da versão","2022-10-12 00:37:41","25962582","2022-10-12","00:37:41"
+"523928","De 4.20 pra 5.0 no git","2022-10-12 00:37:53","25962582","2022-10-12","00:37:53"
+"523929","Por conta disso me lasquei todin","2022-10-12 00:38:05","25962582","2022-10-12","00:38:05"
+"523930","Kkkkk","2022-10-12 00:38:06","25962582","2022-10-12","00:38:06"
+"523931","Passei pro manjaro esse dia","2022-10-12 00:38:15","25962582","2022-10-12","00:38:15"
+"523932","Pq o arch não bootaval","2022-10-12 00:38:22","25962582","2022-10-12","00:38:22"
+"523933","nossa, mas que buxa pesada","2022-10-12 01:00:49","258555872","2022-10-12","01:00:49"
+"523934","pelo menos os devs do arch conseguiram arrumar","2022-10-12 01:01:00","258555872","2022-10-12","01:01:00"
+"523935","imagina se eles nem tivesse conseguido","2022-10-12 01:01:07","258555872","2022-10-12","01:01:07"
+"523936","pessoal em peso iria pro manjaro","2022-10-12 01:01:13","258555872","2022-10-12","01:01:13"
+"523937","sem duvida nenhuma","2022-10-12 01:01:17","258555872","2022-10-12","01:01:17"
+"523938","por sorte, o pessoal do arch resolveu","2022-10-12 01:01:28","258555872","2022-10-12","01:01:28"
+"523939","Não sei como resolveram isso","2022-10-12 01:04:11","25962582","2022-10-12","01:04:11"
+"523940","depois de uma dessas, um milagre, basicamente","2022-10-12 01:04:26","258555872","2022-10-12","01:04:26"
+"523941","eu vim pro manjaro pq no arch  tinha um bug com sleep em 2 monitores ligados (pc  dvi  e tv hdmi) , pela quebra do grub (ja foi a 2 vez no arch puro) e por uma vez que nenhum kernel bootava pq mexeram em spectre v2, so bootava desligando com parametro no boot)","2022-10-12 01:04:42","1862046059","2022-10-12","01:04:42"
+"523942","oloco, nunca cheguei a usar duas telas aqui no meu kkkk","2022-10-12 01:05:52","258555872","2022-10-12","01:05:52"
+"523943","espero que aqui tenha mais estabilidade","2022-10-12 01:06:03","1862046059","2022-10-12","01:06:03"
+"523944","mas ja tive um caso estranho em que tinha um manjaro no ssd e outro no hd e fui instalar o grub e ele sobrescreveu a entrada na UEFI  do outro","2022-10-12 01:06:30","1862046059","2022-10-12","01:06:30"
+"523945","ou seja so posso ter 1 manjaro pq os outros n vao ter entrada na bios pro grub?","2022-10-12 01:06:59","1862046059","2022-10-12","01:06:59"
+"523946","provavelmente vc instalou na mesma partição","2022-10-12 01:07:52","25962582","2022-10-12","01:07:52"
+"523947","na base ubuntu tenho 3 entradas escrito ubuntu , uma ubuntu p1, outra ubuntu p2 e outra ubuntu p5","2022-10-12 01:07:57","1862046059","2022-10-12","01:07:57"
+"523948","nn","2022-10-12 01:07:58","1862046059","2022-10-12","01:07:58"
+"523949","cada grub no proprio efi do proprio disco","2022-10-12 01:08:07","1862046059","2022-10-12","01:08:07"
+"523950","o problema nem e o grub e sim a entrada na UEFI, acho que ele sobrescreveu","2022-10-12 01:08:14","1862046059","2022-10-12","01:08:14"
+"523951","o grub nao fica na partição efi","2022-10-12 01:08:27","25962582","2022-10-12","01:08:27"
+"523952","dei grub-install nomedapartiçãoefidodisco","2022-10-12 01:08:54","1862046059","2022-10-12","01:08:54"
+"523953","aí a entrada na UEFI ficou sendo a ultima que eu fiz","2022-10-12 01:09:09","1862046059","2022-10-12","01:09:09"
+"523954","ao invés de gerar uma segunda","2022-10-12 01:09:19","1862046059","2022-10-12","01:09:19"
+"523967","nesse pc mesmo não funciona nada.","2022-10-12 01:23:04","258555872","2022-10-12","01:23:04"
+"523955","o que seria o arquivo grubx64.efi na partição efi, pasta manjaro que tenho aqui?","2022-10-12 01:10:09","1862046059","2022-10-12","01:10:09"
+"523956","alguma coisa da efi","2022-10-12 01:10:27","25962582","2022-10-12","01:10:27"
+"523957","Eu uso isso (com raiva), não gosto, não testo nisso, nem recomendo iniciantes começarem por ele o epílogo é sempre o mesmo que nem novela mexicana:
+Muda-se os nomes e a história a mesma.
+Linux não presta","2022-10-12 01:11:07","5792928941","2022-10-12","01:11:07"
+"523958","neste computador mesmo, que é bem antiguinho, ele simplesmente não funciona. nem tentando atualizar a BIOS, sendo que ela é uma maquina de 2009, acredito eu. então por isso que eu sempre fico nessa de poder instalar as coisas, porque não tenho nem como, infelizmente. e, se eu tiver como instalar, somente na maquina real. é triste demais.","2022-10-12 01:12:23","258555872","2022-10-12","01:12:23"
+"523959","tentei até pelo efibootmgr criar a entrada, mas mesmo eu criando pro lugar certo , a entrada na UEFI apontou pro ultimo grub instalado, resolvi apagar o manjaro do hd e deixar só no ssd mesmo, junto com mint e windows","2022-10-12 01:16:20","1862046059","2022-10-12","01:16:20"
+"523968","será que kvm roda? tem como vc fazer dual boot com windows se tiver uefi com facilidade, acho que tem como instalar o windows em pen drive mas acho que so adicionando chave no registro BypassStorageCheck, e meio complicado, mas ja instalei ubuntu em pen drive e funcionou","2022-10-12 01:23:31","1862046059","2022-10-12","01:23:31"
+"523962","Evitar dores de cabeça não é nenhuma ""tristeza""
+Você é feliz e nem sabe.
+
+Razões:
+Virtualbox para aspirantes é melhor nem pensar. Usa-se atualmente pendrives é bem menos ""Anador""
+Para os da velha guarda que são (cheios do DinDin) vai lá, tem seus i7; Ryzen etc ""BamBam das Galáxias""
+
+Mas para quem como nós ""meros mortais"" tem nossos amados PC's velhinhos e também já estamos calejados de tanto teclar não.
+
+Antes eu não podia saber de um nome de distro desconhecida saia instalando, hoje quieto VBox é sinônimo de trabalho, trabalho não é sinônimo de aposentadoria, não cola é ruim, chato, brabo deve ser um horror ser DEV.
+Aleatório? Imagina! 🤣🤣","2022-10-12 01:19:48","5792928941","2022-10-12","01:19:48"
+"523963","tem que instalar o driver pro kernel que ta usando , é linux(numerosdokernel)-virtualbox-host-modules","2022-10-12 01:20:34","1862046059","2022-10-12","01:20:34"
+"523964","Tem computadores que nem existe a palavra virtualização meu caro","2022-10-12 01:21:21","5792928941","2022-10-12","01:21:21"
+"523965","deve ser antigo, o meu acho que e de 2013-2014
+ Mobo: Gigabyte model: F2A88XM-D3H v: x.x serial: <superuser required>
+    UEFI: American Megatrends v: F5 date: 01/09/2014
+CPU:
+  Info: quad core model: AMD A8-6600K APU with Radeon HD Graphics bits: 64
+    type: MT MCP cache: L2: 4 MiB
+  Speed (MHz): avg: 2221 min/max: 1900/3900 cores: 1: 2718 2: 2377 3: 1896
+    4: 1896
+Graphics:
+  Device-1: AMD Richland [Radeon HD 8570D] driver: radeon v: kernel
+  Display: x11 server: X.Org v: 21.1.4 driver: X: loaded: radeon
+    unloaded: modesetting dri: r600 gpu: radeon resolution: 1: 1920x1080~60Hz
+    2: 1920x1080~60Hz","2022-10-12 01:22:01","1862046059","2022-10-12","01:22:01"
+"523966","simplesmente pra mim, acho que é uma benção, porque justamente eu raramente uso virtual machines de qualquer forma, então de certa forma, quando eu preciso usar alguma coisa, vou mesmo no pendrive, e olha que realmente eu sinto falta, porem, é uma benção como disse
+
+ah, e usar essas coisas as vezes pode ser uma coisa boa, porque simplesmente tem coisas de bancos e afins, e não tem nem como poder usar porque simplesmente você fica sem ter o que fazer. mas é aquela coisa, ou você fica feliz, ou você tem aquela dor de cabeça que é instalar o windows kkkk","2022-10-12 01:22:50","258555872","2022-10-12","01:22:50"
+"523969","eu prefiro nem arriscar, porque é na propria BIOS...","2022-10-12 01:25:58","258555872","2022-10-12","01:25:58"
+"523970","e, como o @fwicd disse, é uma sorte de eu não ter essa coisa","2022-10-12 01:26:15","258555872","2022-10-12","01:26:15"
+"523971","Eu uso pois faço uma colaboração(bemzinha) em um ISO (Plasma) de uma distribuição com versões Brazucas","2022-10-12 01:26:27","5792928941","2022-10-12","01:26:27"
+"523973","que massa, se vc contribui, então continue assim, porque você de fato está fazendo alguma coisa kkk","2022-10-12 01:27:11","258555872","2022-10-12","01:27:11"
+"523974","faz um pen drive com ventoy e coloca um winPE tipo hirens kk","2022-10-12 01:27:24","1862046059","2022-10-12","01:27:24"
+"523975","Que diacho vem ser isso?","2022-10-12 01:27:45","5792928941","2022-10-12","01:27:45"
+"523976","windows portatil pra nao precisar instalar kk","2022-10-12 01:28:04","1862046059","2022-10-12","01:28:04"
+"523977","Vai ficar repetitivo massssss","2022-10-12 01:28:20","5792928941","2022-10-12","01:28:20"
+"523979","so nao sei nada sobre mac os, muito complicado, nem vm funciona direito","2022-10-12 01:30:09","1862046059","2022-10-12","01:30:09"
+"523980","Um ISO Linux eu perco no máximo 30 minutos do meu tempo.
+
+Uma ""Mer...cadoria"" dessas se perde as vezes horas a fio do tempo de um dia e tempo custa caríssimo hoje em dia.","2022-10-12 01:30:47","5792928941","2022-10-12","01:30:47"
+"523981","pois e eu comecei em linux em 2021 achei que nunca ia entender nada, nao sabia nem instalar direito, hoje em dia ate arch manual ja instalei, em geral dão menos problemas e sao mais faceis de manter que windows basta aprender um pouco","2022-10-12 01:31:37","1862046059","2022-10-12","01:31:37"
+"523982","Hummm, começou bem, agora lembre-se que a melhor tarefa de agora em diante é:
+
+Perder velhas manias","2022-10-12 01:32:43","5792928941","2022-10-12","01:32:43"
+"523983","tipo? na verdade acho que o windows sim está ficando um OS dificil","2022-10-12 01:33:06","1862046059","2022-10-12","01:33:06"
+"523984","O Linux é tão melhor, tão melhor mesmo que faz com que a gente faça um dos mais importantes ""exercícios"" para um ser humano","2022-10-12 01:34:09","5792928941","2022-10-12","01:34:09"
+"523985","SEmpre foi","2022-10-12 01:34:26","5792928941","2022-10-12","01:34:26"
+"523986","o 7 era bom usei ate 2020","2022-10-12 01:34:35","1862046059","2022-10-12","01:34:35"
+"523987","Mas era difícil","2022-10-12 01:34:47","5792928941","2022-10-12","01:34:47"
+"523988","é difícil","2022-10-12 01:34:53","5792928941","2022-10-12","01:34:53"
+"523989","nao tanto quanto esse 11","2022-10-12 01:34:56","1862046059","2022-10-12","01:34:56"
+"523990","vai continuar sendo difícil","2022-10-12 01:35:01","5792928941","2022-10-12","01:35:01"
+"523991","...","2022-10-12 01:35:03","5792928941","2022-10-12","01:35:03"
+"523992","Todos são, já que gastas mais de meia hora apenas para instalar e deixar do jeito que queres","2022-10-12 01:35:43","5792928941","2022-10-12","01:35:43"
+"523993","Já tenho contato com Linux há anos, gravei muito DVD com distros de todos os jeitos, mas nunca consegui largar o windows totalmente 😔","2022-10-12 01:35:50","433311975","2022-10-12","01:35:50"
+"523994","hj tenho o 11 mas nao to curtindo mto... prefiro ter os linuxs instalados em dual e nos hds por precaução","2022-10-12 01:35:51","1862046059","2022-10-12","01:35:51"
+"523995","vdd demora mt configurar pra ficar legal","2022-10-12 01:36:05","1862046059","2022-10-12","01:36:05"
+"523996","Isso é velha mania","2022-10-12 01:36:11","5792928941","2022-10-12","01:36:11"
+"523997","https://t.me/manjarobrasiloficial/523984","2022-10-12 01:36:23","5792928941","2022-10-12","01:36:23"
+"523998","mas quase n uso windows mais","2022-10-12 01:37:04","1862046059","2022-10-12","01:37:04"
+"523999","Não preciso do Windows há 13 (quase) 14 anos","2022-10-12 01:37:09","5792928941","2022-10-12","01:37:09"
+"524000","e mais pros meus pais ou pra programa que nao tenha substituos","2022-10-12 01:37:25","1862046059","2022-10-12","01:37:25"
+"524001","Mas se tem usa","2022-10-12 01:37:27","5792928941","2022-10-12","01:37:27"
+"524002","pra ver os bugs por curiosidade hahaha","2022-10-12 01:37:41","1862046059","2022-10-12","01:37:41"
+"524003","dos updates","2022-10-12 01:37:48","1862046059","2022-10-12","01:37:48"
+"524004","updates? Explique","2022-10-12 01:38:06","5792928941","2022-10-12","01:38:06"
+"524005","aaah e pra usar o chkdsk em hd ntfs caso de problema","2022-10-12 01:38:10","1862046059","2022-10-12","01:38:10"
+"524006","Só não vá entrara em parafuso kkkkkkkkkk","2022-10-12 01:38:20","5792928941","2022-10-12","01:38:20"
+"524007","eu baixo updates e vejo se o sistema ainda funciona, gosto de ver as novidades que eles tao aprontando","2022-10-12 01:38:28","1862046059","2022-10-12","01:38:28"
+"524008","Mais uma velha mania","2022-10-12 01:38:40","5792928941","2022-10-12","01:38:40"
+"524009","tem chkdsk pra ntfs no linux?","2022-10-12 01:38:49","1862046059","2022-10-12","01:38:49"
+"524010","que repare arquivos que somem?","2022-10-12 01:39:16","1862046059","2022-10-12","01:39:16"
+"524011","fdisk","2022-10-12 01:40:09","5792928941","2022-10-12","01:40:09"
+"524012","se for o fsck nao resolveu meu caso","2022-10-12 01:40:54","1862046059","2022-10-12","01:40:54"
+"524013","so o chkdsk /r","2022-10-12 01:41:07","1862046059","2022-10-12","01:41:07"
+"524014","eu escrevi fsck? 👆🏼fdisk","2022-10-12 01:41:54","5792928941","2022-10-12","01:41:54"
+"524015","qual parametro?","2022-10-12 01:42:20","1862046059","2022-10-12","01:42:20"
+"524016","fsck é pra olhar disco kkkkk","2022-10-12 01:42:30","258555872","2022-10-12","01:42:30"
+"524017","primeiro <comando> -h ou --help","2022-10-12 01:42:58","5792928941","2022-10-12","01:42:58"
+"524018","smartmontools","2022-10-12 01:43:16","5792928941","2022-10-12","01:43:16"
+"524019","...","2022-10-12 01:43:18","5792928941","2022-10-12","01:43:18"
+"524020","iriamos conversar a noite toda, massssss, o dia amanhã começa às 3 hs, valeu T+ gente boa","2022-10-12 01:43:58","5792928941","2022-10-12","01:43:58"
+"524021","vlw","2022-10-12 01:44:12","1862046059","2022-10-12","01:44:12"
+"524022","inté","2022-10-12 01:44:36","258555872","2022-10-12","01:44:36"
+"524023","gente mas no fdisk acho que so estou vendo comando de apagar
+tem o equivalente ao chkdsk /r?","2022-10-12 01:44:42","1862046059","2022-10-12","01:44:42"
+"524024","recomendo você pesquisar mais sobre o assunto","2022-10-12 01:44:56","258555872","2022-10-12","01:44:56"
+"524025","Mas antes de eu ir minha nobre Renata, vou colocar aqui uma pauta, no terminal em modo Live:
+
+fsck -AR -y","2022-10-12 01:45:33","5792928941","2022-10-12","01:45:33"
+"524026","Agora sim T+","2022-10-12 01:45:44","5792928941","2022-10-12","01:45:44"
+"524027","irei pesquisar sobre o que esse comando faz hahaha","2022-10-12 01:46:05","258555872","2022-10-12","01:46:05"
+"524028","-R
+           When checking all filesystems with the -A flag, skip the root
+           filesystem. (This is useful in case the root filesystem has already
+           been mounted read-write.)","2022-10-12 01:46:19","1862046059","2022-10-12","01:46:19"
+"524029","https://superuser.com/questions/853699/chkdsk-f-r-alternative-in-ubuntu-linux
+
+Linux has no tools to fix NTFS file system.
+
+DO NOT use ntfsfix for fixing your disk. It just removes ""dirty FS"" flag and you get a false sense of security. After a couple of ""fixes"" your data becomes unrecoverable.
+
+Do use Windows. Either have a separate HDD with Windows, or install VMware, download Windows vmware image from Microsoft, share raw disk with guest OS and check it from there.","2022-10-12 01:47:56","1862046059","2022-10-12","01:47:56"
+"524030","por isso mantenho, um dos motivos o chkdsk original deles
+alguem disse
+
+Use HBCD. It has a windows interface, as well as windows kernel. You can use CMD (CHKDSK) there.
+
+que no caso é o hiren's boot cd caso nao esteja a fim de instalar o windows","2022-10-12 01:48:29","1862046059","2022-10-12","01:48:29"
+"524234","Ué, então blz","2022-10-12 17:34:56","5468496994","2022-10-12","17:34:56"
+"524031","infelizmente, ou felizmente, no google não fala muito sobre o comando que o @fwicd  passou kkk","2022-10-12 01:50:01","258555872","2022-10-12","01:50:01"
+"524032","man fsck","2022-10-12 01:50:49","1862046059","2022-10-12","01:50:49"
+"524033","agora que eu fui me ligar, consegui entender o comando. e acho que eu não tenho o fsck instalado por padrão aqui","2022-10-12 01:52:08","258555872","2022-10-12","01:52:08"
+"524034","sabe que o windows na vdd me ajudou recentemente? eu fui atualizar pela iso pro 22h2 pq meu pc nao tava recebendo o update né, aí ele consertou os numeros das partições, criou a partição de recovery que eu tinha excluido e criou um espacinho de 1mb entre ele e o linux kkk","2022-10-12 01:54:00","1862046059","2022-10-12","01:54:00"
+"524035","uma vez tentei usar o parted pra fazer o comando sort, o grub do arch nao bootava mais, tive sorte do mint do ssd bootar porque havia continuado com o mesmo numero de partição, entrei por ele e reinstalei o grub no arch...
+senão, precisaria entrar pelo mint do hd, atualizar grub e entrar por lá
+
+no pior dos casos, tem como entrar pelo grub rescue, mas e mais dificil, anotei uns tutoriais, mas nao tenho certeza se iria funcionar pq nao passei pelo caso ainda kk","2022-10-12 01:55:53","1862046059","2022-10-12","01:55:53"
+"524044","recomendo que faça backup e use ext4 ou btrfs","2022-10-12 02:06:29","25962582","2022-10-12","02:06:29"
+"524036","uma vez eu corrigi os numeros das partições com sfdisk, gerei um arquivo de texto da tabela gpt com os numeros das partições, depois fiz a partição receber esse arquivo e deu certo
+fiz assim caso alguem precise ou se interesse
+
+#Para fazer backup da tabela de partição de um HD no linux usar:
+# -d = dump
+# > redirecionamento da saída do comando
+
+sudo sfdisk -d /dev/sdx > sdx.bkp
+
+#Pode ser para qualquer um dos discos no computador, a extensão e o nome do arquivo de saída podem ser quaisquer uns.
+
+
+#Para restaurar um backup de tabela de partição fazer:
+#se precisar usar um -f para forçar
+
+sudo sfdisk -f /dev/sdx < sdx.bkp","2022-10-12 01:59:00","1862046059","2022-10-12","01:59:00"
+"524039","tê tem, nao sei o comando","2022-10-12 02:00:20","25962582","2022-10-12","02:00:20"
+"524040","sudo ntfsfix /dev/sd...","2022-10-12 02:03:41","25962582","2022-10-12","02:03:41"
+"524041","li no forum la em cima que nao recomendam esse","2022-10-12 02:04:18","1862046059","2022-10-12","02:04:18"
+"524042","doidera, pq um sisadmin raiz que conheco que usa ele","2022-10-12 02:04:47","25962582","2022-10-12","02:04:47"
+"524043","falaram que so limpa o  estado dirty
+
+ntfsfix [options] device
+    Attempt to fix an NTFS partition.
+
+    -b, --clear-bad-sectors Clear the bad sector list
+    -d, --clear-dirty       Clear the volume dirty flag
+    -h, --help              Display this help
+    -n, --no-action         Do not write anything
+    -V, --version           Display version information
+
+For example: ntfsfix /dev/hda6","2022-10-12 02:05:31","1862046059","2022-10-12","02:05:31"
+"524045","pelos comandos acho que é o que falaram, posso estar enganado","2022-10-12 02:06:30","1862046059","2022-10-12","02:06:30"
+"524046","outra coisa que tenho duvida, nao sei se vcs passam por isso, se sabem alterar isso (toda distro faz igual)","2022-10-12 02:07:40","1862046059","2022-10-12","02:07:40"
+"524047","o cache de cópia pra quando vc copia arquivos, ele demora mais que a cópia na interface GUI
+ex: vc copia um filme de 4G pro pen drive, quando dá 2GB mais ou menos copiados a interface GUI acaba, mas na verdade leva mais uns 30s-1min copiando na realidade, fiz varios testes em usb e se eu tirasse apos a GUI do ctrl+v sumir o arquivo iria corromper
+aprendi a usar a extensão sync no cinnamon que mostra a copia real
+aprendi a usar o comando sync e um arquivo no desktop pra ver isso pelo terminal
+é é claro, o mais recomendado, sempre entro no nemo e dou eject safely e espero desligar o hd, vejo na aba computer, no gnome-disks se ele nao está mais no sistema antes de desplugar
+
+no windows copiou na GUI vc pode remover em seguida e eu vim pro linux nao sabendo disso muito bem, achando que era bug
+
+minha pergunta: tem como fazer a copia ser como no windows, onde cópia na interface=cópia real?
+ja li no google mas nao achei nada muito convincente pra alterar isso pra qualquer hd plugado","2022-10-12 02:07:46","1862046059","2022-10-12","02:07:46"
+"524048","linux nao faz copia sincrona","2022-10-12 02:09:05","25962582","2022-10-12","02:09:05"
+"524049","um dos motivos pra eu gostar tanto do cinnamon haha","2022-10-12 02:15:02","1862046059","2022-10-12","02:15:02"
+"524050","?","2022-10-12 02:15:22","25962582","2022-10-12","02:15:22"
+"524067","nao é nem por isso tambem","2022-10-12 02:19:25","25962582","2022-10-12","02:19:25"
+"524051","extensao que mostra copia real","2022-10-12 02:15:33","1862046059","2022-10-12","02:15:33"
+"524052","???","2022-10-12 02:15:59","258555872","2022-10-12","02:15:59"
+"524053","não entendi?","2022-10-12 02:16:02","258555872","2022-10-12","02:16:02"
+"524054","e tem outra que ajusta o brilho.... meu pc nao ajusta nem no windows, só se eu usar o programa amd catalyst","2022-10-12 02:16:03","1862046059","2022-10-12","02:16:03"
+"524055","ele mostra o cache","2022-10-12 02:16:11","1862046059","2022-10-12","02:16:11"
+"524056","ah, o famigerado paccache kkk","2022-10-12 02:16:31","258555872","2022-10-12","02:16:31"
+"524057","sync & watch -n 1 grep -e Dirty: /proc/meminfo","2022-10-12 02:16:47","1862046059","2022-10-12","02:16:47"
+"524058","nao e o cache do pacman","2022-10-12 02:16:59","1862046059","2022-10-12","02:16:59"
+"524059","e o cache de transferencia por cópia de arquivos","2022-10-12 02:17:09","1862046059","2022-10-12","02:17:09"
+"524060","tenho atalho no desktop pra abrir isso no terminal, é útil se for copiar arquivos grandes pra discos/usb","2022-10-12 02:17:23","1862046059","2022-10-12","02:17:23"
+"524061","ahhhhh","2022-10-12 02:17:53","258555872","2022-10-12","02:17:53"
+"524062","dessa eu nem sabia, olha só","2022-10-12 02:18:09","258555872","2022-10-12","02:18:09"
+"524063","aprendendo coisas novas todos os dias","2022-10-12 02:18:15","258555872","2022-10-12","02:18:15"
+"524064","normalmente usando HD nao necessito de sync","2022-10-12 02:18:48","25962582","2022-10-12","02:18:48"
+"524065","pq vai rapido pro hd","2022-10-12 02:19:13","1862046059","2022-10-12","02:19:13"
+"524066","só em pendrive que a copia assincrona é meio estranha","2022-10-12 02:19:16","25962582","2022-10-12","02:19:16"
+"524068","as vezes para de copiar pro pendrive","2022-10-12 02:19:35","25962582","2022-10-12","02:19:35"
+"524069","e o arquivo ainda ta na ram","2022-10-12 02:19:41","25962582","2022-10-12","02:19:41"
+"524070","pen drive e lento pra copiar fica na ram","2022-10-12 02:19:48","1862046059","2022-10-12","02:19:48"
+"524071","se vc remover o arquivo vai estar la e vc nem vai saber se corrompeu","2022-10-12 02:20:14","1862046059","2022-10-12","02:20:14"
+"524072","ai eu passei verificação de hash","2022-10-12 02:20:22","1862046059","2022-10-12","02:20:22"
+"524073","da diferente","2022-10-12 02:20:23","1862046059","2022-10-12","02:20:23"
+"524074","e certamente vai estar faltando alguma parte do filme haha","2022-10-12 02:20:40","1862046059","2022-10-12","02:20:40"
+"524075","copiando pra pendrvive eu sempre uso sync","2022-10-12 02:20:48","25962582","2022-10-12","02:20:48"
+"524076","entao, essa extensao mostra isso e ainda permite vc clicar pra mandar comando sync","2022-10-12 02:21:03","1862046059","2022-10-12","02:21:03"
+"524077","da mesma forma o comando que uso no desktop tambem faz o mesmo","2022-10-12 02:21:29","1862046059","2022-10-12","02:21:29"
+"524078","ou seja, vim super mal acostumado do windows, se tivesse copiando algo importante tava lascado... eu pensava que isso era problema do linux ou meu pc mas é assim que funciona em qualquer distro que testei, nenhuma faz a copia sincrona","2022-10-12 02:22:27","1862046059","2022-10-12","02:22:27"
+"524079","sobre isso, descobri que no mint/ubuntu ele tem um arquivo com opções pra apagar sozinho quando passa de 500mb
+kretcheu me disse que nao tem necessidade de ficar fazendo sudo apt clean toda hora, no inicio duvidei mas e verdade, o cache se apaga sozinho
+no manjaro/arch tem algo assim?","2022-10-12 02:26:00","1862046059","2022-10-12","02:26:00"
+"524080","isso eu acho que vale pra todos os sistemas.","2022-10-12 02:26:54","258555872","2022-10-12","02:26:54"
+"524081","nao sei se no debian, no manjaro uso o pamac pra limpar ou sudo pacman -Scc","2022-10-12 02:27:03","1862046059","2022-10-12","02:27:03"
+"524082","não sei se tem, @jose_rafael sabe de alguma coisa?","2022-10-12 02:27:10","258555872","2022-10-12","02:27:10"
+"524083","sabe se o manjaro apaga por padrão os caches antigos ou vai acumulando? pq ja vi acumular alguns gigas","2022-10-12 02:27:58","1862046059","2022-10-12","02:27:58"
+"524084","nao sabia dessa","2022-10-12 02:28:26","25962582","2022-10-12","02:28:26"
+"524085","eu limpo manualmente de tempos em tempos","2022-10-12 02:28:34","25962582","2022-10-12","02:28:34"
+"524086","nao todo dia","2022-10-12 02:28:37","25962582","2022-10-12","02:28:37"
+"524087","arch vc faz as coisas manualmente mesmo","2022-10-12 02:28:55","25962582","2022-10-12","02:28:55"
+"524088","ubuntu e mint são distros mais prontas pra usuarias maisleigas","2022-10-12 02:29:08","25962582","2022-10-12","02:29:08"
+"524089","sim","2022-10-12 02:29:13","1862046059","2022-10-12","02:29:13"
+"524090","nao sei se o manjaro implementou algo","2022-10-12 02:29:28","25962582","2022-10-12","02:29:28"
+"524091","dois
+
+
+todo dia em que eu limpo a maioria das coisas dos navegadores, faço a limpa do cache tambem","2022-10-12 02:29:40","258555872","2022-10-12","02:29:40"
+"524092","no debian por ex nem pra mudar o locale nao achei botão, no mint/manjaro vc tem gestores graficos pra isso, pra mexer na tela de login, criar usuarios, instalar kernel, acho isso maneiro","2022-10-12 02:30:02","1862046059","2022-10-12","02:30:02"
+"524093","você encontra isso no plasma, porem pra mudar isso, pelo menos no arch, vc tem que usar diretamente o locale.conf, então pra isso no arch vc está mais do que servido.","2022-10-12 02:31:44","258555872","2022-10-12","02:31:44"
+"524094","o plasma cria arquivo de configuração na home, basta dar um cat /etc/locale.conf né","2022-10-12 02:31:57","1862046059","2022-10-12","02:31:57"
+"524095","nao mexe na lingua real do sistema","2022-10-12 02:32:01","1862046059","2022-10-12","02:32:01"
+"524096","meu sistema e hibrido
+LANG=en_US.UTF-8
+LC_ADDRESS=pt_BR.UTF-8
+LC_IDENTIFICATION=pt_BR.UTF-8
+LC_MEASUREMENT=pt_BR.UTF-8
+LC_MONETARY=pt_BR.UTF-8
+LC_NAME=pt_BR.UTF-8
+LC_NUMERIC=pt_BR.UTF-8
+LC_PAPER=pt_BR.UTF-8
+LC_TELEPHONE=pt_BR.UTF-8
+LC_TIME=pt_BR.UTF-8
+
+por exemplo, nao gosto que ~/desktop fique como Área de Trabalho","2022-10-12 02:33:11","1862046059","2022-10-12","02:33:11"
+"524097","uma coisa que nunca usei foi window manager, sem ser DE, será que e mt dificil/complicado de mexer?","2022-10-12 02:35:58","1862046059","2022-10-12","02:35:58"
+"524098","isso, ele mexe nas configs do proprio plasma, na config do sistema, vc mexe diretamente no locale.conf, no sistema, ele muda somente pro ambiente, no locale.conf, ele muda pra todo o sistema.","2022-10-12 02:37:38","258555872","2022-10-12","02:37:38"
+"524099","vi um cara reclamando disso que o sistema dele tava 50% ingles 50% portugues kk
+foi só ele deletar a config que consertou mas levou horas pro pessoal descobrir no chat","2022-10-12 02:38:24","1862046059","2022-10-12","02:38:24"
+"524100","Depende muito e todos precisam que vc estude como funciona","2022-10-12 02:41:43","25962582","2022-10-12","02:41:43"
+"524101","dar uma pesquisada antes não mata ninguem","2022-10-12 02:41:45","258555872","2022-10-12","02:41:45"
+"524102","pesquiso varias coisas e anoto tudo numa pasta tutoriais linux, tem muita dica util no google e em foruns por ai, assim que venho aprendendo linux
+eu comecei a fazer isso pro windows, pq nao pro linux tambem?","2022-10-12 02:43:10","1862046059","2022-10-12","02:43:10"
+"524103","!!!!!!","2022-10-12 02:43:46","258555872","2022-10-12","02:43:46"
+"524104","o cache em ação aí","2022-10-12 03:10:03","1862046059","2022-10-12","03:10:03"
+"524105","oloco","2022-10-12 03:14:41","258555872","2022-10-12","03:14:41"
+"524106","e depois que acabar a caixinha de copia vai começar a diminuir","2022-10-12 03:15:02","1862046059","2022-10-12","03:15:02"
+"524107","so pode tirar o usb depois que tiver em tipo: 200-300kb, e é melhor clicar no eject safely","2022-10-12 03:15:34","1862046059","2022-10-12","03:15:34"
+"524108","como assim é melhor?","2022-10-12 03:16:16","25962582","2022-10-12","03:16:16"
+"524109","é obrigatório","2022-10-12 03:16:22","25962582","2022-10-12","03:16:22"
+"524110","kk","2022-10-12 03:16:23","25962582","2022-10-12","03:16:23"
+"524111","pra ele notificar que pode remover com segurança, desmontar direitinho
+fala isso pro meu pai com windows haha","2022-10-12 03:16:28","1862046059","2022-10-12","03:16:28"
+"524112","1.17 gb ainda no cache, vou dizer quando terminar kk","2022-10-12 03:17:23","1862046059","2022-10-12","03:17:23"
+"524113","terminou agora, se eu puxo o pen drive a iso corrompe","2022-10-12 03:20:38","1862046059","2022-10-12","03:20:38"
+"524114","mas nao se puxa pendrive nem no windows","2022-10-12 03:21:34","25962582","2022-10-12","03:21:34"
+"524115","verdade, sempre aviso","2022-10-12 03:21:40","1862046059","2022-10-12","03:21:40"
+"524116","mas uma pessoa desavisada no linux vai clicar no unmount e vai achar que ja pode tirar, mas na verdade ele ainda ta syncando
+ja vi um erro tambem, que quando vc clica pra desmontar quando ta syncando, se clicar de novo em cima pra montar da um bug horrivel trava td, ele remonta mas trava o sistema
+nesses pontos vejo o windows mais coerente","2022-10-12 03:23:04","1862046059","2022-10-12","03:23:04"
+"524121","Bom dia pessoal","2022-10-12 10:17:13","1251511852","2022-10-12","10:17:13"
+"524122","Vocês já atualizaram o kernel do Manjaro?","2022-10-12 10:17:33","1251511852","2022-10-12","10:17:33"
+"524123","Ainda não","2022-10-12 10:17:44","5660537237","2022-10-12","10:17:44"
+"524124","Esley [5660537237] para participar neste grupo, defina, nas configurações do Telegram, um nome de usuário e clique em ""Feito!"". 
+Ação: Silenciado 🔇","2022-10-12 10:17:44","5298578702","2022-10-12","10:17:44"
+"524125","Estou com medo de conter algum  bug kkk","2022-10-12 10:18:50","1251511852","2022-10-12","10:18:50"
+"524126","Esse Photoshop funfou de boas aqui","2022-10-12 12:08:51","1017285712","2022-10-12","12:08:51"
+"524127","os meus estão todos atualizadinhos:
+5.10 está no 147-1
+5.15 está no 72-1
+5.15rt está no 71_rt51-1
+5.19 está no 14-1","2022-10-12 12:10:31","36899061","2022-10-12","12:10:31"
+"524128","Muito obrigado, e deu algum erro ou algo do tipo nessa última versão do kernel?","2022-10-12 12:13:22","1251511852","2022-10-12","12:13:22"
+"524129","não já inicie em todos ele e estão de boas.
+ps, como eu uso em BTRFS, alem do snapshots padrão do sistema, eu ainda faço um extra de segurança antes de atualizar, se der algum problema (e já deu no passado), só voltar o snapshot e seguir com a vida como se nada tivesse acontecido.","2022-10-12 12:15:14","36899061","2022-10-12","12:15:14"
+"524130","por acaso vc está falando do kernel 6 ?","2022-10-12 12:15:35","36899061","2022-10-12","12:15:35"
+"524131","KDE Plasma cada vez mais lindo!","2022-10-12 12:17:50","887840764","2022-10-12","12:17:50"
+"524132","Da pena, gnome é mais bonito","2022-10-12 12:18:59","531534178","2022-10-12","12:18:59"
+"524133","😎","2022-10-12 12:19:05","531534178","2022-10-12","12:19:05"
+"524134","Sim","2022-10-12 12:40:28","1251511852","2022-10-12","12:40:28"
+"524135","ah, mas ai não é atualização, é nova instalação, ao instalar o 6.0 vc não des-instala os antigos.","2022-10-12 12:41:15","36899061","2022-10-12","12:41:15"
+"524138","olha ai, tenho 6 kerneis instalados aki, se o 6.0 estiver com problemas, é só iniciar usando qualquer um dos outros.","2022-10-12 12:42:40","36899061","2022-10-12","12:42:40"
+"524139","Alguém que usa o kde tb está notando lentidão na hora de baixar temas pelo mesmo?","2022-10-12 12:54:37","591686123","2022-10-12","12:54:37"
+"524140","Aí vai de gosto 
+Você tem o direito de gostar do que quiser hahahah","2022-10-12 12:56:05","258555872","2022-10-12","12:56:05"
+"524141","Com certeza","2022-10-12 12:56:27","531534178","2022-10-12","12:56:27"
+"524144","Ok, pensei que mudasse e perdesse o antigo kkkk muito obrigado","2022-10-12 13:04:26","1251511852","2022-10-12","13:04:26"
+"524145",":))))","2022-10-12 13:05:49","258555872","2022-10-12","13:05:49"
+"524146","olá pessoal, sou novo no manjaro e gostaria de saber se tem alguma ferramenta para gerar ISO customizada e instalável  para reproduzr em outros computadores?","2022-10-12 13:07:09","535549259","2022-10-12","13:07:09"
+"524147","tem sim, é official do manjaro.
+https://wiki.manjaro.org/index.php/Build_Manjaro_ISOs_with_buildiso","2022-10-12 13:08:13","36899061","2022-10-12","13:08:13"
+"524148","só que estou usando o gnome desktop lá aparece XFCE Desktop!!","2022-10-12 13:09:42","535549259","2022-10-12","13:09:42"
+"524149","para custom","2022-10-12 13:09:53","535549259","2022-10-12","13:09:53"
+"524150","e os pacptes AUR instalados??","2022-10-12 13:10:10","535549259","2022-10-12","13:10:10"
+"524151","xfce é só um exemplo, no profile vc tem todos os desktops, eu estou usando kde plasma e crio minhas proprias ISOs","2022-10-12 13:10:26","36899061","2022-10-12","13:10:26"
+"524152","não da pra instalar pacotes AUR na ISO, vc tem que compilar, empacotar e colocar num repositorio.
+ps, não pode ser repo local, precisa ser em nuvem.","2022-10-12 13:11:14","36899061","2022-10-12","13:11:14"
+"524153","Manjaro é vida !","2022-10-12 13:11:35","531534178","2022-10-12","13:11:35"
+"524154","Café também !","2022-10-12 13:11:42","531534178","2022-10-12","13:11:42"
+"524155","mesmo copiando as pastas  para o skel??","2022-10-12 13:12:14","535549259","2022-10-12","13:12:14"
+"524156","skel é qm vai criar a home do usuario, vc não instala programas AUR na home.","2022-10-12 13:12:54","36899061","2022-10-12","13:12:54"
+"524157","no caso jogando os programas específicos para opt","2022-10-12 13:13:33","535549259","2022-10-12","13:13:33"
+"524158","não é assim que funciona, vc não mexe nos arquivos ao gerar a ISO, os pacotes o fazem, se vc quiser fazer isso, vc precisa empacotar, subir num repo, adicionar o repo e o pacote no profile do gerador de ISO","2022-10-12 13:15:15","36899061","2022-10-12","13:15:15"
+"524159","vim do debian, totalmente customizável!!","2022-10-12 13:16:22","535549259","2022-10-12","13:16:22"
+"524160","como vc gerava ISO do debian?","2022-10-12 13:16:46","36899061","2022-10-12","13:16:46"
+"524161","pinguin eggs","2022-10-12 13:17:03","535549259","2022-10-12","13:17:03"
+"524162","ahhhhh, essas gambiarras, sim existem pra manjaro tb.
+inclusive esse que vc citou acho que existe uma versão arch/manjaro dele.
+nunca usei, gero minhas ISOs desde 2010, mas uso o metodo oficial, seja de debian, seja do ubuntu, seja do manjaro.","2022-10-12 13:18:23","36899061","2022-10-12","13:18:23"
+"524163","vários pacotes exportei usando o debtap","2022-10-12 13:18:29","535549259","2022-10-12","13:18:29"
+"524164","até testei um desses ""gerador de ISO da instalação"", mas minhas experiencias foram horriveis.","2022-10-12 13:18:55","36899061","2022-10-12","13:18:55"
+"524165","a versão do manjáro está bugada!!","2022-10-12 13:19:36","535549259","2022-10-12","13:19:36"
+"524166","eu nunca vi uma versão não bugada, hehehehehehehe","2022-10-12 13:19:59","36899061","2022-10-12","13:19:59"
+"524167","Gostei do manjaro pela performance mais estável","2022-10-12 13:20:30","535549259","2022-10-12","13:20:30"
+"524168","rolling release","2022-10-12 13:21:17","535549259","2022-10-12","13:21:17"
+"524169","é um projeto pessoal, tipo pra vc ter uma ISO sua ou é coisa maior, tipo pra uma empresa ou algo do tipo?","2022-10-12 13:27:40","36899061","2022-10-12","13:27:40"
+"524170","isso","2022-10-12 13:28:15","535549259","2022-10-12","13:28:15"
+"524171","isso o que?
+fiz uma pergunta com 2 opções.
+A = pessoal
+B = comercial/empresarial","2022-10-12 13:28:53","36899061","2022-10-12","13:28:53"
+"524172","pessoal","2022-10-12 13:29:40","535549259","2022-10-12","13:29:40"
+"524173","detesto ficar customizando e reinstalando programas de uso constante!!","2022-10-12 13:30:28","535549259","2022-10-12","13:30:28"
+"524174","te entendo, comecei assim em 2010, hehehehehehehe","2022-10-12 13:30:55","36899061","2022-10-12","13:30:55"
+"524175","sem falar nos pacotes que ficam obsoletos, ai tenho de reempacotar  tudo e misturar bibliotecas","2022-10-12 13:31:15","535549259","2022-10-12","13:31:15"
+"524176","tem uma 3 forma de fazer isso que é desmontar uma ISO, entrar nela por chroot, instalar o que vc quer, mexer nos arquivos de configuração, tudo o que vc quiser, vc vai ter um terminal dentro da ISO, ai sai do chroot e re-compacta pra ISO.
+eu sei fazer isso em base debian, as vezes precisava corrigir uma coisa pequena e gerar outra ISO iria demorar muito.
+mas nunca estudei esse método em base arch/manjaro","2022-10-12 13:33:21","36899061","2022-10-12","13:33:21"
+"524177","já fiz no debian, ubunto, trisquel, suse. Más no manjaro só tenho uma semana!!","2022-10-12 13:35:42","535549259","2022-10-12","13:35:42"
+"524178","os comandos são totalmente diferentes","2022-10-12 13:36:12","535549259","2022-10-12","13:36:12"
+"524179","estou começando do 0","2022-10-12 13:36:46","535549259","2022-10-12","13:36:46"
+"524180","acho que o xorriso é diferente o restante creio serem iguais.","2022-10-12 13:36:58","36899061","2022-10-12","13:36:58"
+"524181","Èee, vou estudar esse manjaro-tools-iso","2022-10-12 13:38:31","535549259","2022-10-12","13:38:31"
+"524190","Sim, mas na hora de baixar pela própria loja do kde ta demorando bastante, as vezes chega a dar erro","2022-10-12 14:14:21","591686123","2022-10-12","14:14:21"
+"524182","Se você quiser adicionar pacotes AUR ao seu ISO, você precisa criar um repositório on-line e adicioná-lo a um arquivo user-repos.conf ao lado do seu perfil.conf","2022-10-12 13:52:45","535549259","2022-10-12","13:52:45"
+"524183","Isso, é assim que eu faço.","2022-10-12 13:55:19","36899061","2022-10-12","13:55:19"
+"524184","acho que minha iso vai ficar muito grade!!","2022-10-12 13:56:01","535549259","2022-10-12","13:56:01"
+"524185","Na ISO o consumo de espaço é igual ao tamanho dele empacotado, não relativo ao programa instalado.
+Vc pode mudar o compressor da ISO e valor dele.","2022-10-12 13:58:16","36899061","2022-10-12","13:58:16"
+"524186","Estou olhando aqui, depois de jogar os pacotes snap!!","2022-10-12 14:00:44","535549259","2022-10-12","14:00:44"
+"524191","Bom dia, galera. Quando chega o plasma 5.26 no manjaro?","2022-10-12 14:16:15","1658580312","2022-10-12","14:16:15"
+"524192","no stable deve demorar um tanto, pois acabou de chegar o 25, mas vc pode usar o repo unstable, nele deve chegar dentro em muito em breve","2022-10-12 14:18:28","36899061","2022-10-12","14:18:28"
+"524193","ok","2022-10-12 14:19:07","1658580312","2022-10-12","14:19:07"
+"524195","Provavelmente na próxima att stable do manjaro","2022-10-12 14:20:16","25962582","2022-10-12","14:20:16"
+"524196","KDE é a comunidade","2022-10-12 14:21:09","25962582","2022-10-12","14:21:09"
+"524197","E não sei oq pode tá rolando","2022-10-12 14:21:26","25962582","2022-10-12","14:21:26"
+"524198","Blz","2022-10-12 14:21:39","591686123","2022-10-12","14:21:39"
+"524199","Estranho, primeira vez que vi isso acontecer","2022-10-12 14:21:58","591686123","2022-10-12","14:21:58"
+"524200","Esley Carlos definam um nome de usuário nas configurações do telegram","2022-10-12 14:22:49","25962582","2022-10-12","14:22:49"
+"524201","Esley quando definir clica em ok","2022-10-12 14:23:33","25962582","2022-10-12","14:23:33"
+"524202","Steam Deck Oopsie, Linux Bug Could BREAK Displays, and more! — TechHut
+https://youtu.be/df-ocdCv2Lo 9:07","2022-10-12 15:15:09","155836063","2022-10-12","15:15:09"
+"524203","Feliz dia das crianças pra todas as crianças do grupo! Lembrando que o grupo é +18, @jose_rafael bane os menor aí","2022-10-12 15:21:21","455888377","2022-10-12","15:21:21"
+"524204","AHAHAHAHAHAHAHHAHAHHAAHHAH xD","2022-10-12 15:23:45","258555872","2022-10-12","15:23:45"
+"524205","@Linus154 lascou pra ti","2022-10-12 15:27:06","25962582","2022-10-12","15:27:06"
+"524207","@Barnabe_di_Kartola fiz o que vc recomendou, estou instalando o Manjaro em btrfs","2022-10-12 16:57:44","5468496994","2022-10-12","16:57:44"
+"524208","Ops, corrigi","2022-10-12 16:58:00","5468496994","2022-10-12","16:58:00"
+"524209","LINUX is BETTER than macOS in these 5 areas! — The Linux Experiment
+https://youtu.be/8yjW-kMivWQ 17:50","2022-10-12 17:10:18","155836063","2022-10-12","17:10:18"
+"524210","Existe algum perigo do Manjaro quebrar se houver uma atualização muito grande","2022-10-12 17:12:11","5468496994","2022-10-12","17:12:11"
+"524211","Tipo ficar 1 semana sem atualização","2022-10-12 17:12:23","5468496994","2022-10-12","17:12:23"
+"524212","se ele  for mais estável que o arch, acho que não","2022-10-12 17:14:14","1862046059","2022-10-12","17:14:14"
+"524213","em btrfs? não pq vai ter pontos de restauração automaticos, se quebrar vc tem como voltar.
+ps, só atualizo o meu cerca de 1x por mês","2022-10-12 17:14:37","36899061","2022-10-12","17:14:37"
+"524214","Tem quase 500 pacotes pra baixar","2022-10-12 17:14:44","5468496994","2022-10-12","17:14:44"
+"524215","to começando no manjaro, eu vim do arch pq tava quebrando grub ja pela 2 vez, tava com uns problemas com 2 monitores em modo sleep, notei que no manjaro ele funciona quase igual meu mint entao estou testando com cinnamon e to achando melhor que arch pq tem mais opção de kernel, tem o manjaro-settings-manager que gostei bastante, alem de ser pratico pra instalar com GUI. No arch nao consigo instalar o pamac-all do aur (da problema com lib de snap), no manjaro ja tem no repo","2022-10-12 17:16:18","1862046059","2022-10-12","17:16:18"
+"524216","vero, testei a ISO do site do manjaro esses dias, tinha atualização pra raio mesmo, mas atualizei e nada quebrou.","2022-10-12 17:17:55","36899061","2022-10-12","17:17:55"
+"524217","Quebrou uma vez quando eu atualizei pela lojinha, mas pelo pacman nunca aconteceu","2022-10-12 17:18:41","5468496994","2022-10-12","17:18:41"
+"524218","não sei pq o manjaro não solta ISO atualizada após cada grande atualização, poxa ele tem um sistema super legal e facil de gerar ISOs, é só um dev dar um click num botão que as ISOs são geradas","2022-10-12 17:19:35","36899061","2022-10-12","17:19:35"
+"524219","não existe no universo conhecido, um sistema operacional que não seja sujeito a quebras ao atualizar, o que se pode ter pra mitigar isso é ter pontos de restauração (snapshots) e/ou backups.
+no caso do manjaro+btrfs vc já tem o snapshot","2022-10-12 17:21:13","36899061","2022-10-12","17:21:13"
+"524220","E se caso quebrar como que eu faço pra usar esses snapshots??","2022-10-12 17:22:05","5468496994","2022-10-12","17:22:05"
+"524221","vai estar no grub, só iniciar pelo snapshot, entrar no sistema, abrir o timeshift e restaurar o ponto anterior a quebra.","2022-10-12 17:23:01","36899061","2022-10-12","17:23:01"
+"524222","e se quebrar o grub? hahah
+ja sei, reinstalar o grub","2022-10-12 17:23:13","1862046059","2022-10-12","17:23:13"
+"524223","entrar por live e recupera o sistema","2022-10-12 17:23:30","36899061","2022-10-12","17:23:30"
+"524224","manjaro parece que tem um comando bom pra chroot né nunca cheguei a usar, sou novo no manjaro","2022-10-12 17:23:53","1862046059","2022-10-12","17:23:53"
+"524233","mas nao da pra usar em ext4 tbm?","2022-10-12 17:34:43","1862046059","2022-10-12","17:34:43"
+"524225","como?
+ou acessando por chroot, que o manjaro tem uma ferramenta otima pra isso, ou restaurando o grub","2022-10-12 17:24:11","36899061","2022-10-12","17:24:11"
+"524226","sim, manjaro-chroot","2022-10-12 17:24:19","36899061","2022-10-12","17:24:19"
+"524227","https://youtu.be/QibHUzl_ak8?t=566 que legal, ja monta automaticamente","2022-10-12 17:28:38","1862046059","2022-10-12","17:28:38"
+"524228","sim, ele é mamão com açúcar de usar.","2022-10-12 17:29:41","36899061","2022-10-12","17:29:41"
+"524229","serve pra reparar de outras distros?","2022-10-12 17:30:00","1862046059","2022-10-12","17:30:00"
+"524231","Eu ainda não baixei o timeshift😂","2022-10-12 17:34:09","5468496994","2022-10-12","17:34:09"
+"524232","salvo engano ele já vem instalado e configurado","2022-10-12 17:34:26","36899061","2022-10-12","17:34:26"
+"524235","quando usei eu cliquei varias vezes e ele começou a encher meu sistema no mint, alem do snapshot usar muito espaço ai nunca mais usei isso, costumo ter outras ""distros de backup instaladas""","2022-10-12 17:35:31","1862046059","2022-10-12","17:35:31"
+"524236","só para backup de arquivos, que é diferente de snapshot.
+e não dá pra colocar backup no grub, visto que ele é um backup e não um snapshot.","2022-10-12 17:35:56","36899061","2022-10-12","17:35:56"
+"524237","vc deve estar confundindo snapshot com backup","2022-10-12 17:36:31","36899061","2022-10-12","17:36:31"
+"524238","e tipo virtualbox então?","2022-10-12 17:36:49","1862046059","2022-10-12","17:36:49"
+"524239","quando volta no tempo","2022-10-12 17:36:56","1862046059","2022-10-12","17:36:56"
+"524240","verifiquei na minha VM com manjaro vanila, ele já vem instalado mesmo.","2022-10-12 17:37:11","36899061","2022-10-12","17:37:11"
+"524241","isso.","2022-10-12 17:37:20","36899061","2022-10-12","17:37:20"
+"524242","O meu é Manjaro Plasma e o seu??","2022-10-12 17:37:32","5468496994","2022-10-12","17:37:32"
+"524243","deve usar menos espaço entao","2022-10-12 17:37:34","1862046059","2022-10-12","17:37:34"
+"524244","plasma tb","2022-10-12 17:37:42","36899061","2022-10-12","17:37:42"
+"524245","👍","2022-10-12 17:37:48","5468496994","2022-10-12","17:37:48"
+"524246","nunca instalei com btrfs um dia vou testar numa vm","2022-10-12 17:38:12","1862046059","2022-10-12","17:38:12"
+"524247","toma cuidado, é perigoso! 
+vc pode viciar e querer formatar todas as installs de todas as suas distros em btrfs.","2022-10-12 17:40:34","36899061","2022-10-12","17:40:34"
+"524248","Ext4 não é COW então não tem snapshots como btrfs e ZFS","2022-10-12 17:41:31","25962582","2022-10-12","17:41:31"
+"524249","Kkkkkkkkk","2022-10-12 17:41:56","25962582","2022-10-12","17:41:56"
+"524250","Felizmente não há nenhum tratamento","2022-10-12 17:54:11","883083059","2022-10-12","17:54:11"
+"524255","já atualizaram o Kernel??","2022-10-12 19:43:43","5468496994","2022-10-12","19:43:43"
+"524256","Vou usar só no 6.1","2022-10-12 19:46:18","25962582","2022-10-12","19:46:18"
+"524257","atualizei pra ver se a performance em jogos melhora mais ainda","2022-10-12 19:50:13","5468496994","2022-10-12","19:50:13"
+"524258","Tem como instalar o GTA SA kkkk?","2022-10-12 20:43:17","1251511852","2022-10-12","20:43:17"
+"524259","Não, só no Wine mais é muito chato o processo","2022-10-12 20:43:45","5468496994","2022-10-12","20:43:45"
+"524266","o meu é original da steam, jogo em appimage é pirara, então.....","2022-10-12 20:51:51","36899061","2022-10-12","20:51:51"
+"524260","aki ta funcionando.","2022-10-12 20:47:40","36899061","2022-10-12","20:47:40"
+"524261","Legal demais","2022-10-12 20:49:11","1251511852","2022-10-12","20:49:11"
+"524262","Esse deve ser o jogo mais modificado do mundo kkkkk]","2022-10-12 20:49:39","1251511852","2022-10-12","20:49:39"
+"524263","Aquelas versões em appimage são confiáveis??","2022-10-12 20:51:23","5468496994","2022-10-12","20:51:23"
+"524264","@Barnabe_di_Kartola","2022-10-12 20:51:28","5468496994","2022-10-12","20:51:28"
+"524267","Mas eu fui olhar aqui e parece que foi removido da steam","2022-10-12 20:52:17","5468496994","2022-10-12","20:52:17"
+"524268","Por isso não seria mais considerado pirataria","2022-10-12 20:52:33","5468496994","2022-10-12","20:52:33"
+"524269","sim foi removido, mas como eu tenho a bastante tempo, ainda tenho acesso.","2022-10-12 20:52:37","36899061","2022-10-12","20:52:37"
+"524270","o que vc bebeu?","2022-10-12 20:52:54","36899061","2022-10-12","20:52:54"
+"524271","Só um pouco de coca cola é café","2022-10-12 20:53:08","5468496994","2022-10-12","20:53:08"
+"524272","Porque??","2022-10-12 20:53:12","5468496994","2022-10-12","20:53:12"
+"524273","acho que colocaram dorgas na sua cocacola ou café.","2022-10-12 20:53:32","36899061","2022-10-12","20:53:32"
+"524274","Mas pensa, o que que tem piratear um jogo que nem tá sendo vendido mais","2022-10-12 20:53:59","5468496994","2022-10-12","20:53:59"
+"524275","o fato dele não estar sendo vendido solo, não quer dizer que isso o deixa ""livre"", continua a ser pirataria.
+agora se vc não tem problema em piratear, é com vc, só não vale falar que não é pirataria.","2022-10-12 20:55:11","36899061","2022-10-12","20:55:11"
+"524276","Ok, agora eu entendi","2022-10-12 20:55:31","5468496994","2022-10-12","20:55:31"
+"524277","Steam proton","2022-10-12 21:00:26","25962582","2022-10-12","21:00:26"
+"524280","Arch me irritou muito com grub.","2022-10-12 21:23:10","887840764","2022-10-12","21:23:10"
+"524283","quebrou 2x nos ultimos meses, agora vc tem  que saber que tem q reinstalar manualmente durante uma update do grub
+assim que instalei o manjaro ja fiz uma update e tinha o pacote do grub, e tudo correu normal, sem contar que meu pc parece gostar mais do manjaro","2022-10-12 21:25:52","1862046059","2022-10-12","21:25:52"
+"524284","Sério?","2022-10-12 21:27:52","25962582","2022-10-12","21:27:52"
+"524293","Estranho","2022-10-12 21:29:08","25962582","2022-10-12","21:29:08"
+"524285","Era só reinstalar o efi","2022-10-12 21:27:57","25962582","2022-10-12","21:27:57"
+"524286","Antes de reiniciar","2022-10-12 21:28:04","25962582","2022-10-12","21:28:04"
+"524287","2x?","2022-10-12 21:28:14","25962582","2022-10-12","21:28:14"
+"524288","na hora que se faz um update seria esperado nao precisar fazer isso","2022-10-12 21:28:20","1862046059","2022-10-12","21:28:20"
+"524289","Instalação de vcs tá coisada","2022-10-12 21:28:24","25962582","2022-10-12","21:28:24"
+"524290","Só quebrou 1 vez comigo por causa que a atualização teve quebra de ABI","2022-10-12 21:28:48","25962582","2022-10-12","21:28:48"
+"524291","Aí teria que reinstalar","2022-10-12 21:28:53","25962582","2022-10-12","21:28:53"
+"524292","o meu quebrou nas 2 ultimas updates","2022-10-12 21:28:58","1862046059","2022-10-12","21:28:58"
+"524294","ai troquei pelo manjaro","2022-10-12 21:29:10","1862046059","2022-10-12","21:29:10"
+"524295","e agora vamos ver quanto ele dura","2022-10-12 21:29:20","1862046059","2022-10-12","21:29:20"
+"524296","eu uso o grub do manjaro ate agora 0 problemas e ja uso aos anos","2022-10-12 21:29:42","248334232","2022-10-12","21:29:42"
+"524297","@ac_home eu tenho muti boot","2022-10-12 21:30:31","248334232","2022-10-12","21:30:31"
+"524298","tem mais distro que seja base arch mas com proprio repo que nem manjaro?","2022-10-12 21:30:43","1862046059","2022-10-12","21:30:43"
+"524299","so distos base arch eu tenho 4","2022-10-12 21:31:05","248334232","2022-10-12","21:31:05"
+"524300","no meu pc esta com 12 distros e windows 11","2022-10-12 21:31:39","248334232","2022-10-12","21:31:39"
+"524301","to com 6 sistemas: mint em hd, windows, mint e manjaro em ssd, e debian e ubuntu em outro hd","2022-10-12 21:31:44","1862046059","2022-10-12","21:31:44"
+"524302","eu estou com manjaro, archlinux, artix, biglinux, debian, deepin, opensuse, fedora, mint, ubuntu, void e pclinuxos","2022-10-12 21:32:49","248334232","2022-10-12","21:32:49"
+"524303","queria ter o manjaro no hd mas meu UEFI nao registra outra entrada pro manjaro","2022-10-12 21:32:51","1862046059","2022-10-12","21:32:51"
+"524304","eu uso o manjaro em uefi","2022-10-12 21:33:20","248334232","2022-10-12","21:33:20"
+"524305","so nao pode e ter secureboot ativo","2022-10-12 21:33:29","248334232","2022-10-12","21:33:29"
+"524306","meu pc nem deve ter isso eu acho, se tem está off kk","2022-10-12 21:33:46","1862046059","2022-10-12","21:33:46"
+"524307","podes ter a iso corrompida","2022-10-12 21:34:14","248334232","2022-10-12","21:34:14"
+"524308","nao creio ser isso não, ele instalou direito o problema e na hora de criação da entrada na UEFI","2022-10-12 21:34:41","1862046059","2022-10-12","21:34:41"
+"524309","parece que o sistema entende que o manjaro so podia ter 1, sim em  /boot/efi","2022-10-12 21:34:59","1862046059","2022-10-12","21:34:59"
+"524310","tu colocou a particao efi com /boot/efi","2022-10-12 21:35:04","248334232","2022-10-12","21:35:04"
+"524311","e coloquei keep pra nao formatar","2022-10-12 21:35:35","1862046059","2022-10-12","21:35:35"
+"524312","senão ia apagar os outros loaders","2022-10-12 21:35:46","1862046059","2022-10-12","21:35:46"
+"524313","ai eu acabei retirando o manjaro do hdd e aumentei o espaço do ubuntu ate o final do disco","2022-10-12 21:36:10","1862046059","2022-10-12","21:36:10"
+"524314","a efi tem que estar em fat32 e com ponto de montagem /boot/efi e com as flags de boot / esp","2022-10-12 21:36:10","248334232","2022-10-12","21:36:10"
+"524315","sempre faço isso haha","2022-10-12 21:36:19","1862046059","2022-10-12","21:36:19"
+"524318","vou conferir essas flags","2022-10-12 21:36:49","1862046059","2022-10-12","21:36:49"
+"524319","eu uso a mesma efi do windows","2022-10-12 21:37:04","248334232","2022-10-12","21:37:04"
+"524322","no drive sdc eu coloquei a flag boot, hidden , esp","2022-10-12 21:37:09","1862046059","2022-10-12","21:37:09"
+"524323","pq ela tava aparecendo no nemo","2022-10-12 21:37:20","1862046059","2022-10-12","21:37:20"
+"524324","será que é por causa disso?","2022-10-12 21:37:26","1862046059","2022-10-12","21:37:26"
+"524325","também","2022-10-12 21:37:34","1862046059","2022-10-12","21:37:34"
+"524326","hiden para que","2022-10-12 21:37:40","248334232","2022-10-12","21:37:40"
+"524328","Regras do Grupo 
+
+Bem-vindo  ao grupo Manjaro Brasil
+
+Antes de mais nada, atente a esse aviso:
+
+🗣 - Esse grupo é para ideias, sugestões e ajuda sobre o Manjaro. Os membros e admins do grupo não são suporte técnico 24/7 
+
+Regras do Grupo
+👉 - Não tratar os membros do grupo como otários ou idiotas
+👉 - Não pedir dinheiro ou dar dicas de investimento em Cripto moedas aos membros do grupo
+👉 - Não divulgar redes sociais sem permissão de um ADM
+👉 - Não dar ""spoiler"" de filmes, séries e animes
+👉 - Nesse grupo são permitidos e incentivados assuntos ""Off Topic"" porém não serão tolerados assuntos contendo religião, política, pornografia, orientação e preferências sexuais bem como palavras de baixo calão
+👉 - Não entrar no PV de alguém sem a autorização prévia do membro do grupo
+👉 - Quando pedir suporte, esteja com seu equipamento em mãos, pra que você possa mandar screenshots e informações do problema.","2022-10-12 21:37:43","5298578702","2022-10-12","21:37:43"
+"524329","aparecia no menu do nemo, vou retirar e ver se ainda reaparece","2022-10-12 21:37:51","1862046059","2022-10-12","21:37:51"
+"524330","a efi se o hd estiver em gpt nao aparece","2022-10-12 21:38:18","248334232","2022-10-12","21:38:18"
+"524331","gparted disse que ta gpt","2022-10-12 21:38:43","1862046059","2022-10-12","21:38:43"
+"524332","sera?","2022-10-12 21:38:59","248334232","2022-10-12","21:38:59"
+"524333","vou dar um reboot pra ver se ela aparece","2022-10-12 21:39:07","1862046059","2022-10-12","21:39:07"
+"524334","a particao /boot/efi nao aparece no gestor de ficheiros","2022-10-12 21:39:20","248334232","2022-10-12","21:39:20"
+"524335","agora não apareceu realmente então vou deixar sem, algo deve ter bugado no dia que coloquei a flag
+no manjaro tambem nao apareceu mais, :)","2022-10-12 21:40:59","1862046059","2022-10-12","21:40:59"
+"524336","to vendo videos sobre btrfs, vc usa esse filesystem? é bom?","2022-10-12 21:44:51","1862046059","2022-10-12","21:44:51"
+"524339","Eu sei. Mas o Arch não me pareceu o que era. O bug do Grub foi notificado oficialmente, inclusive. Com uma reparação simples, mas mesmo assim. E eu já vinha tendo que ajeitar etc. Enfim, a comunidade também me decepcionou. A comunidade do Arch, no geral, me pareceu ser de purista bitolado e gente com tesão em código.","2022-10-12 21:53:23","887840764","2022-10-12","21:53:23"
+"524340","Se souber mexer no seu sistema, durará sim. Inclusive percebo que Manjaro demora a aceitar algumas atualizações pelo cuidado com o próprio sistema, como o KDE Plasma, no caso.","2022-10-12 21:56:00","887840764","2022-10-12","21:56:00"
+"524341","Tu a repo stable certo","2022-10-12 21:56:36","248334232","2022-10-12","21:56:36"
+"524342","Sim.","2022-10-12 21:59:58","887840764","2022-10-12","21:59:58"
+"524343","Como as Big Techs Te Rastreiam no Android — PrivacyMap
+https://youtu.be/SNjhb6roxHA 14:11","2022-10-12 22:05:14","155836063","2022-10-12","22:05:14"

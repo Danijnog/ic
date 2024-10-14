@@ -1,0 +1,85 @@
+"message_id","message","message_utc","from_id","date","time"
+"527544","compreensivel","2022-11-05 00:56:38","455888377","2022-11-05","00:56:38"
+"527529","Boa noite pessoal!
+Alguém pode me ajudar?
+Uso um adaptador wi-fi da Tplink, se não me engano, o t2u nano
+Mas ele só funciona com uma ""gabiarra"" pois não tem driver nativo pra linux","2022-11-05 00:11:24","929944791","2022-11-05","00:11:24"
+"527530","Eu tinha conseguido instalar o driver no Manjaro há um tempo, mas tive que formatar o pc e simplesmente não encontro mais o tutorial
+No Ubuntu é simples, mas no Manjaro é um pouquinho mais complicado
+Alguém saberia como fazer??","2022-11-05 00:12:49","929944791","2022-11-05","00:12:49"
+"527531","@jose_rafael","2022-11-05 00:13:18","258555872","2022-11-05","00:13:18"
+"527532","com o wifi plugado na usb, abra o terminal e de o comando:
+lsusb
+é LSUSB tudo minusculo
+e manda foto pra gente","2022-11-05 00:14:12","36899061","2022-11-05","00:14:12"
+"527545","como eu não trabalho diretamente com isso, então faço somente o basicão","2022-11-05 01:02:43","258555872","2022-11-05","01:02:43"
+"527538","@jose_rafael pq diabos a mensagem foi pinnada?","2022-11-05 00:51:24","455888377","2022-11-05","00:51:24"
+"527539","kkkkk","2022-11-05 00:51:35","455888377","2022-11-05","00:51:35"
+"527540","Notificar a galera","2022-11-05 00:51:44","25962582","2022-11-05","00:51:44"
+"527541","precisa não","2022-11-05 00:51:50","455888377","2022-11-05","00:51:50"
+"527542","nada urgente","2022-11-05 00:51:53","455888377","2022-11-05","00:51:53"
+"527543","infelizmente não, porem coisa de code review, essas coisas geralmente sempre levam a trabalho de equipe, mas ai simplesmente essa coisa de merge eu nem realmente me importo tanto","2022-11-05 00:53:36","258555872","2022-11-05","00:53:36"
+"527546","ce usa algo no zsh pra customizar as integraçoes do git?","2022-11-05 01:03:13","455888377","2022-11-05","01:03:13"
+"527547","no meu caso, to usando fish, mas eu tenho usado o git push, git commit e git add como aliases","2022-11-05 01:05:00","258555872","2022-11-05","01:05:00"
+"527548","qual vantagem de usar o fish?","2022-11-05 01:05:12","455888377","2022-11-05","01:05:12"
+"527549",".-.","2022-11-05 01:05:13","455888377","2022-11-05","01:05:13"
+"527550","eu uso os aliases do oh my zsh","2022-11-05 01:05:24","455888377","2022-11-05","01:05:24"
+"527551","pra mim, pelo menos, eu tenho acesso de autocompletar, o que eu amo","2022-11-05 01:05:33","258555872","2022-11-05","01:05:33"
+"527552","olha só","2022-11-05 01:05:38","258555872","2022-11-05","01:05:38"
+"527604","Kkkkkk(","2022-11-05 23:17:03","25962582","2022-11-05","23:17:03"
+"527553","eu tentei usar o zsh, mas não deu pra mim","2022-11-05 01:05:45","258555872","2022-11-05","01:05:45"
+"527554","eu uso no zsh tb","2022-11-05 01:05:47","455888377","2022-11-05","01:05:47"
+"527555","kk","2022-11-05 01:05:49","455888377","2022-11-05","01:05:49"
+"527556","ah, olha que legal","2022-11-05 01:06:02","258555872","2022-11-05","01:06:02"
+"527562","Perdão a demora, tive um probleminha aqui em casa","2022-11-05 03:31:54","929944791","2022-11-05","03:31:54"
+"527563","agora eu que não to podendo ajudar muito, pega o ID do chipset e pesquisa no google, o ID dela é:
+2357:011e","2022-11-05 03:35:02","36899061","2022-11-05","03:35:02"
+"527564","Beleza, vou pesquisar aqui
+Obrigadão","2022-11-05 03:54:23","929944791","2022-11-05","03:54:23"
+"527572","🌒 ENCERRAR MODO NOTURNO
+
+✅ De agora em diante, os usuários podem enviar novamente mídia (fotos, vídeos, arquivos...) e links no grupo.","2022-11-05 09:00:19","5298578702","2022-11-05","09:00:19"
+"527573","Resolvido após a última atualização.","2022-11-05 09:39:31","102535077","2022-11-05","09:39:31"
+"527582","barnabé onde voces postaram as novidades sobre o sistema do big, nessa atualização?","2022-11-05 13:54:32","285338787","2022-11-05","13:54:32"
+"527583","não achei no site,","2022-11-05 13:54:48","285338787","2022-11-05","13:54:48"
+"527585","@Andrew_N_Peterson [5560764760] enviou uma mensagem de spam. 
+Ação: Removido ❗️","2022-11-05 16:17:57","5298578702","2022-11-05","16:17:57"
+"527586","https://t.me/ManjaroUpdates","2022-11-05 16:23:14","36899061","2022-11-05","16:23:14"
+"527605","Tu consegue dá ban no bot?","2022-11-05 23:17:19","25962582","2022-11-05","23:17:19"
+"527593","OPEN SOURCE your Android Phone: open source Android ROMS and apps — The Linux Experiment
+https://youtu.be/Llrrzh6hxcA 17:20","2022-11-05 23:10:21","155836063","2022-11-05","23:10:21"
+"527594","MinisForum DeskMini UM580 review: a good GAMING CONSOLE? — The Linux Experiment
+https://youtu.be/mVuLkPf-9f4 13:35","2022-11-05 23:10:22","155836063","2022-11-05","23:10:22"
+"527595","Google delays adblock's death, New Nvidia driver, Debian goes non free -  Linux and Open Source News — The Linux Experiment
+https://youtu.be/xO2bJtXqtHg 16:13","2022-11-05 23:10:22","155836063","2022-11-05","23:10:22"
+"527596","KDE PLASMA 5.26: Bigscreen, animated wallpapers, rebind mouse buttons... — The Linux Experiment
+https://youtu.be/iensgc4QTIs 16:25","2022-11-05 23:10:36","155836063","2022-11-05","23:10:36"
+"527597","LINUX is BETTER than macOS in these 5 areas! — The Linux Experiment
+https://youtu.be/8yjW-kMivWQ 17:50","2022-11-05 23:10:42","155836063","2022-11-05","23:10:42"
+"527598","INTEL code LEAKS, Ubuntu Pro goes free, Nextcloud takes on Google and Apple - Linux + FOSS News — The Linux Experiment
+https://youtu.be/om7-QhWHwYk 16:20","2022-11-05 23:10:43","155836063","2022-11-05","23:10:43"
+"527599","UBUNTU 22.10 REVIEW: Stick to SNAPS (and repos) for a good experience — The Linux Experiment
+https://youtu.be/UWeHeYmr1Pw 17:35","2022-11-05 23:10:43","155836063","2022-11-05","23:10:43"
+"527600","SUB-10$ Linux board, GNOME Thumbnails (finally), + Ubuntu 22.10: Linux and Open Source News — The Linux Experiment
+https://youtu.be/BMdkC-_YmbM 16:30","2022-11-05 23:10:44","155836063","2022-11-05","23:10:44"
+"527601","Bot endoidou","2022-11-05 23:16:03","25962582","2022-11-05","23:16:03"
+"527602","Mandou 38 vídeos no meu grupo","2022-11-05 23:16:16","25962582","2022-11-05","23:16:16"
+"527603","kra eu juro que um dia expulso esse bot sem querer, 🤣😜
+hoje foi a decimacentezima vez que já tava com /ban escrito quando percebi que era o bot do grupo.","2022-11-05 23:16:32","36899061","2022-11-05","23:16:32"
+"527606","Pq como fui eu que coloquei ele, teoricamente vc não teria como tirar","2022-11-05 23:17:34","25962582","2022-11-05","23:17:34"
+"527607","não sei, quer que teste?","2022-11-05 23:17:56","36899061","2022-11-05","23:17:56"
+"527608","Deixa pra depois","2022-11-05 23:18:19","25962582","2022-11-05","23:18:19"
+"527609","blz,","2022-11-05 23:18:34","36899061","2022-11-05","23:18:34"
+"527610","Rapaz terminal pra mim tem que ser ""preto"" e me dar  o trabalho/prazer de eu mesmo digitar, essas coisas de autocompletar né coisa pra mim não","2022-11-05 23:20:31","702350574","2022-11-05","23:20:31"
+"527611","O bot continua mandando vídeo no meu grupo","2022-11-05 23:20:43","25962582","2022-11-05","23:20:43"
+"527612","kkkkkkk, vc que programou ele ou pegou pronto?","2022-11-05 23:21:19","36899061","2022-11-05","23:21:19"
+"527613","Peguei pronto","2022-11-05 23:21:27","25962582","2022-11-05","23:21:27"
+"527614","KKKKKKKKKK","2022-11-05 23:21:27","258555872","2022-11-05","23:21:27"
+"527615","hummmm, mas ele é de codigo livre e vc que ta rodando, ou ta rodando em um servidos X que vc nem sabe onde é?","2022-11-05 23:22:24","36899061","2022-11-05","23:22:24"
+"527616","Cara achei esse bot aqui no telegram","2022-11-05 23:24:13","25962582","2022-11-05","23:24:13"
+"527617","tá, zero controle, da nem pra ver log ou coisa do tipo pra saber o que deu de ruim nele.","2022-11-05 23:24:46","36899061","2022-11-05","23:24:46"
+"527618","da um /tmute nele","2022-11-05 23:24:56","36899061","2022-11-05","23:24:56"
+"527619","Mas aqui parou","2022-11-05 23:25:25","25962582","2022-11-05","23:25:25"
+"527620","pq eu ameacei da ban nele, kkkkkkkkkkkkkkkkkkkk","2022-11-05 23:26:05","36899061","2022-11-05","23:26:05"
+"527621","Engraçado que o chat dele mesmo não mandou nenhum vídeo","2022-11-05 23:26:05","25962582","2022-11-05","23:26:05"
+"527622","Só mandou vídeo aqui e no meu grupo","2022-11-05 23:26:18","25962582","2022-11-05","23:26:18"

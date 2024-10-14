@@ -2,8 +2,8 @@ from psycopg2 import OperationalError
 from sqlalchemy import create_engine
 import pandas as pd
 
-INITIAL_DATE = '2023/01/02'
-END_DATE = '2023/01/19'
+INITIAL_DATE = '2022/09/25'
+END_DATE = '2023/01/16'
 
 def connection() -> create_engine:
   '''Conecta com o banco de dados'''
@@ -54,7 +54,7 @@ def get_groups() -> pd.DataFrame:
                 f"IN (SELECT channel_id FROM messages GROUP BY channel_id HAVING COUNT(DISTINCT from_id) > 1) AND message_utc BETWEEN '{INITIAL_DATE}' AND '{END_DATE}' " \
                 f"GROUP BY m.channel_id) " \
                 f"ORDER BY quantidade_mensagens DESC " \
-                f"LIMIT 5 " \
+                #f"LIMIT 5 " \
         
         df_groups = pd.read_sql(query, conn)
 

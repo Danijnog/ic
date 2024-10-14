@@ -1,0 +1,198 @@
+"message_id","message","message_utc","from_id","date","time"
+"520547","Interessante","2022-09-25 11:30:50","531534178","2022-09-25","11:30:50"
+"520548","Viva pessoal","2022-09-25 13:20:42","1125259668","2022-09-25","13:20:42"
+"520549","viva!!!","2022-09-25 13:21:09","258555872","2022-09-25","13:21:09"
+"520550","Existe forma de customizar o Manjaro xfce para algo do gênero do Windows 11","2022-09-25 13:21:14","1125259668","2022-09-25","13:21:14"
+"520551","deve existir sim, mas o recomendado é usar direto o manjaro, hehehe","2022-09-25 13:22:23","258555872","2022-09-25","13:22:23"
+"520552","A minha máquina é algo como isto...","2022-09-25 13:22:45","1125259668","2022-09-25","13:22:45"
+"520554","Estou no momento com o archcraft, mas vou mudar para o Manjaro xfce","2022-09-25 13:23:37","1125259668","2022-09-25","13:23:37"
+"520555","recomendo altamente vc usar o manjaro e não o windows","2022-09-25 13:23:44","258555872","2022-09-25","13:23:44"
+"520556","porque pela sua memoria, acho que funcionaria melhor","2022-09-25 13:23:57","258555872","2022-09-25","13:23:57"
+"520557","Não estou a ver um Windows manager, dopo KDE, a colocar a minha máquina rapida","2022-09-25 13:24:21","1125259668","2022-09-25","13:24:21"
+"520558","Por isso procuro algo que não consuma muito","2022-09-25 13:24:38","1125259668","2022-09-25","13:24:38"
+"520559","Não vou colocar Windows  esta máquina.","2022-09-25 13:24:49","1125259668","2022-09-25","13:24:49"
+"520560","Queria era fazer uma customização do Linux para ficar parecido com o Windows 11","2022-09-25 13:25:14","1125259668","2022-09-25","13:25:14"
+"520568","entendi","2022-09-25 13:32:33","258555872","2022-09-25","13:32:33"
+"520562","possivelmente deve ter alguma coisa no google sobre isso.","2022-09-25 13:30:17","258555872","2022-09-25","13:30:17"
+"520563","e o plasma não é exatamente um window manager","2022-09-25 13:30:25","258555872","2022-09-25","13:30:25"
+"520564","plasma é um ambiente","2022-09-25 13:30:29","258555872","2022-09-25","13:30:29"
+"520565","xfce tambem é","2022-09-25 13:30:33","258555872","2022-09-25","13:30:33"
+"520566","então o que vc quer fazer ai, é justamente uma customização","2022-09-25 13:30:47","258555872","2022-09-25","13:30:47"
+"520567","Exacto, foi o que disse, 😂😆","2022-09-25 13:32:11","1125259668","2022-09-25","13:32:11"
+"520569","Que ficasse parecido ao Windows 11","2022-09-25 13:32:52","1125259668","2022-09-25","13:32:52"
+"520570","Já vi alguns vídeos no YouTube","2022-09-25 13:36:07","1125259668","2022-09-25","13:36:07"
+"520571","https://youtu.be/pYyfyIOqeN8","2022-09-25 13:37:01","1125259668","2022-09-25","13:37:01"
+"520572","Vou tentar fazer essa customização. Mas a distribuição usada no vídeo é a MX Linux, que é baseada no ubuntu","2022-09-25 13:37:52","1125259668","2022-09-25","13:37:52"
+"520573","Espero que não tenha dificuldades.","2022-09-25 13:38:09","1125259668","2022-09-25","13:38:09"
+"520574","bom, se não tiver, ai é gg","2022-09-25 13:41:51","258555872","2022-09-25","13:41:51"
+"520575","GG?","2022-09-25 13:42:17","1125259668","2022-09-25","13:42:17"
+"520576","good game = bom jogo","2022-09-25 13:43:07","258555872","2022-09-25","13:43:07"
+"520577","Ah ok, 😂","2022-09-25 13:45:01","1125259668","2022-09-25","13:45:01"
+"520578","Sou português de Portugal, casado com uma brasileira.
+
+Mas ainda há termos vossos que não domino, 😂😆","2022-09-25 13:46:05","1125259668","2022-09-25","13:46:05"
+"520579","ahhhh","2022-09-25 13:49:44","258555872","2022-09-25","13:49:44"
+"520580","Quando tiver o Manjaro xfce, mais ou menos como gosto mando imagens para aqui.
+
+Não vou garantir que será com aspecto de Windows 11, mas se ficar como ficou...","2022-09-25 13:57:34","1125259668","2022-09-25","13:57:34"
+"520581","legal, mande sim","2022-09-25 14:03:07","258555872","2022-09-25","14:03:07"
+"520582","Que coisa, estou a tentar instalar pacote com sudo pacman -S nomedoarquivo","2022-09-25 14:10:22","1125259668","2022-09-25","14:10:22"
+"520583","E não deixa","2022-09-25 14:10:25","1125259668","2022-09-25","14:10:25"
+"520584","Dá-me mensagem de alvo não encontrado.","2022-09-25 14:11:43","1125259668","2022-09-25","14:11:43"
+"520585","E tenho internet","2022-09-25 14:11:47","1125259668","2022-09-25","14:11:47"
+"520586","Alguma sugestão?","2022-09-25 14:17:26","1125259668","2022-09-25","14:17:26"
+"520587","Nome do pacote não é somente isso","2022-09-25 14:19:08","25962582","2022-09-25","14:19:08"
+"520588","Use -Ss pra procurar o nome","2022-09-25 14:19:21","25962582","2022-09-25","14:19:21"
+"520589","Tentei com o zoom","2022-09-25 14:19:26","1125259668","2022-09-25","14:19:26"
+"520591","E também não deu","2022-09-25 14:19:34","1125259668","2022-09-25","14:19:34"
+"520592",".","2022-09-25 14:19:39","25962582","2022-09-25","14:19:39"
+"520593","pamac search telegram","2022-09-25 14:20:22","5792928941","2022-09-25","14:20:22"
+"520594","Sim, mas se carregasse no tab deveria procurar automaticamente, certo?","2022-09-25 14:20:40","1125259668","2022-09-25","14:20:40"
+"520596","e sudo pacman -S telegram-desktop","2022-09-25 14:20:56","248334232","2022-09-25","14:20:56"
+"520597","Não","2022-09-25 14:21:12","25962582","2022-09-25","14:21:12"
+"520598","Sim é isso.","2022-09-25 14:22:07","1125259668","2022-09-25","14:22:07"
+"520599","Mas já tenho feito com o tab para encontrar o nome correcto e apresenta as opções.","2022-09-25 14:22:30","1125259668","2022-09-25","14:22:30"
+"520600","Não","2022-09-25 14:22:41","5792928941","2022-09-25","14:22:41"
+"520601","Em outras distros existe essa funcionalidade","2022-09-25 14:23:21","1125259668","2022-09-25","14:23:21"
+"520602","tens que ter isto instalado: bash-completion","2022-09-25 14:23:34","248334232","2022-09-25","14:23:34"
+"520665","boa dica mano","2022-09-25 16:23:44","531534178","2022-09-25","16:23:44"
+"520603","para funcionar isso","2022-09-25 14:23:46","248334232","2022-09-25","14:23:46"
+"520604","Vou tentar.","2022-09-25 14:25:22","1125259668","2022-09-25","14:25:22"
+"520605","É isso mesmo","2022-09-25 14:25:46","1125259668","2022-09-25","14:25:46"
+"520606","Obrigado","2022-09-25 14:25:49","1125259668","2022-09-25","14:25:49"
+"520607","Quem sabe, sabe","2022-09-25 14:26:09","1125259668","2022-09-25","14:26:09"
+"520608","Quem não sabe, fica triste.","2022-09-25 14:26:16","1125259668","2022-09-25","14:26:16"
+"520609","Estive a procurar pelo zoom cliente, e não encontro","2022-09-25 14:27:27","1125259668","2022-09-25","14:27:27"
+"520610","veja no aur","2022-09-25 14:29:26","248334232","2022-09-25","14:29:26"
+"520612","Recomendo olhar flatpak antes de olhar no Aur","2022-09-25 14:33:56","25962582","2022-09-25","14:33:56"
+"520613","Tem um tema pra baixar no manjaro , fica igualzinho","2022-09-25 14:35:02","531534178","2022-09-25","14:35:02"
+"520614","Mas é para o xfce?","2022-09-25 14:37:29","1125259668","2022-09-25","14:37:29"
+"520615","Plasma","2022-09-25 14:37:52","531534178","2022-09-25","14:37:52"
+"520616","A interface parecida com windows la","2022-09-25 14:38:05","531534178","2022-09-25","14:38:05"
+"520617","Pois mas no meu PC o KDE fica um pouco pesado e aquece muito.","2022-09-25 14:38:54","1125259668","2022-09-25","14:38:54"
+"520619","isso de aquecer pode ser outra coisa, quais sao caracteristicas do teu pc processador, ram e grafica","2022-09-25 14:55:45","248334232","2022-09-25","14:55:45"
+"520620","Quem lhe disse isso, lhe enganou","2022-09-25 14:57:48","5792928941","2022-09-25","14:57:48"
+"520621","Uai tá escrito no site","2022-09-25 14:58:24","531534178","2022-09-25","14:58:24"
+"520622","O cara deve  ter fumado uma ervinha quando escreveu, ou é mais doidão que eu","2022-09-25 14:58:58","5792928941","2022-09-25","14:58:58"
+"520623","Se você dissesse (ou ele) que o Windows é uma imitação bem fuleira do Plasma eu poderia concordar","2022-09-25 14:59:56","5792928941","2022-09-25","14:59:56"
+"520624","Kkkkkkk","2022-09-25 14:59:56","531534178","2022-09-25","14:59:56"
+"520625","Ah isso, é isso mesmo","2022-09-25 15:00:10","531534178","2022-09-25","15:00:10"
+"520633","ai sim","2022-09-25 15:22:56","258555872","2022-09-25","15:22:56"
+"520634","Novamente digo: ""Credo"" he he he","2022-09-25 15:35:29","5792928941","2022-09-25","15:35:29"
+"520635","KKKKKKKKKKKKKKKKKKKKKKKKK","2022-09-25 15:36:26","258555872","2022-09-25","15:36:26"
+"520636","Eu também: credo","2022-09-25 15:36:31","531534178","2022-09-25","15:36:31"
+"520638","Fotografei antes de instalar o Manjaro xfce","2022-09-25 15:43:49","1125259668","2022-09-25","15:43:49"
+"520639","Deixando as brincadeiras de lado:
+
+- Trabalho com informática desde 1993/95 eu acho, com isso foram muitos M$ pela lata
+- Por trabalhar com ""isso"" cheguei tarde, para esses lados, ""belo, livre e customizável"" (último quesito: maravilhoso, mas muita das vezes herege)
+- Dar cara de W ou Maça a um Linux qualquer é a maior das heresias que se pode fazer no mundo da informática.
+
+Se gosta tanto da coisa, fica por lá! Se não, larga ""velhas manias"", com isso serás extremamente feliz pelo resto dos dias do teu PC","2022-09-25 15:44:33","5792928941","2022-09-25","15:44:33"
+"520640","Entendo o que queres dizer.
+
+Este portátil que tenho é mesmo para testar distro de Linux ir ""inventando"", já tive várias distros, arco Linux, Manjaro, Garuda, etc....
+
+Não gosto por opção de distros baseadas em ubuntu, prefiro arch Linux.
+
+Quando so dar cats de maçã ou Windows, é só por uma questão estética, ou para me divertir um pouco....
+
+Sinceramente falando.
+O Windows manager que mais gosto, com algumas alterações pelo meio é o gnome 3... 4...
+
+O problema é este PC que tenho que começar a aquecer muito se começo a apertar com ele.
+
+E nem estou a falar em jogos, estou a falar mesmo de libre office, zoom, telegram e WhatsApp....","2022-09-25 15:50:23","1125259668","2022-09-25","15:50:23"
+"520641","eu uso um celeron b840 e nem aquece","2022-09-25 15:51:36","248334232","2022-09-25","15:51:36"
+"520642","Não lhe direcionei mensagem alguma meu jovem","2022-09-25 15:55:58","5792928941","2022-09-25","15:55:58"
+"520643","Que isso meu fi, calma","2022-09-25 15:57:02","25962582","2022-09-25","15:57:02"
+"520644","Não almoçou ainda","2022-09-25 15:59:46","531534178","2022-09-25","15:59:46"
+"520645","Nunca estive mais calmo, é que as vezes as pessoas confundem ""aqui"", inclusive gentileza com gente lesa","2022-09-25 16:07:18","5792928941","2022-09-25","16:07:18"
+"520646","🤣🤣","2022-09-25 16:08:17","531534178","2022-09-25","16:08:17"
+"520647","Eita poha","2022-09-25 16:08:42","5792928941","2022-09-25","16:08:42"
+"520648","Que ? Kkkk","2022-09-25 16:08:53","531534178","2022-09-25","16:08:53"
+"520649","Telegram do repositório","2022-09-25 16:09:24","5792928941","2022-09-25","16:09:24"
+"520650","Não sei se tudo, até porque só conheço o Windows 11 de vista, mas acredito que dá sim.","2022-09-25 16:10:35","1535081036","2022-09-25","16:10:35"
+"520651","Sim 😎","2022-09-25 16:10:49","531534178","2022-09-25","16:10:49"
+"520652","*Creto
+
+kkkkkk","2022-09-25 16:12:51","1535081036","2022-09-25","16:12:51"
+"520654","Eu não disse que direcionaste mensagem alguma. Disse o que eu costumo fazer neste portátil, que uso para instalar e testar distros Linux.","2022-09-25 16:14:48","1125259668","2022-09-25","16:14:48"
+"520656","Kkkkkkk","2022-09-25 16:15:25","531534178","2022-09-25","16:15:25"
+"520657","Mas continuo dizendo esquecer velhas manias lhe fará um bem incrível","2022-09-25 16:15:51","5792928941","2022-09-25","16:15:51"
+"520658","cd ~/Downloads
+wget ""https://telegram.org/dl/desktop/linux"" -O telegram.tar.xz ; tar Jxf telegram.tar.xz
+
+Agora abra seu gerenciador de arquivos, na pasta Downloads > Telegram > Clique em Telegram
+😉","2022-09-25 16:18:36","5792928941","2022-09-25","16:18:36"
+"520659","sudo pacman -S telegram-desktop
+
+;)","2022-09-25 16:19:19","258555872","2022-09-25","16:19:19"
+"520660","Nunca confie","2022-09-25 16:20:25","5792928941","2022-09-25","16:20:25"
+"520661","Huuum","2022-09-25 16:20:27","531534178","2022-09-25","16:20:27"
+"520662","ué? direto do repositorio, ah, estou usando arch","2022-09-25 16:22:23","258555872","2022-09-25","16:22:23"
+"520663","Te digo, nunca funciona bem, quando na melhor das ""causas"" para de atualizar, por isso uso o direto do site sempre","2022-09-25 16:23:20","5792928941","2022-09-25","16:23:20"
+"520664","Então nesse caso:
+
+flatpak install org.telegram.desktop","2022-09-25 16:23:42","1535081036","2022-09-25","16:23:42"
+"520666","De novo:
+""Cre....do""","2022-09-25 16:24:26","5792928941","2022-09-25","16:24:26"
+"520667","Um dia quem sabe, o Cre...do, modifique-se ha ha ha","2022-09-25 16:25:24","5792928941","2022-09-25","16:25:24"
+"520668","eu sempre prefiro o do repositorio porque eu sei que é mantido diretamente pelo site, e quando eles empacotam, atualiza, só esperar alguns dias","2022-09-25 16:26:28","258555872","2022-09-25","16:26:28"
+"520669","de novo, quem confia demais em distros que são rolling.... se ferra","2022-09-25 16:26:46","258555872","2022-09-25","16:26:46"
+"520670","valeu mano, atualizou aqui","2022-09-25 16:28:08","531534178","2022-09-25","16:28:08"
+"520671","Isso me lembrou aquele problema das fontes, que afetou quem usava a Steam dos repositórios oficiais do Arch e derivados.","2022-09-25 16:28:27","1535081036","2022-09-25","16:28:27"
+"520678","kkkkkkk cadê o .gif que o @jose_rafael sempre manda aqui com o cara caindo na gargalhada","2022-09-25 16:31:08","5792928941","2022-09-25","16:31:08"
+"520672","Por isso, mesmo não confio nem no meu coração.
+Uma pasta, que faz tudo, pra que esperar pelo empacotador","2022-09-25 16:28:56","5792928941","2022-09-25","16:28:56"
+"520673","Fico feliz que eu sirva para algo 🤣🤣🤣🤣","2022-09-25 16:29:53","5792928941","2022-09-25","16:29:53"
+"520674","isso que dá viver na corda bamba, haha. mas brincadeiras a parte, acho que todos sabemos que quem usa rolling release, sempre tem algum tipo de problema. mas o bom é que é resolvido em menos de dias, então por isso que eu confio mais nas atualizações direto do repositorio.","2022-09-25 16:29:56","258555872","2022-09-25","16:29:56"
+"520675","kkkkk","2022-09-25 16:30:05","531534178","2022-09-25","16:30:05"
+"520676","pow, tu é fera demais","2022-09-25 16:30:18","531534178","2022-09-25","16:30:18"
+"520677","tendi","2022-09-25 16:30:29","258555872","2022-09-25","16:30:29"
+"520679","kkkk, não sei","2022-09-25 16:31:20","531534178","2022-09-25","16:31:20"
+"520680","mas como acha esses links pra baixar direto assim ?","2022-09-25 16:32:13","531534178","2022-09-25","16:32:13"
+"520681","Ctrl+C despois Ctrl+V no próprio site","2022-09-25 16:34:40","5792928941","2022-09-25","16:34:40"
+"520682","uai sabia não","2022-09-25 16:34:53","531534178","2022-09-25","16:34:53"
+"520683","mas aí tem que saber o nome do arquivo, tipo nesse que vc mandou  >   telegram.tar.xz ; tar Jxf telegram.tar.xz ?","2022-09-25 16:37:56","531534178","2022-09-25","16:37:56"
+"520684","Com o tempo, você vai descobrindo, eu também não sabia","2022-09-25 16:38:25","5792928941","2022-09-25","16:38:25"
+"520685","to descobrindo aos poucos","2022-09-25 16:38:45","531534178","2022-09-25","16:38:45"
+"520686","ralei pra fazer funcionar um banco de dados, por noobice ainda kkk","2022-09-25 16:39:10","531534178","2022-09-25","16:39:10"
+"520687","Ahhhhhh, mas agora descobri por tu me chamou de fera @renanmontano foi por causa da minha foto de perfil, pai-d'égua sou mesmo kkkkkkkkkkkkkkkkkkk","2022-09-25 16:39:52","5792928941","2022-09-25","16:39:52"
+"520688","sua foto não ta parecendo pra mim","2022-09-25 16:40:17","531534178","2022-09-25","16:40:17"
+"520689","Vish","2022-09-25 16:40:33","5792928941","2022-09-25","16:40:33"
+"520690","Vê agora","2022-09-25 16:41:07","5792928941","2022-09-25","16:41:07"
+"520691","u bruce banner?","2022-09-25 16:41:22","258555872","2022-09-25","16:41:22"
+"520692","Não, a fera mesmo kkkkkkkkkkkkk que de inteligência estou bem longe","2022-09-25 16:41:50","5792928941","2022-09-25","16:41:50"
+"520722","Qual fonte você usa?","2022-09-25 23:29:22","887840764","2022-09-25","23:29:22"
+"520693","KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK","2022-09-25 16:42:00","258555872","2022-09-25","16:42:00"
+"520694","eita pega","2022-09-25 16:42:49","531534178","2022-09-25","16:42:49"
+"520695","kkkkk","2022-09-25 16:42:51","531534178","2022-09-25","16:42:51"
+"520696","é fera mesmo hein","2022-09-25 16:42:59","531534178","2022-09-25","16:42:59"
+"520698","Povo","2022-09-25 16:44:14","5792928941","2022-09-25","16:44:14"
+"520705","Nope, nunca ouvi falar","2022-09-25 17:06:31","1125259668","2022-09-25","17:06:31"
+"520699","Meu BigLinux 👆🏼👆🏼","2022-09-25 16:44:44","5792928941","2022-09-25","16:44:44"
+"520700","aí sim hein","2022-09-25 16:46:13","531534178","2022-09-25","16:46:13"
+"520701","Descubra a diferença além do papel de parede 👆🏼","2022-09-25 16:46:43","5792928941","2022-09-25","16:46:43"
+"520702","👀👀👀","2022-09-25 16:50:27","258555872","2022-09-25","16:50:27"
+"520703","KDE plasma?","2022-09-25 16:55:04","1125259668","2022-09-25","16:55:04"
+"520704","Quase lá, mas também pergunto sabes o que é BigLinux?","2022-09-25 17:06:09","5792928941","2022-09-25","17:06:09"
+"520706","Poderia estar aqui a dar hipóteses, mas de certeza que iria falhar.","2022-09-25 17:08:31","1125259668","2022-09-25","17:08:31"
+"520710","pessoal alguem consegiu usar o nordvpn no manjaro ?","2022-09-25 18:52:37","365415358","2022-09-25","18:52:37"
+"520711","aqui nao abre","2022-09-25 18:56:47","365415358","2022-09-25","18:56:47"
+"520712","https://biglinux.com.br/
+
+E notou a diferença entre os 2?
+https://t.me/manjarobrasiloficial/520699
+
+E desconfio que nenhum dos ""Mestres das Estrelas"" daqui não notaram","2022-09-25 18:57:37","5792928941","2022-09-25","18:57:37"
+"520713","https://forum.manjaro.org/t/root-tip-how-to-nordvpn-on-manjaro/81016","2022-09-25 18:58:33","5792928941","2022-09-25","18:58:33"
+"520721","to tentando pegar o padrão.
+eu removo o controle, restarto o xboxdrv e executo o script kkk","2022-09-25 19:44:40","1017285712","2022-09-25","19:44:40"
+"520714","Participem ""também"" do  fórum muita coisa que ""ainda se pergunta aqui"", já existe por lá","2022-09-25 18:59:33","5792928941","2022-09-25","18:59:33"
+"520715","caramba controle é muito bugado de usar, hora funfa, hora não","2022-09-25 19:39:55","1017285712","2022-09-25","19:39:55"
+"520716","Controle?","2022-09-25 19:43:19","25962582","2022-09-25","19:43:19"
+"520717","Que controle?","2022-09-25 19:43:21","25962582","2022-09-25","19:43:21"
+"520718","genérico de xbox 360","2022-09-25 19:43:31","1017285712","2022-09-25","19:43:31"
+"520719","Já usei o original anos atrás e era de boa","2022-09-25 19:43:57","25962582","2022-09-25","19:43:57"
+"520720","as vezes rola só executando o script python, lá da doc https://wiki.archlinux.org/title/Gamepad#xboxdrv","2022-09-25 19:44:04","1017285712","2022-09-25","19:44:04"

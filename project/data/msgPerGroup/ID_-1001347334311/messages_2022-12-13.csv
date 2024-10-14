@@ -1,0 +1,27 @@
+"message_id","message","message_utc","from_id","date","time"
+"13434","Só vai aparecer o voto de quem votou em urna antiga","2022-12-13 23:09:09","5303863344.0","2022-12-13","23:09:09"
+"13432","Caro usuário:
+As informações pesquisadas neste site foram extraídas diretamente das urnas eletrônicas. Os arquivos foram fornecidos pelo próprio TSE e podem ser baixados nos links abaixo: Original: https://dadosabertos.tse.jus.br/dataset/
+Espelho (caso o original fosse ""modificado"" ou “desaparecesse”): https:// github.com/f4llenz/tse-dados-abertos
+
+Nestas eleições foram usadas cerca de 473 mil urnas. Algumas urnas têm 13 anos de uso! Cada urna possui um cartão de memória que registra os votos de maneira criptografada, gerando um arquivo que vai para o TSE apurar. Conseguimos quebrar essa criptografia e verificar os votos registrados, a partir do tráfego do nome registrado nas urnas com informações da biometria e outras informações presentes nesses arquivos de urna. Em virtude da quebra do processo de criptografia, o CPF acabou servindo de índice de busca, uma vez que este dado é amplamente compartilhado entre os serviços públicos brasileiros - e não poderia ser diferente no próprio TSE. Cruzando estes dados, estará vinculado ao nome do eleitor com o CPF. Assim, o usuário (você) conseguiria consultar o seu voto exatamente conforme o TSE registrado na apuração utilizando o CPF,
+
+As inconsistências dos dados das urnas são publicamente conhecidas e foram demonstradas ao vivo no Senado Federal. Não poderia ser diferente nos dados dos controlados nestas - assim, quando fizemos a quebra da criptografia, encontramos milhares de falhas - até em virtude da certeza da impunidade que o TSE tinha e da fraude executada. Então, não se assuste se encontrar votantes fora de domicílio, cidadãos que não votaram com voto registrado e mesmo falecidos que “ressuscitaram” para votar. As informações sobre o voto exposto aqui estão exatamente da mesma forma que foram baixadas! Os dados encontram-se exatamente como encontrados nas urnas e por conseguinte os votos informados aqui também estão exatamente da mesma forma como foram encontrados nos arquivos das urnas.
+
+Observe também que o arquivo é muito grande e todo o processamento que a gente fez nessa base de dados levou muitas horas. São mais de 473 mil arquivos de urnas, todos somados. Mais de 156 milhões de votos. São 140 Gigabytes de dados (a memória do seu smartphone geralmente tem 64 Gigabytes). Cada indexação (processamento técnico de pesquisa) desse banco de dados levou mais de 48 horas.
+
+Trabalhamos intensamente para mostrar que o Brasil foi roubado. Abrimos mão de nosso tempo com família e até trabalho. Somos profissionais de TI, entusiastas da programação e tínhamos apenas um desafio: provar que o TSE e essas tais urnas eletrônicas não oferecem segurança nenhuma! Fizemos um trabalho simples, mas altamente confiável, com o objetivo único de mostrar a você, cidadão brasileiro, que seu voto foi modificado!
+
+Ficamos extremamente contentes com os milhões de acessos em menos de uma hora no domingo. A missão foi alcançada! A prova disto é que fomos atacados e derrubados, mas resistimos a todas as dificuldades impostas e estamos de volta! Perdemos o primeiro servidor; o serviço foi cancelado; nossa base de dados naquele servidor foi bloqueada. Estamos lá esperando a gente se identificar e explicar o ""propósito da coisa"", pois parece que ""alguém"" os intimidou para extrair nossas informações pessoais... Optamos então por mudar o serviço de lugar e recomeçar novamente… Gastamos mais dinheiro (isso tem um certo custo!), faltamos do trabalho e mais umas 48 horas sem comer direito nem dormir, participamos colocar a consulta de volta, com melhorias! Versão 2.0 agora!
+
+:)
+Para o TSE obter os resultados apresentados no 1º e 2º turnos, tinha que ter “de onde” tirar os votos. Um candidato aí teve mais da metade dos votos do país, mas ninguém viu os candidatos dele lotando nenhum comício, fazendo carreatas (ou motociatas) volumosas, nem comemorando a vitória. Voto não cai do céu, gente! O número de votos é finito! Tem que ter de onde tirar esses votos! E pelo jeito, tiraram do outro candidato!","2022-12-13 23:06:02","5303863344.0","2022-12-13","23:06:02"
+"13433","O nosso objetivo principal aqui foi mostrar que o sigilo do seu voto não tem segurança nenhuma. Não existe sigilo. E se você ficou desapontado ao perceber que seu voto digitado não bate com seu voto apurado, saiba que nós também tínhamos os nossos (e de pais, mães, amigos e até de avós falecidos) apurados exatamente da mesma forma! É exatamente assim que o TSE tratou seu voto e é exatamente assim que o TSE trata a eleição nesse país.
+
+PESQUISE POR SUA CONTA. ELABORE SEU PRÓPRIO ENTENDIMENTO. PENSE! USE O SEU CÉREBRO!
+
+NÃO USAMOS SEUS DADOS PARA QUALQUER OUTRA COISA QUE SEJA ILÍCITA OU PREJUDICIAL À VOCÊ: PODE FICAR TRANQUILO. NÃO TEMOS INTERESSES POLÍTICOS, NEM PARTIDÁRIOS, NEM ELEITORAIS, NEM IDEOLÓGICOS.
+
+O SIGILO DO SEU VOTO FOI QUEBRADO E ESTAMOS AQUI COMPROVANDO QUE ESSA ELEIÇÃO FOI UMA GRANDE FRAUDE!
+
+WWW.SEUVOTO.INFO","2022-12-13 23:06:02","5303863344.0","2022-12-13","23:06:02"

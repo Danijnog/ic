@@ -1,0 +1,484 @@
+"message_id","message","message_utc","from_id","date","time"
+"522112","pessoal, esse diretorio de construção é onde fica o arquivo baixado pra compilação? posso limpar?","2022-10-08 00:18:47","769269757","2022-10-08","00:18:47"
+"522113","gui do pamac","2022-10-08 00:18:55","769269757","2022-10-08","00:18:55"
+"522121","Wayland e nvidia não se bicam","2022-10-08 00:57:45","883083059","2022-10-08","00:57:45"
+"522114","e emendando outra pergunta. eu desinstalei o chrome, mas ainda ficou essa pasta, não era pra ela sumir junto?","2022-10-08 00:21:20","769269757","2022-10-08","00:21:20"
+"522115","desde ela esta na pasta home","2022-10-08 00:21:32","769269757","2022-10-08","00:21:32"
+"522116","Verifica nos arquivos ocultos se a foto tá lá","2022-10-08 00:50:32","25962582","2022-10-08","00:50:32"
+"522117","Com .icon","2022-10-08 00:50:35","25962582","2022-10-08","00:50:35"
+"522118","Pode","2022-10-08 00:50:54","25962582","2022-10-08","00:50:54"
+"522119","Esse diretório não é do Chrome é do pamac","2022-10-08 00:51:25","25962582","2022-10-08","00:51:25"
+"522120","Hm","2022-10-08 00:57:36","883083059","2022-10-08","00:57:36"
+"522122","Mas aí ele tá usando nouveau","2022-10-08 00:58:29","25962582","2022-10-08","00:58:29"
+"522123","E é notebook","2022-10-08 00:58:33","25962582","2022-10-08","00:58:33"
+"522124","Outra coisa é o driver que o José mencionou","2022-10-08 00:58:33","883083059","2022-10-08","00:58:33"
+"522125","Exato","2022-10-08 00:58:49","883083059","2022-10-08","00:58:49"
+"522126","Mesmo com driver proprietário Wayland pegaria por conta da intel","2022-10-08 00:58:59","25962582","2022-10-08","00:58:59"
+"522127","Eu mesmo uso assim","2022-10-08 00:59:03","25962582","2022-10-08","00:59:03"
+"522128","Nesse placa aí eu acho que dá zebra o monitor externo","2022-10-08 00:59:44","883083059","2022-10-08","00:59:44"
+"522129","Mas primeiro tem que trocar o driver pra saber","2022-10-08 00:59:53","883083059","2022-10-08","00:59:53"
+"522130","Tem um programa no manjaro chamado manjaro-settings","2022-10-08 01:02:27","883083059","2022-10-08","01:02:27"
+"522131","Dentro dele tem a parte de drivers","2022-10-08 01:02:34","883083059","2022-10-08","01:02:34"
+"522132","Tava procurando uma foto pra te mostrar como fica, mas acho que não é necessário","2022-10-08 01:03:23","883083059","2022-10-08","01:03:23"
+"522133","É só clicar no botão de instalar drivers proprietário","2022-10-08 01:03:39","883083059","2022-10-08","01:03:39"
+"522134","Ok, vou tentar aqui","2022-10-08 01:13:20","1943641295","2022-10-08","01:13:20"
+"522135","mal porguntar, mas pq que ta o nome de google-chrome?","2022-10-08 01:14:39","769269757","2022-10-08","01:14:39"
+"522136","É o diretório que o pamac baixou os pacotes do Chrome do AUR","2022-10-08 01:15:28","25962582","2022-10-08","01:15:28"
+"522160","Pra que?","2022-10-08 01:50:32","25962582","2022-10-08","01:50:32"
+"522137","a sim, achei que como tinha excluido ele, ele sumiria. tem uma forma de desinstalar o programa e levar junto essas pastas adjacentes?","2022-10-08 01:16:24","769269757","2022-10-08","01:16:24"
+"522138","E posso apagar ela de boa ne?","2022-10-08 01:17:08","769269757","2022-10-08","01:17:08"
+"522139","Não, cê tem que apagar","2022-10-08 01:23:25","25962582","2022-10-08","01:23:25"
+"522140","Sim","2022-10-08 01:23:28","25962582","2022-10-08","01:23:28"
+"522141","entendi, isso pra todos os pacotes ou pacotes aur? desculpe as perguntas, spu meio leigo ainda","2022-10-08 01:24:05","769269757","2022-10-08","01:24:05"
+"522142","Pra pacote AUR","2022-10-08 01:24:20","25962582","2022-10-08","01:24:20"
+"522143","entendi, valeuzão pelas informações","2022-10-08 01:24:39","769269757","2022-10-08","01:24:39"
+"522152","Sim","2022-10-08 01:46:06","1943641295","2022-10-08","01:46:06"
+"522144","uma ultima: eles sempre vao ficar na home, mesmo diretorio que tava o chrome ne?","2022-10-08 01:25:25","769269757","2022-10-08","01:25:25"
+"522145","nao era pra tá solto na home","2022-10-08 01:25:51","25962582","2022-10-08","01:25:51"
+"522146","estranho, onde geralmente fica?","2022-10-08 01:26:06","769269757","2022-10-08","01:26:06"
+"522147","a nao ser que usou o yay -G google-chrome","2022-10-08 01:33:17","248334232","2022-10-08","01:33:17"
+"522148","Não lembro se usei, talvez quando comecei a usar. Mas geralmente fica onde?","2022-10-08 01:36:59","769269757","2022-10-08","01:36:59"
+"522149","No caso os instalados via pamac","2022-10-08 01:37:07","769269757","2022-10-08","01:37:07"
+"522150","Instalei os drivers mas continua sem encontrar o monitor externo","2022-10-08 01:45:41","1943641295","2022-10-08","01:45:41"
+"522151","Reiniciou?","2022-10-08 01:46:00","883083059","2022-10-08","01:46:00"
+"522153","que placa grafica tens no teu pc","2022-10-08 01:46:17","248334232","2022-10-08","01:46:17"
+"522154","@nunomgnunes","2022-10-08 01:46:50","883083059","2022-10-08","01:46:50"
+"522155","tu uso da teclas fn + f1 ate f12 referentes a tela","2022-10-08 01:48:05","248334232","2022-10-08","01:48:05"
+"522156","Manda outro inxi -b pra ver se está no wayland ainda","2022-10-08 01:48:18","883083059","2022-10-08","01:48:18"
+"522158","Na tela de login vai ter uma engrenagem pra você escolher entre o wayland e o xorg, escolhe o xorg","2022-10-08 01:50:16","883083059","2022-10-08","01:50:16"
+"522159","Ok pera","2022-10-08 01:50:30","1943641295","2022-10-08","01:50:30"
+"522161","Se não tiver tal engrenagem instale o plasma-wayland-session","2022-10-08 01:50:36","883083059","2022-10-08","01:50:36"
+"522162","se ele tá no wayland vai ter","2022-10-08 01:50:52","25962582","2022-10-08","01:50:52"
+"522163","ainda nao é possivel remover o xorg","2022-10-08 01:51:04","25962582","2022-10-08","01:51:04"
+"522166","Não tinha xorg","2022-10-08 01:51:32","1943641295","2022-10-08","01:51:32"
+"522167","Por que é um problema recorrente de wayland + nvidia","2022-10-08 01:51:37","883083059","2022-10-08","01:51:37"
+"522168","Tinha uns Wayland e tinha um X11","2022-10-08 01:51:43","1943641295","2022-10-08","01:51:43"
+"522169","ele usa intel pra gerenciar a tela","2022-10-08 01:51:49","25962582","2022-10-08","01:51:49"
+"522170","x11 e o xorg","2022-10-08 01:51:55","248334232","2022-10-08","01:51:55"
+"522171","Ah não sabia","2022-10-08 01:52:05","1943641295","2022-10-08","01:52:05"
+"522172","@jose_rafael esse pessoal pensa que so ligar a tela e esta feito e muitos tem que usar as teclas fn + f1 ate f12 kkkkkkk","2022-10-08 01:52:28","248334232","2022-10-08","01:52:28"
+"522173","Tem isso tbm","2022-10-08 01:52:43","883083059","2022-10-08","01:52:43"
+"522174","no meu pc e fn + f4","2022-10-08 01:52:47","248334232","2022-10-08","01:52:47"
+"522175","Esqueci de perguntar da própria parte de configuração de telas tbm","2022-10-08 01:53:19","883083059","2022-10-08","01:53:19"
+"522176","o pessoal pensa que e ligar e ja esta","2022-10-08 01:53:39","248334232","2022-10-08","01:53:39"
+"522177","Pera como que é esse trem ai de fn até f12?","2022-10-08 01:54:17","1943641295","2022-10-08","01:54:17"
+"522202","Kkkkkkj","2022-10-08 01:59:22","883083059","2022-10-08","01:59:22"
+"522178","ve as teclas referente a tela no f1 ate f12","2022-10-08 01:54:41","248334232","2022-10-08","01:54:41"
+"522179","esquece","2022-10-08 01:54:42","25962582","2022-10-08","01:54:42"
+"522180","qual problema que ta acontecendo ai?","2022-10-08 01:54:53","25962582","2022-10-08","01:54:53"
+"522181","Ah sim","2022-10-08 01:54:56","1943641295","2022-10-08","01:54:56"
+"522182","vi que vc instalou o driver","2022-10-08 01:54:59","25962582","2022-10-08","01:54:59"
+"522183","e funcionou","2022-10-08 01:55:05","25962582","2022-10-08","01:55:05"
+"522184","Em alguns note tem tecla de atalho","2022-10-08 01:55:10","883083059","2022-10-08","01:55:10"
+"522185","O trem é que não está identificando o outro monitor","2022-10-08 01:55:13","1943641295","2022-10-08","01:55:13"
+"522186","No meu caso da pra deixar uma hotkey","2022-10-08 01:55:19","883083059","2022-10-08","01:55:19"
+"522187","Não está achando mesmo o monitor estando ligado e conectado via hdmi","2022-10-08 01:55:33","1943641295","2022-10-08","01:55:33"
+"522188","ja trocou de cabo?","2022-10-08 01:55:36","25962582","2022-10-08","01:55:36"
+"522189","Nem pensei nisso, vou trocar","2022-10-08 01:55:55","1943641295","2022-10-08","01:55:55"
+"522190","Pera","2022-10-08 01:55:57","1943641295","2022-10-08","01:55:57"
+"522191","Pow","2022-10-08 01:56:06","883083059","2022-10-08","01:56:06"
+"522192","Não é o HDIm","2022-10-08 01:56:17","1943641295","2022-10-08","01:56:17"
+"522193","Maneiro se não está encaixado kkkkkkj","2022-10-08 01:56:22","883083059","2022-10-08","01:56:22"
+"522194","Igual já aconteceu","2022-10-08 01:56:28","883083059","2022-10-08","01:56:28"
+"522195","ja trocou a porta na tv?","2022-10-08 01:56:35","25962582","2022-10-08","01:56:35"
+"522196","Sim, fiz tbm","2022-10-08 01:56:48","1943641295","2022-10-08","01:56:48"
+"522197","abre as configs de monitor","2022-10-08 01:56:57","25962582","2022-10-08","01:56:57"
+"522198","👀","2022-10-08 01:58:39","25962582","2022-10-08","01:58:39"
+"522199","morreu","2022-10-08 01:59:06","248334232","2022-10-08","01:59:06"
+"522200","Tava só pegando uma agua","2022-10-08 01:59:13","1943641295","2022-10-08","01:59:13"
+"522201","Foi mal","2022-10-08 01:59:15","1943641295","2022-10-08","01:59:15"
+"522203","ja 3 da matina aqui kkkkkk","2022-10-08 01:59:35","248334232","2022-10-08","01:59:35"
+"522205","Oloko","2022-10-08 01:59:48","883083059","2022-10-08","01:59:48"
+"522206","Onde isso?","2022-10-08 01:59:50","1943641295","2022-10-08","01:59:50"
+"522207","onde moro lol","2022-10-08 02:00:03","248334232","2022-10-08","02:00:03"
+"522208","Aqui é 23h ainda","2022-10-08 02:00:09","883083059","2022-10-08","02:00:09"
+"522209","nao parece que ta conectado","2022-10-08 02:00:17","25962582","2022-10-08","02:00:17"
+"522210","Exato, mas está","2022-10-08 02:00:49","1943641295","2022-10-08","02:00:49"
+"522211","O monitor reconhece que tem algo na porta HDMI","2022-10-08 02:01:00","1943641295","2022-10-08","02:01:00"
+"522212","Mas o sistema não reconhece algo conectado","2022-10-08 02:01:11","1943641295","2022-10-08","02:01:11"
+"522213","agora estou em duvida","2022-10-08 02:01:27","25962582","2022-10-08","02:01:27"
+"522214","sera se o cabo hdmi esta em bom estado","2022-10-08 02:01:33","248334232","2022-10-08","02:01:33"
+"522215","pois seu sistema é grafico XE","2022-10-08 02:01:36","25962582","2022-10-08","02:01:36"
+"522216","por parte da linha 3000 da nvidia ja funciona hdmi","2022-10-08 02:02:01","25962582","2022-10-08","02:02:01"
+"522217","mas nao sei os intel XE","2022-10-08 02:02:07","25962582","2022-10-08","02:02:07"
+"522218","Testei com dois cabos, um deles novo","2022-10-08 02:02:11","1943641295","2022-10-08","02:02:11"
+"522219","vai pra tela de login e coloca x11","2022-10-08 02:02:20","25962582","2022-10-08","02:02:20"
+"522220","como ele tem driver xe devia apagar este pacote: xf86-video-intel","2022-10-08 02:02:45","248334232","2022-10-08","02:02:45"
+"522221","ele ta no wayland","2022-10-08 02:03:04","25962582","2022-10-08","02:03:04"
+"522222","nao vai afetar nada","2022-10-08 02:03:11","25962582","2022-10-08","02:03:11"
+"522223","esse driver para pcs desde da 4 geracao para a frente nao vale nada","2022-10-08 02:03:32","248334232","2022-10-08","02:03:32"
+"522224","por padrão manjaro usa o modeseting pra intel","2022-10-08 02:03:57","25962582","2022-10-08","02:03:57"
+"522225","a bastante tempo","2022-10-08 02:04:12","25962582","2022-10-08","02:04:12"
+"522227","beleza","2022-10-08 02:04:24","25962582","2022-10-08","02:04:24"
+"522228","e aqui?","2022-10-08 02:04:36","25962582","2022-10-08","02:04:36"
+"522229","COntinua do mesmo jeito","2022-10-08 02:05:14","1943641295","2022-10-08","02:05:14"
+"522230","a ultima tentativa é usar kernel mais novo","2022-10-08 02:05:27","25962582","2022-10-08","02:05:27"
+"522231","abre o manjaro settings","2022-10-08 02:05:49","25962582","2022-10-08","02:05:49"
+"522232","instalar o o ultimo kernel estavel disponivel","2022-10-08 02:06:00","25962582","2022-10-08","02:06:00"
+"522233","Ok estou instalando o 6.0.0rc7-1","2022-10-08 02:07:19","1943641295","2022-10-08","02:07:19"
+"522234","Não","2022-10-08 02:07:31","883083059","2022-10-08","02:07:31"
+"522235","eu falei a ultima estavel disponivel","2022-10-08 02:07:36","25962582","2022-10-08","02:07:36"
+"522236","Estável amigo","2022-10-08 02:07:42","883083059","2022-10-08","02:07:42"
+"522237","ESTÁVEEEL","2022-10-08 02:07:46","25962582","2022-10-08","02:07:46"
+"522238","essa aqui?","2022-10-08 02:08:44","766862896","2022-10-08","02:08:44"
+"522239","isso","2022-10-08 02:08:54","25962582","2022-10-08","02:08:54"
+"522240","nao mudou nao","2022-10-08 02:08:57","25962582","2022-10-08","02:08:57"
+"522241","pois é nao muda","2022-10-08 02:09:14","766862896","2022-10-08","02:09:14"
+"522242",".To instalando o .-","2022-10-08 02:09:29","1943641295","2022-10-08","02:09:29"
+"522243","deleta o .face","2022-10-08 02:09:36","25962582","2022-10-08","02:09:36"
+"522244","e tenta por a foto denovo","2022-10-08 02:09:43","25962582","2022-10-08","02:09:43"
+"522245","iashduahsd","2022-10-08 02:09:44","1943641295","2022-10-08","02:09:44"
+"522246",".To instalando o 5.19.13-1","2022-10-08 02:10:06","1943641295","2022-10-08","02:10:06"
+"522247","blz","2022-10-08 02:10:16","766862896","2022-10-08","02:10:16"
+"522248","Deu certo brother","2022-10-08 02:12:16","766862896","2022-10-08","02:12:16"
+"522249","Valeu pela dica","2022-10-08 02:12:25","766862896","2022-10-08","02:12:25"
+"522250","👍","2022-10-08 02:12:28","766862896","2022-10-08","02:12:28"
+"522252","ja deu?","2022-10-08 02:15:17","248334232","2022-10-08","02:15:17"
+"522253","Eu não sei oq fazer aqui no caso","2022-10-08 02:15:52","1943641295","2022-10-08","02:15:52"
+"522372","LoL","2022-10-08 15:23:49","682848142","2022-10-08","15:23:49"
+"522254","Estou iniciando com o Manjaro","2022-10-08 02:16:46","1943641295","2022-10-08","02:16:46"
+"522255","travou aqui?","2022-10-08 02:21:02","25962582","2022-10-08","02:21:02"
+"522257","Sim","2022-10-08 02:21:55","1943641295","2022-10-08","02:21:55"
+"522258","é rapaz","2022-10-08 02:22:01","25962582","2022-10-08","02:22:01"
+"522259","complicado seu hardware","2022-10-08 02:22:09","25962582","2022-10-08","02:22:09"
+"522260","Sim rsrs","2022-10-08 02:22:36","1943641295","2022-10-08","02:22:36"
+"522261","tu é um dos poucos que tem essa combinação de Intel XE e nvidia serie 400","2022-10-08 02:22:48","25962582","2022-10-08","02:22:48"
+"522262","Como saio dessa tela?","2022-10-08 02:23:11","1943641295","2022-10-08","02:23:11"
+"522263","desliga forçado","2022-10-08 02:23:17","25962582","2022-10-08","02:23:17"
+"522264","e volta no grub","2022-10-08 02:23:22","25962582","2022-10-08","02:23:22"
+"522265","no kernel 5.15","2022-10-08 02:23:26","25962582","2022-10-08","02:23:26"
+"522266","Qual tecla faço para ir ao grub?","2022-10-08 02:25:17","1943641295","2022-10-08","02:25:17"
+"522267","ele passou direto?","2022-10-08 02:25:28","25962582","2022-10-08","02:25:28"
+"522268","Sim","2022-10-08 02:25:56","1943641295","2022-10-08","02:25:56"
+"522269","segura shift","2022-10-08 02:26:36","25962582","2022-10-08","02:26:36"
+"522270","quando tiver iniciando","2022-10-08 02:26:41","25962582","2022-10-08","02:26:41"
+"522271","Não foi","2022-10-08 02:27:23","1943641295","2022-10-08","02:27:23"
+"522272","tenta denovo","2022-10-08 02:28:30","25962582","2022-10-08","02:28:30"
+"522273","Não vai","2022-10-08 02:29:37","1943641295","2022-10-08","02:29:37"
+"522274","tu aperta shift assim que liga o notebook?","2022-10-08 02:29:56","25962582","2022-10-08","02:29:56"
+"522275","Consegui","2022-10-08 02:31:33","1943641295","2022-10-08","02:31:33"
+"522276","Agora funcionou","2022-10-08 02:31:38","1943641295","2022-10-08","02:31:38"
+"522277","Caralho","2022-10-08 02:31:40","1943641295","2022-10-08","02:31:40"
+"522278","Não entendi nada","2022-10-08 02:31:43","1943641295","2022-10-08","02:31:43"
+"522279","oq?","2022-10-08 02:32:05","25962582","2022-10-08","02:32:05"
+"522280","Do nada","2022-10-08 02:32:13","1943641295","2022-10-08","02:32:13"
+"522281","O problema","2022-10-08 02:32:15","1943641295","2022-10-08","02:32:15"
+"522282","Resolveu","2022-10-08 02:32:17","1943641295","2022-10-08","02:32:17"
+"522283","Como? Não sei","2022-10-08 02:32:21","1943641295","2022-10-08","02:32:21"
+"522284","?","2022-10-08 02:32:25","25962582","2022-10-08","02:32:25"
+"522285","monitor apareceu?","2022-10-08 02:32:31","25962582","2022-10-08","02:32:31"
+"522286","Sim","2022-10-08 02:32:34","1943641295","2022-10-08","02:32:34"
+"522287","Oxe","2022-10-08 02:32:36","1943641295","2022-10-08","02:32:36"
+"522288","qual kernel?","2022-10-08 02:32:41","25962582","2022-10-08","02:32:41"
+"522289",".","2022-10-08 02:32:46","1943641295","2022-10-08","02:32:46"
+"522290","5.15","2022-10-08 02:32:52","1943641295","2022-10-08","02:32:52"
+"522291","ta baum entao","2022-10-08 02:33:19","25962582","2022-10-08","02:33:19"
+"522292","desisntala o kernel 5.19","2022-10-08 02:33:34","25962582","2022-10-08","02:33:34"
+"522293","ja que nao funcionou","2022-10-08 02:33:38","25962582","2022-10-08","02:33:38"
+"522294","Fazendo isso agora","2022-10-08 02:33:41","1943641295","2022-10-08","02:33:41"
+"522295","Obrigado pela ajuda meus bons","2022-10-08 02:33:50","1943641295","2022-10-08","02:33:50"
+"522297","The Linux Rabbit Hole Iceberg — TechHut
+https://youtu.be/uGS6BdmUU1c 36:40","2022-10-08 04:05:21","155836063","2022-10-08","04:05:21"
+"522299","É bom esse Linux?","2022-10-08 10:45:44","682848142","2022-10-08","10:45:44"
+"522301","Bom dia","2022-10-08 11:26:19","531534178","2022-10-08","11:26:19"
+"522302","Bom dia","2022-10-08 11:28:20","258555872","2022-10-08","11:28:20"
+"522303","Caraca, tá indo bem na mineração ?","2022-10-08 11:28:45","531534178","2022-10-08","11:28:45"
+"522304","Kkkkkkk as vezes sim as vezes não, depende do dia","2022-10-08 11:33:38","258555872","2022-10-08","11:33:38"
+"522305","Ah sim","2022-10-08 11:33:57","531534178","2022-10-08","11:33:57"
+"522306","Kkkkkkk","2022-10-08 11:36:10","258555872","2022-10-08","11:36:10"
+"522309","Vi num site um seguinte parágrafo:
+
+""Arch Linux and its variants have a poor dependency management system. It installs a separate program that includes the necessary dependencies to handle dependencies.""
+
+É verdade?","2022-10-08 11:45:52","769269757","2022-10-08","11:45:52"
+"522310","Olha tem um xará aqui","2022-10-08 11:49:20","531534178","2022-10-08","11:49:20"
+"522311","Kkk","2022-10-08 11:50:41","769269757","2022-10-08","11:50:41"
+"522312","Sabe porque deixei de me meter a DEV? 👆🏼por isso kkkk agora fui aleatório @CrowlKeyn @rennnehzinha e @jose_rafael 'J.R.' 🤣","2022-10-08 11:54:55","5792928941","2022-10-08","11:54:55"
+"522313","Não entendi, pq sempre tem ""treta""?","2022-10-08 12:01:18","769269757","2022-10-08","12:01:18"
+"522314","Kkkkkk","2022-10-08 12:02:31","258555872","2022-10-08","12:02:31"
+"522315","Que treta man? Só sou ruimzão no idioma do Tio Sam","2022-10-08 12:05:10","5792928941","2022-10-08","12:05:10"
+"522316","A kkkkkk","2022-10-08 12:05:28","769269757","2022-10-08","12:05:28"
+"522317","Kkkkkk","2022-10-08 12:05:31","258555872","2022-10-08","12:05:31"
+"522337","O que seria esse ""creto""?","2022-10-08 12:29:25","769269757","2022-10-08","12:29:25"
+"522318","Mas escrevo linhas de código, afinal é uma linguagem (também) universal","2022-10-08 12:05:53","5792928941","2022-10-08","12:05:53"
+"522319","Tá nesse nipe então","2022-10-08 12:07:55","769269757","2022-10-08","12:07:55"
+"522320","""O Arch Linux e suas variantes têm um sistema de gerenciamento de dependências ruim. Ele instala um programa separado que inclui as dependências necessárias para lidar com as dependências."" Google translate","2022-10-08 12:09:35","769269757","2022-10-08","12:09:35"
+"522321","Isso foi de um comparativo que vi https://cloudinfrastructureservices.co.uk/ubuntu-vs-manjaro-whats-the-difference/","2022-10-08 12:10:31","769269757","2022-10-08","12:10:31"
+"522322","Okay","2022-10-08 12:12:23","682848142","2022-10-08","12:12:23"
+"522336","Mas o Creto era pouco falador, mas postava apenas o que ele sabia que funcionava","2022-10-08 12:26:17","5792928941","2022-10-08","12:26:17"
+"522323","Não posso discordar do cara, mas concordar também não.
+- Veja bem, se o Archlinux realmente tivesse um gerenciamento de dependências 'ruim', ele não funcionaria tão bem e, 'zilhões' de vezes melhor que o ubuntu.","2022-10-08 12:17:03","5792928941","2022-10-08","12:17:03"
+"522324","É o famoso: não é perfeito mas funciona","2022-10-08 12:19:16","769269757","2022-10-08","12:19:16"
+"522325","Essa parte de instalar programa separado que inclui dependência parece que tá falando de flatpak","2022-10-08 12:19:56","769269757","2022-10-08","12:19:56"
+"522326","Eu diria assim: lá o famoso (Buntu's family) apelando em comparativos, tipo:
+
+Comparar o que um tal Creto escrevia no Blog dele com o que o Diolinux escreve quem faria uma melhor comparação?","2022-10-08 12:21:09","5792928941","2022-10-08","12:21:09"
+"522335","O que ele postou até hj tem funcionado bem pô","2022-10-08 12:23:31","769269757","2022-10-08","12:23:31"
+"522329","Se foi isso vou ter que concordar com o doidão lá kkkkkkkkkkkk","2022-10-08 12:22:09","5792928941","2022-10-08","12:22:09"
+"522330","Dio mandou que o pamac é um dos melhores gerenciadores de pacotes do Linux","2022-10-08 12:22:10","769269757","2022-10-08","12:22:10"
+"522331","E não posso discordar, mó baun","2022-10-08 12:22:18","769269757","2022-10-08","12:22:18"
+"522332","Pelo menos não tenho problemas","2022-10-08 12:22:30","769269757","2022-10-08","12:22:30"
+"522333","Quem o Dio? Vá acreditando em tudo que o barbudo posta que uma hora estarás pedindo socorro aqui","2022-10-08 12:22:58","5792928941","2022-10-08","12:22:58"
+"522334","Mas ele não menciona flatpak","2022-10-08 12:23:04","769269757","2022-10-08","12:23:04"
+"522338","Era um usuário linux que escrevia em blogs, reparou tudo no passado, tinha outra coisa sobre ele, nunca acreditou em uma letra que o Dio escreve","2022-10-08 12:32:22","5792928941","2022-10-08","12:32:22"
+"522339","Entendo, deixou de aprender muita coisa mais facilmente então, esperto ele.","2022-10-08 12:39:06","769269757","2022-10-08","12:39:06"
+"522340","Deixou de aprender? Boa
+https://blogdocretoinf.blogspot.com/2017/01/openshot-criar-o-titulo-animado.html","2022-10-08 12:41:39","5792928941","2022-10-08","12:41:39"
+"522341","Cara, só acho hipocrisia eu desmerecer o cara que basicamente me fez gostar de Linux e que 95% das coisas que ensinou funcionou pra mim. Mas se tu não gosta dele suave.","2022-10-08 12:44:10","769269757","2022-10-08","12:44:10"
+"522342","Não estou dizendo que não gosto, que desmereço, apenas não leio. Outra, não estou dizendo para não  ler, ver, ouvir, sim ele tem um trabalho importante no mundo livre, trazer pessoas para o universo Linux.","2022-10-08 12:51:58","5792928941","2022-10-08","12:51:58"
+"522350","mas com o manjaro deu errado","2022-10-08 15:03:40","5254556918","2022-10-08","15:03:40"
+"522343","Students Refuse To Give Up Phones In School — DistroTube
+https://youtu.be/oWM2BrJO2ho 9:27","2022-10-08 13:05:23","155836063","2022-10-08","13:05:23"
+"522344","sim","2022-10-08 14:39:51","5254556918","2022-10-08","14:39:51"
+"522346","Regras para pedir ajuda no Grupo Manjaro Linux Brasil
+
+👉 - Não pergunte se alguém pode ajudar, fale qual o seu problema e/ou dificuldade e faça a pergunta direta, sem rodeios.
+
+👉 - Quando pedir suporte, esteja com seu equipamento em mãos e disposição para resolver o teu problema. Mande screenshots ou fotos (de preferencia modo horizontal de qualidade visível) e informações do problema.
+- Abra o terminal e digite o comando inxi -b e mande print das informações
+- Descreva (com o máximo de detalhes possíveis) o teu problema
+-Se estiver seguindo algum tutorial, mande o link;
+
+👉 - Descreva as tentativas que por ventura tenha realizado para tentar resolver esse problema.","2022-10-08 14:44:17","5298578702","2022-10-08","14:44:17"
+"522347","Precisamos de mais informações. Já testou com outro cabo e olhou se está tudo conectado corretamente? Manda um print do comando
+inxi -b
+e da parte de configuração da tela.","2022-10-08 15:02:51","883083059","2022-10-08","15:02:51"
+"522348","man","2022-10-08 15:03:12","5254556918","2022-10-08","15:03:12"
+"522349","com o Wind o funcionava de boa","2022-10-08 15:03:22","5254556918","2022-10-08","15:03:22"
+"522351","Tô perguntando pois já aconteceu de ser algo do tipo e ficamos quebrando a cabeça com outra coisa","2022-10-08 15:04:30","883083059","2022-10-08","15:04:30"
+"522352","Manda os prints que eu pedi pra gente ter mais informações","2022-10-08 15:05:02","883083059","2022-10-08","15:05:02"
+"522353","sim sim","2022-10-08 15:05:14","5254556918","2022-10-08","15:05:14"
+"522354","vou mandar","2022-10-08 15:05:17","5254556918","2022-10-08","15:05:17"
+"522355","obrigado","2022-10-08 15:05:25","5254556918","2022-10-08","15:05:25"
+"522357","vc pode ver que conecta mas fica tudo preto","2022-10-08 15:08:34","5254556918","2022-10-08","15:08:34"
+"522358","Print da configuração de tela tbm 👀","2022-10-08 15:15:12","883083059","2022-10-08","15:15:12"
+"522359","sim é mesmo","2022-10-08 15:15:40","5254556918","2022-10-08","15:15:40"
+"522362","Hm","2022-10-08 15:19:06","883083059","2022-10-08","15:19:06"
+"522363","Isso é bem estranho","2022-10-08 15:19:12","883083059","2022-10-08","15:19:12"
+"522364","Até no print está saindo com o monitor externo","2022-10-08 15:19:39","883083059","2022-10-08","15:19:39"
+"522365","pse","2022-10-08 15:20:12","5254556918","2022-10-08","15:20:12"
+"522366","eu tentei o cd /dev pra ver se era algo da porta","2022-10-08 15:20:25","5254556918","2022-10-08","15:20:25"
+"522367","Tenta trocar o kernel pro mais recente estável (5.19 se não me engano)","2022-10-08 15:20:32","883083059","2022-10-08","15:20:32"
+"522368","Só ir no manjaro-settings na parte de kernel","2022-10-08 15:20:51","883083059","2022-10-08","15:20:51"
+"522370","@jose_rafael já viu isso?","2022-10-08 15:21:39","883083059","2022-10-08","15:21:39"
+"522371","5.19.7","2022-10-08 15:22:18","883083059","2022-10-08","15:22:18"
+"522373","Depois de instalar reinicia","2022-10-08 15:23:57","883083059","2022-10-08","15:23:57"
+"522374","Consegue passar o mouse pra outra tela?","2022-10-08 15:24:04","25962582","2022-10-08","15:24:04"
+"522375","Passar alguma janela","2022-10-08 15:24:08","25962582","2022-10-08","15:24:08"
+"522376","Kkkkm","2022-10-08 15:24:14","682848142","2022-10-08","15:24:14"
+"522377","nao vai ksksksk","2022-10-08 15:24:22","5254556918","2022-10-08","15:24:22"
+"522378",".","2022-10-08 15:24:53","25962582","2022-10-08","15:24:53"
+"522379",".","2022-10-08 15:24:58","5254556918","2022-10-08","15:24:58"
+"522380","No da minha irmã não aparecia nada porém era só wallpaper em preto","2022-10-08 15:25:47","25962582","2022-10-08","15:25:47"
+"522381","e no monitor nao dá sinal","2022-10-08 15:26:46","5254556918","2022-10-08","15:26:46"
+"522382","Se você colocar só monitor externo o que acontece?","2022-10-08 15:26:56","883083059","2022-10-08","15:26:56"
+"522383","nada","2022-10-08 15:27:21","5254556918","2022-10-08","15:27:21"
+"522384","pera","2022-10-08 15:27:31","5254556918","2022-10-08","15:27:31"
+"522385","Qual a placa?","2022-10-08 15:27:40","25962582","2022-10-08","15:27:40"
+"522386","no lugar do que eu estou usando?","2022-10-08 15:27:41","5254556918","2022-10-08","15:27:41"
+"522387","GTX 1650","2022-10-08 15:27:48","883083059","2022-10-08","15:27:48"
+"522388","Eu não identifiquei no print","2022-10-08 15:27:51","25962582","2022-10-08","15:27:51"
+"522389","Com AMD?","2022-10-08 15:28:37","25962582","2022-10-08","15:28:37"
+"522390","Uhum","2022-10-08 15:28:42","883083059","2022-10-08","15:28:42"
+"522391","Tentou com wayland?","2022-10-08 15:29:09","25962582","2022-10-08","15:29:09"
+"522392","Primeiro eu falei pra ele trocar o kernel pro mais recente e reiniciar","2022-10-08 15:29:46","883083059","2022-10-08","15:29:46"
+"522393","Ainda não sei se ele fez isso","2022-10-08 15:29:51","883083059","2022-10-08","15:29:51"
+"522394","fiz nao","2022-10-08 15:31:03","5254556918","2022-10-08","15:31:03"
+"522395","vou agora","2022-10-08 15:31:11","5254556918","2022-10-08","15:31:11"
+"522396","deu erro","2022-10-08 15:33:08","5254556918","2022-10-08","15:33:08"
+"522398","The following packages will be installed:
+linux519
+linux519-headers
+linux519-nvidia
+
+Starting
+resolving dependencies...
+looking for conflicting packages...
+Packages (3) linux519-5.19.7-1  linux519-headers-5.19.7-1  linux519-nvidia-515.65.01-13
+Total Download Size:   251.25 MiB
+Total Installed Size:  363.47 MiB
+:: Proceed with installation? [Y/n]
+:: Retrieving packages...
+linux519-5.19.7-1-x86_64 downloading...
+Errors occurred, no packages were upgraded.
+error: failed retrieving file 'linux519-5.19.7-1-x86_64.pkg.tar.zst' from mirror.csclub.uwaterloo.ca : The requested URL returned error: 404
+error: failed retrieving file 'linux519-5.19.7-1-x86_64.pkg.tar.zst' from ftp.halifax.rwth-aachen.de : The requested URL returned error: 404
+error: failed retrieving file 'linux519-5.19.7-1-x86_64.pkg.tar.zst' from mirrors.nic.cz : The requested URL returned error: 404
+error: failed retrieving file 'linux519-5.19.7-1-x86_64.pkg.tar.zst' from mirror.ibakerserver.pt : The requested URL returned error: 404
+error: failed retrieving file 'linux519-5.19.7-1-x86_64.pkg.tar.zst' from mirror.rise.ph : The requested URL returned error: 404
+error: failed retrieving file 'linux519-5.19.7-1-x86_64.pkg.tar.zst' from mirror.easyname.at : The requested URL returned error: 404
+error: failed retrieving file 'linux519-5.19.7-1-x86_64.pkg.tar.zst' from ftp.gwdg.de : The requested URL returned error: 404
+error: failed retrieving file 'linux519-5.19.7-1-x86_64.pkg.tar.zst' from mirror.cyberhost.uk : The requested URL returned error: 404
+warning: failed to retrieve some files
+error: failed to commit transaction (failed to retrieve some files)
+
+
+Feito ...","2022-10-08 15:33:33","5254556918","2022-10-08","15:33:33"
+"522399","Vai no terminal e digita
+sudo pacman-mirrors --fasttrack 5","2022-10-08 15:34:28","883083059","2022-10-08","15:34:28"
+"522400","E depois tenta novamente o procedimento do kernel","2022-10-08 15:34:49","883083059","2022-10-08","15:34:49"
+"522401","bllz","2022-10-08 15:35:40","5254556918","2022-10-08","15:35:40"
+"522402","The following packages will be installed:
+linux519
+linux519-headers
+linux519-nvidia
+
+Starting
+resolving dependencies...
+looking for conflicting packages...
+Packages (3) linux519-5.19.7-1  linux519-headers-5.19.7-1  linux519-nvidia-515.65.01-13
+Total Download Size:   251.25 MiB
+Total Installed Size:  363.47 MiB
+:: Proceed with installation? [Y/n]
+:: Retrieving packages...
+linux519-5.19.7-1-x86_64 downloading...
+Errors occurred, no packages were upgraded.
+error: failed retrieving file 'linux519-5.19.7-1-x86_64.pkg.tar.zst' from mirror.easyname.at : The requested URL returned error: 404
+error: failed retrieving file 'linux519-5.19.7-1-x86_64.pkg.tar.zst' from mirror.fcix.net : The requested URL returned error: 404
+error: failed retrieving file 'linux519-5.19.7-1-x86_64.pkg.tar.zst' from mirror.2degrees.nz : The requested URL returned error: 404
+error: failed retrieving file 'linux519-5.19.7-1-x86_64.pkg.tar.zst' from mirror.alpix.eu : The requested URL returned error: 404
+error: failed retrieving file 'linux519-5.19.7-1-x86_64.pkg.tar.zst' from manjaro.kyberorg.fi : The requested URL returned error: 404
+warning: failed to retrieve some files
+error: failed to commit transaction (failed to retrieve some files)
+
+
+Feito ...","2022-10-08 15:36:26","5254556918","2022-10-08","15:36:26"
+"522403","erro dnv","2022-10-08 15:36:28","5254556918","2022-10-08","15:36:28"
+"522404","Vi atrasado. Espero que dê tudo certo!","2022-10-08 15:36:59","887840764","2022-10-08","15:36:59"
+"522405","5.19.7?
+Salvo engano já está no 5.19.13
+Daum sudo pacman -Syy","2022-10-08 15:40:27","36899061","2022-10-08","15:40:27"
+"522406","foi","2022-10-08 15:42:48","5254556918","2022-10-08","15:42:48"
+"522407","Boa","2022-10-08 15:42:48","883083059","2022-10-08","15:42:48"
+"522408","e agora?","2022-10-08 15:43:50","5254556918","2022-10-08","15:43:50"
+"522409","tento dnv?","2022-10-08 15:43:53","5254556918","2022-10-08","15:43:53"
+"522410","Sim","2022-10-08 15:44:02","883083059","2022-10-08","15:44:02"
+"522411","Faz quanto tempo q vc não atualiza o manjaro dessa maquina?","2022-10-08 15:44:13","36899061","2022-10-08","15:44:13"
+"522412","rpz","2022-10-08 15:44:22","5254556918","2022-10-08","15:44:22"
+"522413","pouco","2022-10-08 15:44:24","5254556918","2022-10-08","15:44:24"
+"522414","nao lembro mt","2022-10-08 15:44:33","5254556918","2022-10-08","15:44:33"
+"522415","mas não faz mt","2022-10-08 15:44:38","5254556918","2022-10-08","15:44:38"
+"522416","Utilizava Ubuntu antes?","2022-10-08 15:45:12","883083059","2022-10-08","15:45:12"
+"522417","pouco tipo uns 6 meses?","2022-10-08 15:45:28","36899061","2022-10-08","15:45:28"
+"522418","Tá reiniciando","2022-10-08 15:45:45","5254556918","2022-10-08","15:45:45"
+"522419","antes de instalar esse kernel, acho melhor vc atualizar seu manjaro ai....
+sudo pacman -Syu","2022-10-08 15:45:59","36899061","2022-10-08","15:45:59"
+"522420","Agr já foi ksksksk","2022-10-08 15:46:09","5254556918","2022-10-08","15:46:09"
+"522421","Vou att","2022-10-08 15:46:25","5254556918","2022-10-08","15:46:25"
+"522422","Da nada não (pode ser que nenhum dos monitores funcionem kk)","2022-10-08 15:46:47","883083059","2022-10-08","15:46:47"
+"522423","Vai passando feedback caso apareça algum erro","2022-10-08 15:47:33","883083059","2022-10-08","15:47:33"
+"522424","apareceu nada nao","2022-10-08 15:47:39","5254556918","2022-10-08","15:47:39"
+"522425","mas ainda estou no 515","2022-10-08 15:47:46","5254556918","2022-10-08","15:47:46"
+"522426","eu acho","2022-10-08 15:47:49","5254556918","2022-10-08","15:47:49"
+"522459","agora instala de novo 19.7 né","2022-10-08 16:34:19","5254556918","2022-10-08","16:34:19"
+"522428","Não instalou","2022-10-08 15:48:34","883083059","2022-10-08","15:48:34"
+"522430","pse","2022-10-08 15:49:02","5254556918","2022-10-08","15:49:02"
+"522431","S","2022-10-08 15:49:30","883083059","2022-10-08","15:49:30"
+"522432","apertei enter 2x sem querer e agr ta baixando os ngc","2022-10-08 15:50:31","5254556918","2022-10-08","15:50:31"
+"522460","19.13*","2022-10-08 16:34:42","5254556918","2022-10-08","16:34:42"
+"522434","Manda brasa","2022-10-08 15:51:22","883083059","2022-10-08","15:51:22"
+"522435","bllz","2022-10-08 15:57:37","5254556918","2022-10-08","15:57:37"
+"522436","vamos ver","2022-10-08 15:57:39","5254556918","2022-10-08","15:57:39"
+"522437","vlw dms pessoal","2022-10-08 15:57:49","5254556918","2022-10-08","15:57:49"
+"522438","esperando baixar aqui","2022-10-08 15:57:58","5254556918","2022-10-08","15:57:58"
+"522458","foi","2022-10-08 16:33:55","5254556918","2022-10-08","16:33:55"
+"522463","Boa tarde. Qual versao do Manjaro usa BTRFS com compressao ZSTD?
+Tem alguma ferramenta pra comprimir os arquivos ja instalados?
+O comando "" btrfs filesystem defragment -r -v -c zstd "" pode ser usado a partir do livecd sem quebrar o sistema?","2022-10-08 17:31:42","827439518","2022-10-08","17:31:42"
+"522465","qualquer versão nova","2022-10-08 18:34:34","25962582","2022-10-08","18:34:34"
+"522466","recomendo que faça o comando dentro do sistema mesmo","2022-10-08 18:35:07","25962582","2022-10-08","18:35:07"
+"522467","mas nao precisa","2022-10-08 18:35:55","25962582","2022-10-08","18:35:55"
+"522468","o manjaro ja instala com compressão","2022-10-08 18:36:03","25962582","2022-10-08","18:36:03"
+"522471","Grato pela atencao.
+Verifiquei a compressao do diretorio do wine-ge do meu home, e nao ta comprimido.
+eu usei um livecd do puppylinux, com o comando compsize. Esse comando nao existe no manjaro, e nao sei como achar o comando certo.","2022-10-08 19:33:46","827439518","2022-10-08","19:33:46"
+"522472","Li num  tutorial que devo editar o FSTAB antes de iniciar o calamares. 
+Vou tentar isso em outra particao.
+Eu sei que o Big Linux ja vem com btrfs e zstd por padrao, mas achei ele instavel..","2022-10-08 19:35:39","827439518","2022-10-08","19:35:39"
+"522473","Se funcionar, posto o resultado.","2022-10-08 19:36:00","827439518","2022-10-08","19:36:00"
+"522474","é que a compressão só funciona quando o arquivo ja nao for uma compressão","2022-10-08 19:41:25","25962582","2022-10-08","19:41:25"
+"522475","Isso mesmo. O wine-ge do github tem 90M, e ocupa mais de 500M descompactado.","2022-10-08 19:45:34","827439518","2022-10-08","19:45:34"
+"522477","@admin","2022-10-08 20:05:34","248334232","2022-10-08","20:05:34"
+"522478","Relatório enviado⁣⁣⁣⁣⁣","2022-10-08 20:05:35","5298578702","2022-10-08","20:05:35"
+"522480","@GunterNeumann [5232618310] banido.","2022-10-08 20:10:14","5298578702","2022-10-08","20:10:14"
+"522492","hmmmmmm","2022-10-08 23:06:09","258555872","2022-10-08","23:06:09"
+"522485","Consegui. Modifiquei o arquivo /usr/share/calamares/modules/fstab, e mudei o btrfs para compressao zlib por padrao. 
+Agora o Manjaro ocupa 11G na particao. Antes ocupava 18G","2022-10-08 22:59:25","827439518","2022-10-08","22:59:25"
+"522486","Zstd é melhor equilíbrio","2022-10-08 23:00:10","25962582","2022-10-08","23:00:10"
+"522487","Na verdade entre os 3 é o melhor","2022-10-08 23:00:33","25962582","2022-10-08","23:00:33"
+"522488","Não pesa na CPU em troca de compressão","2022-10-08 23:00:47","25962582","2022-10-08","23:00:47"
+"522489","Sim, BTRFS eh melhor, mas pra arquivos que mudam constantemente. 
+Eu uso BTRFS em swap de ZRAM. 
+Mas como os arquivos do sistema nao modificam toda hora, entao usei ZLIB que da um pouquinho mais de compressao.
+BTRFS eh muito melhor em maquinas antigas.","2022-10-08 23:04:08","827439518","2022-10-08","23:04:08"
+"522490","modificam com atualização","2022-10-08 23:05:05","25962582","2022-10-08","23:05:05"
+"522491","Mas vou ter de mudar a particao de downloads","2022-10-08 23:05:13","827439518","2022-10-08","23:05:13"
+"522493","eu reinstalei com o ext4 por aqui","2022-10-08 23:06:19","258555872","2022-10-08","23:06:19"
+"522494","Eu so uso manjaro pra jogos. Queria uma versao lite domanjaro, so compacotes pra programas de wine e emuladores.\","2022-10-08 23:06:43","827439518","2022-10-08","23:06:43"
+"522495","explica esse negocio de que btrfs é melhor pra arquivos que mudam constantemente","2022-10-08 23:07:17","25962582","2022-10-08","23:07:17"
+"522496","no meu caso, estou usando o arch normal, porem, eu ainda quero aprender o jeito que o @jose_rafael faz pra poder ter o dele proprio","2022-10-08 23:07:23","258555872","2022-10-08","23:07:23"
+"522497","o BTRFS tem a taxa de compressao um pouco menor que o zlib, mas com a velocidade um pouco melnro que o LZO.
+Numa maquina lenta, o LZO eh mais veloz, com taxa media de compressao de 2;1, e o ZLIB tem uma taxa media de 3:1 e eh 20 vezes mais lento.
+O BTRFS tem  uma media de 2.7:1, e uma velocidade um pouco maior que o LZO.","2022-10-08 23:11:44","827439518","2022-10-08","23:11:44"
+"522498","como btrfs tem taxa de compressão menor se ele nao é um compressor","2022-10-08 23:12:19","25962582","2022-10-08","23:12:19"
+"522499","desculpa... vou corrigir","2022-10-08 23:12:44","827439518","2022-10-08","23:12:44"
+"522500","o ZSTD tem a taxa de compressao um pouco menor que o ZLIB, mas com a velocidade um pouco melnro que o LZO.
+Numa maquina lenta, o LZO eh mais veloz, com taxa media de compressao de 2;1, e o ZLIB tem uma taxa media de 3:1 e eh 20 vezes mais lento.
+O ZSTD tem  uma compressao media de 2.7:1, e uma velocidade um pouco maior que o LZO.","2022-10-08 23:13:50","827439518","2022-10-08","23:13:50"
+"522501","bastava editar a mensagem","2022-10-08 23:14:29","25962582","2022-10-08","23:14:29"
+"522502","até aonde me lembro o zstd é tão rapido quando o LZO e comprime mais que o zlib","2022-10-08 23:15:03","25962582","2022-10-08","23:15:03"
+"522503","deixei guardado os dados em algum canto por aqui","2022-10-08 23:15:17","25962582","2022-10-08","23:15:17"
+"522504","e apesar do LZO ser o mais rapido, ja vi gente reclamando de muita lentidão usando ele","2022-10-08 23:16:36","25962582","2022-10-08","23:16:36"
+"522505","quando aprendi usar era assim, mas nos processadores novos, e com bibliotecas novas, tudo muda.","2022-10-08 23:17:39","827439518","2022-10-08","23:17:39"
+"522513","e o btrfs tem suporte a zstd que é um FS do kernel linux","2022-10-08 23:21:52","25962582","2022-10-08","23:21:52"
+"522506","uso com precaucao o zstd, por que foi criado pelo Fakebook. Nao sei como eh a licenca dele.
+As corporacoes estao dominando o linux, deixando ele inviavel pra maquinas velhas.","2022-10-08 23:19:07","827439518","2022-10-08","23:19:07"
+"522507","zstd ta sendo o compressor principal no empacotamento dos pacotes do arch linux","2022-10-08 23:19:38","25962582","2022-10-08","23:19:38"
+"522508","manjaro seguiu","2022-10-08 23:19:49","25962582","2022-10-08","23:19:49"
+"522509","fedora usa no btrfs","2022-10-08 23:19:57","25962582","2022-10-08","23:19:57"
+"522510","nao tem pq se preocupar com licença do zstd","2022-10-08 23:20:41","25962582","2022-10-08","23:20:41"
+"522511","se tivesse alguma coisa nem fedora usaria","2022-10-08 23:20:51","25962582","2022-10-08","23:20:51"
+"522512","Estou tentando compilar o Dolphin-Emu 3.0, por que ele roda bem na minha maquina dojogos antiga.
+Tive de usar um emulador de burrindows, com o Wine-GE, pois o dolphin-emu so instala na versao 5.0 e fica horrivel.","2022-10-08 23:21:04","827439518","2022-10-08","23:21:04"
+"522514","Todo mundo usao Sytemd, seu criador foi da red-hat pta microsoft. 
+A comunidade opensource esta sendo dominada pelas corporcoes..","2022-10-08 23:22:32","827439518","2022-10-08","23:22:32"
+"522515","Bons tempos em que linux revivia computador velho.","2022-10-08 23:22:53","827439518","2022-10-08","23:22:53"
+"522516","eu ja to mudando pro alpine, e me preparando pro openbsd.","2022-10-08 23:23:48","827439518","2022-10-08","23:23:48"
+"522517","tirando essa questão do SystemD que nao vejo nenhum problema do uso, nao vejo pq ficar nessa noia  só pq alguma corporação fez algo pro linux","2022-10-08 23:24:01","25962582","2022-10-08","23:24:01"
+"522518","Cara... os bugs do linux explodiram... Tem rootkit saindo toda hora.
+O Python conseguiu quebrar o Arch... 
+O linux perdeu o rumo.
+O Ubuntu partiu pro Snap.
+O kernel do linux agora vai ter Rust.
+O linux ta virando wundows.","2022-10-08 23:26:42","827439518","2022-10-08","23:26:42"
+"522519","sobre a licença do zstd","2022-10-08 23:27:06","25962582","2022-10-08","23:27:06"
+"522520","por isso que ficamos no archlinux e smomos felizes","2022-10-08 23:27:48","258555872","2022-10-08","23:27:48"
+"522521","ou melhor dizendo, vc fica onde quiser, mas se quiser mais simplicidade, use arch","2022-10-08 23:28:05","258555872","2022-10-08","23:28:05"
+"522522","vc tem tudo que precisa no arch","2022-10-08 23:28:31","258555872","2022-10-08","23:28:31"
+"522523","Que história é essa do Python quebrar o Arch?","2022-10-08 23:28:40","887840764","2022-10-08","23:28:40"
+"522524","Pois eh. Foi a unica distro que conseguiu ressucitar minha maquina velha pra rodar jogos.
+To ate aprendendo a empacotar distros pra montar a minha personalizada.","2022-10-08 23:29:09","827439518","2022-10-08","23:29:09"
+"522525","tem mais gente usando linux né, é obvio que apareceria mais virus
+quem usa arch sabe dos riscos de ter pacote novo
+linux perdeu rumo como assim?
+qual pro do ubuntu partir pro snap? isso é coisa da canonical nao do linux
+qual problema do linux usar Rust? ele ta sendo muito bem falado pelos devs
+essa eu ri kkkkk","2022-10-08 23:29:23","25962582","2022-10-08","23:29:23"
+"522526","nem eu sei kkkkk","2022-10-08 23:29:37","25962582","2022-10-08","23:29:37"
+"522527","uso arch faz uns 2 anos e tudo numa boa","2022-10-08 23:29:46","25962582","2022-10-08","23:29:46"
+"522528","Eu programo em C.  C++ eu uma abstracao de Structs e ponteiros.
+Nao precisa criar uma linguagem nova pra resolver bugs. 
+so precisa atualizar e modernizar o C.
+Rust gerencia melhor a mmoria? Eh fazer o GCC gerenciar melhor a memoria.
+Por isso o python quebrou o arch. Programadores de python nao sabem o que eh hardware.","2022-10-08 23:33:30","827439518","2022-10-08","23:33:30"
+"522529","Mas essa discussao nao tem fundamento. Cada um tem sua zona de conforto.","2022-10-08 23:33:55","827439518","2022-10-08","23:33:55"
+"522530","queria saber quando que python quebrou o arch","2022-10-08 23:34:18","25962582","2022-10-08","23:34:18"
+"522531","nao acho que seja por conta do GCC, android é feito em C e nao usa GCC","2022-10-08 23:35:14","25962582","2022-10-08","23:35:14"
+"522532","e tem gerenciamento ruim de memoria","2022-10-08 23:35:39","25962582","2022-10-08","23:35:39"
+"522533","tambem nao acho que seja facil mordernizar uma linguagem bem antiga","2022-10-08 23:36:30","25962582","2022-10-08","23:36:30"
+"522534","Tipo cython, converte codigo python em C, e deixa ele 50 vezes mais rapido.","2022-10-08 23:39:37","827439518","2022-10-08","23:39:37"
+"522535","Achei que android usasse java.","2022-10-08 23:43:16","827439518","2022-10-08","23:43:16"
+"522536","Tamb usa","2022-10-08 23:44:27","25962582","2022-10-08","23:44:27"
+"522537","Mudaram do Java pra outra linhagem por conta de licença do java","2022-10-08 23:45:38","25962582","2022-10-08","23:45:38"
+"522538","Tambem a oracle tinha colocado a google em tribunal por causa do java no android a uns anos","2022-10-08 23:49:41","248334232","2022-10-08","23:49:41"
+"522539","Vc sabe que o GCC tem flags que fazem isso? de não deixar ter dangling pointers, procurar por memory leaks e mais","2022-10-08 23:55:29","150013378","2022-10-08","23:55:29"

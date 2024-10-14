@@ -1,0 +1,325 @@
+"message_id","message","message_utc","from_id","date","time"
+"525627","Kkkkkkkkkkkklkkkkkkkkkk","2022-10-19 00:18:49","25962582","2022-10-19","00:18:49"
+"525628","olá, pq apagou as mensagens?","2022-10-19 00:21:56","25962582","2022-10-19","00:21:56"
+"525629","Deve ter tomado susto com o nick do Barnabé","2022-10-19 00:25:23","883083059","2022-10-19","00:25:23"
+"525634","Só te respondendo sobre estabilidade, isso quem controla não é o sistema em si e sim você que escolhe quando quer atualizar, o que vai atualizar, o que vai instalar e etc.","2022-10-19 00:28:43","883083059","2022-10-19","00:28:43"
+"525635","No geral eu nunca tive problema com atualização do manjaro (eu sou tarado por atualização), mas vira e mexe aparece alguém com problema e mesmo assim é algo que dava pra contornar.","2022-10-19 00:31:32","883083059","2022-10-19","00:31:32"
+"525636","Segue as recomendações: btrfs pra ter snapshots e um kernel extra. Se não quiser usar btrfs usa ext4 mesmo e rsync que tá tudo certo tbm.","2022-10-19 00:33:07","883083059","2022-10-19","00:33:07"
+"525642","Alona [5629142269] banido.","2022-10-19 00:47:44","5298578702","2022-10-19","00:47:44"
+"525643","só não vale tentar compilar kernel não suportado, encher o hdd/ssd no meio do processo, ai quebra o boot e sem espaço livre nem o grub funcionar, muito menos snapshot e botar a culpa na distro.","2022-10-19 00:48:18","36899061","2022-10-19","00:48:18"
+"525644","@CrowlKeyn tu ativou o scrub serviço do systemd btrfs?","2022-10-19 00:48:29","25962582","2022-10-19","00:48:29"
+"525645","Não","2022-10-19 00:50:11","883083059","2022-10-19","00:50:11"
+"525646","Deu bom ai?","2022-10-19 00:50:27","883083059","2022-10-19","00:50:27"
+"525647","eu nao tô mais conseguindo ativar","2022-10-19 00:50:29","25962582","2022-10-19","00:50:29"
+"525650","@CrowlKeyn a gente inventa de formatar as coisas e da errado tudo","2022-10-19 01:26:07","25962582","2022-10-19","01:26:07"
+"525651","kkkkkk","2022-10-19 01:26:08","25962582","2022-10-19","01:26:08"
+"525652","quem é gene?","2022-10-19 01:29:39","702350574","2022-10-19","01:29:39"
+"525653","Aí vc me assusta","2022-10-19 01:30:32","883083059","2022-10-19","01:30:32"
+"525654","Vou começar a fazer alguns testes","2022-10-19 01:30:39","883083059","2022-10-19","01:30:39"
+"525655","kkkkkk","2022-10-19 01:30:49","25962582","2022-10-19","01:30:49"
+"525656","ele nao ta reconehcendo meu vaapi","2022-10-19 01:30:58","25962582","2022-10-19","01:30:58"
+"525657","OBS flatpak","2022-10-19 01:31:02","25962582","2022-10-19","01:31:02"
+"525658","é arch puro, se for vc precisa instalar o codec, pq ele vem sem nenhum codec de nada","2022-10-19 01:31:04","36899061","2022-10-19","01:31:04"
+"525659","sim é arch puro e normalmente nao instalo codec","2022-10-19 01:31:43","25962582","2022-10-19","01:31:43"
+"525660","uso OBS flatpak","2022-10-19 01:31:52","25962582","2022-10-19","01:31:52"
+"525661","mpv reproduz meu s videos de boa","2022-10-19 01:32:04","25962582","2022-10-19","01:32:04"
+"525662","isso me interessa, hein? 👀👀👀","2022-10-19 01:32:38","258555872","2022-10-19","01:32:38"
+"525663","eu coloquei o vlc e o mpv aqui e funcionam de boas","2022-10-19 01:32:59","258555872","2022-10-19","01:32:59"
+"525664","eu nao gosto do vlc","2022-10-19 01:33:11","25962582","2022-10-19","01:33:11"
+"525665","coloquei ele somente por causa de desencargo de consciencia","2022-10-19 01:35:17","258555872","2022-10-19","01:35:17"
+"525669","Eu tenho vlc por causa de legenda kkkkkkj simplesmente não sei mexer no mpv e nem sei se dá pra atrasar e adiantar legenda","2022-10-19 01:36:51","883083059","2022-10-19","01:36:51"
+"525670","nunca se sabe se pode dar ruim no stream do stremio kkkkk","2022-10-19 01:37:08","258555872","2022-10-19","01:37:08"
+"525671","aqui tb","2022-10-19 01:37:16","258555872","2022-10-19","01:37:16"
+"525672","mexer eu nao sei, mas o outro da sim","2022-10-19 01:37:33","25962582","2022-10-19","01:37:33"
+"525673","(preguiça minha)","2022-10-19 01:37:58","883083059","2022-10-19","01:37:58"
+"525674","Isso fica na parte de saída, certo? Eu só achei depois de colocar em avançado (nunca mexi direito obs)","2022-10-19 01:47:21","883083059","2022-10-19","01:47:21"
+"525675","Nvenc tá melhor que o vaapi","2022-10-19 01:47:40","883083059","2022-10-19","01:47:40"
+"525676","Pelo menos é o que indica no status de fps","2022-10-19 01:48:49","883083059","2022-10-19","01:48:49"
+"525677","Ele é melhor porém como falei o driver da nvidia não tá subindo nesse kernel","2022-10-19 01:49:01","25962582","2022-10-19","01:49:01"
+"525678","Ih rapaz","2022-10-19 01:49:27","883083059","2022-10-19","01:49:27"
+"525679","Eu acabei de atualizar o nvidia-utils falando nisso","2022-10-19 01:49:41","883083059","2022-10-19","01:49:41"
+"525680","Você usa o driver mais recente ou um mais antigo?","2022-10-19 01:50:21","883083059","2022-10-19","01:50:21"
+"525681","Meu driver é pelo AUR","2022-10-19 01:50:29","25962582","2022-10-19","01:50:29"
+"525682","470","2022-10-19 01:50:38","25962582","2022-10-19","01:50:38"
+"525683","Cara, um pouco antes de vc perguntar no grupo do arch tinha alguém falando sobre o problema desse driver 470","2022-10-19 01:51:28","883083059","2022-10-19","01:51:28"
+"525684","Chegou a ver?","2022-10-19 01:51:40","883083059","2022-10-19","01:51:40"
+"525685","nao","2022-10-19 01:52:58","25962582","2022-10-19","01:52:58"
+"525686","@elppans que estava vendo isso se não me engano","2022-10-19 01:53:04","883083059","2022-10-19","01:53:04"
+"525687","se puder mandar link da conversa","2022-10-19 01:53:12","25962582","2022-10-19","01:53:12"
+"525688","Olha, já terminei, pra instalar tu faz o seguinte:
+
+cd ~/Downloads
+git clone https://aur.archlinux.org/nvidia-470xx-utils.git
+cd nvidia-470xx-utils
+mv PKGBUILD PKGBUILD.BKP
+curl -O https://raw.githubusercontent.com/elppans/arch_nvidia-470xx-utils/main/PKGBUILD
+makepkg -siLc --needed --noconfirm
+sudo nvidia-xconfig
+
+Se quiser mais detalhes, basta acessar este link, eu peguei umas partes do meu tutorial original e adaptei aqui:
+
+https://github.com/elppans/arch_nvidia-470xx-utils","2022-10-19 01:53:45","883083059","2022-10-19","01:53:45"
+"525689","Boa noite,","2022-10-19 01:53:51","465789308","2022-10-19","01:53:51"
+"525690","Boa noite, senhor! Você foi convocado para essa reunião.","2022-10-19 01:54:33","883083059","2022-10-19","01:54:33"
+"525691","e o cara ta aqui","2022-10-19 01:54:48","25962582","2022-10-19","01:54:48"
+"525692","kk","2022-10-19 01:54:50","25962582","2022-10-19","01:54:50"
+"525693","Tava falando com o José que teve um pessoal com problema na nvidia","2022-10-19 01:55:13","883083059","2022-10-19","01:55:13"
+"525694","isso aqui tem foco no desktop","2022-10-19 01:56:01","25962582","2022-10-19","01:56:01"
+"525695","?","2022-10-19 01:56:02","25962582","2022-10-19","01:56:02"
+"525696","A questão é, quem não tem problema com a nvidia?","2022-10-19 01:56:11","883083059","2022-10-19","01:56:11"
+"525697","O path foi adicionado no AUR pelo mantenedor, então funciona a partir do KKernel ""6.0.2-arch1-1"", pra quem usa o NVidia 470
+NVidia com driver na versão menor ou o oficial não suporta ainda","2022-10-19 01:56:14","465789308","2022-10-19","01:56:14"
+"525698","cara","2022-10-19 01:56:24","25962582","2022-10-19","01:56:24"
+"525699","meu driver nao ta subindo nesse kernel","2022-10-19 01:56:33","25962582","2022-10-19","01:56:33"
+"525702","Você usa o zen kernel, neh?","2022-10-19 01:57:40","883083059","2022-10-19","01:57:40"
+"525703","é","2022-10-19 01:58:09","25962582","2022-10-19","01:58:09"
+"525704","Tem que remover por completo o driver e ficar no nouveau. E instalar o driver novamente","2022-10-19 01:58:15","465789308","2022-10-19","01:58:15"
+"525705","uai","2022-10-19 01:58:22","25962582","2022-10-19","01:58:22"
+"525706","mas eu ja tava no nouveau","2022-10-19 01:58:26","25962582","2022-10-19","01:58:26"
+"525707","fui instalar o driver depois de instlar minhas coisas no arch","2022-10-19 01:58:48","25962582","2022-10-19","01:58:48"
+"525708","vou remover tudo e reinstalar denovo","2022-10-19 01:58:57","25962582","2022-10-19","01:58:57"
+"525709","Então instala usando o makepkg pra ver se dá algum erro","2022-10-19 01:59:13","465789308","2022-10-19","01:59:13"
+"525710","removo tudo ou só o utils?","2022-10-19 01:59:31","25962582","2022-10-19","01:59:31"
+"525711","Toda a Nvidia, pois a compilação cria os pacotes necessários","2022-10-19 01:59:48","465789308","2022-10-19","01:59:48"
+"525712","Eu tinha postado lá no grupo do Arch, mas aqui é a mesma cosia:
+
+NVidia no Kernel 6 (Remover):
+
+Ao fazer um boot, aperte a letra E para entrar no modo edição do GRUB e deixe as entradas de vídeo desta forma, e aproveita e tira o ""quiet"" pra saber o que tá acontecendo, depois aperte F10: 
+
+i915.modeset=1 nouveau.modeset=1 nvidia-drm.modeset=0
+
+O GDM não vai iniciar, então vá pro tty e faça (Como tenho o steam, tive que remover também):
+
+yay -Rns nvidia-470xx-dkms nvidia-470xx-utils lib32-nvidia-470xx-utils steam
+
+Edite o arquivo /etc/default/grub.cfg e remova as entradas de vídeo que indiquei mais acima
+Edite o arquivo /etc/mkinitcpio.conf e comente a linha dos módulos da NVidia, deixe assim:
+
+#MODULES=(nvidia nvidia_modeset nvidia_uvm nvidia_drm)
+MODULES=()
+
+Renomeie o arquivo xorg.conf para xorg.conf.bkp:
+
+sudo mv /etc/X11/xorg.conf /etc/X11/xorg.conf.bkp
+
+Agora faça os comandos:
+
+sudo mkinitcpio -P
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+
+Com isso seu GDM funciona novamente com o driver nouveau","2022-10-19 02:02:12","465789308","2022-10-19","02:02:12"
+"525713","@jose_rafael Outro post que fiz:
+
+NVidia no Kernel 6 (Instalar):
+
+PS.: Isso foi ANTES do path ser adicionado pelo mantenedor
+PS.2: Este esquema funcionou a partir da versão ""6.0.1-arch1-1""
+
+cd ~/Downloads
+git clone https://aur.archlinux.org/nvidia-470xx-utils.git
+cd nvidia-470xx-utils
+mv PKGBUILD PKGBUILD.BKP
+curl -O https://raw.githubusercontent.com/elppans/arch_nvidia-470xx-utils/main/PKGBUILD
+makepkg -siLc --needed --noconfirm
+sudo nvidia-xconfig
+
+Se quiser mais detalhes, basta acessar este link, eu peguei umas partes do meu tutorial original e adaptei aqui:
+
+https://github.com/elppans/arch_nvidia-470xx-utils","2022-10-19 02:05:03","465789308","2022-10-19","02:05:03"
+"525714","galera uma pergunta noob... 
+pq é tão lenta as telas de apps da cominidade? isso quando as vezes nao dá erro
+as vezes eu uso ""sudo pacman-mirrors -f5"" pra classificar os mirros mas eu vejo que ali nao funfa, nao adianta , sei lá muito extranho isso","2022-10-19 02:05:39","766862896","2022-10-19","02:05:39"
+"525715","Esse recurso pega informação do servidor do KDE","2022-10-19 02:07:13","883083059","2022-10-19","02:07:13"
+"525716","Fazer pacman-mirrors não vai mudar nada","2022-10-19 02:07:57","883083059","2022-10-19","02:07:57"
+"525717","entendi","2022-10-19 02:08:19","766862896","2022-10-19","02:08:19"
+"525718","nao tem como melhorar?","2022-10-19 02:08:33","766862896","2022-10-19","02:08:33"
+"525719","@jose_rafael Se quiser usar a compilação do AUR já com o path, é só fazer:
+Ps.: Este driver com o path já adicionado funciona a partir do Kernel ""6.0.1-arch2-1""
+
+cd ~/Downloads
+git clone https://aur.archlinux.org/nvidia-470xx-utils.git
+cd nvidia-470xx-utils
+mv PKGBUILD PKGBUILD.BKP
+makepkg -siLc --needed --noconfirm
+sudo nvidia-xconfig","2022-10-19 02:10:44","465789308","2022-10-19","02:10:44"
+"525720","Acabei de fazer essa parte do grub","2022-10-19 02:11:11","25962582","2022-10-19","02:11:11"
+"525721","to fazendo essa install do patch","2022-10-19 02:14:49","25962582","2022-10-19","02:14:49"
+"525722","@jose_rafael vai te responder melhor, esse recurso sempre foi péssimo (pelo menos comigo) e acabo fazendo manual porque já acostumei com gnome (que não tem esses recursos).","2022-10-19 02:15:04","883083059","2022-10-19","02:15:04"
+"525723","Ao instalar novamente, é bom adicionar as configurações de novo no GRUB e no arquivo "" /etc/mkinitcpio.conf "", pro sistema adicionar os módulos automaticamente na próxima atualização","2022-10-19 02:15:19","465789308","2022-10-19","02:15:19"
+"525724","Depois manda as mensagens da compilação aqui pra eu ver se foi bem sucedido","2022-10-19 02:16:09","465789308","2022-10-19","02:16:09"
+"525725","tá no dkms","2022-10-19 02:16:18","25962582","2022-10-19","02:16:18"
+"525726","Nesta versão 6 do Kernel, o dkms demora um bocado, é normal.
+Percibi isso pq no 5 é mó rapidão","2022-10-19 02:17:04","465789308","2022-10-19","02:17:04"
+"525727","pra mim ta a mesma coisa","2022-10-19 02:17:27","25962582","2022-10-19","02:17:27"
+"525728","Melhor ainda","2022-10-19 02:17:40","465789308","2022-10-19","02:17:40"
+"525729","5 ja demorava pra mim","2022-10-19 02:17:51","25962582","2022-10-19","02:17:51"
+"525730","kkkkkkk","2022-10-19 02:17:53","25962582","2022-10-19","02:17:53"
+"525731","6 acho que ficou pior","2022-10-19 02:17:58","25962582","2022-10-19","02:17:58"
+"525732","hauahu.. Pra mim era só piscar","2022-10-19 02:18:13","465789308","2022-10-19","02:18:13"
+"525734","vou instalar o resto dos componentes","2022-10-19 02:18:43","25962582","2022-10-19","02:18:43"
+"525735","O meu Kernel é o normal, não sei se faz diferença no zen, mas já que não deu mensagem de erro, entao blz","2022-10-19 02:20:13","465789308","2022-10-19","02:20:13"
+"525736","nao tinha dado erro na primeira tambem","2022-10-19 02:20:31","25962582","2022-10-19","02:20:31"
+"525738","parece que to com atualização atrazada","2022-10-19 02:21:38","25962582","2022-10-19","02:21:38"
+"525739","No arquivo  /etc/mkinitcpio.conf tem que adicionar os módulos. Exemplo:
+
+MODULES=(nvidia nvidia_modeset nvidia_uvm nvidia_drm)
+
+No GRUB, deve adicionar aqueles parâmetros:
+
+i915.modeset=1 nouveau.modeset=1 nvidia-drm.modeset=0","2022-10-19 02:21:44","465789308","2022-10-19","02:21:44"
+"525740","meu é notebook","2022-10-19 02:22:13","25962582","2022-10-19","02:22:13"
+"525741","nao desktop","2022-10-19 02:22:17","25962582","2022-10-19","02:22:17"
+"525742","Ah tendeu, não sei se este esquema funciona em note, mas vale tentar","2022-10-19 02:23:04","465789308","2022-10-19","02:23:04"
+"525743","meu drm instalo aqui","2022-10-19 02:23:12","25962582","2022-10-19","02:23:12"
+"525744","criar /etc/modprobe.d/nvidia-drm.conf
+colocar isso nele ""options nvidia_drm modeset=1""","2022-10-19 02:23:12","25962582","2022-10-19","02:23:12"
+"525745","opa blz, aguardo por ele @jose_rafael então 👍","2022-10-19 02:24:31","766862896","2022-10-19","02:24:31"
+"525746","Blz, 
+Não sei qual ajuda a iniciar primeiro, o mkinitcpio ou este","2022-10-19 02:25:24","465789308","2022-10-19","02:25:24"
+"525811","ja tem","2022-10-19 02:57:02","25962582","2022-10-19","02:57:02"
+"525747","Depois que iniciar o sistema, faz o comando:
+
+lsmod | grep nv
+
+Pra ver se os módulos nvidia iniciaram junto com o Kernel","2022-10-19 02:26:20","465789308","2022-10-19","02:26:20"
+"525749","Como não tenho Note, não sei como faz pra ver qual placa de vídeo tá usando no momento, mas aí tu deve saber né","2022-10-19 02:27:05","465789308","2022-10-19","02:27:05"
+"525750","nao rolou nao","2022-10-19 02:27:28","25962582","2022-10-19","02:27:28"
+"525751","Pelo lsmod, diz que tá iniciado","2022-10-19 02:27:57","465789308","2022-10-19","02:27:57"
+"525752","mas o nvidia-smi nao da nada","2022-10-19 02:28:09","25962582","2022-10-19","02:28:09"
+"525753","Eu vi, 
+Em um note tem alguma forma de ver qual placa de vídeo tá usando?
+Pois é hibrido né?
+2 placas","2022-10-19 02:29:07","465789308","2022-10-19","02:29:07"
+"525754","qual to usando no momento?","2022-10-19 02:29:25","25962582","2022-10-19","02:29:25"
+"525755","Pera ae, tem um comando aqui, nvtop, instala ele","2022-10-19 02:29:39","465789308","2022-10-19","02:29:39"
+"525756","Isso","2022-10-19 02:29:44","465789308","2022-10-19","02:29:44"
+"525757","usando intel","2022-10-19 02:29:49","25962582","2022-10-19","02:29:49"
+"525758","pois uso wayland","2022-10-19 02:29:53","25962582","2022-10-19","02:29:53"
+"525759","Aaaah, o comando da nvidia só vai dar resposta quando estiver usando o nvidia em vez do Intel. Dá pra trocar aí?","2022-10-19 02:30:31","465789308","2022-10-19","02:30:31"
+"525760","nao entendi","2022-10-19 02:30:52","25962582","2022-10-19","02:30:52"
+"525761","que resposta?","2022-10-19 02:30:55","25962582","2022-10-19","02:30:55"
+"525762","nao da pra usar nvidia como primaria sem ser por ""gambiarra""","2022-10-19 02:31:36","25962582","2022-10-19","02:31:36"
+"525763","Essa aqui, pra ele mostrar, tem que estar usando o nvidia em vez do Intel","2022-10-19 02:31:56","465789308","2022-10-19","02:31:56"
+"525764","Pera ae que vou ver","2022-10-19 02:32:09","465789308","2022-10-19","02:32:09"
+"525765","ah nao isso ai funciona mesmo usando intel nas hibridas","2022-10-19 02:32:21","25962582","2022-10-19","02:32:21"
+"525766","Nvidia-smi mostra de boa quando se usa Intel ou AMD","2022-10-19 02:33:39","25962582","2022-10-19","02:33:39"
+"525767","Aqui diz pra usar o optimus
+https://gist.github.com/jprando/f81d8b7ffdf64b5f0c81e2d3ed186657","2022-10-19 02:35:39","465789308","2022-10-19","02:35:39"
+"525768","nao mah, nvidia-smi nao precisa usar a nvidia como primaria pra usar o comando","2022-10-19 02:36:28","25962582","2022-10-19","02:36:28"
+"525769","Tu fez o comando ""sudo nvidia-xconfig""?","2022-10-19 02:36:47","465789308","2022-10-19","02:36:47"
+"525770","nao isso é coisa do xorg, nao uso xorg","2022-10-19 02:37:00","25962582","2022-10-19","02:37:00"
+"525771","to instalando o kernel normal do arch e o LTS pra testar","2022-10-19 02:37:25","25962582","2022-10-19","02:37:25"
+"525772","e o xconfig é pra quem usa desktop","2022-10-19 02:38:22","25962582","2022-10-19","02:38:22"
+"525773","Neste caso, enquanto não sai o driver com o suporte oficial, acho melhor tu usar o lts mesmo","2022-10-19 02:38:35","465789308","2022-10-19","02:38:35"
+"525774","ja mudou uma coisa aqui lá","2022-10-19 02:39:07","25962582","2022-10-19","02:39:07"
+"525775","Ah tendi. Como não tenho note, fico limitado a ajudar.","2022-10-19 02:39:13","465789308","2022-10-19","02:39:13"
+"525776","a instalação do linux normal ta instlando o dkms da nvidia","2022-10-19 02:39:23","25962582","2022-10-19","02:39:23"
+"525777","O que? Pra melhor?","2022-10-19 02:39:29","465789308","2022-10-19","02:39:29"
+"525778","do linux-zen quando fazia mkinitcpio nao instalava","2022-10-19 02:39:44","25962582","2022-10-19","02:39:44"
+"525779","Ah, então bora testar o normal, se funcionar, então quer dizer que o path nao funciona no zen","2022-10-19 02:40:04","465789308","2022-10-19","02:40:04"
+"525780","instalei o 5.15 tambem","2022-10-19 02:40:42","25962582","2022-10-19","02:40:42"
+"525781","LTS né?","2022-10-19 02:40:56","465789308","2022-10-19","02:40:56"
+"525782","sim","2022-10-19 02:40:58","25962582","2022-10-19","02:40:58"
+"525783","To cruzando os dedos aqui","2022-10-19 02:41:30","465789308","2022-10-19","02:41:30"
+"525784","kkkkkkkkk","2022-10-19 02:43:18","25962582","2022-10-19","02:43:18"
+"525785","acabou de instalar, cou reiniciar","2022-10-19 02:43:28","25962582","2022-10-19","02:43:28"
+"525786","blz","2022-10-19 02:43:33","465789308","2022-10-19","02:43:33"
+"525787","Eu não sei pq","2022-10-19 02:44:44","25962582","2022-10-19","02:44:44"
+"525788","Minha instalação anda demorada aqui as vezes","2022-10-19 02:44:54","25962582","2022-10-19","02:44:54"
+"525789","Pra desligar é meia hora","2022-10-19 02:45:08","25962582","2022-10-19","02:45:08"
+"525804","O path é só um suporte parcial, então já vimos que em um Hibrido não vai","2022-10-19 02:51:25","465789308","2022-10-19","02:51:25"
+"525791","nao rolou","2022-10-19 02:46:23","25962582","2022-10-19","02:46:23"
+"525792","Vai ver é a quantia de serviços.
+Quando minha instalação é nova é rapidão, depois de tanto fuçar fica assim também","2022-10-19 02:46:46","465789308","2022-10-19","02:46:46"
+"525793","Ver o 5.15","2022-10-19 02:46:47","25962582","2022-10-19","02:46:47"
+"525794","Blz","2022-10-19 02:46:56","465789308","2022-10-19","02:46:56"
+"525795","Não acho","2022-10-19 02:47:11","25962582","2022-10-19","02:47:11"
+"525796","Minha install já tem receita pro meu notebook","2022-10-19 02:47:28","25962582","2022-10-19","02:47:28"
+"525798","é só no kernel 6","2022-10-19 02:48:31","25962582","2022-10-19","02:48:31"
+"525799","Ih rapaz, então no seu caso, por enquanto só em um LTS mesmo, vai ter que esperar a NVidia adicionar o suporte oficial","2022-10-19 02:48:49","465789308","2022-10-19","02:48:49"
+"525800","Eu já tava começando a achar que minha nvidia tinha queimado","2022-10-19 02:49:48","25962582","2022-10-19","02:49:48"
+"525801","hauahu.... Kernel 6 ainda é muito novo, a gente que é apressado e faz gambiarra pra funcionar... hauhau 😂","2022-10-19 02:50:52","465789308","2022-10-19","02:50:52"
+"525802","Culpa do arch","2022-10-19 02:51:10","25962582","2022-10-19","02:51:10"
+"525803","Inventou de colocar esse kernel","2022-10-19 02:51:21","25962582","2022-10-19","02:51:21"
+"525805","Ele tinha parado de fazer isso","2022-10-19 02:51:26","25962582","2022-10-19","02:51:26"
+"525806","Foi a 1ª coisa que reclamei lá no grupo do Arch... hauhau
+Sem se importar se levar bronca pq o povo é orgulhoso 😂","2022-10-19 02:52:17","465789308","2022-10-19","02:52:17"
+"525807","Já tinha dado merda no passado por conta do arch por kernel .0 no sistema","2022-10-19 02:52:44","25962582","2022-10-19","02:52:44"
+"525808","Pois é, tinham que esperar os drivers e programas migrarem primeiro pra depois adicionar.
+Aí já vão e metem sem nem testar se funciona","2022-10-19 02:53:51","465789308","2022-10-19","02:53:51"
+"525809","@jose_rafael Resumindo:
+
+Meu path (emprestado xD) funciona a partir da versão ""6.0.1-arch1-1""
+O path já adicionado no AUR funciona a partir do Kernel ""6.0.1-arch2-1""
+Em um note, recomendável usar linux-lts","2022-10-19 02:54:50","465789308","2022-10-19","02:54:50"
+"525810","@jose_rafael Só uma dúvida:
+
+No Manjaro, ainda não tem a versão 6?
+Ou estão fazendo o certo e esperando o suporte melhorar pra depois adicionar?","2022-10-19 02:56:51","465789308","2022-10-19","02:56:51"
+"525812","Aí sim, mas povo do Manjaro também foi apressado... hauahu","2022-10-19 03:00:05","465789308","2022-10-19","03:00:05"
+"525813","manjaro ja fazia isso","2022-10-19 03:00:29","25962582","2022-10-19","03:00:29"
+"525814","só que instala quem quer","2022-10-19 03:00:45","25962582","2022-10-19","03:00:45"
+"525815","Ah pode cre, naquele Aplicativo que dá pra escolher qual Kernel usar, certo?
+Quando eu terminar de aprender os esquemas do Arch, vou instalar o Manjaro de novo. 
+Além de ser mais fácil, me ajuda pq não tenho tempo de ficar instalando na mão as coisas.","2022-10-19 03:03:22","465789308","2022-10-19","03:03:22"
+"525816","E já tenho Script de instalação dos aplicativos que uso do trampo, que fiz pra usar no Manjaro","2022-10-19 03:04:06","465789308","2022-10-19","03:04:06"
+"525817","Um monte de VPN, coisa de banco, etc","2022-10-19 03:04:29","465789308","2022-10-19","03:04:29"
+"525818","Sim o padrão do manjaro é kernel LTS","2022-10-19 03:07:13","25962582","2022-10-19","03:07:13"
+"525819","Muito bom, assim é mais estável","2022-10-19 03:09:05","465789308","2022-10-19","03:09:05"
+"525820","👀👀👀","2022-10-19 03:13:19","258555872","2022-10-19","03:13:19"
+"525821","?","2022-10-19 03:21:46","25962582","2022-10-19","03:21:46"
+"525822","interessante essa do manjaro ter o kernel LTS","2022-10-19 03:30:47","258555872","2022-10-19","03:30:47"
+"525826","Agora eu tenho um problema kkkkkkj","2022-10-19 04:31:05","883083059","2022-10-19","04:31:05"
+"525827","kkk","2022-10-19 04:31:14","25962582","2022-10-19","04:31:14"
+"525828","Tô sentindo o vídeo engasgar no Youtube","2022-10-19 04:31:15","883083059","2022-10-19","04:31:15"
+"525829","aceleração de video","2022-10-19 04:31:26","25962582","2022-10-19","04:31:26"
+"525830","Nas estatísticas não tem drop de frame","2022-10-19 04:31:52","883083059","2022-10-19","04:31:52"
+"525831","Já ativei e desativei","2022-10-19 04:32:08","883083059","2022-10-19","04:32:08"
+"525832","qual navegador?","2022-10-19 04:32:22","25962582","2022-10-19","04:32:22"
+"525833","Firefox","2022-10-19 04:32:27","883083059","2022-10-19","04:32:27"
+"525834","Testei no chromium tbm","2022-10-19 04:32:34","883083059","2022-10-19","04:32:34"
+"525835","cromium travando tb?","2022-10-19 04:33:34","25962582","2022-10-19","04:33:34"
+"525836","Uhum","2022-10-19 04:34:30","883083059","2022-10-19","04:34:30"
+"525837","ativou aceleração no sistema?","2022-10-19 04:35:21","25962582","2022-10-19","04:35:21"
+"525838","vainfo","2022-10-19 04:35:22","25962582","2022-10-19","04:35:22"
+"525839","a proposito, chromium tem um navegador a parte com suporte a vaapi","2022-10-19 04:35:54","25962582","2022-10-19","04:35:54"
+"525840","Como assim no sistema?","2022-10-19 05:14:03","883083059","2022-10-19","05:14:03"
+"525842","opa","2022-10-19 05:16:53","883083059","2022-10-19","05:16:53"
+"525843","instalei algo sem querer","2022-10-19 05:16:57","883083059","2022-10-19","05:16:57"
+"525868","chessus kkkk","2022-10-19 20:16:10","1017285712","2022-10-19","20:16:10"
+"525844","Fala pessoal, beleza? Um colega meu está com problema em abrir o dota 2 no Linux, a janela aparece, o jogo fica travado, mas depois de alguns segundo fecha. Ele tem 16 Gb de ram, um Ryzen 5 5600x e uma 1070, então problema de hardware não é, pensei que poderia ser problema no vulkan, mas deixo a pergunta pra caso mais alguém tenha tido esse problema e puder me ajudar. O que poderia ser? Desde já grato por qualquer resposta l.","2022-10-19 07:10:39","769269757","2022-10-19","07:10:39"
+"525845","No caso ele usa Manjaro tb, versão kde","2022-10-19 07:11:05","769269757","2022-10-19","07:11:05"
+"525850","https://t.me/linuxgamesbr","2022-10-19 09:05:55","36899061","2022-10-19","09:05:55"
+"525851","Vlw","2022-10-19 09:06:23","769269757","2022-10-19","09:06:23"
+"525854","Redcore Linux Proves Gentoo Doesn't Have To Be Difficult — DistroTube
+https://youtu.be/NNgJFGyI1uU 19:18","2022-10-19 13:05:44","155836063","2022-10-19","13:05:44"
+"525855","Galera, alguém aí usa bedrock Linux?","2022-10-19 13:16:52","1943641295","2022-10-19","13:16:52"
+"525856","Não adianta ativar no navegador se não instalou os pacotes pra isso","2022-10-19 15:05:33","25962582","2022-10-19","15:05:33"
+"525857","Eu instalei pow, segui a wiki","2022-10-19 16:04:31","883083059","2022-10-19","16:04:31"
+"525858","The BEST Way to Use RaspberryPi - RetroPie Guide — TechHut
+https://youtu.be/N3A77Oxbm3g 19:51","2022-10-19 17:55:12","155836063","2022-10-19","17:55:12"
+"525869","pior que to rodando os jogos bem pakas👌","2022-10-19 20:16:35","1017285712","2022-10-19","20:16:35"
+"525861","Guys tá de boas essa versão da nvidia?
+vi que já tem a versão 520","2022-10-19 20:00:02","1017285712","2022-10-19","20:00:02"
+"525862","Uai tu tá usando nouveau pq?","2022-10-19 20:03:01","25962582","2022-10-19","20:03:01"
+"525863","sei lá kkk
+agora não me lembro se formatei esse HD, era um notebook e peguei um PC. tem uns 6 meses já kkkkk","2022-10-19 20:09:39","1017285712","2022-10-19","20:09:39"
+"525864","noveau = opensource?
+me recomendaram esse na hora de instalar","2022-10-19 20:13:19","1017285712","2022-10-19","20:13:19"
+"525865","Sim","2022-10-19 20:14:09","25962582","2022-10-19","20:14:09"
+"525866","Estranho pq o nouveau é só pra da vídeo","2022-10-19 20:14:19","25962582","2022-10-19","20:14:19"
+"525867","Não era pra ter recomendado","2022-10-19 20:14:43","25962582","2022-10-19","20:14:43"
+"525871","qual forma de atualizar pro nvidia?
+auto install proprietary driver?","2022-10-19 20:17:27","1017285712","2022-10-19","20:17:27"
+"525872","No gerenciador de driver","2022-10-19 20:18:11","25962582","2022-10-19","20:18:11"
+"525873","tem uma regra basica que é ""se não está quebrado, não tente consertar"" hehehehehehe","2022-10-19 20:18:56","36899061","2022-10-19","20:18:56"
+"525874","psé kkk
+meu CS tá rodando né kkkk","2022-10-19 20:20:41","1017285712","2022-10-19","20:20:41"
+"525875","Doidera","2022-10-19 20:22:12","25962582","2022-10-19","20:22:12"
+"525876","Será os frutos do driver opensource da nvidia?","2022-10-19 20:22:32","25962582","2022-10-19","20:22:32"
+"525877","mas a real é que tive muitos problemas pra fazer funfar no início","2022-10-19 20:23:06","1017285712","2022-10-19","20:23:06"
+"525878","já que tá rodando vou deixar rolar, até perceber algum problema maior.
+obg pelo help guys","2022-10-19 20:26:42","1017285712","2022-10-19","20:26:42"
+"525879","Cara com uma placa bem melhor que a minha e não utiliza 10% do poder dela","2022-10-19 20:57:00","25962582","2022-10-19","20:57:00"
+"525880","Um grande abraço pra quem atua na área também!","2022-10-19 21:09:06","1521836755","2022-10-19","21:09:06"

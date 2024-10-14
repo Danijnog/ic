@@ -1,0 +1,59 @@
+"message_id","message","message_utc","from_id","date","time"
+"521799","Bom dia!! por acaso vcs estão tendo este problema ??","2022-10-05 12:23:24","431402257","2022-10-05","12:23:24"
+"521800","Erro: firefox: a assinatura de ""Mark Wagie <mark@manjaro.org>"" tem confiança desconhecida","2022-10-05 12:23:29","431402257","2022-10-05","12:23:29"
+"521801","hoje ao tentar atualizar apresentou isso","2022-10-05 12:23:38","431402257","2022-10-05","12:23:38"
+"521804","tenta os seguintes comandos:
+sudo  mv  /etc/pacman.d/gnupg/  /etc/pacman.d/gnupg-bkp
+sudo  pacman-key  --init
+sudo  pacman-key  --populate  archlinux  manjaro","2022-10-05 13:03:17","36899061","2022-10-05","13:03:17"
+"521805","ok","2022-10-05 13:08:01","431402257","2022-10-05","13:08:01"
+"521806","ps, se o ultimo comando demorar de 5 a 10 minutos ""travado"", esquenta não é assim mesmo.","2022-10-05 13:12:39","36899061","2022-10-05","13:12:39"
+"521807","ok","2022-10-05 13:12:49","431402257","2022-10-05","13:12:49"
+"521809","mpv! 🤎","2022-10-05 16:10:39","887840764","2022-10-05","16:10:39"
+"521810","boa tarde","2022-10-05 16:29:22","766862896","2022-10-05","16:29:22"
+"521812","Is this the PERFECT SteamOS CONSOLE? - MinisForum DeskMini UM580 review — The Linux Experiment
+https://youtu.be/mVuLkPf-9f4 13:35","2022-10-05 16:35:08","155836063","2022-10-05","16:35:08"
+"521813","precisando de uma ajuda com o samba","2022-10-05 16:36:54","766862896","2022-10-05","16:36:54"
+"521836","Fale o que você fez","2022-10-05 23:54:10","883083059","2022-10-05","23:54:10"
+"521815","ja manjaro-settings-samba ta instalado e adicionei o parametros no global do smb.conf","2022-10-05 16:39:23","766862896","2022-10-05","16:39:23"
+"521816","Hm","2022-10-05 18:33:04","883083059","2022-10-05","18:33:04"
+"521817","Manda print do sudo systemctl status smbd","2022-10-05 18:33:47","883083059","2022-10-05","18:33:47"
+"521818","⬆️ Stable Update ⬆️
+[Stable Update] 2022-10-05 - Kernels, Systemd, AMDVLK, Deepin, Pamac, Qemu, Thunderbird, Firefox, 0 AD a26, Gradience, Linux Firmware, Wine, Gnome, Pipewire
+
+✏️ Note ✏️
+Do not ask for help or support in Arch Linux related groups or forums.
+Manjaro is not Arch Linux.
+Learn more…
+💬 Groups on Telegram 💬
+Manjaro Community [en] · Manjaro Official [en]
+Manjaro Brasil Oficial [br] · Manjaro [ru]
+Manjaro en Español [es] · Manjaro Linux CN [ch]
+Manjaro Linux Italia [it] · Manjaro Indonesia [idn]
+知乎 Manjaro圈 [ch]","2022-10-05 20:38:55","25962582","2022-10-05","20:38:55"
+"521822","Hora do backup (pra quem usa ext4)
+Hora do snapshot (pra quem usa btrfs)
+Não deixem de ter outra opção de kernel instalado no sistema de vcs","2022-10-05 20:39:48","25962582","2022-10-05","20:39:48"
+"521823","Pop!_OS DITCHING GTK, Nextcloud Hub 3, and more! — TechHut
+https://youtu.be/hfpoYbO943w 7:22","2022-10-05 20:40:13","155836063","2022-10-05","20:40:13"
+"521826","ceph-libs já está atulizando a mais de 1hora pqp
+
+edit: vou remover https://www.reddit.com/r/archlinux/comments/xvzf6a/cephlibs_package_taking_forever_to_build/","2022-10-05 21:47:28","1017285712","2022-10-05","21:47:28"
+"521827","🥲","2022-10-05 21:48:01","1017285712","2022-10-05","21:48:01"
+"521828","O que está acontecendo com o Android? — PrivacyMap
+https://youtu.be/DhKAAby7FA8 14:36","2022-10-05 22:05:17","155836063","2022-10-05","22:05:17"
+"521829","descupa a demora, tive que sair so cheguei agora","2022-10-05 23:36:04","766862896","2022-10-05","23:36:04"
+"521830","segue a print","2022-10-05 23:36:33","766862896","2022-10-05","23:36:33"
+"521831","Tenta sem o d, smb","2022-10-05 23:47:38","883083059","2022-10-05","23:47:38"
+"521833","Hm, não sei direito","2022-10-05 23:53:34","883083059","2022-10-05","23:53:34"
+"521834","Pode ser problema com permissão","2022-10-05 23:53:43","883083059","2022-10-05","23:53:43"
+"521835","Seguiu algo pra configurar? Algum tutorial?","2022-10-05 23:54:01","883083059","2022-10-05","23:54:01"
+"521837","Peguei o trem andando, mas qual ZICA com o samba?","2022-10-05 23:54:45","5792928941","2022-10-05","23:54:45"
+"521838","@fwicd","2022-10-05 23:55:22","883083059","2022-10-05","23:55:22"
+"521839","Tirando a msg de erro ainda tem um aviso sobre permissão tbm","2022-10-05 23:56:14","883083059","2022-10-05","23:56:14"
+"521840","entao... vamo la","2022-10-05 23:57:31","766862896","2022-10-05","23:57:31"
+"521841","segui o tutorial do arch wiki","2022-10-05 23:57:58","766862896","2022-10-05","23:57:58"
+"521842","mas fiz o seguint","2022-10-05 23:58:13","766862896","2022-10-05","23:58:13"
+"521843","Vou te sugerir uma tentativa de  mágica:
+
+sudo pacman -Scc ; sudo pacman -Syu samba","2022-10-05 23:59:56","5792928941","2022-10-05","23:59:56"

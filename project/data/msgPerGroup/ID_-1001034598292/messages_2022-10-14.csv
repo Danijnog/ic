@@ -1,0 +1,111 @@
+"message_id","message","message_utc","from_id","date","time"
+"524578","KDE Plasma 5.27 planeja ser o último lançamento de recursos do Plasma 5 
+
+Com a portabilidade do Qt 6 e o ​​desenvolvimento do KDE Frameworks 6 continuando a toda velocidade, os desenvolvedores do KDE estão olhando para o Plasma 5.27 como o último lançamento de recursos da série Plasma 5.
+
+https://www.phoronix.com/news/Plasma-5.27-Last-5-Release","2022-10-14 01:05:21","25962582","2022-10-14","01:05:21"
+"524583","Sinto isso sempre que abro o terminal","2022-10-14 01:51:16","883083059","2022-10-14","01:51:16"
+"524584","eu sempre todos os dias, sempre falta alguma coisa","2022-10-14 01:51:41","258555872","2022-10-14","01:51:41"
+"524585","Pior que deve ser muito estranho tornar isso automático","2022-10-14 01:52:36","883083059","2022-10-14","01:52:36"
+"524586","Eu gosto de digitar e ver o que está atualizando","2022-10-14 01:52:53","883083059","2022-10-14","01:52:53"
+"524587","tambem, porem eu fico sempre me sentindo ""pelada"" quando não atualizo","2022-10-14 01:56:08","258555872","2022-10-14","01:56:08"
+"524588","é como se fosse uma coisa que já é natural","2022-10-14 01:56:19","258555872","2022-10-14","01:56:19"
+"524591","Falando em atualização","2022-10-14 02:00:19","883083059","2022-10-14","02:00:19"
+"524592","Dessa vez soltaram","2022-10-14 02:00:58","883083059","2022-10-14","02:00:58"
+"524593","pos é","2022-10-14 02:01:07","25962582","2022-10-14","02:01:07"
+"524594","achei estranho","2022-10-14 02:01:12","25962582","2022-10-14","02:01:12"
+"524595","nao esperava por essa","2022-10-14 02:01:20","25962582","2022-10-14","02:01:20"
+"524596","Kkkkkkj","2022-10-14 02:01:31","883083059","2022-10-14","02:01:31"
+"524597","veio ai","2022-10-14 02:01:48","258555872","2022-10-14","02:01:48"
+"524598","Aprenderam com o erro","2022-10-14 02:01:51","883083059","2022-10-14","02:01:51"
+"524599","Atualizei desconfiado","2022-10-14 02:02:44","883083059","2022-10-14","02:02:44"
+"524600","deu bom ai?","2022-10-14 02:02:55","25962582","2022-10-14","02:02:55"
+"524601","Reiniciei mesmo não pedindo","2022-10-14 02:03:12","883083059","2022-10-14","02:03:12"
+"524602","Foi de boa","2022-10-14 02:03:16","883083059","2022-10-14","02:03:16"
+"524603","@jose_rafael @rennnehzinha fui brincar de instalar o arch em VM aki, até pra testar os pacotes antes de enviar pro AUR (levei uma bela bronca dos admin lá), to usando o archinstall, ele ta vindo com kernel 6.0.1","2022-10-14 02:36:37","36899061","2022-10-14","02:36:37"
+"524605","podia ter aproveitado meu tutorial pra btrfs","2022-10-14 02:37:35","25962582","2022-10-14","02:37:35"
+"524606","manda de novo, devo ter perdido essa conversa","2022-10-14 02:37:56","36899061","2022-10-14","02:37:56"
+"524614","nao entendi a pergunta","2022-10-14 02:41:18","25962582","2022-10-14","02:41:18"
+"524607","https://joserafael.notion.site/Criando-Em-BTRFS-e9055826f34b40198e47c10c14b73a11","2022-10-14 02:38:23","25962582","2022-10-14","02:38:23"
+"524608","esta instalando qual ambiente?","2022-10-14 02:40:01","258555872","2022-10-14","02:40:01"
+"524609","irei fazer uma colinha aqui, eu sempre aproveito as colinhas hehehe","2022-10-14 02:40:18","258555872","2022-10-14","02:40:18"
+"524610","kde plasma pra variar, hehehehehe","2022-10-14 02:40:37","36899061","2022-10-14","02:40:37"
+"524611","esperto ;)","2022-10-14 02:40:45","258555872","2022-10-14","02:40:45"
+"524612","masssa, como é a config padrão dele em btrfs + compressão ?","2022-10-14 02:40:58","36899061","2022-10-14","02:40:58"
+"524613","até porque, @Barnabe_di_Kartola o biglinux é base arch, sim? então, tudo em casa","2022-10-14 02:41:16","258555872","2022-10-14","02:41:16"
+"524615","config padrão de quem?","2022-10-14 02:41:28","25962582","2022-10-14","02:41:28"
+"524616","hoje não vejo motivos pra usar outra DE, consigo reproduzir qualquer outra DE usando kde plasma.","2022-10-14 02:41:45","36899061","2022-10-14","02:41:45"
+"524617","justamente por isso estou aqui","2022-10-14 02:41:57","258555872","2022-10-14","02:41:57"
+"524618","manjaro na verdade.","2022-10-14 02:42:00","36899061","2022-10-14","02:42:00"
+"524619","a do archinstall","2022-10-14 02:42:15","36899061","2022-10-14","02:42:15"
+"524620","ahhhh, mas ainda penso que funciona em arch.. kkkk [eu to lenta, ou é isso mesmo?]","2022-10-14 02:42:24","258555872","2022-10-14","02:42:24"
+"524621","nao sei, nunca usei","2022-10-14 02:42:25","25962582","2022-10-14","02:42:25"
+"524622","se usa zstd padrão vai ser nivel 3","2022-10-14 02:42:37","25962582","2022-10-14","02:42:37"
+"524623","manjaro é base arch, mas..... 
+os archeiros tem um treta com o manjarianos","2022-10-14 02:43:17","36899061","2022-10-14","02:43:17"
+"524624","vamos descobrir agora.","2022-10-14 02:43:34","36899061","2022-10-14","02:43:34"
+"524625","eu sei dessa treta por cima mesmo, então..","2022-10-14 02:43:37","258555872","2022-10-14","02:43:37"
+"524626","os archeiros tem treta com todos","2022-10-14 02:43:43","25962582","2022-10-14","02:43:43"
+"524627","pois é, sabia q eles não gostavam, mas agora descobrir q é bem toxica a relação.","2022-10-14 02:44:09","36899061","2022-10-14","02:44:09"
+"524628","levei block no AUR em 2 dias de uso, hahahahahahaha","2022-10-14 02:44:24","36899061","2022-10-14","02:44:24"
+"524629","bicho??? mas como essa proeza aconteceu???","2022-10-14 02:44:46","258555872","2022-10-14","02:44:46"
+"524630","como assim vei?","2022-10-14 02:44:46","25962582","2022-10-14","02:44:46"
+"524631","submeti 10 pacotes no AUR, alguns deles tinhas as palavras manjaro e/ou biglinux dentro dos arquivos, tipo em alguma descrição ou algo do tipo, tipo dentro do codigo fonte dos programas.
+provavelmente tem um bot que procura essas palavras, apagaram as submissões, me mandaram email me xingando e bloquearam a minha conta.","2022-10-14 02:46:40","36899061","2022-10-14","02:46:40"
+"524632","simples assim","2022-10-14 02:46:43","36899061","2022-10-14","02:46:43"
+"524633","te xingando?","2022-10-14 02:47:09","25962582","2022-10-14","02:47:09"
+"524634","força de expressão, mas não foram nada gentis","2022-10-14 02:48:02","36899061","2022-10-14","02:48:02"
+"524635","HAUahUAHUAhUAHUA como tem xiita no mundo Linux. Por mim que o Arch morrer eu nem ligo. Manjaro cada dia melhor e o futuro é interface gráfica e não ficar usando terminal. Só pra coisas bem específicas.","2022-10-14 02:48:12","734016011","2022-10-14","02:48:12"
+"524636","jesus, oloco","2022-10-14 02:48:50","258555872","2022-10-14","02:48:50"
+"524637","imagino que quando eles mandaram o email, foram com ""palavras calorosas""","2022-10-14 02:49:07","258555872","2022-10-14","02:49:07"
+"524638","uma coisa que não me atentei é que alguns pacotes que estavam como dependencias não são nativos do arch e sim do manjaro, isso deixou eles brabos tb.","2022-10-14 02:49:34","36899061","2022-10-14","02:49:34"
+"524639","eita nois...","2022-10-14 02:49:51","258555872","2022-10-14","02:49:51"
+"524640","até por isso estou instalando o arch puro em VM, testar primeiro na VM antes de tentar submeter alguma coisa ao AUR","2022-10-14 02:50:31","36899061","2022-10-14","02:50:31"
+"524641","olha, te recomendo você realmente fazer uma triagem, nunca se sabe, né?","2022-10-14 02:51:16","258555872","2022-10-14","02:51:16"
+"524642","bem que o manjaro poderia ter um MUR","2022-10-14 02:51:22","36899061","2022-10-14","02:51:22"
+"524643","exato, fazer um rastreamento no codigo pelos termos manjaro e biglinux, alem de compilar os pacotes localmente no arch, verificar se tudo funciona antes, eu tinha testado só no manjaro.","2022-10-14 02:52:35","36899061","2022-10-14","02:52:35"
+"524644","exatamente. olha que quando as pessoas justamente começam a olhar minunciosamente, você sabe que pode dar mais do que ruim. e olha que, literalmente as pessoas reclamam por nada. especialmente quando são pacotes que são precisos ou no arch, ou no manjaro","2022-10-14 02:53:46","258555872","2022-10-14","02:53:46"
+"524645","ele separou o btrfs em:
+/
+/home
+/.snapshots
+/var/cache/pacman/pkg
+/var/log","2022-10-14 03:11:59","36899061","2022-10-14","03:11:59"
+"524646","uai","2022-10-14 03:13:18","25962582","2022-10-14","03:13:18"
+"524647","pq nao separou o cache todo?","2022-10-14 03:13:23","25962582","2022-10-14","03:13:23"
+"524648","não faço ideia, fui no modo mais padrão possivel","2022-10-14 03:14:51","36899061","2022-10-14","03:14:51"
+"524653","Bom dia. Estou com problemas no audio do Manjaro.
+No jogo james Cameron Avatar nao toca o audio dos personagens, somente toca a musica e os sons ambientes.
+No Mass Effetc 2, o audio parou de funcionar depois que usei o snapshot.
+Nos outros jogos, emuladores e videos em geral funciona ok.
+Toda vez que tiro o fone de ouvido, ou da mau contato, o audio para de funcionar, e vai para uma saida virtual.
+Isso eh coisa do pipewire? como desabilito essa saida virtual?","2022-10-14 10:29:30","827439518","2022-10-14","10:29:30"
+"524654","fd que eu tmb queria colocar numa vm mais pelo menos cmg ta dando erro no tty do instalador","2022-10-14 10:59:23","1498270181","2022-10-14","10:59:23"
+"524655","oh @jose_rafael vc ainda tem um tempo livre pela me da uma ajudinha no arch sla pq to apanhando pra colocar o KDE no meu notebook","2022-10-14 11:04:05","1498270181","2022-10-14","11:04:05"
+"524656","só se tiver msm se n tiver de boas :)","2022-10-14 11:04:17","1498270181","2022-10-14","11:04:17"
+"524657","isso q aparece quando eu tento bootar a vm na iso","2022-10-14 11:18:08","1498270181","2022-10-14","11:18:08"
+"524658","O avatar eu n tenho ideia pois nem tem no protondb, já o mass effect 2 pelo que vi no protondb tem um problema recorrente de áudio, entre lá para ter mais informações. Sobre o pipewire eu não sei muito te ajudar mas tem um app chamado helvum que te dá mais controle visual do pipewire.","2022-10-14 14:58:52","883083059","2022-10-14","14:58:52"
+"524659","A","2022-10-14 14:58:57","883083059","2022-10-14","14:58:57"
+"524660","E como vc usou snapshot verifica as atualizações e os apps que vc tinha instalado antes de fazer já que algumas coisas são perdidas logicamente.","2022-10-14 15:00:00","883083059","2022-10-14","15:00:00"
+"524661","Verificou se a iso n foi corrompida?","2022-10-14 15:01:00","883083059","2022-10-14","15:01:00"
+"524662","Não está n","2022-10-14 15:04:13","1498270181","2022-10-14","15:04:13"
+"524663","Instalar o plasma é fácil, mas esse erro é desconhecido por mim","2022-10-14 15:12:30","883083059","2022-10-14","15:12:30"
+"524664","Tenta instalar a máquina do zero","2022-10-14 15:12:42","883083059","2022-10-14","15:12:42"
+"524665","Eu digito tudo em um simples arquivo de ""texto"".SH e o BigBashView transforma-o em um aplicativo","2022-10-14 15:38:10","5792928941","2022-10-14","15:38:10"
+"524668","Gato. Li em um forum que o XFCE nao tem um bom gerenciamento de audio,recomendando KDE ou GNOME. Vou tentar em outra particao.","2022-10-14 19:08:39","827439518","2022-10-14","19:08:39"
+"524671","Ask DT! You Might Even Get An Answer. (If Your Question Isn't Asinine) — DistroTube
+https://youtu.be/v9r-B39J5_k 1:31:45","2022-10-14 19:40:15","155836063","2022-10-14","19:40:15"
+"524673","Como assim xfce não tem gerenciamento de áudio bom?","2022-10-14 20:23:22","25962582","2022-10-14","20:23:22"
+"524674","Boa noite,
+
+Ow mano, e @jose_rafael também. Eu fiz uma instalação do Arch e to usando ele atualmente aqui no meu computador e fiz uma configuração em BTRFS.
+Criei uma pasta no github pra ir adicionando minhas ""marcações"", conforme vou fazendo alguma coisa e deixei tudo separado.
+
+Dá uma olhada ae, e ve se ficou bom: Elppans Github, Doc Linux
+
+Vou aproveitar e pegar o link do José também, vai que aprendo algo novo.","2022-10-14 22:42:59","465789308","2022-10-14","22:42:59"
+"524675","Aaah, percebi isso também. Não sei porquê, pois acho que se uma distro está usando como base uma Distro principal, é bom pra Distro, pois mantém ela em pé em um ponto de importância alta. Distros com base em outra distro só SOMA e ao mesmo tempo ajuda outro nicho de usuários.
+Quando tem este tipo de assunto lá nem me meto, pois tenho meu modo de pensar e gosto MUITO do Manjaro.
+Por algum motivo besta não gostam nem do pamac, mas cada um com cada qual né.","2022-10-14 22:53:03","465789308","2022-10-14","22:53:03"
+"524676","@jose_rafael Todo mundo que testa o Archinstall com BTRFS pergunta exatamente a mesma coisa... huahauhau","2022-10-14 22:57:22","465789308","2022-10-14","22:57:22"
+"524677","Mano, gostei do seu link, vou salvar no meu Favoritos aqui. Valeu","2022-10-14 23:00:38","465789308","2022-10-14","23:00:38"

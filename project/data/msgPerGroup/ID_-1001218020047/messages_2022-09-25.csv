@@ -1,0 +1,14 @@
+"message_id","message","message_utc","from_id","date","time"
+"102799","São essas as informações q o Windows me passa sobre os vídeos (no caso, o quadro se refere a abertura)","2022-09-25 01:24:17","1230865260","2022-09-25","01:24:17"
+"102800","O total inclui o audio que no caso só tem 96kbps
+
+O do vídeo realmente tá ineficiente. Mas ideal pra ver esses dados é o mediainfo
+Mostra codecs, profiles etc","2022-09-25 01:35:53","81951467","2022-09-25","01:35:53"
+"102801","15.000kbps
+Kilobits por segundo, ou 15 megabits por segundo, dá quase 2 megabytes por segundo,
+120mb por minuto , arredondando pra cima.
+
+Tá aí o tamanho do arquivo, 126mb 1m09s
+
+Isso só em 720p
+Dá pra fazer em menos de 1 décimo do tamanho se usar um codec eficiente configurado direito","2022-09-25 02:17:45","81951467","2022-09-25","02:17:45"

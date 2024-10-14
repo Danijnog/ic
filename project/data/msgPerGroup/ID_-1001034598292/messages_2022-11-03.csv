@@ -1,0 +1,55 @@
+"message_id","message","message_utc","from_id","date","time"
+"527335","todas as palavras ficavam sublinhadas em vermelho, pq nao identificava o pt na ortografia, apenas o inglês","2022-11-03 12:04:32","766862896","2022-11-03","12:04:32"
+"527336","como nesse exemplo qui, que desabilitei a ortografia ptbr pra demonstrar","2022-11-03 12:05:50","766862896","2022-11-03","12:05:50"
+"527337","""Hey, DT! Mastodon SUCKS because of THIS!"" (And Other Comments) — DistroTube
+https://youtu.be/eSHpvcBy8k8 19:05","2022-11-03 13:00:13","155836063","2022-11-03","13:00:13"
+"527338","bom dia, depois de att o sistema meu playonlinux não abre, alguém teria alguma solução? obrigado","2022-11-03 14:42:26","34461028","2022-11-03","14:42:26"
+"527339","kkkkkkk","2022-11-03 14:59:55","1239743381","2022-11-03","14:59:55"
+"527342","playonlinux? ele ainda existe? pra mim tinha sido abandonado a muitos anos, lendo o erro, ele ainda usa o abandonado python2, está com erro na biblioteca wx-3.0-gtk3
+já pensou em usar o lutris? que meio que é o sucessor espiritual do playonlinux?","2022-11-03 15:35:03","36899061","2022-11-03","15:35:03"
+"527345","Solução: use o Lutres","2022-11-03 17:16:03","25962582","2022-11-03","17:16:03"
+"527346","galera como que eu restauro o menus das janelas, removi o global menu do painel porem as janelas continuam sem,
+nas configurações do sistema tem a opção de decoração de que o menu, mas quando eu ativo la fica tudo agrupado nun unico icone","2022-11-03 17:26:30","766862896","2022-11-03","17:26:30"
+"527348","Fica assim","2022-11-03 17:27:31","766862896","2022-11-03","17:27:31"
+"527359","achei essa dica aqui e resolveu 
+https://askubuntu.com/questions/1317298/in-app-menubar-wont-show-after-removing-global-menu-widget","2022-11-03 20:31:11","766862896","2022-11-03","20:31:11"
+"527362","Oe","2022-11-03 20:59:21","396674472","2022-11-03","20:59:21"
+"527363","Preciso conectar dois fones de ouvido USB e ouvir os dois ao mesmo tempo alguém sabe alguma coisa sobre","2022-11-03 20:59:40","396674472","2022-11-03","20:59:40"
+"527364","vc ta usando pipewire ou pulseaudio ?","2022-11-03 21:00:52","36899061","2022-11-03","21:00:52"
+"527366","PULSE","2022-11-03 21:21:30","396674472","2022-11-03","21:21:30"
+"527375","quando vc estiver na frente do computador, com tempo e disposição vc chama a gente!","2022-11-03 21:37:22","36899061","2022-11-03","21:37:22"
+"527376","Será que tem agente do fbi de TI aqui?","2022-11-03 21:38:13","25962582","2022-11-03","21:38:13"
+"527377","pq?","2022-11-03 21:39:15","36899061","2022-11-03","21:39:15"
+"527378","Oh mah, eu devia era da warn só por vc pedir ajuda e não está na frente do PC","2022-11-03 21:39:20","25962582","2022-11-03","21:39:20"
+"527379","Vc disse agente","2022-11-03 21:39:31","25962582","2022-11-03","21:39:31"
+"527380","te falar que meu dedo coçou no warn aki","2022-11-03 21:39:37","36899061","2022-11-03","21:39:37"
+"527381","kkkkkkk, corrigido.","2022-11-03 21:39:56","36899061","2022-11-03","21:39:56"
+"527383","Tava na frente, mas o patrão mandou ir embora q j tinha passado a hora","2022-11-03 21:43:35","396674472","2022-11-03","21:43:35"
+"527384","@se_marcar_toma_ban 
+Boa noite, tudo bem com vocês?
+
+Eu tenho um dos motivos, algo que reparei. Um exemplo, podem até fazer um teste em VM se quiser:
+
+Uma atualização de Distro, ou instalação de pacotes, no Debian/Ubuntu e derivados, demora para desempacotar os .deb para o sistema. Já o Arch/Manjaro e derivados, é MUITO rápido.
+Os devs do Arch fizeram uma mágica com o gerenciador pacman, pois o Download E Instalação dos pacotes levam MUITO menos tempo.
+
+E depois que se acostuma com o pacman, fica fácil manusear pacotes na Distro. Se usa o pamac então, não precisa nem saber usar o pacman, só ir no gerenciador, marcar o pacote e aplicar. O resto vai Rapidão, MUITO diferente do apt/dpkg que é lerdo pacas.","2022-11-03 21:57:51","465789308","2022-11-03","21:57:51"
+"527386","Vish, esse martelo aí assustou 🤣","2022-11-03 21:59:42","465789308","2022-11-03","21:59:42"
+"527387","vc que ta pedindo","2022-11-03 22:00:02","36899061","2022-11-03","22:00:02"
+"527388","Huahua, pq?","2022-11-03 22:00:30","465789308","2022-11-03","22:00:30"
+"527390","Aaah, desculpe, é que eu queria responder sua pergunta pq achei legal e não consegui marcar o mano aí","2022-11-03 22:01:36","465789308","2022-11-03","22:01:36"
+"527391","Mas faz um teste lá em VM, vai notar uma diferença boa. E o sistema, Arch, Manjaro ou qualquer outro baseado neles é muito mais responsivo","2022-11-03 22:04:07","465789308","2022-11-03","22:04:07"
+"527392","estou com um teste aki na minha frente, a instalação da steam (sem levar em conta o tempo de download, apenas a instalação em si) entre biglinux e linuxmint
+Big = 11segundo e 36centezimo | Mint = 51segundo e 49centezimos","2022-11-03 22:08:07","36899061","2022-11-03","22:08:07"
+"527393","Já é uma diferença, faz um esquema de atualização completa pra ver. Bora tomar um café enquanto atualiza... Huahua","2022-11-03 22:09:33","465789308","2022-11-03","22:09:33"
+"527394","usei base debian por 20 anos, não preciso testar nada pra saber disso. kkkkkkkkkkkkk","2022-11-03 22:10:11","36899061","2022-11-03","22:10:11"
+"527395","Eu também 🤣
+Depois que testei o Manjaro fiquei tipo: Woow
+Depois só alegria","2022-11-03 22:11:10","465789308","2022-11-03","22:11:10"
+"527396","Uma miníma sugestão:
+
+- No FF pesquise: ""Interface pt_BR (english, bretão ou outro qualquer idioma que queira e tecle enter) e mande instalar a extensão
+https://addons.mozilla.org/pt-BR/firefox/addon/firefox-br/","2022-11-03 22:19:41","702350574","2022-11-03","22:19:41"
+"527397","Eu particularmente acho o Linux, muito difícil!!!","2022-11-03 22:20:29","702350574","2022-11-03","22:20:29"
+"527400","Fbi vc me complica kkkkkkj","2022-11-03 22:37:52","883083059","2022-11-03","22:37:52"
+"527401","P1 deve ter","2022-11-03 22:38:03","883083059","2022-11-03","22:38:03"

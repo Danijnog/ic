@@ -1,0 +1,15 @@
+"message_id","message","message_utc","from_id","date","time"
+"33316","el problema dice que hace referencia a una variable que no existe 
+pregunta rapida, de donde estas sacando el codigo?","2022-12-05 00:13:45","761322092","2022-12-05","00:13:45"
+"33317","Solo yo, para aprender.
+
+Si lei eso solo que no se porque, en linking ocurre pero mando todos los objetos bien segun creo","2022-12-05 00:15:43","159394107","2022-12-05","00:15:43"
+"33318","prueba con este tutorial, es que no entendi mucho tu codigo pero al parecer puedes hacer uso completo de arduino entonces cualquier codigo de arduino re funcionaria
+https://www.youtube.com/watch?v=5tG3JXFYrUo&ab_channel=AliPanjaitan","2022-12-05 00:15:49","761322092","2022-12-05","00:15:49"
+"33319","pues el error te lo tira en una de las librerias que estas agregando, tendrias que investigr bien bien en la libreria","2022-12-05 00:16:25","761322092","2022-12-05","00:16:25"
+"33320","Haber lo veo, gracias","2022-12-05 00:17:47","159394107","2022-12-05","00:17:47"
+"33321","Capas sea eso, haber le dare una mirada a la lib esa subpub de mqtt","2022-12-05 00:18:21","159394107","2022-12-05","00:18:21"
+"33322","Gracias nuevamente","2022-12-05 00:18:25","159394107","2022-12-05","00:18:25"
+"33323","no es en la de pubsub","2022-12-05 00:19:11","761322092","2022-12-05","00:19:11"
+"33324","o sea no solo esa, por que el error te lo marca en otro lado","2022-12-05 00:19:23","761322092","2022-12-05","00:19:23"
+"33325","prueba con eso y sino buscamos de mejor manera le problema","2022-12-05 00:19:31","761322092","2022-12-05","00:19:31"

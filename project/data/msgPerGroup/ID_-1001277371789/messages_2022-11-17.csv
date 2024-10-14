@@ -1,0 +1,20 @@
+"message_id","message","message_utc","from_id","date","time"
+"33092","Buenas tardes con todos :D, ya estamos próximos a iniciar la ponencia de hoy teniendo de ponente al Ing. *Eli Villanera* de *Villacontrol SAC* con el tema de *Fundamentos de prototipado en PCB en el diseño electrónico*
+
+El link de acceso es el siguiente: 
+
+https://utec.zoom.us/j/95552081998","2022-11-17 19:03:43","1351827725","2022-11-17","19:03:43"
+"33093","Chicos, alguno de los que controla de impresoras 3d me podría echar un cable con un problemilla?😅😅","2022-11-17 19:05:09","482070673","2022-11-17","19:05:09"
+"33094","Que pasá?","2022-11-17 19:05:35","989524593","2022-11-17","19:05:35"
+"33096","Sigo tratando de solucionar el problema de que se me despeguen las piezas... Ya he mejorado bastante y ya no caen, active zhop, cambie el modo de peinada, y le active tb la opción de evitar partes impresas ...Pero sigue haciendo ruido cuando tiene que pasar x encima de la capa actual... ¿Qué se os ocurre para solucionarlo?","2022-11-17 19:05:50","482070673","2022-11-17","19:05:50"
+"33097","En principio se me despegaban xq tenía la cama bastante sucia tb, ahora quedan mejor pero sigue haciendo ese ruidito","2022-11-17 19:06:13","482070673","2022-11-17","19:06:13"
+"33098","podes subir la temperatura de la cama o la temperatura de impresion, pero sino posiblemente tu superficie haya perdido adherencia y eso pasa mucho","2022-11-17 19:06:45","761322092","2022-11-17","19:06:45"
+"33099","Otra cosa es revisar si el filamento está en buenas condiciones","2022-11-17 19:07:14","989524593","2022-11-17","19:07:14"
+"33100","Son varios los factores que afectan","2022-11-17 19:07:54","989524593","2022-11-17","19:07:54"
+"33101","Pero lo que dice @Yeffrimic es la solución más factible","2022-11-17 19:08:24","989524593","2022-11-17","19:08:24"
+"33102","x2
+filamento humedo tambien, pero eso se veria tambien en las otras capas si tenes burbujitas o se quiebra el filamento","2022-11-17 19:09:24","761322092","2022-11-17","19:09:24"
+"33103","Con eso mejore mucho limpiandola con isopropilico, pero de todas formas lo que me molesta ahora es el ruido principalmente, entiendo q no es bueno","2022-11-17 20:30:29","482070673","2022-11-17","20:30:29"
+"33105","When you keep adding features to your code without commenting","2022-11-17 20:57:00","136605912","2022-11-17","20:57:00"
+"33107","Este es mi equipo de audio😂 lo mande antes sin querer, pero ahora tengo una duda 🤔","2022-11-17 21:08:21","482070673","2022-11-17","21:08:21"
+"33108","La etapa de abajo a la izq es un bicho de 3kw(rms), mi subwoofer aguanta 300Wrms, he ajustado la ganancia de forma q la demanda de corriente de pico no supere los 30A, la cuestión, es que tras meter el dsp, observo que sl filtrar frecuencias x debajo de 30Hz y x encima de 150Hz de forma digital puedo incrementar la ganancia ""algo más"" con el mismo consumo... Entiendo q se debe al hecho de no amplificar tantas frecuencias? 🤔 Y principalmente las bajas que son las que mas corriente demandaran","2022-11-17 21:11:26","482070673","2022-11-17","21:11:26"

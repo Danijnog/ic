@@ -1,0 +1,163 @@
+"message_id","message","message_utc","from_id","date","time"
+"521864","Já está na metade do caminho","2022-10-06 00:17:56","883083059","2022-10-06","00:17:56"
+"521844","primeiro instalai manjaro-settings-samba
+depois editei o smb.conf","2022-10-06 00:00:08","766862896","2022-10-06","00:00:08"
+"521845","Nem creio que isso seja necessário","2022-10-06 00:01:09","5792928941","2022-10-06","00:01:09"
+"521846","vou tentar aqui","2022-10-06 00:01:41","766862896","2022-10-06","00:01:41"
+"521847","reinstalou aqui","2022-10-06 00:03:25","766862896","2022-10-06","00:03:25"
+"521848","Tenta mas há indagações:
+
+Como o que vc mexeu no smb.conf?","2022-10-06 00:04:46","5792928941","2022-10-06","00:04:46"
+"521849","ah ta","2022-10-06 00:05:01","766862896","2022-10-06","00:05:01"
+"521850","Teria que desfazer isso também, desculpa o velho esquecido","2022-10-06 00:05:10","5792928941","2022-10-06","00:05:10"
+"521865","esse foi o primeiro que segui","2022-10-06 00:18:30","766862896","2022-10-06","00:18:30"
+"521851","em [Home] eu deixei assim
+
+comment = Home Directories
+   browseable = no
+   read only = no
+   create mask = 0700
+   directory mask = 0700
+   valid users = %S","2022-10-06 00:06:13","766862896","2022-10-06","00:06:13"
+"521852","em [GGLOBAL] eu deixei assim
+
+[global]
+
+  usershare path = /var/lib/samba/usershares
+  usershare max shares = 100
+  usershare allow guests = yes
+  usershare owner only = yes
+
+   workgroup = WORKGROUP
+   dns proxy = no
+   log file = /var/log/samba/%m.log
+   max log size = 1000
+   client min protocol = SMB2
+   server role = standalone server
+   passdb backend = tdbsam
+   obey pam restrictions = yes
+   unix password sync = yes
+   passwd program = /usr/bin/passwd %u
+   passwd chat = *New*UNIX*password* %n\n *ReType*new*UNIX*password* %n\n *passwd:*all*authentication*tokens*updated*successfully*
+   pam password change = yes
+   map to guest = Bad Password
+   usershare allow guests = yes
+   name resolve order = lmhosts bcast host wins
+   security = user
+   guest account = nobody
+   usershare path = /var/lib/samba/usershare
+   usershare max shares = 100
+   usershare owner only = yes
+   force create mode = 0070
+   force directory mode = 0070
+   load printers = no
+   printing = bsd
+   printcap name = /dev/null
+   disable spoolss = yes
+   show add printer wizard = no","2022-10-06 00:07:19","766862896","2022-10-06","00:07:19"
+"521853","Rapaz eu nunca mexo em uma linha disso ai e tenho pastas compartilhadas com mínimos cliques","2022-10-06 00:09:06","5792928941","2022-10-06","00:09:06"
+"521854","Can't connect to samba after update; Service is running (2022-08-13++) - Support / Network - Manjaro Linux Forum
+https://forum.manjaro.org/t/cant-connect-to-samba-after-update-service-is-running-2022-08-13/119396","2022-10-06 00:09:37","883083059","2022-10-06","00:09:37"
+"521855","Esse cara tem um problema parecido com o seu @Cleudvan","2022-10-06 00:09:57","883083059","2022-10-06","00:09:57"
+"521856","A ""solução"" dele foi desabilitar o apparmor por algum motivo","2022-10-06 00:11:08","883083059","2022-10-06","00:11:08"
+"521857","https://forum.manjaro.org/t/cant-connect-to-samba-after-update-service-is-running-2022-08-13-2022-08-16/119396/43","2022-10-06 00:11:14","883083059","2022-10-06","00:11:14"
+"521858","vou ler aqui","2022-10-06 00:11:35","766862896","2022-10-06","00:11:35"
+"521859","Leia isso também:
+
+""O Dolphin é capaz de montar compartilhamentos de arquivos smb sem precisar de nenhum pacote adicional. Todos os outros gerenciadores de arquivos requerem a instalação do pacote gvfs-smb. Isso está presente por padrão na maioria das edições do Manjaro, mas se você precisar instalá-lo, poderá fazê-lo com:""
+
+Mais simples que colocar doces na boca de crianças
+
+Fonte: https://wiki.manjaro.org/index.php/Using_Samba_in_your_File_Manager","2022-10-06 00:14:17","5792928941","2022-10-06","00:14:17"
+"521860","Ou seja: ""Use Plasma sempre e..., sempre""","2022-10-06 00:15:19","5792928941","2022-10-06","00:15:19"
+"521862","Bom, parece que ele já usa plasma","2022-10-06 00:17:02","883083059","2022-10-06","00:17:02"
+"521863","Tá usando konsole","2022-10-06 00:17:24","883083059","2022-10-06","00:17:24"
+"521866","Pois é, mas meu caro amigo Crow (he he ainda não esqueci do sobrenatural) ainda hoje ainda pensam que Linux é usado na linha de comando","2022-10-06 00:19:02","5792928941","2022-10-06","00:19:02"
+"521867","e o manjaro ja estava instalado no dolphin essas dependencias
+pamac install samba kdenetwork-filesharing manjaro-settings-samba","2022-10-06 00:19:18","766862896","2022-10-06","00:19:18"
+"521868","Pois é, bastaria abrir o  Dolphin e configurar a pasta","2022-10-06 00:21:07","5792928941","2022-10-06","00:21:07"
+"521869","deu certo","2022-10-06 00:22:15","766862896","2022-10-06","00:22:15"
+"521870","fiz o mesmo que ele","2022-10-06 00:22:26","766862896","2022-10-06","00:22:26"
+"521871","desabilitei systemctl disable apparmor","2022-10-06 00:22:37","766862896","2022-10-06","00:22:37"
+"521872","pois é","2022-10-06 00:23:35","766862896","2022-10-06","00:23:35"
+"521873","Hummmmmm sempre me esqueço desse detalhe que aqui nunca tem","2022-10-06 00:25:41","5792928941","2022-10-06","00:25:41"
+"521874","Quando ainda tinha que usar ubuntu family por conta do BigLinux eu olhava logo essa ""joça"" ai se tinha removia","2022-10-06 00:27:06","5792928941","2022-10-06","00:27:06"
+"521875","mas blz brigado aos dois pela ajuda","2022-10-06 00:29:50","766862896","2022-10-06","00:29:50"
+"521876","👍","2022-10-06 00:29:57","766862896","2022-10-06","00:29:57"
+"521877","Esse terminal fica embutido no Dolphin, né?
+Acho que não tem isso no Thunar e nem no Caja.","2022-10-06 00:31:53","734016011","2022-10-06","00:31:53"
+"521879","Show, bacana!","2022-10-06 00:33:49","883083059","2022-10-06","00:33:49"
+"521880","sim, só apertar F4 que ele aparece, não precisa configurar nada.
+thunar não uso a anos, caja nunca nem usei.","2022-10-06 00:33:54","36899061","2022-10-06","00:33:54"
+"521881","Legal.","2022-10-06 00:34:07","734016011","2022-10-06","00:34:07"
+"521886","Galerinha, que nao atua como técnico ou nao trabalha na area de TI, poderiam responder a esse questionario para o meu TCC?
+
+https://forms.gle/Vuiuk9TFhW3VPARz9","2022-10-06 03:11:36","25962582","2022-10-06","03:11:36"
+"521890","eu ja respondo ja :)","2022-10-06 03:12:37","258555872","2022-10-06","03:12:37"
+"521892","❤️","2022-10-06 03:18:02","258555872","2022-10-06","03:18:02"
+"521894","Pessoal, vi que saiu um update maior do manjaro. Quem ja instalou, ta curtindo?","2022-10-06 05:43:04","769269757","2022-10-06","05:43:04"
+"521898","Desculpa correria mas deu certo obrigado","2022-10-06 13:04:31","431402257","2022-10-06","13:04:31"
+"521899","Fazendo agora","2022-10-06 13:04:50","431402257","2022-10-06","13:04:50"
+"521900","STOP! Don't Name That File Without First Watching This Video. — DistroTube
+https://youtu.be/Wu0CxdflECY 18:37","2022-10-06 13:05:10","155836063","2022-10-06","13:05:10"
+"521903","Atualizei e o Nautilus parou de responder","2022-10-06 15:40:35","622075952","2022-10-06","15:40:35"
+"521937","lolzim 🤡","2022-10-06 23:09:52","1221507874","2022-10-06","23:09:52"
+"521904","Estou voltando ao ponto de restauração pelo timeshift","2022-10-06 15:41:16","622075952","2022-10-06","15:41:16"
+"521905","Pow","2022-10-06 16:32:36","883083059","2022-10-06","16:32:36"
+"521906","Tentou reinstalar ele?","2022-10-06 16:32:44","883083059","2022-10-06","16:32:44"
+"521911","ei pessoal bllz estou com um problema com a conexão hdmi no meu plasma KDE, eu conecto e ativo mas não funciona. Ele até reconhece mas não funciona também. Aqui está mais detalhes do meu problema no viva o linux.
+
+https://www.vivaolinux.com.br/topico/KDE/Conexao-HDMI-2","2022-10-06 17:36:54","5254556918","2022-10-06","17:36:54"
+"521913","Tem NVidia?","2022-10-06 17:49:15","25962582","2022-10-06","17:49:15"
+"521914","Já trocou o cabo HDMI?","2022-10-06 17:49:24","25962582","2022-10-06","17:49:24"
+"521915","Só a título de curiosidade. Liga sem o HDMI, loga no Manjaro e só depois do login, quando iniciar tudo, pluga o HDMI pra ver.","2022-10-06 21:24:38","887840764","2022-10-06","21:24:38"
+"521916","Outra pergunta: no Live CD aparecia normalmente a tela dos dois monitores?","2022-10-06 21:25:29","887840764","2022-10-06","21:25:29"
+"521917","Eu também testaria outra distro no Live CD. E também testaria outro cabo, caso outra distro não reconheça.","2022-10-06 21:27:20","887840764","2022-10-06","21:27:20"
+"521918","meu notebook também não funciona o monitor secundário se eu instalar os drivers da nvidia, tem que usar o nouveau, aí sim funciona.","2022-10-06 21:30:25","1221507874","2022-10-06","21:30:25"
+"521919","E nem é só no manjaro, mas só em distros baseadas em arch
+Não sei o que acontece rs
+Mas o nouveau funciona lindamente com os dois monitores.","2022-10-06 21:46:11","1221507874","2022-10-06","21:46:11"
+"521920","Pessoal, alguém mais já teve problema em setar um papel de parede personalizado e quando reinicia ele volta ao padrão? Manjaro kde","2022-10-06 22:17:14","769269757","2022-10-06","22:17:14"
+"521921","Qual sua NVidia?","2022-10-06 22:46:58","25962582","2022-10-06","22:46:58"
+"521922","gt540m (beeeeeeeem antiga mesmo)","2022-10-06 22:47:18","1221507874","2022-10-06","22:47:18"
+"521923","Manjaro até aonde sei não dá mais suporte pra placa antiga","2022-10-06 22:47:41","25962582","2022-10-06","22:47:41"
+"521924","pois é, deve rolar algo ae que faz não funcionar os drivers da nvidia com dois monitores em notebooks antigos, mas bastou desinstalar os drives de video e deixar o nouveau que ficou bom","2022-10-06 22:49:48","1221507874","2022-10-06","22:49:48"
+"521925","Sim tem que usar noiveau mesmo","2022-10-06 22:50:07","25962582","2022-10-06","22:50:07"
+"521926","NVidia parou de da suporte pra placa antiga","2022-10-06 22:50:17","25962582","2022-10-06","22:50:17"
+"521927","Meu Jajá tá indo pro limbo","2022-10-06 22:50:23","25962582","2022-10-06","22:50:23"
+"521928","tive uma dessa, de fato o nouveau pegou beeem melhor do que o driver propriotário da nvidia.","2022-10-06 23:00:23","36899061","2022-10-06","23:00:23"
+"521929","a gt540m pega o driver 390, esse ainda tem ""suporte"", por mais que não valha a pena.","2022-10-06 23:00:49","36899061","2022-10-06","23:00:49"
+"521930","sim, pega, só não funciona rs","2022-10-06 23:07:19","1221507874","2022-10-06","23:07:19"
+"521931","estou a 2 horas instalando um game pra testar no manjaro... não sai nunca mais dessa tela","2022-10-06 23:08:32","1221507874","2022-10-06","23:08:32"
+"521932","Instalando por onde?","2022-10-06 23:08:53","25962582","2022-10-06","23:08:53"
+"521933","ta compilando, demora mesmo, que jogo é?","2022-10-06 23:09:05","36899061","2022-10-06","23:09:05"
+"521934","tá compilando ainda, isso rs","2022-10-06 23:09:17","1221507874","2022-10-06","23:09:17"
+"521935","Jogo só uso apps que tem flatpak","2022-10-06 23:09:46","25962582","2022-10-06","23:09:46"
+"521936","Steam flatpak","2022-10-06 23:09:51","25962582","2022-10-06","23:09:51"
+"521938","tem que compilar?  😱","2022-10-06 23:10:15","36899061","2022-10-06","23:10:15"
+"521939","uhum","2022-10-06 23:10:23","1221507874","2022-10-06","23:10:23"
+"521940","achei que ele tinha no lutris","2022-10-06 23:10:29","36899061","2022-10-06","23:10:29"
+"521941","deve ter, mas o lutris nunca quis rolar aq","2022-10-06 23:10:47","1221507874","2022-10-06","23:10:47"
+"521942","https://manjariando.com.br/leagueoflegends/
+to tentando essa opção mesmo","2022-10-06 23:11:18","1221507874","2022-10-06","23:11:18"
+"521943","Flatpak","2022-10-06 23:12:05","25962582","2022-10-06","23:12:05"
+"521944","terminando esse modo aqui, se não funcionar, tento","2022-10-06 23:12:53","1221507874","2022-10-06","23:12:53"
+"521945","Questão de jogo só uso apps flatpak","2022-10-06 23:13:16","25962582","2022-10-06","23:13:16"
+"521946","tem no flatpak? não achei","2022-10-06 23:13:58","36899061","2022-10-06","23:13:58"
+"521947","não costumo jogar no linux, só instalei csgo uma vez","2022-10-06 23:14:18","1221507874","2022-10-06","23:14:18"
+"521948","Lutres?","2022-10-06 23:14:35","25962582","2022-10-06","23:14:35"
+"521949","lol","2022-10-06 23:14:42","36899061","2022-10-06","23:14:42"
+"521950","Lol é pelo lutris","2022-10-06 23:14:52","25962582","2022-10-06","23:14:52"
+"521951","Não tem lol direto","2022-10-06 23:14:58","25962582","2022-10-06","23:14:58"
+"521952","bem interessante, vou compilar e disponibilizar um binario dele","2022-10-06 23:17:30","36899061","2022-10-06","23:17:30"
+"521953","Dentro do repo do big?","2022-10-06 23:20:29","25962582","2022-10-06","23:20:29"
+"521954","sim, mas acho que vou por no AUR tb o binario","2022-10-06 23:20:56","36899061","2022-10-06","23:20:56"
+"521955","Acho que vai levar outro carão do brunão","2022-10-06 23:21:30","25962582","2022-10-06","23:21:30"
+"521956","Kkkk","2022-10-06 23:21:34","25962582","2022-10-06","23:21:34"
+"521957","https://github.com/kyechou/leagueoflegends
+é só um instalador, não tem o LOL dentro dele, então pode.","2022-10-06 23:22:07","36899061","2022-10-06","23:22:07"
+"521958","Aaaah","2022-10-06 23:22:22","25962582","2022-10-06","23:22:22"
+"521959","só preciso ter saco de escrever os PKGBUILDs todos.","2022-10-06 23:22:49","36899061","2022-10-06","23:22:49"
+"521960","hoje criei um auto-verificador de versão de programas no git para manter pacotes atualizados no AUR","2022-10-06 23:23:44","36899061","2022-10-06","23:23:44"
+"521961","deu bom!","2022-10-06 23:50:13","1221507874","2022-10-06","23:50:13"
+"521963","só que não","2022-10-06 23:55:47","1221507874","2022-10-06","23:55:47"

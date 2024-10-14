@@ -1,0 +1,125 @@
+"message_id","message","message_utc","from_id","date","time"
+"530037","isso acontece na minha VM ""kvm/qemu + irtmanager"" se tento instalar o manjaro em EXT4 com / e /home separadas","2022-11-21 00:30:50","36899061","2022-11-21","00:30:50"
+"530039","Najib [5534902248] para participar neste grupo, defina, nas configurações do Telegram, um nome de usuário e clique em ""Feito!"". 
+Ação: Silenciado 🔇","2022-11-21 00:48:50","5298578702","2022-11-21","00:48:50"
+"530040","hey macho","2022-11-21 00:58:31","285338787","2022-11-21","00:58:31"
+"530041","pra enviar arquivos Via  via Bluetootoh 
+Linux > Idevice android","2022-11-21 00:59:13","285338787","2022-11-21","00:59:13"
+"530042","eu preciso de algum comando no Big?","2022-11-21 00:59:23","285338787","2022-11-21","00:59:23"
+"530043","gostei pra carai do KDE conect ta tudo funcionando redondinho mais fui testar enviar arquivos tipos musicas e não ta indo","2022-11-21 01:00:05","285338787","2022-11-21","01:00:05"
+"530044","não faço ideia, nunca usei BT.","2022-11-21 01:01:35","36899061","2022-11-21","01:01:35"
+"530045","vc deu permissão no android para o kdeconect gravar arquivos?","2022-11-21 01:02:05","36899061","2022-11-21","01:02:05"
+"530046","como faço isso e no proprio celular?","2022-11-21 01:02:22","285338787","2022-11-21","01:02:22"
+"530047","sim, no celular, tem entrar na parte de permissões.
+agora num me pergunte muito onde fica, cada android fica num lugar diferente, alguns perguntam na hora que vc tenta, outros não.
+e eu não sou muito esperto com android, quase não uso celular.","2022-11-21 01:03:13","36899061","2022-11-21","01:03:13"
+"530048","acho que e la na parte de depuração","2022-11-21 01:03:44","285338787","2022-11-21","01:03:44"
+"530049","na parte de desenvolvedor","2022-11-21 01:03:56","285338787","2022-11-21","01:03:56"
+"530050","vi aqui uns comando em um forum no linux geral","2022-11-21 01:04:24","285338787","2022-11-21","01:04:24"
+"530051","tipo tem que fazer esses comandos","2022-11-21 01:04:35","285338787","2022-11-21","01:04:35"
+"530052","lspci","2022-11-21 01:04:37","285338787","2022-11-21","01:04:37"
+"530053","ou lsusb","2022-11-21 01:04:43","285338787","2022-11-21","01:04:43"
+"530054","No big e aplicavel?","2022-11-21 01:04:53","285338787","2022-11-21","01:04:53"
+"530055","sim, 
+LS = Listar 
+PCI = placas controladoras nativa ou plugadas a placa mãe
+USB = acho que esse dispensa comentarios.
+lspci = listar as controladoras
+lsusb = listar a portas USBs","2022-11-21 01:06:19","36899061","2022-11-21","01:06:19"
+"530056","blz vou testar","2022-11-21 01:06:36","285338787","2022-11-21","01:06:36"
+"530057","até peguei meu celular aki, no meu tem que segurar o icone do kdeconect > informações do app > permissões","2022-11-21 01:07:59","36899061","2022-11-21","01:07:59"
+"530058","prioridade pra mim e o KDE conect gostei muito da ferramentar","2022-11-21 01:08:29","285338787","2022-11-21","01:08:29"
+"530059","vou ver primeiro ele","2022-11-21 01:08:38","285338787","2022-11-21","01:08:38"
+"530063","https://youtu.be/_ybwGqrWUeA","2022-11-21 10:14:02","650985146","2022-11-21","10:14:02"
+"530064","Pessoal, bom dia.
+Estou executando esse comando: 
+
+sshpass -p 'password' ssh xx@ftp.xxx.xx.xxx ""tail -f .pm2/logs/API-out.log""
+
+Mesmo informando o Usuário/Senha corretamente simplesmente não faz nada no Shell só desceu uma linha e pronto...'","2022-11-21 10:21:44","682848142","2022-11-21","10:21:44"
+"530066","se vc acessar o servidor ""sem passar o comando no final"" e der o comando do final separado ele responde?","2022-11-21 10:56:44","36899061","2022-11-21","10:56:44"
+"530067","Poderia me mandar um exemplo? Estou vooando s em entender o_O' desculpa...","2022-11-21 10:58:59","682848142","2022-11-21","10:58:59"
+"530068","sshpass -p 'password' ssh xx@ftp.xxx.xx.xxx 
+e aperta entrer, isso vai vc entrar no servidor ssh
+
+depois vc da o comando:
+tail -f .pm2/logs/API-out.log","2022-11-21 11:06:27","36899061","2022-11-21","11:06:27"
+"530069","Faz a mesma coisa, apenas desce para linha seguinte no shell","2022-11-21 11:10:05","682848142","2022-11-21","11:10:05"
+"530070","manda print","2022-11-21 11:10:26","36899061","2022-11-21","11:10:26"
+"530072","Programa gFtp eu consigo acessar.
+Porém preciso monitar o Log com Tail e essa foi a única forma que eu consegui fazer até porque nem tenho muita expertise nisso","2022-11-21 11:11:24","682848142","2022-11-21","11:11:24"
+"530073","hummm, não ta acessando o server, faz tempo que não uso sshpass","2022-11-21 11:11:44","36899061","2022-11-21","11:11:44"
+"530074","tenta colocar o password entre "" e não '","2022-11-21 11:13:03","36899061","2022-11-21","11:13:03"
+"530075","veja se entra no server","2022-11-21 11:13:10","36899061","2022-11-21","11:13:10"
+"530076","Tentei:
+'senha'
+""senha""
+senha (sem aspas)","2022-11-21 11:16:00","682848142","2022-11-21","11:16:00"
+"530077","Que zuado isso kkk","2022-11-21 11:16:08","682848142","2022-11-21","11:16:08"
+"530078","nada?","2022-11-21 11:16:31","36899061","2022-11-21","11:16:31"
+"530079","ssh xxx@xxx.xxx.xxx.net
+ele funciona","2022-11-21 11:16:46","682848142","2022-11-21","11:16:46"
+"530080","Se eu passar o SSHPASS ele não aceita kkk","2022-11-21 11:16:52","682848142","2022-11-21","11:16:52"
+"530081","Antes de formatar o PC com MJR UEFI estava funcionando do mesmo jeito que lhe enivei com sshpass","2022-11-21 11:17:26","682848142","2022-11-21","11:17:26"
+"530082","estou sem entender porque el resolveu fazer greve loL","2022-11-21 11:17:33","682848142","2022-11-21","11:17:33"
+"530083","te falar que já passei uns maus bucados com esse sshpass","2022-11-21 11:18:08","36899061","2022-11-21","11:18:08"
+"530084","ahhhhh, lembrei de uma coisa, tem que criar um arquivo de hosts conhecidos no pasta ~/.ssh não?","2022-11-21 11:18:57","36899061","2022-11-21","11:18:57"
+"530085","quando vc acessou ele perguntou se vc queria salvar em known_hosts ?","2022-11-21 11:19:51","36899061","2022-11-21","11:19:51"
+"530086","Nem dúvid viu","2022-11-21 11:25:31","682848142","2022-11-21","11:25:31"
+"530087","Não fiz isso /home/linux/.ssh?","2022-11-21 11:25:44","682848142","2022-11-21","11:25:44"
+"530088","Nome do meu usuário é Linux mesmo rsrs","2022-11-21 11:25:53","682848142","2022-11-21","11:25:53"
+"530089","Nem perguntou isso","2022-11-21 11:25:59","682848142","2022-11-21","11:25:59"
+"530091","abre essa pasta no terminal e de o comando:
+ls  -lh
+e manda print","2022-11-21 11:27:14","36899061","2022-11-21","11:27:14"
+"530093","o arquivo foi alterado as 08:16 da manha de hoje, ou seja, ele de ter incluso o server nele, tenta de novo acessar com o sshpass agora.","2022-11-21 11:29:18","36899061","2022-11-21","11:29:18"
+"530094","Funcionou aplicando ""strict""
+
+sshpass -p 'password' ssh -o stricthostkeychecking=no host@xx.xxx.xx.net","2022-11-21 11:30:00","682848142","2022-11-21","11:30:00"
+"530095","nossa, agora vc me fez voltar uns 10 anos no tempo, KKKKKKKKKKKKKK","2022-11-21 11:30:38","36899061","2022-11-21","11:30:38"
+"530096","Achei uma pessoa relatando o mesmo prolema","2022-11-21 11:31:03","682848142","2022-11-21","11:31:03"
+"530097","Não sabia da necessidade de passar o ""strict""","2022-11-21 11:31:10","682848142","2022-11-21","11:31:10"
+"530098","Isso foi bom? kkk","2022-11-21 11:31:23","682848142","2022-11-21","11:31:23"
+"530099","não, hahahahahahahaha","2022-11-21 11:31:38","36899061","2022-11-21","11:31:38"
+"530100","kkkkkkkkk","2022-11-21 11:31:42","682848142","2022-11-21","11:31:42"
+"530101","Muito obrigado campeão","2022-11-21 11:31:57","682848142","2022-11-21","11:31:57"
+"530102","lembrei que apanhei muuuuito uma vez por conta desse strict, isso tava escondido nas memorias, vc trouxe a tona.","2022-11-21 11:32:23","36899061","2022-11-21","11:32:23"
+"530103","Entendi porque não foi uma lembrança boa kkkk","2022-11-21 11:32:38","682848142","2022-11-21","11:32:38"
+"530105","Alarcon [5571306385] para participar neste grupo, defina, nas configurações do Telegram, um nome de usuário e clique em ""Feito!"". 
+Ação: Silenciado 🔇","2022-11-21 11:58:57","5298578702","2022-11-21","11:58:57"
+"530116","Gnome boxes só configura o mínimo pra rodar uma VM","2022-11-21 19:15:09","883083059","2022-11-21","19:15:09"
+"530107","Wright [5834891678] para participar neste grupo, defina, nas configurações do Telegram, um nome de usuário e clique em ""Feito!"". 
+Ação: Silenciado 🔇","2022-11-21 14:32:52","5298578702","2022-11-21","14:32:52"
+"530108","Pessoal, bom dia.
+Como eu faço para configurar o Vídeo para 64MB e Configurar Placa de Rede para Bridge no Boxes (Gnome) ??","2022-11-21 14:58:31","682848142","2022-11-21","14:58:31"
+"530110","Ywksvk [5041872853] para participar neste grupo, defina, nas configurações do Telegram, um nome de usuário e clique em ""Feito!"". 
+Ação: Silenciado 🔇","2022-11-21 15:16:32","5298578702","2022-11-21","15:16:32"
+"530112",".-.","2022-11-21 17:56:58","682848142","2022-11-21","17:56:58"
+"530114","Martin [5501449823] para participar neste grupo, defina, nas configurações do Telegram, um nome de usuário e clique em ""Feito!"". 
+Ação: Silenciado 🔇","2022-11-21 18:11:24","5298578702","2022-11-21","18:11:24"
+"530117","Que tenso...
+Já estava até querendo fazer um tchau para VirtualBox rsrs","2022-11-21 19:15:30","682848142","2022-11-21","19:15:30"
+"530118","Vi um pessoal configurando com virt-manager, o que não faz o menor sentido já que é mais fácil usar direto o virt-manager","2022-11-21 19:17:02","883083059","2022-11-21","19:17:02"
+"530119","Configurar bridge é um pé no saco","2022-11-21 19:18:33","883083059","2022-11-21","19:18:33"
+"530120","https://gitlab.gnome.org/GNOME/gnome-boxes/-/issues/546","2022-11-21 19:19:28","883083059","2022-11-21","19:19:28"
+"530121","Pessoal, boa tarde.
+Alguém tem expertise de como conectar-se via VPN com MJR?
+
+Eu tenho o Certificado e o Arquivo de Configuração .opvn
+
+Tentei tudo que sei mais sou noob.
+No Windows é fácil de fazer...
+Não deve ser tão difícil assim no Linux","2022-11-21 19:24:58","682848142","2022-11-21","19:24:58"
+"530122","só fiz uma vez a uns 15 anos atrás, mas acho que é aki não?","2022-11-21 19:31:27","36899061","2022-11-21","19:31:27"
+"530123","No gnome não tem","2022-11-21 19:34:18","682848142","2022-11-21","19:34:18"
+"530124","Você é KDE :D","2022-11-21 19:34:27","682848142","2022-11-21","19:34:27"
+"530125","o_O eita","2022-11-21 19:35:01","682848142","2022-11-21","19:35:01"
+"530126","tem, pera","2022-11-21 19:35:03","682848142","2022-11-21","19:35:03"
+"530127","só posso te dizer uma coisa:
+meus pêsames.
+hehehehe","2022-11-21 19:37:11","36899061","2022-11-21","19:37:11"
+"530128","Pra hibernar precisa, obrigatoriamente, de swap?","2022-11-21 20:18:16","1037354847","2022-11-21","20:18:16"
+"530129","Kkkm","2022-11-21 20:32:34","682848142","2022-11-21","20:32:34"
+"530130","Sim","2022-11-21 21:14:23","25962582","2022-11-21","21:14:23"
+"530131","Eita... Você quis dizer... Plasma. 🤣","2022-11-21 22:01:18","171155368","2022-11-21","22:01:18"
+"530133","eu nao gosto de hibernar  o pc","2022-11-21 22:50:23","248334232","2022-11-21","22:50:23"

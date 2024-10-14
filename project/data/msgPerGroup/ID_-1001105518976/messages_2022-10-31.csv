@@ -1,0 +1,16 @@
+"message_id","message","message_utc","from_id","date","time"
+"58313","Pessoal, aconteceu um problema aqui. Eu atualizei o pacote linux firmware aqui e o som parou de funcionar. Reiniciei o sistema e o problema continua. E  o microfone que eu encaixo atrás nem aparece mais disponível. Como arrumar isso no Ubuntu?","2022-10-31 21:24:56","734016011","2022-10-31","21:24:56"
+"58314","sudo systemctl status pulseaudio
+[sudo] senha para user:         
+Unit pulseaudio.service could not be found.","2022-10-31 21:25:07","734016011","2022-10-31","21:25:07"
+"58315","Esse tutorial não me ajudou:
+https://youtu.be/4mU6e-OFNR8","2022-10-31 21:29:44","734016011","2022-10-31","21:29:44"
+"58316","Tentando isso aqui:
+https://www.linuxmint.com.br/discussion/50985/como-reativar-som-pelos-alto-falantes-em-atualizacoes-do-mint-e-outras-distros/p1
+
+Vou reiniciar pra ver se pega","2022-10-31 21:35:23","734016011","2022-10-31","21:35:23"
+"58317","Os controles voltaram ao normal mas só ouço ruído e nada de som.","2022-10-31 21:40:08","734016011","2022-10-31","21:40:08"
+"58318","Aqui os arquivos do meu log de boot:
+https://pastebin.com/AsX9WeHc
+Devo pegar os arquivos do live cd e colar no lugar dos arquivos da distro instalada no pc?","2022-10-31 22:05:58","734016011","2022-10-31","22:05:58"
+"58319","Alguém pode passar os arquivos de configuração de audio pra eu colar por cima dos meus? Estou sem som até agora.","2022-10-31 22:12:02","734016011","2022-10-31","22:12:02"

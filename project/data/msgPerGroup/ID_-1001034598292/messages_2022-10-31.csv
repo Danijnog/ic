@@ -1,0 +1,74 @@
+"message_id","message","message_utc","from_id","date","time"
+"527066","Agora que vi que o Creto voltou tbm kkkkkkj","2022-10-31 15:20:10","883083059","2022-10-31","15:20:10"
+"527039","Regras para pedir ajuda no Grupo Manjaro Linux Brasil
+
+👉 - Não pergunte se alguém pode ajudar, fale qual o seu problema e/ou dificuldade e faça a pergunta direta, sem rodeios.
+
+👉 - Quando pedir suporte, esteja com seu equipamento em mãos e disposição para resolver o teu problema. Mande screenshots ou fotos (de preferencia modo horizontal de qualidade visível) e informações do problema.
+- Abra o terminal e digite o comando inxi -b e mande print das informações
+- Descreva (com o máximo de detalhes possíveis) o teu problema
+-Se estiver seguindo algum tutorial, mande o link;
+
+👉 - Descreva as tentativas que por ventura tenha realizado para tentar resolver esse problema.","2022-10-31 02:55:59","5298578702","2022-10-31","02:55:59"
+"527041","Regras do Grupo 
+
+Bem-vindo  ao grupo Manjaro Brasil
+
+Antes de mais nada, atente a esse aviso:
+
+🗣 - Esse grupo é para ideias, sugestões e ajuda sobre o Manjaro. Os membros e admins do grupo não são suporte técnico 24/7 
+
+Regras do Grupo
+👉 - Não tratar os membros do grupo como otários ou idiotas
+👉 - Não pedir dinheiro ou dar dicas de investimento em Cripto moedas aos membros do grupo
+👉 - Não divulgar redes sociais sem permissão de um ADM
+👉 - Não dar ""spoiler"" de filmes, séries e animes
+👉 - Nesse grupo são permitidos e incentivados assuntos ""Off Topic"" porém não serão tolerados assuntos contendo religião, política, pornografia, orientação e preferências sexuais bem como palavras de baixo calão
+👉 - Não entrar no PV de alguém sem a autorização prévia do membro do grupo
+👉 - Quando pedir suporte, esteja com seu equipamento em mãos, pra que você possa mandar screenshots e informações do problema.","2022-10-31 02:56:05","5298578702","2022-10-31","02:56:05"
+"527058","Um dia aprendo a ser que nem esse Bot kkk","2022-10-31 11:55:50","702350574","2022-10-31","11:55:50"
+"527062","@jGFybh30is18soen [5748131972] banido.","2022-10-31 14:17:51","5298578702","2022-10-31","14:17:51"
+"527063","Como assim?","2022-10-31 14:17:56","25962582","2022-10-31","14:17:56"
+"527067","Aí José, não foi só eu kkkkkkj","2022-10-31 15:20:25","883083059","2022-10-31","15:20:25"
+"527068","Tudo jóia com você meu jovem?! Espero que com saúde e muita paz, não esquecendo do café que é básico","2022-10-31 15:34:15","702350574","2022-10-31","15:34:15"
+"527069","pessoal, como eu altero a cor da linha do terminal no manjaro kde?","2022-10-31 21:17:23","1408704513","2022-10-31","21:17:23"
+"527072","ai onde ta escrito ~/Documents/programs","2022-10-31 21:18:03","1408704513","2022-10-31","21:18:03"
+"527073","e a cor da letra","2022-10-31 21:18:08","1408704513","2022-10-31","21:18:08"
+"527074","o .zshrc aponta pra um arquivo em /usr/share/zsh","2022-10-31 21:18:25","1408704513","2022-10-31","21:18:25"
+"527075","mas nao entendi muito bem e nao quis mexer pra evitar fazer merda","2022-10-31 21:18:41","1408704513","2022-10-31","21:18:41"
+"527076","alguem sabe como alterar?","2022-10-31 21:18:49","1408704513","2022-10-31","21:18:49"
+"527077","Não tenho certeza se isso é tema do zsh ou do konsole","2022-10-31 21:22:57","25962582","2022-10-31","21:22:57"
+"527078","Mas vai nas configurações de perfil dentro do konsole e tenta mudar","2022-10-31 21:23:15","25962582","2022-10-31","21:23:15"
+"527080","a letra e o fundo do terminal mudaram de cor mas ali a barra que diz onde estou no sistema nao","2022-10-31 21:26:56","1408704513","2022-10-31","21:26:56"
+"527081","ai suspeito que seja nas configuraçôes do zsh mesmo","2022-10-31 21:27:11","1408704513","2022-10-31","21:27:11"
+"527082","Uma dica:
+Se você digitar APENAS o comando xrandr no Terminal, a resposta mostra a resolução atual e o LIMITE de MÍNIMO e MÁXIMO do monitor.
+Daí como exemplo, se o comando mostra que o máximo é 1600, não adianta tentar forçar 1601+. 
+
+Eu usava adaptador DVI antes","2022-10-31 21:33:20","465789308","2022-10-31","21:33:20"
+"527083","A parte verde? É o tema do zsh mesmo","2022-10-31 21:34:39","25962582","2022-10-31","21:34:39"
+"527084","Do powerlevel10k","2022-10-31 21:34:49","25962582","2022-10-31","21:34:49"
+"527085","pesquisei aqui","2022-10-31 21:40:21","1408704513","2022-10-31","21:40:21"
+"527086","rodei o configurador que vem no tema mas ele nao oferece configuracao das cores","2022-10-31 21:40:42","1408704513","2022-10-31","21:40:42"
+"527087","pelomenos eu nao achei","2022-10-31 21:40:46","1408704513","2022-10-31","21:40:46"
+"527088","Tenta mudar nas preferências do Terminal","2022-10-31 21:53:57","465789308","2022-10-31","21:53:57"
+"527089","No final desta matéria fala algo de cor:
+
+https://medium.com/opensanca/personalizando-o-terminal-com-powerlevel10k-6c2609360a55","2022-10-31 21:54:11","465789308","2022-10-31","21:54:11"
+"527090","Já fiz isso aqui","2022-10-31 21:54:21","1408704513","2022-10-31","21:54:21"
+"527091","to na documentacao do powerlevel10k aqui vendo oq da pra fazer","2022-10-31 21:54:52","1408704513","2022-10-31","21:54:52"
+"527092","Dá pra fazer isso aqui:
+
+https://github.com/romkatv/powerlevel10k#how-do-i-change-prompt-colors","2022-10-31 22:03:53","465789308","2022-10-31","22:03:53"
+"527093","Mais especificamente:
+
+https://github.com/romkatv/powerlevel10k#set-colors-through-Powerlevel10k-configuration-parameters","2022-10-31 22:05:13","465789308","2022-10-31","22:05:13"
+"527094","ja achei como muda, vlw","2022-10-31 22:06:12","1408704513","2022-10-31","22:06:12"
+"527095","jaja mando aqui como ficou","2022-10-31 22:06:17","1408704513","2022-10-31","22:06:17"
+"527097","que tal?","2022-10-31 22:09:27","1408704513","2022-10-31","22:09:27"
+"527098","as cores das letras ainda ta meio confuso mas vou arrumando isso","2022-10-31 22:09:39","1408704513","2022-10-31","22:09:39"
+"527099","Já tá ficando bom, só customizar mais.
+Quando ficar 100%, recomendo salvar um backup do seu arquivo em algum lugar pra caso precise novamente algum dia, não ter a trabalheira de novo","2022-10-31 22:15:12","465789308","2022-10-31","22:15:12"
+"527100","sim, vou fazer isso","2022-10-31 22:16:19","1408704513","2022-10-31","22:16:19"
+"527101","obrigado","2022-10-31 22:16:43","1408704513","2022-10-31","22:16:43"
+"527102","Safo, sem chorumelas, eficaz, rápido e prático 😉","2022-10-31 22:59:37","702350574","2022-10-31","22:59:37"

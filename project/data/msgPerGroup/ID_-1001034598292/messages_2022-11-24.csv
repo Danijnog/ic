@@ -1,0 +1,136 @@
+"message_id","message","message_utc","from_id","date","time"
+"530368","O iwd?","2022-11-24 00:31:35","25962582","2022-11-24","00:31:35"
+"530348","Só foi escrito pela intel","2022-11-24 00:03:08","883083059","2022-11-24","00:03:08"
+"530349","A wiki em português está um pouco diferente","2022-11-24 00:06:57","883083059","2022-11-24","00:06:57"
+"530350","Tá sem as notas","2022-11-24 00:07:07","883083059","2022-11-24","00:07:07"
+"530351","Em inglês eu entendi que era só instalar e não precisava fazer mais nada","2022-11-24 00:07:30","883083059","2022-11-24","00:07:30"
+"530352","Instalei, e realmente a conexão me parece mais estável.","2022-11-24 00:07:54","118306369","2022-11-24","00:07:54"
+"530353","Por causa da nota","2022-11-24 00:07:54","883083059","2022-11-24","00:07:54"
+"530354","Só percebi que tinha que fazer o arquivo depois que acessei o systemd e o iwd não tava rodando","2022-11-24 00:13:17","883083059","2022-11-24","00:13:17"
+"530355","Eu coloquei o link pra fazer o arquivo pro network manager usar o iwd","2022-11-24 00:21:03","25962582","2022-11-24","00:21:03"
+"530356","Eu sei, é que na wiki parece que é só instalar que tudo funciona por causa da nota ""Do not enable iwd.service or manually configure iwd.""","2022-11-24 00:25:11","883083059","2022-11-24","00:25:11"
+"530357","Mas sim, você precisa configurar manualmente kkkkkkj","2022-11-24 00:25:44","883083059","2022-11-24","00:25:44"
+"530358","Em português já não tem essa nota","2022-11-24 00:25:53","883083059","2022-11-24","00:25:53"
+"530359","Não o iwd mas o Networkmanager","2022-11-24 00:27:34","883083059","2022-11-24","00:27:34"
+"530360","Aí me confundiu","2022-11-24 00:27:51","883083059","2022-11-24","00:27:51"
+"530361","Se vc ativar o serviço do iWD pelo que entendi ele substitui o network manager","2022-11-24 00:28:16","25962582","2022-11-24","00:28:16"
+"530362","Não pow, os dois funcionam em conjunto","2022-11-24 00:28:55","883083059","2022-11-24","00:28:55"
+"530363","Na verdade vc configura o network manager não o iWD","2022-11-24 00:28:59","25962582","2022-11-24","00:28:59"
+"530364","Ele substitui o wpa_supplicant","2022-11-24 00:29:08","883083059","2022-11-24","00:29:08"
+"530365","Sim e se ativar o serviço substitui também o network manager","2022-11-24 00:29:32","25962582","2022-11-24","00:29:32"
+"530366","Na instalação do arch eu uso ele","2022-11-24 00:30:10","883083059","2022-11-24","00:30:10"
+"530367","É tranquilo acessar uma rede com ele","2022-11-24 00:30:28","883083059","2022-11-24","00:30:28"
+"530369","Nunca usei","2022-11-24 00:31:50","25962582","2022-11-24","00:31:50"
+"530370","Sempre coloco no cabo e já era","2022-11-24 00:31:56","25962582","2022-11-24","00:31:56"
+"530371","Uhum","2022-11-24 01:17:40","883083059","2022-11-24","01:17:40"
+"530372","Te falar... nunca usei cabo pra instalar kkkkkkj","2022-11-24 01:18:06","883083059","2022-11-24","01:18:06"
+"530373","Sem ser o iwd é uma merda conectar","2022-11-24 01:18:30","883083059","2022-11-24","01:18:30"
+"530374","nunca usei wifi","2022-11-24 01:18:40","25962582","2022-11-24","01:18:40"
+"530375","acho dor de cabeça","2022-11-24 01:18:47","25962582","2022-11-24","01:18:47"
+"530376","Neh nada pow","2022-11-24 01:19:20","883083059","2022-11-24","01:19:20"
+"530377","Só entrar no iwctl","2022-11-24 01:19:26","883083059","2022-11-24","01:19:26"
+"530378","E é praticamente duas linha que você vai usar","2022-11-24 01:19:46","883083059","2022-11-24","01:19:46"
+"530379","então usei errado na ultima vez que usei","2022-11-24 01:20:11","25962582","2022-11-24","01:20:11"
+"530380","como que faz pra entrar?","2022-11-24 01:20:18","25962582","2022-11-24","01:20:18"
+"530384","Smile [5733304291] para participar neste grupo, defina, nas configurações do Telegram, um nome de usuário e clique em ""Feito!"". 
+Ação: Silenciado 🔇","2022-11-24 01:27:19","5298578702","2022-11-24","01:27:19"
+"530385","# entra no prompt do iwd
+iwctl
+
+# listar os dispositivos pra saber o nome
+device list
+
+# pra scanear as redes disponíveis 
+station nome-dispositivo scan
+
+# pra ver as redes
+station nome-dispositivo get-networks
+
+# pra acessar
+station nome-dispositivo connect SSID --passphrase senha","2022-11-24 01:27:26","883083059","2022-11-24","01:27:26"
+"530387","disse que era uma linha","2022-11-24 01:28:31","25962582","2022-11-24","01:28:31"
+"530388","kkkkk","2022-11-24 01:28:32","25962582","2022-11-24","01:28:32"
+"530389","tem 3 já","2022-11-24 01:28:35","25962582","2022-11-24","01:28:35"
+"530390","mas foi isso ai mesmo que usei","2022-11-24 01:28:39","25962582","2022-11-24","01:28:39"
+"530391","mó saco","2022-11-24 01:28:41","25962582","2022-11-24","01:28:41"
+"530392","# Ainda dá pra tacar tudo em uma mesma linha
+iwctl --passphrase senha station nome-dispositivo connect SSID","2022-11-24 01:28:43","883083059","2022-11-24","01:28:43"
+"530393","Pronto kkkkkkj","2022-11-24 01:29:47","883083059","2022-11-24","01:29:47"
+"530394","oq seria esse nome do dispositivo?","2022-11-24 01:30:08","25962582","2022-11-24","01:30:08"
+"530395","wlan0 ou algo parecido","2022-11-24 01:30:43","883083059","2022-11-24","01:30:43"
+"530396","Pra saber quais dispositivos estão acessíveis é só mandar um device list dentro do iwctl","2022-11-24 01:31:05","883083059","2022-11-24","01:31:05"
+"530397","ou fazer o ip link","2022-11-24 01:31:24","883083059","2022-11-24","01:31:24"
+"530398","isso aqui é dentrou ou fora do iwd?","2022-11-24 01:32:01","25962582","2022-11-24","01:32:01"
+"530399","Fora","2022-11-24 01:32:17","883083059","2022-11-24","01:32:17"
+"530400","Eu faço assim porque nunca estou com cabo e teria que sair do meu quarto kkkkkkj","2022-11-24 01:36:03","883083059","2022-11-24","01:36:03"
+"530401","Caso aparece isso durante a instalação do arch vai precisar ativar o serviço dhcpd ou systemd-networkd pra pegar um ip dinâmico ou colocar um ip estático","2022-11-24 01:51:09","883083059","2022-11-24","01:51:09"
+"530403","@CrowlKeyn [883083059] removido de 👷🏻‍♂️ Moderador.","2022-11-24 02:05:13","5298578702","2022-11-24","02:05:13"
+"530405","@CrowlKeyn [883083059] foi feito 👮🏻‍♂️ Administrador.","2022-11-24 02:05:23","5298578702","2022-11-24","02:05:23"
+"530406","Ativo antes de configurar o iwd?","2022-11-24 02:11:39","25962582","2022-11-24","02:11:39"
+"530407","É bom, se n acho que vai ter que restartar o serviço do iwd","2022-11-24 02:28:33","883083059","2022-11-24","02:28:33"
+"530413","Pessoal, bom dia para todos.
+Teria algum problema trocar de ZSH para BASH no Manjaro Gnome?","2022-11-24 11:07:44","682848142","2022-11-24","11:07:44"
+"530414","Bom dia
+O sistema é seu, você faz o que quiser :)","2022-11-24 13:03:03","258555872","2022-11-24","13:03:03"
+"530432","@JOYCEVASCONCELO11 [5984831481] banido.
+Motivo: pixchato","2022-11-24 16:51:59","5298578702","2022-11-24","16:51:59"
+"530415","Bom dia, Renata.
+Concorda que pareceu uma resposta um tanto ríspida?
+Minha dúvida é a respeito se isso compromete em algo o MJR.
+De qualquer modo, obrigado","2022-11-24 13:15:09","682848142","2022-11-24","13:15:09"
+"530416","bom dia, eu acho que quando você quer modificar seu proprio sistema, você é o dono, você faz o que quiser, estando no sistema gnu/linux, você não tem limites... mas se pareceu rispido, desculpe, não foi minha intenção..","2022-11-24 13:17:06","258555872","2022-11-24","13:17:06"
+"530417","e o que seria MJR?","2022-11-24 13:18:09","258555872","2022-11-24","13:18:09"
+"530418","Manjaro","2022-11-24 13:20:41","682848142","2022-11-24","13:20:41"
+"530419","você está somente mudando seu shell, não afetando seu sistema como um todo...","2022-11-24 13:21:04","258555872","2022-11-24","13:21:04"
+"530420","Já tive uns crash no MJR não queria ter que aprender do jeito difícil.
+Muito obrigado 😀😁","2022-11-24 13:21:39","682848142","2022-11-24","13:21:39"
+"530421","mudando o shell não tem problema nenhum. o que pode causar problema em crashar, pode ser alguma coisa mais forte do que você fez, mas mudar shell não afeta em nada o sistema, você está somente mudando a sua area do terminal","2022-11-24 13:22:35","258555872","2022-11-24","13:22:35"
+"530422","Entendi,deve tudo funciona bem então :D","2022-11-24 13:23:27","682848142","2022-11-24","13:23:27"
+"530423","sim.","2022-11-24 13:24:37","258555872","2022-11-24","13:24:37"
+"530424","Muito obrigado ! 😁","2022-11-24 13:24:51","682848142","2022-11-24","13:24:51"
+"530425","tmj \o/","2022-11-24 13:25:49","258555872","2022-11-24","13:25:49"
+"530426","Tmj ! :D","2022-11-24 13:25:59","682848142","2022-11-24","13:25:59"
+"530441","Você só vai perder os recursos que o zsh oferece","2022-11-24 17:53:47","883083059","2022-11-24","17:53:47"
+"530434","@Joycevasconcelos3699 [5456002495] banido.
+Motivo: pixchato","2022-11-24 16:52:37","5298578702","2022-11-24","16:52:37"
+"530435","✅ Processo de Remover contas apagadas (6) concluído.","2022-11-24 16:55:38","5298578702","2022-11-24","16:55:38"
+"530436","boa tarde pessoal toda vez q eu vou pra outro local tentar conectar em outro wi-fi","2022-11-24 17:10:13","204930109","2022-11-24","17:10:13"
+"530437","o ícone de rede do meu manjara some","2022-11-24 17:10:37","204930109","2022-11-24","17:10:37"
+"530438","alguém já teve esse problema?","2022-11-24 17:10:45","204930109","2022-11-24","17:10:45"
+"530439","Oloko","2022-11-24 17:16:30","25962582","2022-11-24","17:16:30"
+"530440","Que ambiente?","2022-11-24 17:16:43","25962582","2022-11-24","17:16:43"
+"530442","Z-shell é mais moderno que o bash","2022-11-24 17:54:11","883083059","2022-11-24","17:54:11"
+"530443","Bom, no gnome realmente some o ícone no painel quando você não está conectado em nada mas ainda é acessível dentro do mesmo naquelas opções onde fica o botão de desligar, configurações, bateria e etc","2022-11-24 18:00:29","883083059","2022-11-24","18:00:29"
+"530444","Qual DE está utilizando?","2022-11-24 18:00:37","883083059","2022-11-24","18:00:37"
+"530445","Verifica se não tem nenhum erro com
+sudo systemctl status Networkmanager","2022-11-24 18:01:18","883083059","2022-11-24","18:01:18"
+"530446","Isso quando você fizer esse lance de alterar de rede","2022-11-24 18:01:28","883083059","2022-11-24","18:01:28"
+"530447","Alguém sabe como desbloquear essa tela no i3wm depois que ele atualiza?","2022-11-24 18:20:51","412929776","2022-11-24","18:20:51"
+"530448","você bloqueou a tela?","2022-11-24 18:22:47","258555872","2022-11-24","18:22:47"
+"530449","isso é tela de bloqueio de tela","2022-11-24 18:22:54","258555872","2022-11-24","18:22:54"
+"530450","Não, só pedi pra instalar as atualizações depois que fiz a instalação","2022-11-24 18:23:16","412929776","2022-11-24","18:23:16"
+"530451","como assim?","2022-11-24 18:23:27","258555872","2022-11-24","18:23:27"
+"530452","Do nada apareceu essa tela","2022-11-24 18:23:32","412929776","2022-11-24","18:23:32"
+"530453","tenta escrever sua senha","2022-11-24 18:23:45","258555872","2022-11-24","18:23:45"
+"530454","Já tentei","2022-11-24 18:23:57","412929776","2022-11-24","18:23:57"
+"530455","ja tentou colocar outro window manager? pra ver como que funciona? @jose_rafael alguma ideia?","2022-11-24 18:24:35","258555872","2022-11-24","18:24:35"
+"530456","Ontem aconteceu isso, aí eu pensei que tinha sido alguma coisa que fiz. Então refiz a instalação e deixei atualizar sem interferir, mas deu a mesma coisa.","2022-11-24 18:26:06","412929776","2022-11-24","18:26:06"
+"530457","tenta entrar em um tty e refaz a atualização","2022-11-24 18:26:39","258555872","2022-11-24","18:26:39"
+"530458","Certo","2022-11-24 18:27:04","412929776","2022-11-24","18:27:04"
+"530459","Obrigado","2022-11-24 18:27:43","412929776","2022-11-24","18:27:43"
+"530460","é vdd, gosto mt dele, mas o Bash é melhor pra scripts.","2022-11-24 18:28:56","1648094748","2022-11-24","18:28:56"
+"530461","Não uso WM","2022-11-24 18:29:25","25962582","2022-11-24","18:29:25"
+"530462","eu tambem não, ele disse que a tela de bloqueio veio depois de atualizar, não entendi direito","2022-11-24 18:29:59","258555872","2022-11-24","18:29:59"
+"530464","Rapaz essa tela tá dizendo: foi mal e não que seja uma tela de bloqueio","2022-11-24 18:36:56","702350574","2022-11-24","18:36:56"
+"530465","Aparece ao menos a tela do grub na inicialização dessa máquina?","2022-11-24 18:37:52","702350574","2022-11-24","18:37:52"
+"530466","Eu reiniciei a máquina aqui, voltou normal, vou continuar usando aqui pra ver se volta a acontecer.","2022-11-24 18:41:36","412929776","2022-11-24","18:41:36"
+"530467","Interessante 😁🙈","2022-11-24 19:20:42","682848142","2022-11-24","19:20:42"
+"530468","um smartphone parece mais uma powerbank: https://www.youtube.com/watch?v=VkZiiYn9xV0","2022-11-24 22:00:36","248334232","2022-11-24","22:00:36"
+"530471","Resolveram os problemas dos antcheat ? vontade de sair do windows mais  ...... O antcheat não deixa '-'","2022-11-24 22:16:25","5755698775","2022-11-24","22:16:25"
+"530472","Galera, já ouviram falar de um jogo chamado No More Room in Hell?
+
+É feito na source engine, é praticamente um L4D, com mais estratégia. É grátis e tem na Steam. Se alguém quiser jogar, só falar!","2022-11-24 22:45:03","138959269","2022-11-24","22:45:03"
+"530475","Um comando em terminal que já ""te"" salvou?
+Pra mim foi:
+
+<qualquer_um_deles> --help","2022-11-24 23:58:10","702350574","2022-11-24","23:58:10"

@@ -1,0 +1,157 @@
+"message_id","message","message_utc","from_id","date","time"
+"32600","Si","2022-10-12 19:29:13","761322092","2022-10-12","19:29:13"
+"32568","A ver si un día le dedicó un capítulo entero a los promedios, que tienen su aquel.
+
+La pregunta es más bien por el tipo de sensor que vas a elegir y utilizar según la aplicación que tienes que hacer. Porque realmente tampoco se qué tipo de aplicación estás haciendo 😂😂😂
+
+Si es una aplicación de indicación o de automatismo, supongo que tendrás que leer valores en tiempo real y, en función del valor que leas, llevar a cabo algún tipo de acción, como activar algún sistema o dar algún tipo de alarma. En un sistema así, lo normal es que tu micro o lo que construyas realice también el registro de datos quedándose con un dato cada x tiempo. 
+
+Si estas haciendo una aplicación simplemente de registro, puede ser muy interesante que el sensor tenga capacidad de almacenamiento, que seguro que será más caro por eso, y te conectas con tu sistema y le extraes los datos. La ventaja que tiene esa configuración es que si la comunicación o tu sistema falla no se pierden datos porque se quedan almacenados en el sensor. Hay muuuuchas opciones","2022-10-12 17:40:31","288988866","2022-10-12","17:40:31"
+"32576","muchas gracias","2022-10-12 17:50:39","761322092","2022-10-12","17:50:39"
+"32524","rs485 != uart 
+cierto ?","2022-10-12 06:22:56","761322092","2022-10-12","06:22:56"
+"32525","es diferente, pero son seriales ambos","2022-10-12 06:51:36","282971006","2022-10-12","06:51:36"
+"32526","el rs485 esta pensado para comunicaciones a larga distancia y en ambientes ruidosos, uart para perifericos cercanos pensaria que a nivel de tarjeta o equipo","2022-10-12 06:53:22","282971006","2022-10-12","06:53:22"
+"32527","Oki","2022-10-12 06:57:41","761322092","2022-10-12","06:57:41"
+"32528","Muchas gracias","2022-10-12 06:57:45","761322092","2022-10-12","06:57:45"
+"32529","Es que necesito leer rs485 en un micro un arm","2022-10-12 06:58:05","761322092","2022-10-12","06:58:05"
+"32530","Deberías conseguir un chip que haga la conversión a TTL","2022-10-12 07:31:24","282971006","2022-10-12","07:31:24"
+"32531","Sii vi un modulo que hacía eso","2022-10-12 07:31:50","761322092","2022-10-12","07:31:50"
+"32532","Gracias","2022-10-12 07:31:54","761322092","2022-10-12","07:31:54"
+"32533","UART es el chip o la parte de un chip que se dedica a realizar las comunicaciones en serie. RS485 define a qué niveles de tensión se producen esas comunicaciones. Puede ser a niveles TTL, RS485, RS422 o RS232. Normalmente los UART y los micros trabajan siempre a niveles TTL así que, efectivamente, necesitas un conversor de RS485 a TTL","2022-10-12 08:08:46","288988866","2022-10-12","08:08:46"
+"32534","Bueno, más que los niveles de tensión habría que decir que la norma define la arquitectura de la comunicación","2022-10-12 08:10:42","288988866","2022-10-12","08:10:42"
+"32546","me mandaron un sensor que mide 
+presión
+conductividad electrica
+y no se que mas jajaj
+que funciona con rs485 y tengo que tomar esos datos y enviarlos a la nube usando lora","2022-10-12 16:46:31","761322092","2022-10-12","16:46:31"
+"32535","Me acabo de acordar de que el RS485 utiliza los dos mismos cables para emitir y recibir. Es decir, es una transmisión half duplex. Para elegir si estás emitiendo o recibiendo normalmente se usa una señal de control de la UART, de lo que se denominan señales de control de módem, así que necesitas sacar esta señal de algún sitio. Y también en tu micro necesitas un protocolo que gestione esto","2022-10-12 08:22:24","288988866","2022-10-12","08:22:24"
+"32536","lo que se pone entre los pines de la UART y el BUS 485 se denomina Transiver, el transiver se ocupa de la capa fisica que como comentaba Félix se refiere a los niveles de tension y tipo de transimision, en caso de 485 es half duplex diferencial https://www.maximintegrated.com/en/products/interface/transceivers/MAX485.html","2022-10-12 10:34:37","28250704","2022-10-12","10:34:37"
+"32537","para ARM necesitas un transiver de LVTTL https://www.ti.com/interface/rs-485-rs-422/products.html#p0nom=3.3;3.3","2022-10-12 10:35:50","28250704","2022-10-12","10:35:50"
+"32538","Eso mismo iba a decir yo ahora 😂😂😂
+
+Muy bien explicado 👏👏👏","2022-10-12 10:42:13","288988866","2022-10-12","10:42:13"
+"32547","va  aestar entretenido","2022-10-12 16:46:37","761322092","2022-10-12","16:46:37"
+"32539","👆this. La UART es nivel 0 osea el hardware, RS485, RS232 es un protocolo de nivel 1 donde se definen las tensiones eléctricas en la comunicación. Es posible hacer conversiones entre ellos, pero al final el que se encarga en cada extremo de procesar las tramas es la UART que siempre usará niveles TTL","2022-10-12 13:28:34","127534410","2022-10-12","13:28:34"
+"32540","y a nivel de comunicaci[on es decir el protocolo de transmision de informacion sera el mismo es pa ver como lo tengo que hacer jajajaja","2022-10-12 15:45:12","761322092","2022-10-12","15:45:12"
+"32541","sip es orientado a byte con la UART","2022-10-12 15:52:22","28250704","2022-10-12","15:52:22"
+"32542","ah bueno","2022-10-12 15:55:10","761322092","2022-10-12","15:55:10"
+"32543","muchas gracias","2022-10-12 15:59:45","761322092","2022-10-12","15:59:45"
+"32544","Pero atento al cambio. Con RS485 es con la única norma que tienes que preocuparte de si emites o recibes. Y eso se suele manejar con una señal de control de modelo (ahora ya no me acuerdo con cuál porque hace muuuucho tiempo que trabajé con eso a nivel de chip).
+
+En la red que configures lo normal es que haya un maestro y uno o más esclavos. Los esclavos están a la escucha hasta que el maestro les pregunta algo. Entonces activan la transmisión, transmiten lo que tengan que transmitir y vuelven a configurarse a la escucha. Para saber si te han preguntado algo tienes que analizar los bites que te han transmitido según el protocolo que se establezca para la comunicación.
+
+Y por cierto, no se te olviden la resistencias de principio y final de bus, que en RS485 son fundamentales","2022-10-12 16:33:31","288988866","2022-10-12","16:33:31"
+"32545","Hoy x hoy dependiendo el caso, tal vez te convenga implementar CAN... cual es la aplicación?","2022-10-12 16:39:58","28250704","2022-10-12","16:39:58"
+"32548","lora o lorawan?","2022-10-12 16:52:51","28250704","2022-10-12","16:52:51"
+"32549","https://www.dragino.com/products/lora-lorawan-end-node/item/154-rs485-ln.html","2022-10-12 16:53:56","28250704","2022-10-12","16:53:56"
+"32550","Pues tienes que saber qué protocolo utiliza el sensor. Tiene muchas probabilidades de ser CAN pero también podría ser Modbus. Eso es lo primero","2022-10-12 16:56:15","288988866","2022-10-12","16:56:15"
+"32551","habia pensado en eso pero realmente lo que tiene que llegar al concentrador es un json o un csv jajajaja","2022-10-12 16:59:29","761322092","2022-10-12","16:59:29"
+"32552","eso es efectivamente lo que queria saber jajaja 
+no he usado ni CAN ni Modbus jajajaja","2022-10-12 16:59:50","761322092","2022-10-12","16:59:50"
+"32553","Yo no he usado can pero hace mucho tiempo me tocó programar un protocolo modbus. No es difícil, solo hay que estudiarselo, y hoy en día está hasta en Wikipedia 😂😂😂","2022-10-12 17:04:25","288988866","2022-10-12","17:04:25"
+"32560","gracias ;3","2022-10-12 17:15:56","761322092","2022-10-12","17:15:56"
+"32554","jajajajajajaj la información siempre ha estado alli 
+la cosa es entenderlo pero les estaré contando que tal jajaja","2022-10-12 17:06:49","761322092","2022-10-12","17:06:49"
+"32555","Hace un montón de años yo tenía un ordenador portátil con dos puertos serie RS232. Me hice un pequeño programa que me servía de analizador de protocolos. Lo intercalaba en una comunicación serie conectando cada puerto a un extremo. Lo que cogía por un puerto lo echaba por el otro y viceversa, pero se quedaba con todo. Luego con calma podía analizar todos los códigos transmitidos y asegurarme del funcionamiento de las cosas para entenderlas mejor 
+
+Hoy en día hay osciloscopios que los conectas a una transmisión serie y les bajas un software de la casa y te decodifican un protocolo determinado","2022-10-12 17:09:31","288988866","2022-10-12","17:09:31"
+"32556","Puedes mandarnos un enlace al sensor con el que estás intentando trabajar?","2022-10-12 17:11:08","288988866","2022-10-12","17:11:08"
+"32557","ahorita estoy trabajando en la propuesta de cuanto le voy a cobrar jajajaja
+peeeeero cuando los tenga fijo voy a estar aqui molestando y aportando $$ pa que la comunidad crezca tambien jaja","2022-10-12 17:14:21","761322092","2022-10-12","17:14:21"
+"32558","👏👏👏
+
+Y de molestar nada, a mí me estás haciendo desoxidarme y me viene muy bien","2022-10-12 17:15:31","288988866","2022-10-12","17:15:31"
+"32559","oki","2022-10-12 17:15:52","761322092","2022-10-12","17:15:52"
+"32561","Sobre Lora mejor enviar formatos binarios, luego lo convertis a CSV/JSON","2022-10-12 17:19:09","28250704","2022-10-12","17:19:09"
+"32562","si por supuesto 
+en hex se mandan","2022-10-12 17:23:41","761322092","2022-10-12","17:23:41"
+"32563","sinoestoy mal la trama des como de 6 bytes cabe rebien las variables que voy a medir un byte para cada una","2022-10-12 17:24:00","761322092","2022-10-12","17:24:00"
+"32564","Pero vas a usar un sensor que te da lecturas en tiempo real y tú haces el registro o uno que almacena registro de datos tipo datalogger y de vez en cuando le sacas todo el churro?","2022-10-12 17:29:09","288988866","2022-10-12","17:29:09"
+"32565","cada x tiempo se mandan
+entonces trataré de hacer un promedio tal vez de las lecturas entre envios","2022-10-12 17:31:49","761322092","2022-10-12","17:31:49"
+"32566","aún no sé bien si mandar ese dato en tiempo real a la bd","2022-10-12 17:32:08","761322092","2022-10-12","17:32:08"
+"32567","por que de todos modos cada envio repercute en la bateria","2022-10-12 17:32:21","761322092","2022-10-12","17:32:21"
+"32569","si","2022-10-12 17:42:14","761322092","2022-10-12","17:42:14"
+"32570","de hecho ahorita en la primera etapa solo es recoleccion","2022-10-12 17:42:21","761322092","2022-10-12","17:42:21"
+"32571","de datos","2022-10-12 17:42:22","761322092","2022-10-12","17:42:22"
+"32572","entonces hasta cierto punto como POC (prueba de concepto) solo es necesario enviar datos por medio de lora de los sensores para almacenarlos 
+luego se ven esas opciones la micro sd siempre es una opcion para guardar los datos","2022-10-12 17:43:05","761322092","2022-10-12","17:43:05"
+"32573","Es decir, estás leyendo los datos del sensor en tiempo real","2022-10-12 17:45:19","288988866","2022-10-12","17:45:19"
+"32574","si","2022-10-12 17:45:56","761322092","2022-10-12","17:45:56"
+"32575","Ok. Pues cuando ya tengas elegido el sensor, envías el enlace y le echo un ojo a ver en qué te puedo ayudar","2022-10-12 17:49:35","288988866","2022-10-12","17:49:35"
+"32577","Dámelas cuando haya conseguido ayudarte en algo 😂😂😂","2022-10-12 18:04:40","288988866","2022-10-12","18:04:40"
+"32580","no solamente eso, tenes el fair use de lora... Conozco de algunos enlaces loras que solo por estar en un area privada de una universidad no se preocupan demasiado... el Fair Use esta orientado a redes publicas para favorecer que todas y todos tengan chance de ocuparlas , pero si la red es privada ya no aplica a menos que estes interfiriendo otra red... pero si te pones en Fair tampoco parece que estes cumpliendo ""...The LoRa communication technology is based on a free radio frequency spectrum, the ISM frequency band to be precise (Industrial, Scientific and Medical), not subject to a license. It is therefore completely legal to use this frequency band to communicate data between a sensor and a remote application. The only restriction concerns the intensity of its use. It is not allowed to use with a sensor more than 1% of the bandwidth, which technically translates in the transmission of a maximum of 140 messages of 12 bytes per day...."" https://iotfactory.eu/products/private-lorawan-network/","2022-10-12 19:05:36","28250704","2022-10-12","19:05:36"
+"32581","tecnicamente seria lora","2022-10-12 19:07:31","761322092","2022-10-12","19:07:31"
+"32582","sin el wan","2022-10-12 19:07:33","761322092","2022-10-12","19:07:33"
+"32583","jajajaja","2022-10-12 19:07:34","761322092","2022-10-12","19:07:34"
+"32584","ya lo lei todo hmmm 
+bueno lo tomaré en cuenta y s elo trasladare al cliente","2022-10-12 19:09:06","761322092","2022-10-12","19:09:06"
+"32585","A ver si me aclaro porque me estoy despistando un poco. Si has comentado que tienes que conectar un sensor a tu micro vía RS485 entiendo que hay un cable físico entre el sensor y tu micro. Es decir, no está conectado de ninguna manera a ninguna red de otro tipo, sino que simplemente estableces una comunicación directa entre estos dos dispositivos. Entonces no entiendo que tiene que ver eso con el Lora y esas cosas. No se, creo que me estoy liando 🤪","2022-10-12 19:17:01","288988866","2022-10-12","19:17:01"
+"32586","si
+conexion entre sensor y microcontrolador
+luego esos datos se envian de manera inalambrica por medio de protocolo lora hacia una central","2022-10-12 19:18:44","761322092","2022-10-12","19:18:44"
+"32587","como tenes espacios de km no podes llevar cables a tan larga distancia","2022-10-12 19:18:58","761322092","2022-10-12","19:18:58"
+"32588","Ok. Ahora sí entiendo. Bueno, yo de Lora y esas cosas no tengo ni idea, pero de conectar sensores sí que tengo una experiencia","2022-10-12 19:19:48","288988866","2022-10-12","19:19:48"
+"32589","Aunque la mayoría de las veces los he conectado con señales analógicas, especialmente la de 4-20 miliamperios que se usa muchísimo, incluso para distancias muy largas. Pero también en alguna ocasión he utilizado algún protocolo de comunicación tipo modbus o incluso protocolos particulares de cada aparato","2022-10-12 19:21:10","288988866","2022-10-12","19:21:10"
+"32590","si pero imaginate tener 800 sensores de estos en una finca de cafe","2022-10-12 19:21:35","761322092","2022-10-12","19:21:35"
+"32591","jajajaja","2022-10-12 19:21:36","761322092","2022-10-12","19:21:36"
+"32592","Waaaaaawwww! Cuanto mayor es el reto más grande es la gloria! 😂😂😂","2022-10-12 19:23:18","288988866","2022-10-12","19:23:18"
+"32593","Efectivamente necesitas algún tipo de comunicación inalámbrica","2022-10-12 19:23:38","288988866","2022-10-12","19:23:38"
+"32594","Cuál es la distancia máxima entre un sensor y la central que instales?","2022-10-12 19:24:11","288988866","2022-10-12","19:24:11"
+"32595","no lo sé","2022-10-12 19:26:38","761322092","2022-10-12","19:26:38"
+"32596","jajaja pero con lora tenes gateways con cobertura de hasta 10km con un costo de unos $500","2022-10-12 19:26:59","761322092","2022-10-12","19:26:59"
+"32597","jajajaja","2022-10-12 19:27:00","761322092","2022-10-12","19:27:00"
+"32598","Traducido a euros o a dólares americanos?","2022-10-12 19:27:45","288988866","2022-10-12","19:27:45"
+"32599","Y tienes que tener cuidado de que entre las antenas no haya obstáculos importantes, porque si no tendrás problemas","2022-10-12 19:28:26","288988866","2022-10-12","19:28:26"
+"32601","Así es","2022-10-12 19:29:18","761322092","2022-10-12","19:29:18"
+"32602","Eso cuesta el dispositivo que te puede dar cobertura para unos 2mil dispositivos 
+Pero emitiendo cada nunca 
+Al final como son variables de clima por ejemplo a menos de que vivas en un lugar que cambie 25 grados en media hora  no perdés información","2022-10-12 19:30:18","761322092","2022-10-12","19:30:18"
+"32603","Sí, con un dato al minuto tendrás más que de sobra","2022-10-12 19:31:18","288988866","2022-10-12","19:31:18"
+"32604","Naaa al minuto jajaja si es para clima tenes cada hora o cada 3 hr estas hecho","2022-10-12 19:31:58","761322092","2022-10-12","19:31:58"
+"32605","Por que tenes 800 sensores emitiendo un dato jajajaja","2022-10-12 19:32:11","761322092","2022-10-12","19:32:11"
+"32606","En diferentes partes","2022-10-12 19:32:19","761322092","2022-10-12","19:32:19"
+"32613","Y siiiiii los problemas van a estar a la orden del día jajajajaja 
+Ya me vi","2022-10-12 19:40:03","761322092","2022-10-12","19:40:03"
+"32607","Hombre, no se lo estable que es el clima en esa zona, pero en mi trabajo ya se registra todo con más frecuencia, especialmente temperatura ambiente. El otro día me fijé que, el scada de mi trabajo en el que se registran todos los valores, no registra un dato cada cierto tiempo, sino que hace un nuevo apunte cada vez que cambia el valor. Eso quiere decir que a veces tienes un dato cada minuto y otras veces cada 10 minutos. Eso en principio ahorra memoria y cantidad de datos, aunque no sé cuál es el intervalo mínimo","2022-10-12 19:35:29","288988866","2022-10-12","19:35:29"
+"32608","Entonces entiendo que la idea es que cada sensor lo enlazas con un micro tuyo ARM y tu micro enlaza en la red Lora","2022-10-12 19:36:22","288988866","2022-10-12","19:36:22"
+"32609","De todas formas creo que te tienen que especificar un poco más las distancias porque si no te puedes pillar los dedos en el presupuesto o tener más problemas de los que parece. No es lo mismo que entre cada sensor haya 100 metros o que haya 10 km","2022-10-12 19:37:37","288988866","2022-10-12","19:37:37"
+"32610","Si","2022-10-12 19:38:35","761322092","2022-10-12","19:38:35"
+"32611","Así mero es un proyecto grande 
+Las limitaciones al final se definen en esta etapa con el presupuesto jajajaja","2022-10-12 19:38:59","761322092","2022-10-12","19:38:59"
+"32612","Y por el momento no se va a  crear nueva tecnología sino hacer uso de ll que ya está hecho 
+Entonces si el gateway da 4 km de cobertura se especifica","2022-10-12 19:39:51","761322092","2022-10-12","19:39:51"
+"32614","😂😂😂","2022-10-12 19:40:05","761322092","2022-10-12","19:40:05"
+"32615","😂😂😂","2022-10-12 19:41:11","288988866","2022-10-12","19:41:11"
+"32616","y la alimentación?","2022-10-12 19:41:52","28250704","2022-10-12","19:41:52"
+"32617","Es un proyecto colosal y muy bonito.","2022-10-12 19:41:56","288988866","2022-10-12","19:41:56"
+"32618","Si, es muy importante comer equilibrado 😂😂😂","2022-10-12 19:42:09","288988866","2022-10-12","19:42:09"
+"32619","En esta etapa y lo que yo trabajo son pruebas de concepto dispositivos pequeños fáciles de hacer y replicables que demuestran que es posible o no hacerlo ya después se hacen desarrollos más pesados","2022-10-12 19:42:20","761322092","2022-10-12","19:42:20"
+"32620","Baterías 18650","2022-10-12 19:42:29","761322092","2022-10-12","19:42:29"
+"32621","Hay que hacer harvesring también jajajaj pero esa será otra etapa","2022-10-12 19:44:02","761322092","2022-10-12","19:44:02"
+"32622","??? x que no acido? son mas economicas y vienen en tamaños gigantes jijij","2022-10-12 19:45:20","28250704","2022-10-12","19:45:20"
+"32623","Con alguna plaquita solar o vas a tener a alguien recorriendo el cafetal cambiando baterías y poniéndolas a cargar? 😂😂😂","2022-10-12 19:45:22","288988866","2022-10-12","19:45:22"
+"32624","en esta etapa te sugiero comprar un power bank con carga solar y listo","2022-10-12 19:45:43","28250704","2022-10-12","19:45:43"
+"32625","Si eso mismo","2022-10-12 19:46:03","761322092","2022-10-12","19:46:03"
+"32626","Buena idea","2022-10-12 19:46:04","288988866","2022-10-12","19:46:04"
+"32627","https://www.gadnic.com.ar/cargadores-portatiles/cargador-de-bateria-solar-gadnic-1500mah-power-bank-inalambrico","2022-10-12 19:46:43","28250704","2022-10-12","19:46:43"
+"32628","Las 18650 tienen por lo menos jajaj 3000Ah","2022-10-12 19:47:02","761322092","2022-10-12","19:47:02"
+"32629","no es estandar...","2022-10-12 19:47:28","28250704","2022-10-12","19:47:28"
+"32630","Y cuánto esperas que consuma tu dispositivo con el sensor?","2022-10-12 19:47:58","288988866","2022-10-12","19:47:58"
+"32631","50mA","2022-10-12 19:48:16","761322092","2022-10-12","19:48:16"
+"32632","O menos","2022-10-12 19:48:23","761322092","2022-10-12","19:48:23"
+"32633","Yo se","2022-10-12 19:48:25","761322092","2022-10-12","19:48:25"
+"32634","Pues el cálculo sale 60 horas (menos para evitar descargas profundas). Si tienes que cambiar 800 baterías cada 60 horas puede ser un poco más molesto de lo que parece","2022-10-12 19:50:58","288988866","2022-10-12","19:50:58"
+"32635","Una virguería de cacharro","2022-10-12 19:51:12","288988866","2022-10-12","19:51:12"
+"32636","Ah pero eso es en envío","2022-10-12 19:53:48","761322092","2022-10-12","19:53:48"
+"32637","Fuera de eso en deepsleep he llegado a","2022-10-12 19:54:00","761322092","2022-10-12","19:54:00"
+"32638","...","2022-10-12 19:54:01","761322092","2022-10-12","19:54:01"
+"32639","23uA","2022-10-12 19:54:39","761322092","2022-10-12","19:54:39"
+"32640","👏👏👏👏👏👏","2022-10-12 19:55:37","288988866","2022-10-12","19:55:37"
+"32641","En el microcontrolador 
+Después de eso
+Pongo un mosfet o un transistor para levantar todo lo demás uno 30 segundos","2022-10-12 19:55:40","761322092","2022-10-12","19:55:40"
+"32642","Sensor enviar y a dormir otros 10 minutos","2022-10-12 19:55:54","761322092","2022-10-12","19:55:54"
+"32643","Entiendo, buen plan. Así estas multiplicando la duración de la batería más o menos por 10","2022-10-12 19:56:25","288988866","2022-10-12","19:56:25"
+"32644","Pos no se realmente pero ese es el método que uso jajaja y el único que conozco ajjajajaja","2022-10-12 19:57:51","761322092","2022-10-12","19:57:51"

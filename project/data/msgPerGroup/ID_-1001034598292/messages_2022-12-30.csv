@@ -1,0 +1,29 @@
+"message_id","message","message_utc","from_id","date","time"
+"532959","alguém aqui já trabalhou com MySQL Workbench no Manjaro?","2022-12-30 01:48:03","194169304","2022-12-30","01:48:03"
+"532962","instalei ambos pelo pacman, mas o workbench não reconhece o servidor","2022-12-30 01:54:11","194169304","2022-12-30","01:54:11"
+"532963","Eita","2022-12-30 02:00:47","25962582","2022-12-30","02:00:47"
+"532964","Consegui resolver, explicar o que fiz:","2022-12-30 02:37:46","194169304","2022-12-30","02:37:46"
+"532965","no status do systemctl do serviço do mysql, estava apresentando ""[Warning] Access denied for user 'root'@'local' "" quando eu tentava fazer conexão direta pelo Workbench","2022-12-30 02:38:38","194169304","2022-12-30","02:38:38"
+"532966","se eu tentasse ""mysql -u root -p"", também dava acesso negado","2022-12-30 02:39:22","194169304","2022-12-30","02:39:22"
+"532967","por isso o workbench não estava ""encontrando"" nenhum servidor","2022-12-30 02:40:08","194169304","2022-12-30","02:40:08"
+"532968","sudo mysql
+MariaDB [(none)] > SET PASSWORD FOR 'root'@localhost = PASSWORD(""senha"");","2022-12-30 02:41:37","194169304","2022-12-30","02:41:37"
+"532969","isso resolveu e agora consigo conectar o workbench ao server mysql","2022-12-30 02:42:35","194169304","2022-12-30","02:42:35"
+"532971","Aí sim hein","2022-12-30 02:49:25","25962582","2022-12-30","02:49:25"
+"532974","@jose_rafael Bom dia jovem
+Saca só esse B.O
+VSCode (Flatpak) x VSCode (AUR)
+Flatpak: Ausência de pacotes
+AUR: Pacotes OK","2022-12-30 10:49:32","682848142","2022-12-30","10:49:32"
+"532979","VS code falam que do snap é melhor","2022-12-30 12:47:00","25962582","2022-12-30","12:47:00"
+"532980","Mas nao sei","2022-12-30 12:47:05","25962582","2022-12-30","12:47:05"
+"532981","Não uso","2022-12-30 12:47:09","25962582","2022-12-30","12:47:09"
+"532982","Snap eu nao uso isso o primeiro boot e uma bosta lol","2022-12-30 12:48:19","248334232","2022-12-30","12:48:19"
+"532983","Eu não tive problemas com snap no arch linux","2022-12-30 13:01:32","25962582","2022-12-30","13:01:32"
+"532984","Uso authy","2022-12-30 13:01:36","25962582","2022-12-30","13:01:36"
+"532986","Gffd [5854189953] para participar neste grupo, defina, nas configurações do Telegram, um nome de usuário e clique em ""Feito!"". 
+Ação: Silenciado 🔇","2022-12-30 14:35:09","5298578702","2022-12-30","14:35:09"
+"532988","Shelley Bowman [5877518710] para participar neste grupo, defina, nas configurações do Telegram, um nome de usuário e clique em ""Feito!"". 
+Ação: Silenciado 🔇","2022-12-30 18:01:12","5298578702","2022-12-30","18:01:12"
+"532991","Acho que do snap é oficial","2022-12-30 18:29:04","883083059","2022-12-30","18:29:04"
+"532995","acabei de baixar o novo manjaro e estou instalando para estudar as dependências. ele introduziram um pacote chamado lib32-faudio e faudio. Bom, já tinha as agora ele deram um jeito de só esses 2 puxar um monte de dependências. essas e outras duas puxam mais de 90% das dependências do wine agora. vai facilitar bastante a instalação de dependências 32bits em base arch agora. Vou atualizar o sistema de instalação de dependências tendo em vista a instalação cruzada de dependências para atingir todas as largas dezenas de dependências necessárias mas listando menos de 20. só vou listar as que não tem nome mutável para resolver de uma vez por todas esse problema da base arch igual já resolvi no dedora e no debian/ubuntu","2022-12-30 19:51:56","25962582","2022-12-30","19:51:56"

@@ -1,0 +1,28 @@
+"message_id","message","message_utc","from_id","date","time"
+"532941","Pessoal, boa dia.
+
+Alguém poderia me ensinar como faço para montar uma unidade de rede toda vez que o Manjaro for iniciado?
+
+Outra dúvida é...
+Caso a pasta da rede estiver indisponível e eu ligar o PC o boot crash?
+
+No Shell estou montando dessa forma.
+
+sudo mount -t cifs //xxx.xxx.xxx.xxx/logs /home/linux/XXX -o vers=3.0,domain=xxxxx.local,username=xxxx,password=xxxx,dir_mode=0777,file_mode=0777,serverino,sec=ntlmssp","2022-12-29 12:01:37","682848142","2022-12-29","12:01:37"
+"532942","Vc tem que colocar no fstab","2022-12-29 12:07:08","25962582","2022-12-29","12:07:08"
+"532943","Tentei fazer isso 1x, lembra que crash o manjaro? oO
+Só que não sei como testa a montagem antes de reiniciar o Manjaro","2022-12-29 12:07:38","682848142","2022-12-29","12:07:38"
+"532944","Lembro não","2022-12-29 12:09:15","25962582","2022-12-29","12:09:15"
+"532945","Mas sr deu ruim no boot então vc errou a linha","2022-12-29 12:09:36","25962582","2022-12-29","12:09:36"
+"532946","https://www.hardware.com.br/dicas/montagem-permanente-fstab.html","2022-12-29 12:11:20","25962582","2022-12-29","12:11:20"
+"532947","Tenso","2022-12-29 13:07:08","682848142","2022-12-29","13:07:08"
+"532948","@jose_rafael existe alguma forma de testar essa montagem antes de reiniciar?","2022-12-29 13:21:21","682848142","2022-12-29","13:21:21"
+"532949",".","2022-12-29 13:31:51","25962582","2022-12-29","13:31:51"
+"532950","Pessoal, como faço para incluir área de trabalho no Cinnamon ? :D","2022-12-29 13:53:38","682848142","2022-12-29","13:53:38"
+"532951","Se não estiver conectado ele não termina o boot, tem uma flag que ele continua o boot normalmente mesmo sem estar conectado mas eu não lembro qual é","2022-12-29 16:06:36","883083059","2022-12-29","16:06:36"
+"532952","Isso é incrível vou pesquisar","2022-12-29 16:10:00","682848142","2022-12-29","16:10:00"
+"532953","Parece que alguém não quer ler oq mandei","2022-12-29 18:21:05","25962582","2022-12-29","18:21:05"
+"532954","Kkkkkkkkj","2022-12-29 18:36:48","883083059","2022-12-29","18:36:48"
+"532955","Nem era pra mim e acabei lendo","2022-12-29 18:37:11","883083059","2022-12-29","18:37:11"
+"532956","Se não me engano o que faz travar é fsck porque como está sem o ""armazenamento"" ele vai parar naquele modo de emergência e no texto mostra que tem que deixar em 0 certinho","2022-12-29 18:47:41","883083059","2022-12-29","18:47:41"
+"532957","Não lembro se tem que colocar o noauto tbm porque eu não sei se vai montar automaticamente após o boot","2022-12-29 18:49:16","883083059","2022-12-29","18:49:16"

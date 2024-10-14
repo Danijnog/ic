@@ -1,0 +1,129 @@
+"message_id","message","message_utc","from_id","date","time"
+"526892","Mas para ser acostumar de um para o outro. Não conheço muito de Linux. O Ubuntu é bem fácil de usar","2022-10-30 00:13:35","257935750","2022-10-30","00:13:35"
+"526893","os outros o que?","2022-10-30 00:16:00","36899061","2022-10-30","00:16:00"
+"526894","Tem muita diferença?","2022-10-30 00:16:59","257935750","2022-10-30","00:16:59"
+"526896","Não","2022-10-30 00:27:18","25962582","2022-10-30","00:27:18"
+"526905","E ARM tem tbm?","2022-10-30 00:41:48","257935750","2022-10-30","00:41:48"
+"526897","Vou colocar numa virtual aqui para testar","2022-10-30 00:36:53","257935750","2022-10-30","00:36:53"
+"526898","Onde posso baixar","2022-10-30 00:36:58","257935750","2022-10-30","00:36:58"
+"526899","Ué","2022-10-30 00:38:35","25962582","2022-10-30","00:38:35"
+"526900","Site oficial uai","2022-10-30 00:38:45","25962582","2022-10-30","00:38:45"
+"526901","Meu PC é AMD. tem uma versão específica?","2022-10-30 00:39:35","257935750","2022-10-30","00:39:35"
+"526902","Não","2022-10-30 00:40:38","25962582","2022-10-30","00:40:38"
+"526903","AMD e Intel é arquitetura x86_64","2022-10-30 00:40:59","25962582","2022-10-30","00:40:59"
+"526904","Não existe uma amd64?","2022-10-30 00:41:14","257935750","2022-10-30","00:41:14"
+"526906","Amd64 é o nome mais técnico pra arquitetura de 64bits","2022-10-30 00:41:49","25962582","2022-10-30","00:41:49"
+"526907","Arm é outra arquitetura","2022-10-30 00:42:06","25962582","2022-10-30","00:42:06"
+"526908","Usada em celular","2022-10-30 00:42:12","25962582","2022-10-30","00:42:12"
+"526909","raspberry e cia tb","2022-10-30 00:42:28","36899061","2022-10-30","00:42:28"
+"526910","É mas me deu preguiça de digitar esse nome pq sempre erro kkkkk","2022-10-30 00:42:44","25962582","2022-10-30","00:42:44"
+"526911","ey acabei escrevendo tanto que acabei aprendendo na paulada.","2022-10-30 00:43:31","36899061","2022-10-30","00:43:31"
+"526912","Kkkk","2022-10-30 00:46:03","25962582","2022-10-30","00:46:03"
+"526913","Eu tenho um rasp zero e uso uma versão de Linux ARM baseada no Ubuntu.","2022-10-30 00:58:06","257935750","2022-10-30","00:58:06"
+"526914","Eu vi no Twitter, alguém comentou que a manjaro tinha uma versão compatível com Mac","2022-10-30 00:58:40","257935750","2022-10-30","00:58:40"
+"526931","Não, não é, já que da mesma forma que você faz manutenções (atualizações e ajustes) no ubuntu, você faz em qualquer outra distribuição Linux.
+
+Pouco se necessita hoje em dia de comandos e terminal linux (apesar de eu usar apenas ele) ninguém precisa obrigatoriamente usá-lo. Porém, se precisar usar basta ir a ele e pedir um -h ou --help:
+
+pacman -h
+pacman -S --help
+
+pamac -h
+pamac update --help
+
+Ou ainda ler:
+https://forum.biglinux.com.br/d/1160-dica-pacman-ou-pamac-no-terminal-do-biglinux","2022-10-30 11:30:31","702350574","2022-10-30","11:30:31"
+"526932","Se mudar isso também para Manjaro sentirá a enooooooooorme melhoria","2022-10-30 11:32:42","702350574","2022-10-30","11:32:42"
+"526933","Mas é uma distribuição diet pi baseada no Ubuntu. Ela é bem voltada para esses dispositivos. Mas é bom saber que tem a opção do manjar.","2022-10-30 12:49:05","257935750","2022-10-30","12:49:05"
+"526934","Telefones andam gordos ultimamente?","2022-10-30 13:14:28","702350574","2022-10-30","13:14:28"
+"526935","Raspa zero w","2022-10-30 13:14:58","257935750","2022-10-30","13:14:58"
+"526936","Pois é, isso diminui o peso dos raspberry's?","2022-10-30 13:16:05","702350574","2022-10-30","13:16:05"
+"526937","Sim","2022-10-30 13:17:26","257935750","2022-10-30","13:17:26"
+"526938","Mas você tá falando do hardware?
+https://www.alibaba.com/product-detail/Raspberry-Pi-0-Raspberry-Pi-0_1600458572319.html?spm=a2700.7735675.topad_creative.d_image.3d756af1Y1foCa","2022-10-30 13:20:20","702350574","2022-10-30","13:20:20"
+"526939","Diet pi é o nome da OS","2022-10-30 13:22:47","883083059","2022-10-30","13:22:47"
+"526940","Quando eu tinha raspberry optava por os baseada em Debian tbm, tinha um suporte melhor","2022-10-30 13:24:49","883083059","2022-10-30","13:24:49"
+"526941","Hoje era capaz de botar um base arch mesmo","2022-10-30 13:25:49","883083059","2022-10-30","13:25:49"
+"526942","Ihhh então tem que melhorar a alimentação desses bichos","2022-10-30 13:37:50","702350574","2022-10-30","13:37:50"
+"526960","Men da uma lida nas regras de ajuda","2022-10-30 15:37:17","25962582","2022-10-30","15:37:17"
+"526952","Opa bom dia, alguém poderia me ajudar? to tentando arrumar a resolução do monitor a uma cota de tempo, sempre da badmatch","2022-10-30 15:02:40","1613926474","2022-10-30","15:02:40"
+"526955","Regras para pedir ajuda no Grupo Manjaro Linux Brasil
+
+👉 - Não pergunte se alguém pode ajudar, fale qual o seu problema e/ou dificuldade e faça a pergunta direta, sem rodeios.
+
+👉 - Quando pedir suporte, esteja com seu equipamento em mãos e disposição para resolver o teu problema. Mande screenshots ou fotos (de preferencia modo horizontal de qualidade visível) e informações do problema.
+- Abra o terminal e digite o comando inxi -b e mande print das informações
+- Descreva (com o máximo de detalhes possíveis) o teu problema
+-Se estiver seguindo algum tutorial, mande o link;
+
+👉 - Descreva as tentativas que por ventura tenha realizado para tentar resolver esse problema.","2022-10-30 15:07:42","5298578702","2022-10-30","15:07:42"
+"526956","tentei usar o metodo xrandr, mas toda vez que tento dar addmode aparece esse erro. X Error of failed request:  BadMatch (invalid parameter attributes)","2022-10-30 15:10:25","1613926474","2022-10-30","15:10:25"
+"526957","amigo leia o que bot te falou, se vc não nos de detalhes, não temos como adivinhar como vc tentou usar o xrandr","2022-10-30 15:13:08","36899061","2022-10-30","15:13:08"
+"526958","ta pera ai.","2022-10-30 15:13:27","1613926474","2022-10-30","15:13:27"
+"526959","isso já ajuda?","2022-10-30 15:14:56","1613926474","2022-10-30","15:14:56"
+"526961","Tá faltando informações","2022-10-30 15:37:28","25962582","2022-10-30","15:37:28"
+"526962","No caso eu tenho 2 monitores, um dos monitores não está reconhecendo com 1080p, estou tentando seguir o tutorial do https://manjariando.com.br/resolucao-correta/, porém toda vez que chga na parte de addmode e coloco a resolução que eu quero, ele da um erro que mencionei a cima. Teria algum outro método pra arruma resolução?","2022-10-30 16:00:49","1613926474","2022-10-30","16:00:49"
+"526963","O outro monitor não tá conectado direto na placa da nvidia?","2022-10-30 16:03:14","25962582","2022-10-30","16:03:14"
+"526964","Esta, só que ele ta usando um conversor  de DVI","2022-10-30 16:03:44","1613926474","2022-10-30","16:03:44"
+"526965","HDMI pra dvi?","2022-10-30 16:04:04","25962582","2022-10-30","16:04:04"
+"526966","VGA pra DVI","2022-10-30 16:04:18","1613926474","2022-10-30","16:04:18"
+"526967","Então eu tenho 2 suspeitas","2022-10-30 16:04:42","25962582","2022-10-30","16:04:42"
+"526968","Já testou usando somente esse monitor que usa o conversor?","2022-10-30 16:05:09","25962582","2022-10-30","16:05:09"
+"526969","Vou testar","2022-10-30 16:05:31","1613926474","2022-10-30","16:05:31"
+"526970","Ele fica a 1600","2022-10-30 16:07:25","1613926474","2022-10-30","16:07:25"
+"526971","Igual com o HDMI","2022-10-30 16:07:28","1613926474","2022-10-30","16:07:28"
+"526972","O monitor do HDMI tem qual resolução?","2022-10-30 16:08:05","25962582","2022-10-30","16:08:05"
+"526973","1920x1080","2022-10-30 16:08:49","1613926474","2022-10-30","16:08:49"
+"526974","Então vc não consegue usar 1080 nos 2 monitores sozinho?","2022-10-30 16:09:23","25962582","2022-10-30","16:09:23"
+"526975","No monitor com o HDMI funciona normalmente, sómente no monitor com o converor DVI que não está funcionando","2022-10-30 16:10:01","1613926474","2022-10-30","16:10:01"
+"526976","Então a limitação tá sendo esse conversor","2022-10-30 16:10:27","25962582","2022-10-30","16:10:27"
+"526977","Isso","2022-10-30 16:10:48","1613926474","2022-10-30","16:10:48"
+"526978","Então não posso fazer nada pra ajudar","2022-10-30 16:11:10","25962582","2022-10-30","16:11:10"
+"526979","Esse conversor aí tá limitando a resolução","2022-10-30 16:11:20","25962582","2022-10-30","16:11:20"
+"526980","ele não aceita adcionar o modo","2022-10-30 16:11:34","1613926474","2022-10-30","16:11:34"
+"526981","mas de boa, valeu.","2022-10-30 16:11:49","1613926474","2022-10-30","16:11:49"
+"526982","Esse conversor tem limitação","2022-10-30 16:12:58","25962582","2022-10-30","16:12:58"
+"526983","Esse monitor não tem dvi direto?","2022-10-30 16:13:09","25962582","2022-10-30","16:13:09"
+"526984","Não, só o VGA, porém a placa não tem entrada.","2022-10-30 16:13:25","1613926474","2022-10-30","16:13:25"
+"526985","Se quiser tirar a prova dos 9","2022-10-30 16:16:17","25962582","2022-10-30","16:16:17"
+"526986","Use KDE Plasma ou Gnome em Wayland","2022-10-30 16:16:29","25962582","2022-10-30","16:16:29"
+"526987","Um novo protocolo gráfico do mundo linux","2022-10-30 16:16:38","25962582","2022-10-30","16:16:38"
+"526988","E tente usar o monitor","2022-10-30 16:16:50","25962582","2022-10-30","16:16:50"
+"526989","Xfce infelizmente ainda não tem suporte ao wayland","2022-10-30 16:18:09","25962582","2022-10-30","16:18:09"
+"526990","o duro que to sem pendrive por agor akkkk","2022-10-30 16:19:24","1613926474","2022-10-30","16:19:24"
+"526991","mas irei tenta amanhã","2022-10-30 16:19:32","1613926474","2022-10-30","16:19:32"
+"526992","Se o wayland funcionar então a limitação era o xorg","2022-10-30 16:20:02","25962582","2022-10-30","16:20:02"
+"526993","tem muitos conectores dvi para vga tem placas que nao suportam isso","2022-10-30 16:21:26","248334232","2022-10-30","16:21:26"
+"526994","Female DVI connector pins (view of plug)","2022-10-30 16:21:43","248334232","2022-10-30","16:21:43"
+"526995","Female M1-DA connector pins (view of plug)","2022-10-30 16:22:01","248334232","2022-10-30","16:22:01"
+"526996","https://en.wikipedia.org/wiki/Digital_Visual_Interface","2022-10-30 16:22:26","248334232","2022-10-30","16:22:26"
+"527002","Estou com esse bug no Manjaro kde mas que também se estende a outros ambientes gráficos","2022-10-30 17:48:19","546181574","2022-10-30","17:48:19"
+"526997","A passive DVI-to-VGA adapter. This adapter will not work with a DVI-D output. It requires a DVI-I or DVI-A output to get the analog signal to a VGA input (even if the adapter looks like a DVI-D). A more expensive active adapter (or converter) is required to connect DVI-D to VGA.","2022-10-30 16:22:58","248334232","2022-10-30","16:22:58"
+"526998","o dvi do pc for dvi-d os adptadores vga nao funcionam","2022-10-30 16:26:13","248334232","2022-10-30","16:26:13"
+"526999","Chat With Patrons (Oct 30 2022) — DistroTube
+https://youtu.be/goA9m3sfEAU 2:03:20","2022-10-30 17:15:16","155836063","2022-10-30","17:15:16"
+"527001","Boa tarde pessoal, tudo bem ?","2022-10-30 17:47:50","546181574","2022-10-30","17:47:50"
+"527003","ta com cara de ou placa de video indo pro saco ou cabo estragado","2022-10-30 17:48:51","36899061","2022-10-30","17:48:51"
+"527004","Então não é bug do manjaro Plasma","2022-10-30 17:49:41","25962582","2022-10-30","17:49:41"
+"527005","Pois é","2022-10-30 17:49:52","25962582","2022-10-30","17:49:52"
+"527006","Ou o monitor","2022-10-30 17:50:03","25962582","2022-10-30","17:50:03"
+"527007","No windows funcionava perfeitamente, nesse pc usei Linux e deu esse defeito voltei para windows e tudo normal, depois de um tempo voltei o Linux e deu isso","2022-10-30 17:50:05","546181574","2022-10-30","17:50:05"
+"527008","Configs?","2022-10-30 17:50:33","25962582","2022-10-30","17:50:33"
+"527009","Infelizmente não é de hardware pois nunca ocorreu com outro SO durante muito tempo de uso","2022-10-30 17:50:34","546181574","2022-10-30","17:50:34"
+"527010","Acredito ser algo da hd graphics","2022-10-30 17:50:46","546181574","2022-10-30","17:50:46"
+"527011","intel? qual modelo?","2022-10-30 17:51:26","36899061","2022-10-30","17:51:26"
+"527013","pc de 2010, tenta instalar o mesa-amber","2022-10-30 17:54:49","36899061","2022-10-30","17:54:49"
+"527014","Como posso fazer isso ?","2022-10-30 17:57:41","546181574","2022-10-30","17:57:41"
+"527015","pela loja","2022-10-30 18:01:55","36899061","2022-10-30","18:01:55"
+"527016","Consigo fazer pelo terminal uso Linux a bastante tempo, mas como faço para setar o mesa-amber como driver gráfico?","2022-10-30 18:02:48","546181574","2022-10-30","18:02:48"
+"527019","sudo  pacman  -Sy
+sudo  pacman  -S  mesa-amber
+reboot","2022-10-30 18:07:38","36899061","2022-10-30","18:07:38"
+"527020","Obrigado","2022-10-30 18:08:40","546181574","2022-10-30","18:08:40"
+"527023","Não rola","2022-10-30 18:12:02","702350574","2022-10-30","18:12:02"
+"527024","Tenho  um aqui","2022-10-30 18:12:14","702350574","2022-10-30","18:12:14"
+"527025","Caiu nessa tela agr","2022-10-30 18:41:10","546181574","2022-10-30","18:41:10"
+"527026","Coloca seu usuário e senha","2022-10-30 18:41:55","258555872","2022-10-30","18:41:55"
+"527027","E começo de tudo Xará começa pelo começo, portanto:
+
+https://blogdocretoinf.blogspot.com/2016/11/comando-xrandr-para-alterar-resolucao.html","2022-10-30 19:14:14","702350574","2022-10-30","19:14:14"

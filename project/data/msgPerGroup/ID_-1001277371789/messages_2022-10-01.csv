@@ -1,0 +1,44 @@
+"message_id","message","message_utc","from_id","date","time"
+"32462","basado en el ISA de RISC-V","2022-10-01 02:00:45","28250704","2022-10-01","02:00:45"
+"32463","sumamente ingenuo...","2022-10-01 02:01:09","28250704","2022-10-01","02:01:09"
+"32457","Supuestamente 20 mil dólares, 4 años y 500 puestos de trabajo 
+
+Así dice Rett Berg en 
+
+civboot.org","2022-10-01 01:47:06","1822296905","2022-10-01","01:47:06"
+"32458","""The first goal of Civboot is to be able to create a technology stack which can self-replicate with 500 motivated students in 8 years, starting with a US-equivalent 8th grade education. In addition, the goal is to be able to rebuild a Civboot (with a Civboot) for less than 25 million dollars -- or $50,000 per student, less than the typical cost of 8 years of education in the United States""","2022-10-01 01:50:01","1822296905","2022-10-01","01:50:01"
+"32459","When I first created Civboot I envisioned there would be multiple ""levels"", with level 1 being the ""core"" one of being able to self-replicate it. I still feel this way, but the talk of multiple levels probably confuses the early contributor.
+
+A level 1 Civboot is what the README states: it allows 500 motivated students to have a working understanding of the foundations of modern civilization.
+A level 2 ""Eco"" Civboot would be able to run on only cheap renewable energy produced by itself. This could be through solar cells or more likely wind energy and heat reclaimation through an Organic Rankine Engine or similar.
+A level 3 ""Bioboot"" Civboot would provide automated verticle/greenhouse farming and nearly guarantee that human flourishing could continue far into the future without significant damage to the natural ecosystem","2022-10-01 01:50:23","1822296905","2022-10-01","01:50:23"
+"32460","The full definition of each level is defined below
+
+Level 0 - Today: this is where we are right now. The tools and knowledge to build civilization theoretically exists, as we are living in a global civilization that uses those tools and knowledge to recreate and improve itself.
+
+Level 0+ - demonstrated layers: each layer of a finished Civboot should be demonstrated, using technology which is expected to be possible from the layers below it.
+
+For example, creating a CPU fab will take a long time -- so developing software that is expected to work on the future self-made hardware should be done first
+Documentation may be scattered, but the hope should be to simplify as much as possible at this stage to make level 1 smoother","2022-10-01 01:51:17","1822296905","2022-10-01","01:51:17"
+"32461","https://www.sciencenews.org/article/chip-carbon-nanotubes-not-silicon-marks-computing-milestone","2022-10-01 01:54:10","1822296905","2022-10-01","01:54:10"
+"32464","Las noticias de CollapseOS vienen de una comunidad pesimista, valoran los 8 bit suponiendo que no hay más hardware para los ecosistemas actuales","2022-10-01 02:02:27","1822296905","2022-10-01","02:02:27"
+"32465","Acá se ve un punto ciego en la comunidad CollapseOS","2022-10-01 02:02:58","1822296905","2022-10-01","02:02:58"
+"32466","¿Es más caro?, yo cité la obra de Sam Zeloof","2022-10-01 02:03:41","1822296905","2022-10-01","02:03:41"
+"32467","la hipotesis de que hay z80 en todos lados es simplemente falsa, existen muchas arquitecturas de microcontroladores pero claramente la mas extendida actualmente es ARM, pero hay otras y no hace falta un nuevo sistema operativo para un micro de 8 bits existen varios y en definitiva lo mas importante es que los micros de 8 bits no necesitan sistema operativo para ser usables.. el problema en reutilizar micros es que son de especificaciones cerrradas, una impresora de chorro de tintas tiene un ARM grande pero que esta completaente oculto a su reutilizacion igual tranca que cuando estallen las bombas vamos a tener motivacion para reutilizar hardware a l pavote :P","2022-10-01 02:21:22","28250704","2022-10-01","02:21:22"
+"32468","es inmensamente costoso e incluso con todo el dinero se necesita personas bien formadas que es donde termina de alargarse el proceos ( es la unica razon para que china que biene metiendo plata desde el siglo pasado no tenga todavia el liderazgo en la fabricación de chips)","2022-10-01 02:27:04","28250704","2022-10-01","02:27:04"
+"32469","de todas maneras me parece mas realista la vision de que es mas probable que reutilicemos hardware obsoleto que fabricar de cero el nuestro...","2022-10-01 02:27:32","28250704","2022-10-01","02:27:32"
+"32470","Yo sé lo que es un software SCADA pero, a qué llamáis SCADA hablando de chips?","2022-10-01 07:01:44","288988866","2022-10-01","07:01:44"
+"32471","I ❤️ Z80 😍😍😍","2022-10-01 07:02:25","288988866","2022-10-01","07:02:25"
+"32472","Ya sabéis que copiar a uno es plagio, y copiar a muchos, investigación","2022-10-01 07:03:07","288988866","2022-10-01","07:03:07"
+"32473","https://t.me/pascalscada","2022-10-01 07:32:13","214654054","2022-10-01","07:32:13"
+"32474","Para diseño de circuitos impresos tenéis aquí en Telegram
+https://t.me/kicadEs","2022-10-01 07:33:58","214654054","2022-10-01","07:33:58"
+"32475","Seria como muy tirado de los pelos, pero solo me imagin que seria pensar en el desarrolo de los componentes para los controladores industriales que claramente estan basados en microcontroladores","2022-10-01 13:23:05","28250704","2022-10-01","13:23:05"
+"32476","Sí que es cogido por los pelos 😂😂😂
+
+Para mí el hardware especial que implementas para poder utilizar un software scada entra dentro del capítulo hardware de adquisición de datos. Este capítulo es todo un mundo de diferentes dispositivos.
+
+Es verdad que el scada no solo sirve para adquirir datos sino también para influir en el control, pero para ello lo que haces es comunicar con el dispositivo que ya necesitabas para realizar el control aunque no tuvieras un software de escala","2022-10-01 13:54:31","288988866","2022-10-01","13:54:31"
+"32477","Todo esto según mi humilde experiencia","2022-10-01 13:54:49","288988866","2022-10-01","13:54:49"
+"32478","es la misma experiencia, es alto nivel https://en.wikipedia.org/wiki/SCADA","2022-10-01 14:02:02","28250704","2022-10-01","14:02:02"
+"32479","Yo también he consultado Wikipedia pero en español 😂😂😂","2022-10-01 14:18:09","288988866","2022-10-01","14:18:09"

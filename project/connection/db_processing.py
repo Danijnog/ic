@@ -16,9 +16,11 @@ def separate_messages_in_days(df_messages, group_id) -> None:
         # Salvar as mensagens em arquivos csv separados por dia
         for date in df_messages['date'].unique():
             csv_path = f'data/msgPerGroup/ID_{group_id}/messages_{date}.csv'
-            df_messages_date = df_messages[df_messages['date'] == date]
-            df_messages_date.to_csv(csv_path, header = 'True', index = False, quoting = csv.QUOTE_ALL)
-            print(f"Mensagens do dia {date} salvas com sucesso em {csv_path}")
+
+            if not os.path.exists(csv_path):
+                df_messages_date = df_messages[df_messages['date'] == date]
+                df_messages_date.to_csv(csv_path, header = 'True', index = False, quoting = csv.QUOTE_ALL)
+                print(f"Mensagens do dia {date} salvas com sucesso em {csv_path}")
     
     except Exception as e:
         print("Tipo do erro: ", type(e))

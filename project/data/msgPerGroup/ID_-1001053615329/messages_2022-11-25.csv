@@ -1,0 +1,25 @@
+"message_id","message","message_utc","from_id","date","time"
+"37272","Bom dia!
+Alguém saberia dizer se os cursos da Alura valem apenas","2022-11-25 12:55:11","508547069","2022-11-25","12:55:11"
+"37273","A Conecta Gestão Empresarial está com oportunidades para vaga de Desenvolvedor BackEnd Sênior com ótima remuneração e benefícios.
+
+Você precisa ter Superior Completo, conhecer linguagem de programação Python com framework Django DRF e ter conhecimento em Inglês.
+
+Utilizamos diversas bibliotecas de programação. Tais como Celery, Pandas e diversas outras.
+
+Nós utilizamos containers (docker, podman, kubernets) para rodar a aplicação. E hoje a aplicação está hospedada em servidores da AWS.
+
+Então, você precisa dominar:
+
+ ✅ Python
+ ✅ Django + DRF
+ ✅ API Rest HTTP
+ ✅ Celery
+ ✅Containers
+ ✅ Noções de modelagem de sistema
+ ✅ ORM Django
+ ✅ Noções SQL básico
+ ✅ Boas práticas de programação
+ ✅ Padrões de projeto
+ ✅ Testes
+ ✅ Noções de servidor AWS","2022-11-25 17:32:47","133902764","2022-11-25","17:32:47"

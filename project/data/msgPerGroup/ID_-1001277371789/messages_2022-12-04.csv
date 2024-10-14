@@ -1,0 +1,26 @@
+"message_id","message","message_utc","from_id","date","time"
+"33298","Buenas tardes/noches (tal vez dias) a todos,","2022-12-04 23:03:00","159394107","2022-12-04","23:03:00"
+"33299","Hola!","2022-12-04 23:03:38","28250704","2022-12-04","23:03:38"
+"33300","tengo el sguiente problema cuando trato de crear el 
+binario para un proyecto que ando realizando.
+https://pastebin.com/wPLMgdxN
+
+El problema en si es a tiempo de linking, no se que ocurre pero me muestra una variable rara (aunque dice MqttProtocol y WifiClient en esa variable) y pues no se que ando haciendo mal solo que no pillo respuesta, 
+Ta vez alguien aqui pueda darme luces
+Muchas gracias","2022-12-04 23:05:00","159394107","2022-12-04","23:05:00"
+"33301","mas detalles (casi lo olvido)
+estoy usando platformio, junto arduino framework y la libreria pubsubclient para comunicacion mqtt en un esp8266","2022-12-04 23:07:13","159394107","2022-12-04","23:07:13"
+"33302","También podes preguntar en el grupo de ESP https://t.me/esp_es","2022-12-04 23:44:50","28250704","2022-12-04","23:44:50"
+"33303","Te urge ??","2022-12-04 23:47:11","761322092","2022-12-04","23:47:11"
+"33304","Podés poner capturas para ver","2022-12-04 23:47:20","761322092","2022-12-04","23:47:20"
+"33305","Capturas de error? Esta el error en el paste bin. Que mas seria necesario?","2022-12-04 23:49:43","159394107","2022-12-04","23:49:43"
+"33306","No he revisado ahora vemos","2022-12-04 23:50:20","761322092","2022-12-04","23:50:20"
+"33307","Ok, muchas gracias","2022-12-04 23:51:19","159394107","2022-12-04","23:51:19"
+"33308","Estás haciendo uso de algún tutorial ??","2022-12-04 23:52:54","761322092","2022-12-04","23:52:54"
+"33309","No ninguno.","2022-12-04 23:53:23","159394107","2022-12-04","23:53:23"
+"33310","Me parece interesante como lo estás haciendo","2022-12-04 23:53:53","761322092","2022-12-04","23:53:53"
+"33311","Déjame encender la compu y buscar más cosas","2022-12-04 23:54:05","761322092","2022-12-04","23:54:05"
+"33312","Nunca lo he hecho con platformio","2022-12-04 23:54:16","761322092","2022-12-04","23:54:16"
+"33313","Gracias espero q inyeresante bueno 😂","2022-12-04 23:55:20","159394107","2022-12-04","23:55:20"
+"33314","Mil gracias","2022-12-04 23:55:27","159394107","2022-12-04","23:55:27"
+"33315","Sii jajaja","2022-12-04 23:55:30","761322092","2022-12-04","23:55:30"

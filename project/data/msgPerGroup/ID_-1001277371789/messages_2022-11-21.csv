@@ -1,0 +1,17 @@
+"message_id","message","message_utc","from_id","date","time"
+"33120","En C23 se va a poder escribir constantes binarias (por ejemplo 0b1010) y va a haber un %b para printf() era hora","2022-11-21 14:00:15","136605912","2022-11-21","14:00:15"
+"33114","Si la página web no necesita una base de datos puedes migrar a sitios estáticos y tener el hosting con el deploy gratis con github (el dominio se vería algo como openhardwarela.github.io usando Hugo Site generator o Jekkyll ) . Además trabajar con git hub puede traer ventajas como la Integración Continua y la Deplegue continuo usando github actions.","2022-11-21 00:17:29","180816051","2022-11-21","00:17:29"
+"33115","Lo use para mi blog personal repositorio. https://github.com/EverVino/jeblog
+deploy https://evervino.github.io/jeblog/","2022-11-21 00:21:00","180816051","2022-11-21","00:21:00"
+"33116","Gracias por proporcionar alternativas, en algún día de la semana te contacto @emc1977","2022-11-21 13:41:52","136605912","2022-11-21","13:41:52"
+"33117","Miren los cambios e incorporaciones que nos trae C23. Estan agregando cosas que vienen en C++ desde hace un par de versiones anteriores. Me gusta lo que viene
+
+https://en.cppreference.com/w/c/23","2022-11-21 13:43:25","136605912","2022-11-21","13:43:25"
+"33118","recuperamos el volatile?","2022-11-21 13:52:03","28250704","2022-11-21","13:52:03"
+"33119","En C nunca lo perdiste, eso es en C++","2022-11-21 13:57:45","136605912","2022-11-21","13:57:45"
+"33123","falta... https://doc.rust-lang.org/reference/expressions/literal-expr.html","2022-11-21 14:12:14","28250704","2022-11-21","14:12:14"
+"33124","La separación es con ' no con _ en C/C++ y por lo demás, rust parece más específico. ¿Rust está desarrollado en Rust o en C?","2022-11-21 14:15:11","136605912","2022-11-21","14:15:11"
+"33125","hoy x hoy en RUST","2022-11-21 14:16:55","28250704","2022-11-21","14:16:55"
+"33126","https://github.com/rust-lang/rust/","2022-11-21 14:38:51","28250704","2022-11-21","14:38:51"
+"33127","me vas a decir que no esta bueno el slogan!!!","2022-11-21 14:40:05","28250704","2022-11-21","14:40:05"
+"33128","Le da cierta solidez al lenguaje cuando puede autodesarrollarse...","2022-11-21 14:40:32","136605912","2022-11-21","14:40:32"

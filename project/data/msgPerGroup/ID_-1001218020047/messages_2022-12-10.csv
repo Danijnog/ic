@@ -1,0 +1,174 @@
+"message_id","message","message_utc","from_id","date","time"
+"109406","Ok","2022-12-10 13:50:31","76208666","2022-12-10","13:50:31"
+"109379","Ah, vc tá no celular","2022-12-10 02:09:58","214108442","2022-12-10","02:09:58"
+"109380","Aí fica difícil te ajudar","2022-12-10 02:10:04","214108442","2022-12-10","02:10:04"
+"109381","Não tenho computador,  só celular e Tablet","2022-12-10 02:10:42","76208666","2022-12-10","02:10:42"
+"109382","Aí vc vai ter q vasculhar onde foi parar o seu download dos de baixado","2022-12-10 02:11:09","214108442","2022-12-10","02:11:09"
+"109383","Já procurei","2022-12-10 02:11:19","76208666","2022-12-10","02:11:19"
+"109384","La no gerenciador de arquivos","2022-12-10 02:11:21","214108442","2022-12-10","02:11:21"
+"109385","E nada","2022-12-10 02:11:26","76208666","2022-12-10","02:11:26"
+"109386","Tem coisa errada","2022-12-10 02:11:37","214108442","2022-12-10","02:11:37"
+"109387","Se baixou","2022-12-10 02:11:43","214108442","2022-12-10","02:11:43"
+"109388","Em algum lugar ele tá","2022-12-10 02:11:49","214108442","2022-12-10","02:11:49"
+"109389","Tinha aparecer assim para salvar os vídeos na pasta do telegram, depois que baixo o vídeo.","2022-12-10 02:15:01","76208666","2022-12-10","02:15:01"
+"109390","Pelo que sei só os administradores podem habilitar isso.","2022-12-10 02:24:52","76208666","2022-12-10","02:24:52"
+"109391","Ah, não sei como te ajudar com isso","2022-12-10 02:41:10","214108442","2022-12-10","02:41:10"
+"109392","Acho que Nossos downloads estão configurados para PC, só","2022-12-10 02:41:41","214108442","2022-12-10","02:41:41"
+"109393","não para Tablet ou celulares","2022-12-10 02:41:49","214108442","2022-12-10","02:41:49"
+"109394","Ok. Amanhã tentarei pelo trelegram web pelo tablet","2022-12-10 02:43:22","76208666","2022-12-10","02:43:22"
+"109395","Modo computador","2022-12-10 02:43:42","76208666","2022-12-10","02:43:42"
+"109396","Pois estou querendo ultraman tiga legendado, não tem de 720, 1080 está muito grande.?!","2022-12-10 02:45:27","76208666","2022-12-10","02:45:27"
+"109397","O conteúdo tá protegido contra encaminhamento e cópia
+
+Vai na pasta
+
+Android/data/org.telegram.messenger/files/Telegram
+
+
+Vai tá em videos ou documents
+Só que com um nome genérico da data e hora que vc baixou, filtra por tamanho que vc acha mais fácil
+
+No Telegram web o download já é feito automaticamente pra pasta de downloads do browser, com o nome original do arquivo.","2022-12-10 05:01:33","81951467","2022-12-10","05:01:33"
+"109398","Bom dia","2022-12-10 08:52:49","821765940","2022-12-10","08:52:49"
+"109400","Gundam henshin kamen rider zi-o","2022-12-10 11:37:00","918911833","2022-12-10","11:37:00"
+"109402","Já tinha feito esse caminho e não aparece nada, não tem como enviar em PV esses vídeos legendado com opção de download?","2022-12-10 13:17:07","76208666","2022-12-10","13:17:07"
+"109403","Não acho em outro lugar ultraman tiga legendado.","2022-12-10 13:26:07","76208666","2022-12-10","13:26:07"
+"109404","Isso é combo nosso adm @AlexSpawnTokushare","2022-12-10 13:43:30","214108442","2022-12-10","13:43:30"
+"109405","Fale com ele","2022-12-10 13:43:33","214108442","2022-12-10","13:43:33"
+"109407","Qual app e versão do Telegram vc tá usando?","2022-12-10 13:51:55","81951467","2022-12-10","13:51:55"
+"109409","Já baixei até o telegram X,  e da na mesma.","2022-12-10 13:54:40","76208666","2022-12-10","13:54:40"
+"109410","Tentei até telegram web no Tablet no modo computador e não consegui","2022-12-10 13:55:37","76208666","2022-12-10","13:55:37"
+"109411","Abre o canal, baixa o arquivo que vc quer, dando play no vídeo ou tocando na seta de download.
+Quando terminar vc vai poder abrir o arquivo pelo próprio Telegram.
+
+
+A cópia local vai estar em
+armazenamento interno/Telegram/Telegram Video ou Documents. Depende do tipo de arquivo.
+
+Pode estar também em
+/Android/data/org.telegram.messenger/files/Telegram
+
+E no caso do Telegram X
+/Android/data/org.thunderdog.challegram/files/x_account (1,2,3 caso vc tenha mais de uma conta logada)
+
+Web
+/Android/data/org.telegram.messenger.web/files/Telegram
+
+
+Isso no armazenamento interno, não no cartão sd.
+Os arquivos vão estar com um nome de um número gigante, não vai ser o nome que aparece no Telegram
+
+Se vc não achou a pasta, fez errado. Verifica o app gerenciador de arquivos e se ele tem permissões pra ler todas as pastas do armazenamento interno.","2022-12-10 14:07:38","81951467","2022-12-10","14:07:38"
+"109412","agora os modelos de android 11de alguns fabricantes deixaram travado essas pastas, ai não vai aparecer mesmo, o negocio é ele ao abaixa ir em salvar em downloads, pois so assim os arquivos vão aparecer","2022-12-10 14:15:47","918911833","2022-12-10","14:15:47"
+"109413","Tem de ser feito arquivo por arquivo","2022-12-10 14:16:32","918911833","2022-12-10","14:16:32"
+"109414","no meu mesmo é assim","2022-12-10 14:16:40","918911833","2022-12-10","14:16:40"
+"109415","Não tem opção de salvar em downloads nos conteúdos do canal pq tem proteção de cópia
+
+Os apps Gerenciadores de arquivos continuam com uma opção especial de poder acessar todas as pastas","2022-12-10 14:17:15","81951467","2022-12-10","14:17:15"
+"109416","não, eles estão travando mesmo assim pelo kernel do android, eles passam essas pastas para acesso root apenas","2022-12-10 14:18:17","918911833","2022-12-10","14:18:17"
+"109417","Verifica essa pasta aqui também
+Usei a mesma versão que vc, baixei o 1o ep de ultraman, em avi.
+
+Ele ficou com o nome original, dentro dessa pasta
+
+/Android/data/org.telegram.messenger/cache","2022-12-10 14:18:22","81951467","2022-12-10","14:18:22"
+"109418","Je tentei todos os modelos de gerenciadores conhecidos","2022-12-10 14:18:38","918911833","2022-12-10","14:18:38"
+"109419","e não acessa","2022-12-10 14:18:42","918911833","2022-12-10","14:18:42"
+"109420","Essa pasta não é root
+É no armazenamento de usuário comum","2022-12-10 14:18:48","81951467","2022-12-10","14:18:48"
+"109421","Esse é o problema,  o salvar download não aparece para mim nesse grupo.  Em outros grupos é tranquilo,  baixo o arquivo,  seleciono os 3 pontinhos e seleciono salvar download,  aí vai direto para pasta do telegram.","2022-12-10 14:18:58","76208666","2022-12-10","14:18:58"
+"109422","alguns fabricantes esta passando para root","2022-12-10 14:19:06","918911833","2022-12-10","14:19:06"
+"109423","não sei se é todos, mas o meu realme esta assim","2022-12-10 14:19:49","918911833","2022-12-10","14:19:49"
+"109424","e vi em algusn xiaomi tambem","2022-12-10 14:19:59","918911833","2022-12-10","14:19:59"
+"109425","e samsung","2022-12-10 14:20:04","918911833","2022-12-10","14:20:04"
+"109426","tenho um realme e um asus, no asus não fizeram isso","2022-12-10 14:20:34","918911833","2022-12-10","14:20:34"
+"109427","No Asus,  não tinha esse problema.","2022-12-10 14:20:36","76208666","2022-12-10","14:20:36"
+"109428","sim, por isso ainda não joguei fora o meu","2022-12-10 14:21:00","918911833","2022-12-10","14:21:00"
+"109429","è uma merda essas novas configurações de alguns fabricantes","2022-12-10 14:21:35","918911833","2022-12-10","14:21:35"
+"109430","Vcs tão falando de coisas diferentes","2022-12-10 14:21:50","81951467","2022-12-10","14:21:50"
+"109431","mas a solução apara mim é ir nas opções em salvar em downloads e so asssim aparece os arquivos que abaixo do telegram","2022-12-10 14:22:22","918911833","2022-12-10","14:22:22"
+"109432","se não consome o espaço mas eu não consigo ter acesso","2022-12-10 14:22:43","918911833","2022-12-10","14:22:43"
+"109433","a pasta android esta travada","2022-12-10 14:22:55","918911833","2022-12-10","14:22:55"
+"109434","1. Os canais do Tokushare estão com a opção de salvar em downloads de forma proposital.
+Isso é função do Telegram pra proteger encaminhamento e cópia dos arquivos.
+Só admin pode desabilitar
+Não vai ter essa função em nenhuma versão.","2022-12-10 14:23:10","81951467","2022-12-10","14:23:10"
+"109435","eu entro tem as pastas, mas dentro delas não aparece nada","2022-12-10 14:23:18","918911833","2022-12-10","14:23:18"
+"109436","eu não sei disso por que nunca abaixei nada neles","2022-12-10 14:23:56","918911833","2022-12-10","14:23:56"
+"109438","se não tem, ai ferrou","2022-12-10 14:24:03","918911833","2022-12-10","14:24:03"
+"109439","Essa é a questão,  só o administrador pode liberar.","2022-12-10 14:24:18","76208666","2022-12-10","14:24:18"
+"109440","nesse quesito não posso te ajudar","2022-12-10 14:24:35","918911833","2022-12-10","14:24:35"
+"109441","por que eu tenho o ultraman mas sem legendas ou audio dublado","2022-12-10 14:24:53","918911833","2022-12-10","14:24:53"
+"109442","2. a partir do Android 11, tem 2 níveis de permissões ora pra acessar as pastas.
+Os apps que usam o modo antigo, ganhavam acesso a todo armazenamento. Agora precisam ter uma permissão diferente do padrão que só dá acesso as pastas do próprio app, não dos outros
+
+Isso é documentado aqui
+https://developer.android.com/about/versions/11/privacy/storage","2022-12-10 14:24:57","81951467","2022-12-10","14:24:57"
+"109443","E aqui pra solicitar o acesso a todas as pastas como era padrão antes do Android 11
+https://developer.android.com/training/data-storage/manage-all-files","2022-12-10 14:25:43","81951467","2022-12-10","14:25:43"
+"109444","Mas já liberei todas as permissões","2022-12-10 14:27:45","76208666","2022-12-10","14:27:45"
+"109445","Ou seja, apps Gerenciadores de arquivos que estão atualizados pós Android 11, conseguem o acesso normalmente.
+Só precisa confirmar como fornecer essa permissão, cada fabricante pode travar atrás de alguma outra confirmação, além da padrão.
+Do Android 13 fica uma segunda permissão, confirmando que o app vai ter acesso a todas as pastas, não só as dele ou as de mídia","2022-12-10 14:27:49","81951467","2022-12-10","14:27:49"
+"109446","Baixa o arquivo que vc quer pelo próprio Telegram
+Abre o arquivo pelo Telegram, escolhe pra abrir com o Mx Player
+
+Com o vídeo aberto, vai no menu ..., informação
+Lá vai aparecer o local do arquivo.
+
+Tentou a pasta cache que eu mandei por último?
+/Android/data/org.telegram.messenger/cache","2022-12-10 14:31:13","81951467","2022-12-10","14:31:13"
+"109447","Outra opção é de novo vc abrir com um player, tipo o Mx Player, depois ir em Compartilhar pra abrir com outro app
+Alguns gerenciadores de arquivos  como o Solod Explorer, Amaze, etc vão ter uma ação de Salvar Como... em compartilhar. Assim vc pode escolher onde salvar uma cópia do arquivo, em outra pasta.","2022-12-10 14:32:42","81951467","2022-12-10","14:32:42"
+"109448","Por padrão é liberado, o admin que escolheu proteger","2022-12-10 14:33:03","81951467","2022-12-10","14:33:03"
+"109449","content://org.telegram.messenger.provider/media/Android/data/org.telegram.messenger/files/Telegram/Telegram%20Files/%5BTokuShare%5D%20Ultraman%20Tiga%20Blu-Ray%201080p%20Ep01.mkv","2022-12-10 14:34:30","76208666","2022-12-10","14:34:30"
+"109450","Aparece assim, essa pasta não achei","2022-12-10 14:34:56","76208666","2022-12-10","14:34:56"
+"109451","so queria dar um soco na cara do pessoal da realme","2022-12-10 14:39:10","918911833","2022-12-10","14:39:10"
+"109452","por ser fdp","2022-12-10 14:39:24","918911833","2022-12-10","14:39:24"
+"109454","É a mesma que eu falei no começo
+ /Android/data/org.telegram.messenger/files/Telegram/Telegram%20Files/
+
+O começo é indicação do armazenamento de mídia, que da acesso aos players por exemplo.
+Gerenciadores de arquivos continuam com acesso.
+content://org.telegram.messenger.provider/media/
+
+
+E o final é o nome do arquivo
+
+%5BTokuShare%5D%20Ultraman%20Tiga%20Blu-Ray%201080p%20Ep01.mkv","2022-12-10 14:41:08","81951467","2022-12-10","14:41:08"
+"109455","Consegui por esse caminho","2022-12-10 14:42:10","76208666","2022-12-10","14:42:10"
+"109456","Obrigado","2022-12-10 14:42:32","76208666","2022-12-10","14:42:32"
+"109457","Pela paciência","2022-12-10 14:42:39","76208666","2022-12-10","14:42:39"
+"109458","Só lembra depois de apagar o cache do Telegram pelas configurações do próprio app, dados e armazenamento, uso do armazenamento
+Pq dessa forma vc fica com 2 cópias do arquivo, a do cache interno e a que vc salvou em outra pasta","2022-12-10 14:44:42","81951467","2022-12-10","14:44:42"
+"109459","Deu trabalho, tive que baixar outro gerenciador de arquivo, para fazer esse caminho","2022-12-10 14:44:51","76208666","2022-12-10","14:44:51"
+"109460","Isso sempre faço","2022-12-10 14:45:13","76208666","2022-12-10","14:45:13"
+"109461","Pelo menos já sabe que é um gerenciador de arquivos melhor 😁","2022-12-10 14:45:21","81951467","2022-12-10","14:45:21"
+"109462","Fazendo aquele caminho que me indicou de abrir pelo player e compartilhar no gerenciador para salvar , deu certo.","2022-12-10 14:46:33","76208666","2022-12-10","14:46:33"
+"109463","É o mesmo método que se usa no iOS, que sempre teve acesso restrito ao armazenamento interno.
+Só que lá precisa já compartilhar até com player de vídeo. O player já vai fazer uma cópia interna do arquivo. 
+As coisas dobram de tamanho mais rápido ainda","2022-12-10 14:49:26","81951467","2022-12-10","14:49:26"
+"109464","Já tentou com o Solid Explorer?
+
+Ele deve pedir a permissão correta pra ver essa pasta","2022-12-10 15:00:39","81951467","2022-12-10","15:00:39"
+"109465","https://c.realme.com/global/post-details/1459954464911900672","2022-12-10 15:00:59","81951467","2022-12-10","15:00:59"
+"109466","Ainda não","2022-12-10 15:03:12","76208666","2022-12-10","15:03:12"
+"109467","Era pro Marcos que tá com problema com acesso das pastas na Realme.
+
+O Solid Explorer completo é pago, mas funciona bem.
+O Amaze que eu citei é grátis, mas já aconteceu de travar comigo em algumas cópias de arquivos.
+
+Vc acabou fazendo funcionar com qual?","2022-12-10 15:05:52","81951467","2022-12-10","15:05:52"
+"109468","Confira ""Gerenciador de arquivos""
+https://play.google.com/store/apps/details?id=com.alphainventor.filemanager","2022-12-10 15:10:02","76208666","2022-12-10","15:10:02"
+"109469","Com esse","2022-12-10 15:10:12","76208666","2022-12-10","15:10:12"
+"109470","Esse visual é top","2022-12-10 15:29:46","1153087296","2022-12-10","15:29:46"
+"109472","valew","2022-12-10 16:21:25","918911833","2022-12-10","16:21:25"
+"109473","eu tinha instalado outro com o mesmo nome","2022-12-10 16:21:39","918911833","2022-12-10","16:21:39"
+"109474","e agora funcionou","2022-12-10 16:21:50","918911833","2022-12-10","16:21:50"
+"109475","https://youtu.be/3hwCFjb7SOA","2022-12-10 17:22:40","821765940","2022-12-10","17:22:40"
+"109476","sim","2022-12-10 22:51:18","918911833","2022-12-10","22:51:18"
+"109477","Bioman Abertura","2022-12-10 22:51:39","918911833","2022-12-10","22:51:39"
+"109478","Bioman Ending","2022-12-10 22:51:39","918911833","2022-12-10","22:51:39"
+"109480","https://amzn.to/3FhYva7","2022-12-10 23:19:20","813316086","2022-12-10","23:19:20"
+"109481","Tem até o mangá do Jaspion de graça","2022-12-10 23:19:20","813316086","2022-12-10","23:19:20"

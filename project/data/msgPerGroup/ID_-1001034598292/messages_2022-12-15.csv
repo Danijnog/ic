@@ -1,0 +1,61 @@
+"message_id","message","message_utc","from_id","date","time"
+"532232","Ou melhor sem o grub inicia também, se em dual boot e outra distribuição gerenciar o boot","2022-12-15 00:13:54","702350574","2022-12-15","00:13:54"
+"532233","Realmente seria escondido","2022-12-15 00:17:51","1659639235","2022-12-15","00:17:51"
+"532228","Instalei em um outro Pc somente com um sistema e deu certo","2022-12-15 00:02:14","1659639235","2022-12-15","00:02:14"
+"532229","Eu estava lendo na internet que o Grub vem desativado para ser mais rápido para iniciar","2022-12-15 00:03:17","1659639235","2022-12-15","00:03:17"
+"532230","Desativado não é bem a palavra certa","2022-12-15 00:12:41","25962582","2022-12-15","00:12:41"
+"532231","Lhe informaram errado, o grub não tem nada haver com velocidade, sem ele nem ""Incia"" é desativado no manjaro os ""bootsplash/plymouth""","2022-12-15 00:12:56","702350574","2022-12-15","00:12:56"
+"532234","https://manjariando.com.br/adicionar-menu-grub-inicializacao/#:~:text=Para%20que%20o%20grub%20apare%C3%A7a,a%20linha%20que%20cont%C3%A9m%20GRUB_TIMEOUT_STYLE.&text=Utilize%20as%20setas%20do%20teclado%20para%20navegar%20no%20terminal.","2022-12-15 00:19:19","1659639235","2022-12-15","00:19:19"
+"532235","Aqui está a fonte de informações que pesquisei","2022-12-15 00:20:57","1659639235","2022-12-15","00:20:57"
+"532236","Rapaz tente seguir essa minha lógica:
+
+""""Eu não carrego verdades, carrego muitas dúvidas, mas tenho cá minhas convicções, e não quero impô-las a ninguém...""
+
+Mas não confio no que leio ai","2022-12-15 00:42:24","702350574","2022-12-15","00:42:24"
+"532237","Entre um e outro, o Grub do Manjaro não irá aparecer se estiver ""apenas ele instalado"" na máquina, ainda mais se este for em ""ext4"", ai não aparece mesmo.
+
+Se o Manjaro for instalado em BTRFS (onde essa tela do Grub não irá atrasar em nada a inicialização), ""teria que aparecer ainda mais se der um CRá Crá"" daqueles no sistema e você precisar de um snapshot.
+
+Por isso não confio muito em certas leituras, mas como eu também disse acima, ""não sou detentor de nenhuma verdade""","2022-12-15 00:46:56","702350574","2022-12-15","00:46:56"
+"532238","Não tenho o conhecimento para discordar e nem concordar, apenas dúvidas","2022-12-15 00:50:01","1659639235","2022-12-15","00:50:01"
+"532239","Pois então, eu só carrego elas somente","2022-12-15 00:50:29","702350574","2022-12-15","00:50:29"
+"532240","Vou te dar um exemplo (eu não uso windows), mas tenho no meu PC instalados:
+
+Linux-YX ; Linux-WY e Windo$
+
+Ai não me aparece essa tela do Grub, eu iniciante que sou me vejo aperreado sem saber onde está ""beltrano, ciclano ou fulano"", vou arrancar cabelos a toa se for ler o artigo ""X""","2022-12-15 00:54:16","702350574","2022-12-15","00:54:16"
+"532242","Infelizmente tenho que ter windows no meu Pc onde por comodidade uso o AutoCAD.
+Eu usava o Ubuntu como sistema principal mas mais Pc estava travando bastante com o Ubuntu, estou trocando para o Manjaro para testar e se der tudo certo provavelmente vai ser meu sistema principal. Mas não me stresso uma hora consigo fazer funcionar","2022-12-15 01:01:45","1659639235","2022-12-15","01:01:45"
+"532243","Algum problema relatado parecido, funciona normal sem problemas, mas dá essa mensagem na inicialização. Manjaro KDE, atualizado.","2022-12-15 01:20:02","2097744103","2022-12-15","01:20:02"
+"532250","Então você precisa da tela do grub aparecendo na inicialização isso é bem simples","2022-12-15 13:27:00","702350574","2022-12-15","13:27:00"
+"532273","Fabio Gustavo [5534589301] para participar neste grupo, defina, nas configurações do Telegram, um nome de usuário e clique em ""Feito!"". 
+Ação: Silenciado 🔇","2022-12-15 15:46:42","5298578702","2022-12-15","15:46:42"
+"532274","Estranho","2022-12-15 15:49:45","25962582","2022-12-15","15:49:45"
+"532275","Nunca vi esse erro","2022-12-15 15:50:03","25962582","2022-12-15","15:50:03"
+"532280","Boa tarde, tudo bem com vocês?
+
+Pessoal, tem data de sair o Gnome 43 no Stable? ISO do Manjaro já com o Gnome 43 pra Download?","2022-12-15 18:03:44","465789308","2022-12-15","18:03:44"
+"532282","alguem com manjaro recem instalado ?","2022-12-15 18:41:52","25962582","2022-12-15","18:41:52"
+"532290","Desculpe a demora tive um dia corrido hoje no trabalho.
+Sim isso mesmo que preciso","2022-12-15 21:30:36","1659639235","2022-12-15","21:30:36"
+"532283","alguem com manjaro recem instalado ?","2022-12-15 18:43:07","25962582","2022-12-15","18:43:07"
+"532284","Estou com uns 3 dias","2022-12-15 18:43:11","955593176","2022-12-15","18:43:11"
+"532285","ta com ele agora ligado?","2022-12-15 18:43:22","25962582","2022-12-15","18:43:22"
+"532286","Nao, estou fora de casa","2022-12-15 18:43:51","955593176","2022-12-15","18:43:51"
+"532287","Eu","2022-12-15 20:36:43","5891613102","2022-12-15","20:36:43"
+"532288","T usando ele agora?","2022-12-15 20:52:29","25962582","2022-12-15","20:52:29"
+"532289","N","2022-12-15 20:53:11","5891613102","2022-12-15","20:53:11"
+"532298","aqui ó ...","2022-12-15 22:59:00","46660825","2022-12-15","22:59:00"
+"532291","Galera aqui os aplicativos da jetbrains não respeita o tema de usuário, alguém sabe como resolver?","2022-12-15 21:49:58","222216389","2022-12-15","21:49:58"
+"532292","toolbox via appimage, e os aplicativos instalados por ele funcionam meio que em shellscript, ou seja, não tem nada snap ou flatpak","2022-12-15 21:50:38","222216389","2022-12-15","21:50:38"
+"532294","Camila [5818562171] para participar neste grupo, defina, nas configurações do Telegram, um nome de usuário e clique em ""Feito!"". 
+Ação: Silenciado 🔇","2022-12-15 22:23:12","5298578702","2022-12-15","22:23:12"
+"532295","Galera, uma dúvida. Instalei o manjaro unity e parte do sistema eztá em inglês","2022-12-15 22:45:49","5891613102","2022-12-15","22:45:49"
+"532296","Há tradução completa?","2022-12-15 22:45:53","5891613102","2022-12-15","22:45:53"
+"532297","cara, eu tava com um problema semelhante aqui ... instalei aquela aplicação ""Gnome-tweaks"" e apliquei o tema em ""aplicações legadas""","2022-12-15 22:58:57","46660825","2022-12-15","22:58:57"
+"532300","na aba aparencias","2022-12-15 22:59:28","46660825","2022-12-15","22:59:28"
+"532301","👍👍👍","2022-12-15 23:05:24","5891613102","2022-12-15","23:05:24"
+"532302","Ele reseta as configurações sempre que reinicio","2022-12-15 23:32:47","222216389","2022-12-15","23:32:47"
+"532303","oloko","2022-12-15 23:33:34","46660825","2022-12-15","23:33:34"
+"532304","Não faço ideia, nem sabia que fizeram uma versão com unity, visto que é  ""novo"" deve tá incompleto","2022-12-15 23:38:07","25962582","2022-12-15","23:38:07"
+"532305","Deve ser isso então","2022-12-15 23:40:32","5891613102","2022-12-15","23:40:32"

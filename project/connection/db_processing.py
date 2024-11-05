@@ -42,28 +42,42 @@ def get_separated_messages(groups) -> None:
         # Separar as mensagens em dias e salvar em arquivos csv separados
         separate_messages_in_days(df_retrieval, group_id)
 
+def clean_messages(messages) -> pd.Series:
+    """Recebe uma Series como parâmetro para limpar as mensagens. Retorna essa Series limpa."""
+    messages = emoji.replace_emoji(messages, "") # Remover emojis
+        
+    messages = re.sub(r"https?\S+", "", messages) # Remover links (https e http)
+    messages = re.sub("@\w+", "", messages) # Remover menções de usuários
+    messages = re.sub(r' +', r' ', messages) # Remover espaços repetidos
+    messages = re.sub(r"([\r\n]+)+", r' ', messages) # Remover quebras de linha repetidas
+
+    messages = re.sub(r'(.)\1{2,}', r'\1', messages)  # Remover caracteres repetidos consecutivos
+    messages = re.sub(r'\b(\w+)( \1\b)+', r'\1', messages)  # Remover palavras repetidas consecutivas
+
+    return messages
+
 def clear_messages(file_name) -> str:
-    """Leitura do arquivo csv e limpeza das mensagens. Retorna as mensagens limpas."""
+    """Leitura do arquivo csv e limpeza das mensagens. Retorna uma string com as mensagens limpas."""
     try:
         df = pd.read_csv(file_name)
         messages = df['message']
         messages = messages.dropna()
         messages = messages.drop_duplicates()
-        messages = messages.tolist()
-        messages = ' '.join(str(message) for message in messages) # Cada elemento da lista será separado por um espaço em branco quando concatenado
+        messages = messages.apply(clean_messages)
 
-        messages = emoji.replace_emoji(messages, "") # Remover emojis
+        # row.str.strip() remove os espaços em branco do início e do final de cada string em cada linha
+        # .eq('') verifica se a string resultante é igual a uma string vazia ('')
+        # .all() retorna verdadeiro se todas as células daquela linha atenderem a condição de estarem vazias
+        df_clean_messages = pd.DataFrame(messages)
+        df_clean_messages = df_clean_messages[~df_clean_messages.apply(lambda row: row.str.strip().eq('').all(), axis = 1)]
+        print("Quantidade de mensagens depois de limpar: ", len(df_clean_messages))
+
+        # Transformar em uma string para a sumarização
+        clean_message = df_clean_messages['message']
+        clean_message = clean_message.tolist()
+        clean_message = ' '.join(str(message) for message in clean_message)
         
-        messages = re.sub(r"https?\S+", "", messages) # Remover links (https e http)
-        messages = re.sub("@\w+", "", messages) # Remover menções de usuários
-        messages = re.sub(r' +', r' ', messages) # Remover espaços repetidos
-        messages = re.sub(r"([\r\n]+)+", r' ', messages) # Remover quebras de linha repetidas
-
-        messages = re.sub(r'(.)\1{2,}', r'\1', messages)  # Remover caracteres repetidos consecutivos
-        messages = re.sub(r'\b(\w+)( \1\b)+', r'\1', messages)  # Remover palavras repetidas consecutivas
-        #messages = re.sub(r'\b(\w+\s+\w+)( \1\b)+', r'\1', messages) # Remover frases repetidas mais de uma vez
-
     except Exception as e:
         print("Error: ", e)
     
-    return messages
+    return clean_message, df_clean_messages

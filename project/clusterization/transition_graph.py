@@ -47,7 +47,8 @@ def plot_transition_graph(transition_matrix, day1, day2):
     dot.attr(label = f"Transição entre {day1.date()} e {day2.date()}")
     dot.attr(labelloc = 'top')
 
-    print(transition_matrix)
+    print(f"Matriz de Transição utilizada para construir o grafo: {transition_matrix}")
+    
     #Renderizar o grafo para um arquivo e exibir
     path = f'utils/transition_graph/transition_graph_{day1.date()}_{day2.date()}'
     dot.render(path, view = True)

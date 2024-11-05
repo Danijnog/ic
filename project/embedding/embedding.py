@@ -96,7 +96,7 @@ def get_labels(summaries):
 
     return labels
 
-def get_date_labels(groups, text_encoding, max_tokens, min_number_of_messages):
+def get_date_labels(groups, min_number_of_messages):
     date_labels = []
 
     for index, row in groups.iterrows():

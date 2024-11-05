@@ -30,6 +30,8 @@ def group_summary(group_id, text_encoding, text_model, max_tokens, min_number_of
     print(f"Grupo: {group_id}")
 
     contagem = 0
+    total_tokens = 0
+    total_clear_messages = 0
 
     for file in csv_files:
         print(file)
@@ -38,11 +40,14 @@ def group_summary(group_id, text_encoding, text_model, max_tokens, min_number_of
         num_messages = len(df)
 
         if num_messages > min_number_of_messages:
-            messages = clear_messages(file_path)
+            messages, df_clear_messages = clear_messages(file_path)
+            num_clear_messages = len(df_clear_messages)
             truncated_messages = truncate_text_tokens_decode(messages, text_encoding, max_tokens)
             prompt_tokens = num_tokens_from_string(truncated_messages, text_encoding)
 
             print("Número de tokens para o prompt: ", prompt_tokens)
+            total_tokens = total_tokens + prompt_tokens
+            total_clear_messages = total_clear_messages + num_clear_messages
             contagem += 1
 
             try:
@@ -58,6 +63,8 @@ def group_summary(group_id, text_encoding, text_model, max_tokens, min_number_of
         else:
             print(f"Arquivo {file_path} não entrou para a sumarização. Quantidade de mensagens do arquivo é menor que {min_number_of_messages}.")
 
+    print(f"Grupo: {group_id}, Quantidade de tokens totais: ", total_tokens)
+    print(f"Grupo: {group_id}, Quantidade de mensagens totais (depois de terem sido limpas): ", total_clear_messages)
     return summaries
 
 ### Sumarização para todos os grupos
@@ -65,7 +72,7 @@ def get_summaries_for_groups(groups, text_encoding, text_model, max_tokens, min_
     summaries = []
     
     for index, row in groups.iterrows():
-        group_id = row['channel_id']
+        group_id = int(row['channel_id'])
         group_summaries = group_summary(group_id, text_encoding, text_model, max_tokens, min_number_of_messages, APIclient)
 
         # Guardar o id do grupo e o sumário do grupo em uma lista de dicionários

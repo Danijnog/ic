@@ -15,9 +15,9 @@ def get_df_for_trajectory(high_dim_embeddings, labels, date_labels):
 
 def get_group_trajectory(group_id, df):
     """Calcula a trajetória dos pontos de um grupo ao longo dos dias do período analisado."""
+    trajectory = []
     group_data = df.copy()
     group_data = group_data[group_data['ID'] == group_id].sort_values(by = 'date') # Filtrar o df para conter apenas os dados do grupo escolhido
-    trajectory = []
 
     for i in range(1, len(group_data)):
         distance = np.linalg.norm(group_data.iloc[i, :10] - group_data.iloc[i - 1, :10]) # Calcular a distância euclidianda entre os embeddings de dois dias consecutivos

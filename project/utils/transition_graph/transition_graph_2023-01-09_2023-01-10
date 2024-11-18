@@ -4,15 +4,15 @@ digraph {
 	2 [label="Cluster 2" fontsize=12]
 	3 [label="Cluster 3" fontsize=12]
 	0 -> 0 [label="25.00%" fontsize=10]
-	0 -> 2 [label="25.00%" fontsize=10]
-	0 -> 3 [label="50.00%" fontsize=10]
+	0 -> 2 [label="50.00%" fontsize=10]
+	0 -> 3 [label="25.00%" fontsize=10]
 	1 -> 1 [label="25.00%" fontsize=10]
-	1 -> 3 [label="75.00%" fontsize=10]
-	2 -> 2 [label="66.67%" fontsize=10]
-	2 -> 3 [label="33.33%" fontsize=10]
-	3 -> 0 [label="3.45%" fontsize=10]
-	3 -> 1 [label="3.45%" fontsize=10]
-	3 -> 3 [label="93.10%" fontsize=10]
+	1 -> 2 [label="75.00%" fontsize=10]
+	2 -> 0 [label="3.45%" fontsize=10]
+	2 -> 1 [label="3.45%" fontsize=10]
+	2 -> 2 [label="93.10%" fontsize=10]
+	3 -> 2 [label="33.33%" fontsize=10]
+	3 -> 3 [label="66.67%" fontsize=10]
 	label="Transição entre 2023-01-09 e 2023-01-10"
 	labelloc=top
 }

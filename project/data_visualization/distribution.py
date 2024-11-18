@@ -1,6 +1,5 @@
 import pandas as pd
 import plotly.express as px
-import numpy as np
 import os
 
 def get_dfs_for_distribution_function(groups, min_number_of_messages):
@@ -12,7 +11,7 @@ def get_dfs_for_distribution_function(groups, min_number_of_messages):
     data_messages_active_users = []
     data_days = []
 
-    for index, row in groups.iterrows():
+    for _, row in groups.iterrows():
         group_id = row['channel_id']
         group_dir = f'data/msgPerGroup/ID_{group_id}'
         csv_files = os.listdir(group_dir)

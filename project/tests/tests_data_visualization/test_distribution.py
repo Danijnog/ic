@@ -1,7 +1,6 @@
 import unittest
 from unittest.mock import patch
 import pandas as pd
-import numpy as np
 
 from data_visualization import distribution
 

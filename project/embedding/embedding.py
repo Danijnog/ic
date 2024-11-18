@@ -123,8 +123,3 @@ def get_date_labels(groups, min_number_of_messages):
 
     return date_list
 
-def remove_groups(df, group_list):
-    new_group_df = df[~df['ID'].isin(group_list)]
-
-    return new_group_df
-

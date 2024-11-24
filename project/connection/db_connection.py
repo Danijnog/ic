@@ -42,7 +42,7 @@ def retrieved_db(group_id) -> pd.DataFrame:
 
         df_messages = pd.read_sql(query, conn)
 
-        # Remover linhas vazias do df_messages
+        # Remove empty rows
         df_messages["message"] = df_messages["message"].replace("", None)
         df_messages = df_messages.dropna(subset=["message"])
         number_of_messages = len(df_messages)

@@ -4,3 +4,4 @@ from .trajectory_plot import *
 from .distribution import *
 from .wordcloud import *
 from .kmeans_plot import *
+from .heatmap import *

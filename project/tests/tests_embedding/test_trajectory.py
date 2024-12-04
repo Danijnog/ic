@@ -1,7 +1,7 @@
 import unittest
 import pandas as pd
 
-from embedding import embedding_trajectory
+from src.embedding import embedding_trajectory
 
 class TestGroupTrajectories(unittest.TestCase):
 

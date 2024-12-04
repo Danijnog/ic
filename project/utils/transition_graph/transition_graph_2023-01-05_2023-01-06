@@ -3,14 +3,14 @@ digraph {
 	1 [label="Cluster 1" fontsize=12]
 	2 [label="Cluster 2" fontsize=12]
 	3 [label="Cluster 3" fontsize=12]
-	0 -> 0 [label="87.50%" fontsize=10]
-	0 -> 2 [label="12.50%" fontsize=10]
-	1 -> 1 [label="66.67%" fontsize=10]
-	1 -> 2 [label="33.33%" fontsize=10]
+	0 -> 0 [label="66.67%" fontsize=10]
+	0 -> 2 [label="33.33%" fontsize=10]
+	1 -> 1 [label="87.50%" fontsize=10]
+	1 -> 2 [label="12.50%" fontsize=10]
 	2 -> 0 [label="6.52%" fontsize=10]
 	2 -> 1 [label="6.52%" fontsize=10]
 	2 -> 2 [label="86.96%" fontsize=10]
 	3 -> 3 [label="100.00%" fontsize=10]
-	label="Transição entre 2023-01-05 e 2023-01-06"
+	label="Transition between 2023-01-05 and 2023-01-06"
 	labelloc=top
 }

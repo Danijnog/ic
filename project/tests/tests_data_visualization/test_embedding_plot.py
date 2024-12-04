@@ -2,7 +2,7 @@ import unittest
 from unittest.mock import patch
 import pandas as pd
 
-import data_visualization
+from src.data_visualization import embedding_plot
 
 MIN_NUMBER_OF_MESSAGES = 5
 
@@ -34,7 +34,7 @@ class TestRemovePointsFromEmbedding(unittest.TestCase):
         mock_list = ["messages_2022-09-25", "messages_2022-09-26", "messages_2022-09-27"]
         mock_listdir.return_value = mock_list
 
-        df = data_visualization.get_df_for_remove_days_groups_that_has_less_25_messages(groups, MIN_NUMBER_OF_MESSAGES)
+        df = embedding_plot.get_df_for_remove_days_groups_that_has_less_25_messages(groups, MIN_NUMBER_OF_MESSAGES)
         self.assertEqual(len(df), 3) # Os 3 dias do grupo definido, após a limpeza, irão ser retornados no DataFrame, fazendo o DataFrame ficar com tamanho 3
         mock_read_csv.assert_called()
         mock_listdir.assert_called_once()
@@ -73,7 +73,7 @@ class TestRemovePointsFromEmbedding(unittest.TestCase):
             "cluster": [4, 3]
         })
 
-        filtered_df = data_visualization.remove_days_groups_that_has_less_25_messages(df, groups, MIN_NUMBER_OF_MESSAGES)
+        filtered_df = embedding_plot.remove_days_groups_that_has_less_25_messages(df, groups, MIN_NUMBER_OF_MESSAGES)
         self.assertEqual(len(filtered_df), 1) # A linha com o grupo de ID -1000000000 é removida, então ficamos com tamanho 1 no DataFrame
         mock_read_csv.assert_called()
         mock_listdir.assert_called()
@@ -94,7 +94,7 @@ class TestRemovePointsFromEmbedding(unittest.TestCase):
 
         group_list = ["-123", "-1234", "-5"]
         day_list = ["2023-01-01", "2022-12-20", "2022-12-20"]
-        df_with_day_group_removed = data_visualization.remove_days_groups(df, group_list, day_list)
+        df_with_day_group_removed = embedding_plot.remove_days_groups(df, group_list, day_list)
         self.assertEqual(len(df_with_day_group_removed), 1) # Irá remover o primeiro e o ultimo dia-grupo de df, ficando com o tamanho 1
     
     def test_remove_cluster(self):
@@ -112,7 +112,7 @@ class TestRemovePointsFromEmbedding(unittest.TestCase):
         })
 
         cluster_list = [5, 3]
-        df_with_clusters_removed = data_visualization.remove_cluster(df, cluster_list)
+        df_with_clusters_removed = embedding_plot.remove_cluster(df, cluster_list)
         self.assertEqual(len(df_with_clusters_removed), len(df), "Nenhum cluster deveria ser removido.")
 
     def test_remove_groups(self):
@@ -130,5 +130,5 @@ class TestRemovePointsFromEmbedding(unittest.TestCase):
         })
 
         group_list = ["-5"]
-        df_with_clusters_removed = data_visualization.remove_groups(df, group_list)
+        df_with_clusters_removed = embedding_plot.remove_groups(df, group_list)
         self.assertEqual(len(df_with_clusters_removed), 2)

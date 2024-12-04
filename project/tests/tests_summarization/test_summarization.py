@@ -2,7 +2,7 @@ import unittest
 from unittest.mock import Mock, patch
 import pandas as pd
 
-from summarization import summarization
+from src.summarization import summarization
 
 class TestSummariesFunctions(unittest.TestCase):
 

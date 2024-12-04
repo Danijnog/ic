@@ -3,14 +3,14 @@ from unittest.mock import patch
 
 import pandas as pd
 
-from data_visualization import distribution
+from src.data_visualization import distribution
 
 MIN_NUMBER_OF_MESSAGES = 100
 
 
 class TestDistributionFunctions(unittest.TestCase):
-    @patch("data_visualization.distribution.pd.read_csv")  # First decorator is applied last
-    @patch("data_visualization.distribution.os.listdir")  # The last decorator is applied first
+    @patch("pandas.read_csv")  # First decorator is applied last
+    @patch("os.listdir")  # The last decorator is applied first
     def test_get_dfs_for_distribution(self, mock_listdir, mock_read_csv):
         mock_listdir.return_value = ["messages_2023-01-08.csv"]
 
